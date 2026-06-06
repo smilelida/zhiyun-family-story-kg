@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="description" content="执允·家族故事知识图谱" />
+    <title>执允·家族故事知识图谱</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <p class="eyebrow">Family Story Knowledge Graph</p>
+          <h1>执允·家族故事知识图谱</h1>
+        </div>
+
+        <label class="search">
+          <span>搜索</span>
+          <input id="searchInput" type="search" placeholder="家族、人物、概念、事件" autocomplete="off" />
+        </label>
+
+        <div id="topicFilters" class="topic-filters" aria-label="治理专题筛选"></div>
+        <div id="typeFilters" class="type-filters" aria-label="节点类型筛选"></div>
+        <nav id="quickNav" class="quick-nav" aria-label="快速入口"></nav>
+      </aside>
+
+      <main class="workspace">
+        <nav class="top-nav" aria-label="主导航">
+          <button data-reset="true" aria-current="page">故事地图</button>
+          <button data-scroll-target="#graphSection">知识图谱</button>
+          <button data-topic="rules">主题索引</button>
+          <button data-type="person">人物图谱</button>
+          <button data-type="story">故事列表</button>
+          <button data-type="tool">方法论</button>
+        </nav>
+
+        <section class="topbar">
+          <div>
+            <p class="eyebrow">Generated <span id="generatedAt"></span></p>
+            <h2 id="viewTitle">故事地图</h2>
+            <p id="viewSubtitle" class="view-subtitle">从家族治理问题、案例故事和关系图谱进入 32 篇家族故事。</p>
+          </div>
+          <div id="stats" class="stats"></div>
+        </section>
+
+        <section id="content" class="content-grid"></section>
+
+        <section id="graphSection" class="graph-section">
+          <div class="section-heading">
+            <h3>关系图谱</h3>
+            <div id="graphMode" class="mode-label"></div>
+          </div>
+          <svg id="graph" role="img" aria-label="知识图谱"></svg>
+        </section>
+      </main>
+    </div>
+
+    <script src="./data/knowledge.js"></script>
+    <script src="./data/articles.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
