@@ -1330,6 +1330,15 @@ function render() {
 document.addEventListener("click", (event) => {
   const scrollButton = event.target.closest("[data-scroll-target]");
   if (scrollButton) {
+    if (scrollButton.dataset.graphOverview === "true") {
+      state.query = "";
+      state.type = "all";
+      state.topic = "all";
+      state.selectedId = null;
+      state.articleId = null;
+      els.search.value = "";
+      render();
+    }
     const target = document.querySelector(scrollButton.dataset.scrollTarget);
     target?.scrollIntoView?.({ block: "start" });
     return;
