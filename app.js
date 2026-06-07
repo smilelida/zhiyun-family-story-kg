@@ -13,6 +13,7 @@ const typeMeta = {
 };
 
 const state = {
+  view: "home",
   query: "",
   type: "all",
   topic: "all",
@@ -33,6 +34,7 @@ for (const edge of data.edges) {
 
 const els = {
   workspace: document.querySelector(".workspace"),
+  topNav: document.querySelector("#topNav"),
   generatedAt: document.querySelector("#generatedAt"),
   stats: document.querySelector("#stats"),
   topicFilters: document.querySelector("#topicFilters"),
@@ -295,6 +297,42 @@ const topicGuides = {
   },
 };
 
+const navViews = [
+  { id: "home", label: "故事地图" },
+  { id: "topics", label: "主题索引" },
+  { id: "people", label: "人物图谱" },
+  { id: "stories", label: "故事列表" },
+  { id: "methods", label: "方法论" },
+];
+
+const viewMeta = {
+  home: {
+    title: "故事地图",
+    subtitle: `从治理专题、家族案例和关系图谱进入 ${storyTotal} 篇家族故事。`,
+    type: "all",
+  },
+  topics: {
+    title: "主题索引",
+    subtitle: `围绕 ${topics.length} 个治理问题浏览专题，每个专题都能进入案例、概念和方法论节点。`,
+    type: "all",
+  },
+  people: {
+    title: "人物图谱",
+    subtitle: "按人物节点与人物直连关系浏览家族传承中的关键角色。",
+    type: "person",
+  },
+  stories: {
+    title: "故事列表",
+    subtitle: `按系列整理 ${storyTotal} 篇家族故事，并保留完整正文入口。`,
+    type: "story",
+  },
+  methods: {
+    title: "方法论",
+    subtitle: "集中查看家族治理工具、制度设计和可复用做法。",
+    type: "tool",
+  },
+};
+
 function escapeHtml(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -321,8 +359,33 @@ function selectedTopic() {
   return state.topic === "all" ? null : topicById.get(state.topic);
 }
 
+function activeNavView() {
+  return state.view === "topic" ? "topics" : state.view;
+}
+
 function focusWorkspace() {
   els.workspace?.scrollIntoView?.({ block: "start" });
+}
+
+function setView(view) {
+  const meta = viewMeta[view] || viewMeta.home;
+  state.view = viewMeta[view] ? view : "home";
+  state.query = "";
+  state.type = meta.type;
+  state.topic = "all";
+  state.selectedId = null;
+  state.articleId = null;
+  els.search.value = "";
+}
+
+function setTopic(topicId) {
+  state.view = topicId === "all" ? "home" : "topic";
+  state.query = "";
+  state.type = "all";
+  state.topic = topicId;
+  state.selectedId = null;
+  state.articleId = null;
+  els.search.value = "";
 }
 
 function topicSeeds(topic) {
@@ -397,6 +460,13 @@ function renderStats() {
 
   els.stats.innerHTML = stats
     .map(([label, count]) => `<div class="stat"><strong>${count.toLocaleString("zh-CN")}</strong><span>${label}</span></div>`)
+    .join("");
+}
+
+function renderTopNav() {
+  const current = activeNavView();
+  els.topNav.innerHTML = navViews
+    .map((view) => `<button data-view="${view.id}"${view.id === current ? ' aria-current="page"' : ""}>${escapeHtml(view.label)}</button>`)
     .join("");
 }
 
@@ -593,6 +663,86 @@ function storyComparison(topic) {
       </div>
     </div>
   `;
+}
+
+function compareStories(a, b) {
+  return (a.frontmatter.series_no || 999) - (b.frontmatter.series_no || 999) || a.title.localeCompare(b.title, "zh-CN");
+}
+
+function renderNodeDirectory({ heading, marker, nodes, description, sort = byConnectionThenTitle }) {
+  const sorted = [...nodes].sort(sort);
+  return `
+    <section class="panel panel-wide directory-section">
+      <div class="panel-heading">
+        <h3>${escapeHtml(heading)}</h3>
+        <span>${sorted.length} 个节点</span>
+      </div>
+      <p class="directory-note">${escapeHtml(description)}</p>
+      ${sorted.length ? `<div class="card-grid">${sorted.map(card).join("")}</div>` : emptyState("没有匹配节点")}
+    </section>
+    <section class="panel result-note">
+      <h3>关系提示</h3>
+      <p>${escapeHtml(marker)}会同步驱动下方关系图谱；点击任一卡片可查看它的一跳关系和原文入口。</p>
+    </section>
+  `;
+}
+
+function renderTopicsIndex() {
+  return `
+    <section class="panel panel-wide topic-section">
+      <div class="panel-heading">
+        <h3>全部治理专题</h3>
+        <span>${topics.length} 个专题</span>
+      </div>
+      <p class="directory-note">这里是专题选择入口。选择一个专题后，页面会进入该专题详情，并同步更新左侧匹配节点和下方关系图谱。</p>
+      <div class="topic-card-grid">${topics.map(topicCard).join("")}</div>
+    </section>
+    <section class="panel panel-wide pathway-section">
+      <div class="panel-heading">
+        <h3>推荐阅读路径</h3>
+        <span>三条主线</span>
+      </div>
+      <div class="pathway-grid">
+        ${readingPath("传承设计", ["succession", "trust", "rules"])}
+        ${readingPath("所有权与经营", ["ownership", "professionalization", "craft"])}
+        ${readingPath("风险与失败", ["credit-risk", "failure", "legitimacy"])}
+      </div>
+    </section>
+  `;
+}
+
+function renderViewDirectory(view) {
+  if (view === "topics") return renderTopicsIndex();
+
+  if (view === "people") {
+    return renderNodeDirectory({
+      heading: "人物索引",
+      marker: "人物图谱",
+      nodes: visibleNodes(),
+      description: "这里集中列出人物节点。下方关系图谱会优先呈现人物之间的亲属、接班、冲突和授权关系。",
+    });
+  }
+
+  if (view === "stories") {
+    return renderNodeDirectory({
+      heading: "故事索引",
+      marker: "故事列表",
+      nodes: visibleNodes(),
+      description: "这里按系列顺序列出全部家族故事。进入故事节点后，可以继续打开完整正文。",
+      sort: compareStories,
+    });
+  }
+
+  if (view === "methods") {
+    return renderNodeDirectory({
+      heading: "方法论索引",
+      marker: "方法论",
+      nodes: visibleNodes(),
+      description: "这里集中呈现可以迁移复用的治理工具、制度安排和操作方法。",
+    });
+  }
+
+  return renderOverview();
 }
 
 function renderQuickNav() {
@@ -1300,6 +1450,7 @@ function renderContent() {
   const article = state.articleId ? articleByStoryId.get(state.articleId) : null;
   const selected = state.selectedId ? nodeById.get(state.selectedId) : null;
   const topic = selectedTopic();
+  const meta = viewMeta[state.view] || viewMeta.home;
 
   if (article) {
     els.viewTitle.textContent = article.title;
@@ -1308,18 +1459,24 @@ function renderContent() {
     return;
   }
 
-  els.viewTitle.textContent = selected ? selected.title : topic ? topic.title : "故事地图";
+  if (state.view === "topic" && topic) {
+    els.viewTitle.textContent = topic.title;
+    els.viewSubtitle.textContent = topic.question;
+    els.content.innerHTML = renderOverview();
+    return;
+  }
+
+  els.viewTitle.textContent = selected ? selected.title : meta.title;
   els.viewSubtitle.textContent = selected
     ? `${typeMeta[selected.type]?.label || selected.type} · ${degree.get(selected.id) || 0} 条连接`
-    : topic
-      ? topic.question
-      : `从治理专题、家族案例和关系图谱进入 ${storyTotal} 篇家族故事。`;
-  els.content.innerHTML = selected ? renderDetail(selected) : renderOverview();
+    : meta.subtitle;
+  els.content.innerHTML = selected ? renderDetail(selected) : renderViewDirectory(state.view);
 }
 
 function render() {
   els.generatedAt.textContent = data.generated_at;
   renderStats();
+  renderTopNav();
   renderTopicFilters();
   renderTypeFilters();
   renderQuickNav();
@@ -1328,15 +1485,18 @@ function render() {
 }
 
 document.addEventListener("click", (event) => {
+  const viewButton = event.target.closest("[data-view]");
+  if (viewButton) {
+    setView(viewButton.dataset.view);
+    render();
+    focusWorkspace();
+    return;
+  }
+
   const scrollButton = event.target.closest("[data-scroll-target]");
   if (scrollButton) {
     if (scrollButton.dataset.graphOverview === "true") {
-      state.query = "";
-      state.type = "all";
-      state.topic = "all";
-      state.selectedId = null;
-      state.articleId = null;
-      els.search.value = "";
+      setView("home");
       render();
     }
     const target = document.querySelector(scrollButton.dataset.scrollTarget);
@@ -1346,12 +1506,7 @@ document.addEventListener("click", (event) => {
 
   const reset = event.target.closest("[data-reset]");
   if (reset) {
-    state.query = "";
-    state.type = "all";
-    state.topic = "all";
-    state.selectedId = null;
-    state.articleId = null;
-    els.search.value = "";
+    setView("home");
     render();
     focusWorkspace();
     return;
@@ -1366,10 +1521,7 @@ document.addEventListener("click", (event) => {
 
   const topicButton = event.target.closest("[data-topic]");
   if (topicButton) {
-    state.topic = topicButton.dataset.topic;
-    state.type = "all";
-    state.selectedId = null;
-    state.articleId = null;
+    setTopic(topicButton.dataset.topic);
     render();
     focusWorkspace();
     return;

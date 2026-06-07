@@ -608,6 +608,14 @@ button {
   gap: 12px;
 }
 
+.directory-note {
+  max-width: 820px;
+  margin: 0 0 18px;
+  color: var(--ink-soft);
+  font-size: 14px;
+  line-height: 1.75;
+}
+
 .topic-card,
 .pathway {
   border: 1px solid var(--line);
