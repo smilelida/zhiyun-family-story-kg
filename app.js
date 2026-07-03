@@ -1482,6 +1482,7 @@ function render() {
   renderQuickNav();
   renderGraph();
   renderContent();
+  syncHash();
 }
 
 document.addEventListener("click", (event) => {
@@ -1564,5 +1565,71 @@ els.search.addEventListener("input", (event) => {
   render();
   focusWorkspace();
 });
+
+// ---------- hash routing ----------
+// Deep states become shareable URLs:
+//   #/article/story:tata   正文阅读
+//   #/node/person:jrd-tata 节点详情
+//   #/topic/succession     治理专题
+//   #/topics …/people /stories /methods  视图
+const routingEnabled = typeof location !== "undefined" && typeof window.addEventListener === "function";
+let suppressHashEvent = false;
+
+function stateToHash() {
+  if (state.articleId) return `#/article/${state.articleId}`;
+  if (state.selectedId) return `#/node/${state.selectedId}`;
+  if (state.view === "topic" && state.topic !== "all") return `#/topic/${state.topic}`;
+  if (state.view !== "home") return `#/${state.view}`;
+  return "#/";
+}
+
+function applyHash() {
+  if (!routingEnabled) return;
+  const raw = decodeURIComponent(location.hash || "");
+  const parts = raw.replace(/^#\/?/, "").split("/").filter(Boolean);
+  setView("home");
+  if (!parts.length) return;
+  const [head, ...rest] = parts;
+  const target = rest.join("/");
+  if (head === "article" && articleByStoryId.has(target)) {
+    state.articleId = target;
+    state.selectedId = target;
+    state.type = "all";
+    return;
+  }
+  if (head === "node" && nodeById.has(target)) {
+    state.selectedId = target;
+    state.articleId = null;
+    state.type = "all";
+    return;
+  }
+  if (head === "topic" && topicById.has(target)) {
+    setTopic(target);
+    return;
+  }
+  if (viewMeta[head]) setView(head);
+}
+
+function syncHash() {
+  if (!routingEnabled) return;
+  const target = stateToHash();
+  const current = location.hash || "#/";
+  if (current === target) return;
+  suppressHashEvent = true;
+  location.hash = target;
+}
+
+if (routingEnabled) {
+  window.addEventListener("hashchange", () => {
+    if (suppressHashEvent) {
+      suppressHashEvent = false;
+      return;
+    }
+    applyHash();
+    render();
+    focusWorkspace();
+  });
+  applyHash();
+}
 
 render();

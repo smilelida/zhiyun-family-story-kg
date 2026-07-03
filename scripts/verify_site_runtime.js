@@ -46,7 +46,27 @@ const document = {
     listeners[`document:${type}`] = fn;
   },
 };
-const window = {};
+const windowListeners = {};
+const window = {
+  addEventListener(type, fn) {
+    windowListeners[type] = fn;
+  },
+};
+// app.js reads the bare `location` global for hash routing.
+// Mirror browser semantics: assigning location.hash fires hashchange.
+let currentHash = "";
+const fakeLocation = {
+  get hash() {
+    return currentHash;
+  },
+  set hash(value) {
+    const next = String(value).startsWith("#") ? String(value) : `#${value}`;
+    if (next === currentHash) return;
+    currentHash = next;
+    windowListeners.hashchange?.();
+  },
+};
+globalThis.location = fakeLocation;
 
 Function("window", knowledge)(window);
 Function("window", articles)(window);
@@ -121,6 +141,21 @@ assert(viewTitle() === "方法论", "methods page should have its own page title
 assert(!viewSubtitle().includes("家训、宪章与制度化信任"), "methods page should not inherit a previous topic subtitle");
 assert(content().includes("方法论索引"), "methods page should render a method-specific directory");
 assert(!scrolls.some((item) => item.name === "#graphSection"), "top navigation should not rely on graph-section scrolling");
+
+// hash routing: user actions write the hash, hash changes drive the state
+assert(fakeLocation.hash === "#/methods", `view change should update the hash (got ${fakeLocation.hash})`);
+
+clickDataset("[data-id]", { id: "story:tata" });
+assert(fakeLocation.hash === "#/node/story:tata", `node selection should update the hash (got ${fakeLocation.hash})`);
+
+fakeLocation.hash = "#/topic/succession";
+assert(viewTitle().includes("接班与继承人培养"), "hashchange should open the topic detail");
+
+fakeLocation.hash = "#/article/story:dassler";
+assert(viewTitle().includes("低头看鞋"), "hashchange should open the article reader");
+
+fakeLocation.hash = "#/node/no-such-node";
+assert(viewTitle() === "故事地图", "invalid hash should fall back to home");
 
 console.log(JSON.stringify({
   nodes: window.KNOWLEDGE_DATA.nodes.length,
