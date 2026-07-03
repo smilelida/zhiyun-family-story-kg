@@ -1705,3 +1705,325 @@ button {
     white-space: nowrap;
   }
 }
+
+/* ================================================================
+   presentation layer: typography polish, motion, micro-interaction
+   ================================================================ */
+
+:root {
+  --ease-out: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --serif: "Songti SC", "Noto Serif SC", ui-serif, Georgia, "Noto Serif CJK SC", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--cream);
+  color: var(--green-dark);
+}
+
+:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.eyebrow {
+  letter-spacing: 0.16em;
+}
+
+.topbar h2 {
+  text-wrap: balance;
+}
+
+.stat strong {
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- entrance rhythm ---------- */
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: none; }
+}
+
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.content-grid > * {
+  animation: rise 0.55s var(--ease-out) backwards;
+}
+
+.content-grid > *:nth-child(1) { animation-delay: 0.03s; }
+.content-grid > *:nth-child(2) { animation-delay: 0.09s; }
+.content-grid > *:nth-child(3) { animation-delay: 0.15s; }
+.content-grid > *:nth-child(4) { animation-delay: 0.21s; }
+.content-grid > *:nth-child(5) { animation-delay: 0.27s; }
+.content-grid > *:nth-child(n + 6) { animation-delay: 0.32s; }
+
+.card-grid > * {
+  animation: rise 0.5s var(--ease-out) backwards;
+  animation-delay: 0.28s;
+}
+
+.card-grid > *:nth-child(1) { animation-delay: 0.06s; }
+.card-grid > *:nth-child(2) { animation-delay: 0.1s; }
+.card-grid > *:nth-child(3) { animation-delay: 0.14s; }
+.card-grid > *:nth-child(4) { animation-delay: 0.18s; }
+.card-grid > *:nth-child(5) { animation-delay: 0.22s; }
+.card-grid > *:nth-child(6) { animation-delay: 0.26s; }
+
+/* typing in the search box re-renders on every keystroke;
+   suppress the entrance dance there */
+#content.no-anim > *,
+#content.no-anim .card-grid > * {
+  animation: none;
+}
+
+/* ---------- hover depth ---------- */
+
+.panel,
+.card {
+  transition: transform 0.25s var(--ease-out), box-shadow 0.25s var(--ease-out), border-color 0.25s var(--ease-out);
+}
+
+.card {
+  position: relative;
+  overflow: hidden;
+}
+
+.card::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--gold), rgba(166, 124, 59, 0) 78%);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.35s var(--ease-out);
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  border-color: var(--line-strong);
+  box-shadow: var(--shadow);
+}
+
+.card:hover::after {
+  transform: scaleX(1);
+}
+
+.nav-item {
+  transition: transform 0.2s var(--ease-out), background-color 0.2s;
+}
+
+.nav-item:hover {
+  transform: translateX(3px);
+}
+
+.topic-pill,
+.type-pill,
+.reset-button,
+.inline-link {
+  transition: color 0.18s, background-color 0.18s, border-color 0.18s, transform 0.18s;
+}
+
+.inline-link:hover {
+  transform: translateY(-1px);
+}
+
+/* ---------- top nav underline ---------- */
+
+.top-nav button {
+  position: relative;
+  padding: 14px 2px;
+}
+
+.top-nav button::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 2px;
+  background: var(--gold);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.28s var(--ease-out);
+}
+
+.top-nav button:hover::after,
+.top-nav button[aria-current="page"]::after {
+  transform: scaleX(1);
+}
+
+/* ---------- home hero: slow amber drift ---------- */
+
+.home-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.home-hero::before {
+  content: "";
+  position: absolute;
+  inset: -45%;
+  background:
+    radial-gradient(640px 320px at 82% 8%, rgba(166, 124, 59, 0.14), transparent 62%),
+    radial-gradient(420px 260px at 8% 96%, rgba(11, 107, 91, 0.1), transparent 60%);
+  animation: drift 16s ease-in-out infinite alternate;
+  pointer-events: none;
+}
+
+.home-hero > * {
+  position: relative;
+}
+
+@keyframes drift {
+  from { transform: translate3d(-3%, -2%, 0) rotate(-0.4deg); }
+  to { transform: translate3d(3%, 2.5%, 0) rotate(0.4deg); }
+}
+
+/* ---------- graph: edges draw themselves ---------- */
+
+.graph-section .graph-edge {
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900;
+  animation: draw 1.2s var(--ease-out) forwards;
+}
+
+.graph-section .graph-node {
+  opacity: 0;
+  animation: fade 0.5s ease 0.4s forwards;
+}
+
+@keyframes draw {
+  to { stroke-dashoffset: 0; }
+}
+
+/* ---------- matrix micro-interaction ---------- */
+
+.matrix-cell {
+  transition: transform 0.16s var(--ease-out), box-shadow 0.16s var(--ease-out);
+}
+
+.matrix-cell:not(.matrix-cell-0):hover {
+  position: relative;
+  z-index: 2;
+  transform: scale(1.22);
+  box-shadow: 0 5px 14px rgba(6, 72, 63, 0.32);
+}
+
+.matrix-table tbody tr {
+  animation: fade 0.5s ease backwards;
+}
+
+.matrix-table tbody tr:nth-child(1) { animation-delay: 0.05s; }
+.matrix-table tbody tr:nth-child(2) { animation-delay: 0.09s; }
+.matrix-table tbody tr:nth-child(3) { animation-delay: 0.13s; }
+.matrix-table tbody tr:nth-child(4) { animation-delay: 0.17s; }
+.matrix-table tbody tr:nth-child(5) { animation-delay: 0.21s; }
+.matrix-table tbody tr:nth-child(6) { animation-delay: 0.25s; }
+.matrix-table tbody tr:nth-child(n + 7) { animation-delay: 0.3s; }
+
+.matrix-evidence {
+  animation: rise 0.4s var(--ease-out);
+}
+
+/* ---------- article reader: publication typography ---------- */
+
+.article-paragraph span {
+  font-family: var(--serif);
+  font-size: 17.5px;
+  line-height: 2.05;
+  letter-spacing: 0.012em;
+  color: var(--ink);
+}
+
+.article-heading span {
+  letter-spacing: 0.02em;
+}
+
+/* ---------- reading progress ---------- */
+
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background: linear-gradient(90deg, var(--gold), var(--green));
+  transform: scaleX(0);
+  transform-origin: left;
+  z-index: 60;
+  pointer-events: none;
+  transition: transform 0.1s linear;
+}
+
+/* ---------- lucky button ---------- */
+
+.lucky-button {
+  width: 100%;
+  margin-top: 14px;
+  padding: 10px 12px;
+  border: 1px dashed rgba(247, 236, 213, 0.4);
+  border-radius: 6px;
+  background: rgba(247, 236, 213, 0.06);
+  color: rgba(247, 236, 213, 0.88);
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: background-color 0.2s, border-color 0.2s, transform 0.2s;
+}
+
+.lucky-button:hover {
+  background: rgba(247, 236, 213, 0.14);
+  border-color: rgba(247, 236, 213, 0.75);
+  transform: translateY(-1px);
+}
+
+.lucky-button:active {
+  transform: translateY(0) scale(0.99);
+}
+
+/* ---------- quiet scrollbars for inner panes ---------- */
+
+.matrix-scroll::-webkit-scrollbar,
+.sidebar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.matrix-scroll::-webkit-scrollbar-thumb {
+  background: var(--line-strong);
+  border-radius: 8px;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background: rgba(247, 236, 213, 0.25);
+  border-radius: 8px;
+}
+
+/* ---------- calm mode ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001s !important;
+    animation-delay: 0s !important;
+    transition-duration: 0.001s !important;
+  }
+}

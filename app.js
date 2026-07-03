@@ -1776,8 +1776,10 @@ function render() {
   renderTypeFilters();
   renderQuickNav();
   renderGraph();
+  applyEntranceMode();
   renderContent();
   syncHash();
+  updateReadingProgress();
 }
 
 document.addEventListener("click", (event) => {
@@ -1870,9 +1872,81 @@ els.search.addEventListener("input", (event) => {
   state.query = event.target.value.trim();
   state.selectedId = null;
   state.articleId = null;
+  suppressEntrance = true;
   render();
-  focusWorkspace();
+  suppressEntrance = false;
 });
+
+// ---------- presentation enhancements (no-op outside a real browser) ----------
+
+const inBrowser = typeof requestAnimationFrame === "function" && typeof window.requestAnimationFrame === "function";
+let suppressEntrance = false;
+
+function applyEntranceMode() {
+  els.content.classList?.toggle?.("no-anim", suppressEntrance);
+}
+
+function animateStats() {
+  if (!inBrowser || !els.stats.querySelectorAll) return;
+  const targets = [...els.stats.querySelectorAll(".stat strong")];
+  const duration = 1100;
+  const start = performance.now();
+  const finals = targets.map((el) => Number(el.textContent.replace(/[^0-9]/g, "")) || 0);
+  const tick = (now) => {
+    const t = Math.min(1, (now - start) / duration);
+    const eased = 1 - Math.pow(1 - t, 3);
+    targets.forEach((el, i) => {
+      el.textContent = Math.round(finals[i] * eased).toLocaleString("zh-CN");
+    });
+    if (t < 1) requestAnimationFrame(tick);
+  };
+  requestAnimationFrame(tick);
+}
+
+let progressEl = null;
+
+function updateReadingProgress() {
+  if (!progressEl) return;
+  if (!state.articleId) {
+    progressEl.style.transform = "scaleX(0)";
+    return;
+  }
+  const doc = document.documentElement;
+  const max = doc.scrollHeight - window.innerHeight;
+  const ratio = max > 0 ? Math.min(1, window.scrollY / max) : 0;
+  progressEl.style.transform = `scaleX(${ratio})`;
+}
+
+function setupEnhancements() {
+  if (!inBrowser) return;
+
+  progressEl = document.createElement("div");
+  progressEl.className = "reading-progress";
+  document.body.appendChild(progressEl);
+  window.addEventListener("scroll", updateReadingProgress, { passive: true });
+
+  window.addEventListener("keydown", (event) => {
+    if (event.key === "/" && document.activeElement !== els.search) {
+      event.preventDefault();
+      els.search.focus();
+    }
+  });
+
+  const lucky = document.querySelector("#luckyButton");
+  lucky?.addEventListener?.("click", () => {
+    const pool = data.nodes.filter((node) =>
+      ["story", "person", "company", "tool", "event", "concept"].includes(node.type));
+    const pick = pool[Math.floor(Math.random() * pool.length)];
+    if (!pick) return;
+    state.selectedId = pick.id;
+    state.articleId = null;
+    state.type = "all";
+    render();
+    focusWorkspace();
+  });
+
+  animateStats();
+}
 
 // ---------- hash routing ----------
 // Deep states become shareable URLs:
@@ -1952,3 +2026,4 @@ if (routingEnabled) {
 }
 
 render();
+setupEnhancements();
