@@ -19,6 +19,7 @@ const state = {
   topic: "all",
   selectedId: null,
   articleId: null,
+  matrixCell: null,
 };
 
 const nodeById = new Map(data.nodes.map((node) => [node.id, node]));
@@ -31,6 +32,65 @@ for (const edge of data.edges) {
   degree.set(edge.source, (degree.get(edge.source) || 0) + 1);
   degree.set(edge.target, (degree.get(edge.target) || 0) + 1);
 }
+
+// ---------- family × concept evidence matrix ----------
+
+const storyFamily = new Map();
+const storySeries = new Map();
+for (const node of data.nodes) {
+  if (node.type !== "story") continue;
+  const familyId = node.frontmatter.families?.[0];
+  if (familyId) storyFamily.set(node.id, familyId);
+  storySeries.set(node.id, node.frontmatter.series_no || 999);
+}
+
+const segmentStory = new Map();
+for (const node of data.nodes) {
+  if (node.type === "segment") segmentStory.set(node.id, node.frontmatter.story);
+}
+
+const matrixCells = new Map();
+for (const edge of data.edges) {
+  if (edge.type !== "illustrates" || !String(edge.target).startsWith("concept:")) continue;
+  let storyId = null;
+  let segmentId = null;
+  if (String(edge.source).startsWith("story:")) {
+    storyId = edge.source;
+  } else if (String(edge.source).startsWith("segment:")) {
+    segmentId = edge.source;
+    storyId = segmentStory.get(segmentId);
+  } else {
+    continue;
+  }
+  const familyId = storyFamily.get(storyId);
+  if (!familyId) continue;
+  const key = `${familyId}|${edge.target}`;
+  if (!matrixCells.has(key)) matrixCells.set(key, { stories: new Set(), segments: new Set() });
+  const cell = matrixCells.get(key);
+  if (segmentId) cell.segments.add(segmentId);
+  if (storyId) cell.stories.add(storyId);
+}
+
+const matrixFamilies = [...new Set([...storyFamily.values()])]
+  .filter((id) => nodeById.has(id))
+  .sort((a, b) => {
+    const seriesOf = (familyId) => Math.min(
+      ...[...storyFamily.entries()].filter(([, fam]) => fam === familyId).map(([sid]) => storySeries.get(sid) || 999),
+    );
+    return seriesOf(a) - seriesOf(b);
+  });
+
+const conceptEvidenceTotal = new Map();
+for (const [key, cell] of matrixCells) {
+  const conceptId = key.split("|")[1];
+  const weight = cell.stories.size + cell.segments.size;
+  conceptEvidenceTotal.set(conceptId, (conceptEvidenceTotal.get(conceptId) || 0) + weight);
+}
+
+const matrixConcepts = data.nodes
+  .filter((node) => node.type === "concept" && conceptEvidenceTotal.has(node.id))
+  .sort((a, b) => (conceptEvidenceTotal.get(b.id) || 0) - (conceptEvidenceTotal.get(a.id) || 0))
+  .map((node) => node.id);
 
 const els = {
   workspace: document.querySelector(".workspace"),
@@ -45,6 +105,7 @@ const els = {
   viewSubtitle: document.querySelector("#viewSubtitle"),
   graphMode: document.querySelector("#graphMode"),
   graph: document.querySelector("#graph"),
+  graphSection: document.querySelector("#graphSection"),
   content: document.querySelector("#content"),
 };
 
@@ -300,6 +361,7 @@ const topicGuides = {
 const navViews = [
   { id: "home", label: "故事地图" },
   { id: "topics", label: "主题索引" },
+  { id: "matrix", label: "对照矩阵" },
   { id: "people", label: "人物图谱" },
   { id: "stories", label: "故事列表" },
   { id: "methods", label: "方法论" },
@@ -314,6 +376,11 @@ const viewMeta = {
   topics: {
     title: "主题索引",
     subtitle: `围绕 ${topics.length} 个治理问题浏览专题，每个专题都能进入案例、概念和方法论节点。`,
+    type: "all",
+  },
+  matrix: {
+    title: "对照矩阵",
+    subtitle: "家族 × 治理概念的证据密度总览，点击交叉格查看该家族在该概念下的案例证据。",
     type: "all",
   },
   people: {
@@ -375,6 +442,7 @@ function setView(view) {
   state.topic = "all";
   state.selectedId = null;
   state.articleId = null;
+  state.matrixCell = null;
   els.search.value = "";
 }
 
@@ -385,6 +453,7 @@ function setTopic(topicId) {
   state.topic = topicId;
   state.selectedId = null;
   state.articleId = null;
+  state.matrixCell = null;
   els.search.value = "";
 }
 
@@ -408,11 +477,13 @@ function topicNodeIds(topicId) {
 
   const topic = topicById.get(topicId);
   const ids = new Set(topicSeeds(topic));
+  // Expand only through the seed stories. A blanket one-hop expansion from
+  // every seed used to pull in over 80% of the graph, which made the topic
+  // filter meaningless as a filter.
+  const seedStories = new Set([...(topic.stories || []), ...(topic.cautions || [])]);
   for (const edge of data.edges) {
-    if (ids.has(edge.source) || ids.has(edge.target)) {
-      ids.add(edge.source);
-      ids.add(edge.target);
-    }
+    if (seedStories.has(edge.source)) ids.add(edge.target);
+    if (seedStories.has(edge.target)) ids.add(edge.source);
   }
 
   topicNodeCache.set(topicId, ids);
@@ -711,8 +782,116 @@ function renderTopicsIndex() {
   `;
 }
 
+function matrixLevel(count) {
+  if (count >= 7) return 4;
+  if (count >= 5) return 3;
+  if (count >= 3) return 2;
+  if (count >= 1) return 1;
+  return 0;
+}
+
+function renderMatrixEvidence() {
+  if (!state.matrixCell) {
+    return `
+      <div class="matrix-evidence matrix-evidence-empty">
+        <p>点击任意交叉格，这里会展示该家族在该概念下的故事与原文片段证据。颜色越深，证据越密。</p>
+      </div>
+    `;
+  }
+  const { family, concept } = state.matrixCell;
+  const cell = matrixCells.get(`${family}|${concept}`) || { stories: new Set(), segments: new Set() };
+  const stories = [...cell.stories].sort((a, b) => (storySeries.get(a) || 999) - (storySeries.get(b) || 999));
+  const segments = [...cell.segments].sort();
+
+  const storyChips = stories.map((id) => `
+    <button class="inline-link" data-id="${escapeHtml(id)}">${escapeHtml(labelFor(id))}</button>
+  `).join("");
+
+  const segmentItems = segments.map((id) => {
+    const node = nodeById.get(id);
+    if (!node) return "";
+    return `
+      <li>
+        <button class="inline-link" data-id="${escapeHtml(id)}">${escapeHtml(node.title)}</button>
+        <p>${escapeHtml(truncate(node.summary || "", 150))}</p>
+      </li>
+    `;
+  }).join("");
+
+  return `
+    <div class="matrix-evidence">
+      <div class="matrix-evidence-head">
+        <h4>
+          <button class="inline-link" data-id="${escapeHtml(family)}">${escapeHtml(labelFor(family))}</button>
+          ×
+          <button class="inline-link" data-id="${escapeHtml(concept)}">${escapeHtml(labelFor(concept))}</button>
+        </h4>
+        <span>${stories.length} 篇故事 · ${segments.length} 个原文片段</span>
+      </div>
+      ${stories.length ? `<div class="chip-list">${storyChips}</div>` : ""}
+      ${segments.length ? `<ul class="matrix-segment-list">${segmentItems}</ul>` : ""}
+      ${!stories.length && !segments.length ? "<p class='empty-state'>这个交叉格还没有直接证据。</p>" : ""}
+    </div>
+  `;
+}
+
+function renderMatrix() {
+  const headerCells = matrixConcepts.map((conceptId) => `
+    <th><button class="matrix-col" data-id="${escapeHtml(conceptId)}">${escapeHtml(labelFor(conceptId))}</button></th>
+  `).join("");
+
+  const rows = matrixFamilies.map((familyId) => {
+    const cells = matrixConcepts.map((conceptId) => {
+      const cell = matrixCells.get(`${familyId}|${conceptId}`);
+      const count = cell ? cell.stories.size + cell.segments.size : 0;
+      const level = matrixLevel(count);
+      const active = state.matrixCell && state.matrixCell.family === familyId && state.matrixCell.concept === conceptId;
+      if (!count) return `<td><span class="matrix-cell matrix-cell-0"></span></td>`;
+      return `
+        <td>
+          <button
+            class="matrix-cell matrix-cell-${level}${active ? " matrix-cell-active" : ""}"
+            data-matrix-cell="${escapeHtml(`${familyId}|${conceptId}`)}"
+            title="${escapeHtml(`${labelFor(familyId)} × ${labelFor(conceptId)}：${count} 条证据`)}"
+          >${count}</button>
+        </td>
+      `;
+    }).join("");
+    return `
+      <tr>
+        <th scope="row"><button class="matrix-row" data-id="${escapeHtml(familyId)}">${escapeHtml(labelFor(familyId))}</button></th>
+        ${cells}
+      </tr>
+    `;
+  }).join("");
+
+  return `
+    <section class="panel matrix-panel">
+      <div class="section-heading">
+        <h3>概念 × 家族对照矩阵</h3>
+        <strong>${matrixFamilies.length} 个家族 × ${matrixConcepts.length} 个概念</strong>
+      </div>
+      <p class="directory-note">行按系列期数排序，列按证据总量从密到疏。数字是故事与原文片段的证据条数，点击可展开。</p>
+      ${renderMatrixEvidence()}
+      <div class="matrix-scroll">
+        <table class="matrix-table">
+          <thead>
+            <tr>
+              <th class="matrix-corner">家族 \\ 概念</th>
+              ${headerCells}
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
+    </section>
+  `;
+}
+
 function renderViewDirectory(view) {
   if (view === "topics") return renderTopicsIndex();
+
+  if (view === "matrix") return renderMatrix();
 
   if (view === "people") {
     return renderNodeDirectory({
@@ -808,6 +987,56 @@ function card(node) {
   `;
 }
 
+function searchParagraphs(query, limit = 24) {
+  const q = query.toLowerCase();
+  if (q.length < 2) return [];
+  const hits = [];
+  for (const article of articleData.articles) {
+    for (const paragraph of article.paragraphs) {
+      if (paragraph.kind === "heading") continue;
+      if (paragraph.text.toLowerCase().includes(q)) {
+        hits.push({ article, paragraph });
+        if (hits.length >= limit) return hits;
+      }
+    }
+  }
+  return hits;
+}
+
+function searchSnippet(text, query, span = 72) {
+  const idx = text.toLowerCase().indexOf(query.toLowerCase());
+  const start = Math.max(0, idx - Math.floor(span / 2));
+  const raw = text.slice(start, start + span + query.length);
+  const safe = escapeHtml(raw);
+  const safeQuery = escapeHtml(text.slice(idx, idx + query.length));
+  const marked = safeQuery ? safe.split(safeQuery).join(`<mark>${safeQuery}</mark>`) : safe;
+  const prefix = start > 0 ? "…" : "";
+  const suffix = start + span + query.length < text.length ? "…" : "";
+  return prefix + marked + suffix;
+}
+
+function renderParagraphHits(query) {
+  const hits = searchParagraphs(query);
+  if (!hits.length) return "";
+  const items = hits.map(({ article, paragraph }) => `
+    <li>
+      <button
+        class="inline-link"
+        data-article-id="${escapeHtml(article.story_id)}"
+        data-para-target="${escapeHtml(paragraph.id)}"
+      >${escapeHtml(article.title)} · 第 ${paragraph.index} 段</button>
+      <p>${searchSnippet(paragraph.text, query)}</p>
+    </li>
+  `).join("");
+  return `
+    <section class="panel panel-wide">
+      <h3>原文命中</h3>
+      <p class="directory-note">在 ${paragraphTotal.toLocaleString("zh-CN")} 个原文段落里找到 ${hits.length >= 24 ? "24+" : hits.length} 处，点击直接跳到那一段。</p>
+      <ul class="paragraph-hit-list">${items}</ul>
+    </section>
+  `;
+}
+
 function renderOverview() {
   const nodes = visibleNodes();
   const topic = selectedTopic();
@@ -851,10 +1080,11 @@ function renderOverview() {
         <h3>匹配节点</h3>
         ${matches.length ? `<div class="card-grid">${matches.map(card).join("")}</div>` : emptyState("没有找到匹配节点")}
       </section>
+      ${state.query ? renderParagraphHits(state.query) : `
       <section class="panel result-note">
         <h3>结果脉络</h3>
-        <p>${escapeHtml(matches.length)} 个节点与当前筛选条件匹配，关系图谱会呈现这些节点的一跳连接。</p>
-      </section>
+        <p>${escapeHtml(matches.length)} 个节点与当前筛选条件匹配。</p>
+      </section>`}
     `;
   }
 
@@ -944,11 +1174,49 @@ function renderMetaValue(value) {
   return `<span>${escapeHtml(value)}</span>`;
 }
 
+const metaLabels = {
+  series_no: "期数",
+  category: "分类",
+  story: "所属故事",
+  families: "家族",
+  family: "家族",
+  key_people: "关键人物",
+  related_people: "相关人物",
+  key_companies: "关键机构",
+  related_companies: "相关机构",
+  concepts: "治理概念",
+  related_concepts: "相关概念",
+  events: "事件",
+  key_events: "关键事件",
+  tools: "治理工具",
+  source_segments: "来源片段",
+  source_stories: "来源故事",
+  regions: "地域",
+  industries: "行业",
+  core_questions: "核心问题",
+  family_governance_signature: "治理主线",
+  governance_signature: "治理主线",
+  risk_profile: "风险侧写",
+  governance_insight: "治理提示",
+  definition: "定义",
+  core_mechanism: "核心机制",
+  aliases: "别名",
+  source_heading: "原文章节",
+};
+
 function renderMetadata(node) {
-  const skip = new Set(["id", "type", "title", "reviewed"]);
+  // internal pipeline fields stay out of the reading surface
+  const skip = new Set([
+    "id", "type", "title", "reviewed", "draft", "curation_stage",
+    "confidence", "order", "entities", "source_file", "source_files",
+  ]);
   const priority = [
     "series_no",
     "category",
+    "family_governance_signature",
+    "governance_signature",
+    "risk_profile",
+    "core_questions",
     "story",
     "families",
     "family",
@@ -959,10 +1227,12 @@ function renderMetadata(node) {
     "concepts",
     "related_concepts",
     "events",
+    "key_events",
     "tools",
+    "regions",
+    "industries",
     "source_segments",
     "source_stories",
-    "source_file",
   ];
 
   const keys = [
@@ -973,7 +1243,7 @@ function renderMetadata(node) {
   return keys
     .map((key) => `
       <div class="meta-row">
-        <div class="meta-label">${escapeHtml(key)}</div>
+        <div class="meta-label">${escapeHtml(metaLabels[key] || key)}</div>
         ${renderMetaValue(node.frontmatter[key])}
       </div>
     `)
@@ -1030,7 +1300,18 @@ function renderParagraphLinks(ids) {
 }
 
 function renderArticleParagraph(paragraph) {
-  const text = escapeHtml(paragraph.text);
+  // raw markdown leftovers: horizontal rules become dividers,
+  // bullet markers become typographic bullets
+  if (/^[-*_]{3,}$/.test(paragraph.text.trim())) {
+    return `<hr id="${escapeHtml(paragraph.id)}" class="article-divider" />`;
+  }
+
+  let displayText = paragraph.text;
+  if (paragraph.kind === "list") {
+    displayText = displayText.replace(/^[-*+]\s+/, "· ");
+  }
+
+  const text = escapeHtml(displayText);
   const anchor = `<span class="para-num">${paragraph.index}</span>`;
   const links = renderParagraphLinks(paragraph.related_node_ids || []);
 
@@ -1385,6 +1666,20 @@ function layoutPersonNetwork(nodes, edges) {
 
 function renderGraph() {
   const selection = graphSelection();
+
+  // The overview hairball added noise, not insight. The graph earns its
+  // screen space only as a local ego network (a node is selected) or as
+  // the person-relationship view.
+  const graphUseful = selection.mode === "focus" || selection.mode === "person-network";
+  if (els.graphSection) {
+    els.graphSection.style.display = graphUseful ? "" : "none";
+  }
+  if (!graphUseful) {
+    els.graph.innerHTML = "";
+    els.graphMode.textContent = "";
+    return;
+  }
+
   const nodes = selection.nodes;
   const ids = new Set(nodes.map((node) => node.id));
   const edges = selection.edges || data.edges.filter((edge) => ids.has(edge.source) && ids.has(edge.target));
@@ -1528,6 +1823,14 @@ document.addEventListener("click", (event) => {
     return;
   }
 
+  const matrixButton = event.target.closest("[data-matrix-cell]");
+  if (matrixButton) {
+    const [family, concept] = matrixButton.dataset.matrixCell.split("|");
+    state.matrixCell = { family, concept };
+    render();
+    return;
+  }
+
   const typeButton = event.target.closest("[data-type]");
   if (typeButton) {
     state.type = typeButton.dataset.type;
@@ -1544,7 +1847,12 @@ document.addEventListener("click", (event) => {
     state.selectedId = articleButton.dataset.articleId;
     state.type = "all";
     render();
-    focusWorkspace();
+    const paraTarget = articleButton.dataset.paraTarget;
+    if (paraTarget) {
+      document.querySelector(`#${paraTarget}`)?.scrollIntoView?.({ block: "center" });
+    } else {
+      focusWorkspace();
+    }
     return;
   }
 
@@ -1579,6 +1887,9 @@ function stateToHash() {
   if (state.articleId) return `#/article/${state.articleId}`;
   if (state.selectedId) return `#/node/${state.selectedId}`;
   if (state.view === "topic" && state.topic !== "all") return `#/topic/${state.topic}`;
+  if (state.view === "matrix" && state.matrixCell) {
+    return `#/matrix/${state.matrixCell.family}/${state.matrixCell.concept}`;
+  }
   if (state.view !== "home") return `#/${state.view}`;
   return "#/";
 }
@@ -1605,6 +1916,14 @@ function applyHash() {
   }
   if (head === "topic" && topicById.has(target)) {
     setTopic(target);
+    return;
+  }
+  if (head === "matrix") {
+    setView("matrix");
+    const [family, concept] = rest;
+    if (family && concept && nodeById.has(family) && nodeById.has(concept)) {
+      state.matrixCell = { family, concept };
+    }
     return;
   }
   if (viewMeta[head]) setView(head);

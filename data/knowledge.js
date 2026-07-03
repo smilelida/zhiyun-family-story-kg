@@ -163,7 +163,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:rothschild",
       "type": "story",
       "title": "绿盾之屋与五支箭：罗斯柴尔德家族的两百年",
-      "summary": "绿盾之屋与五支箭：罗斯柴尔德家族的两百年 的核心治理主线，是罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "这一篇的治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
       "path": "knowledge/stories/rothschild.md",
       "frontmatter": {
         "id": "story:rothschild",
@@ -236,7 +236,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:fan-yizhuang",
       "type": "story",
       "title": "一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承",
-      "summary": "一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承 的核心治理主线，是范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "这一篇的治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
       "path": "knowledge/stories/fan-yizhuang.md",
       "frontmatter": {
         "id": "story:fan-yizhuang",
@@ -299,7 +299,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:ford-family",
       "type": "story",
       "title": "福特家族：一只怀表、一个姓氏与五代传承的故事",
-      "summary": "福特家族：一只怀表、一个姓氏与五代传承的故事 的核心治理主线，是福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "这一篇的治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
       "path": "knowledge/stories/ford-family.md",
       "frontmatter": {
         "id": "story:ford-family",
@@ -943,7 +943,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:takagi-shuzo",
       "type": "story",
       "title": "从“朝日鹰”到“十四代”：高木酒造家族的四百年传承",
-      "summary": "从“朝日鹰”到“十四代”：高木酒造家族的四百年传承 的核心治理主线，是高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
+      "summary": "这一篇的治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
       "path": "knowledge/stories/takagi-shuzo.md",
       "frontmatter": {
         "id": "story:takagi-shuzo",
@@ -997,7 +997,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:hermes",
       "type": "story",
       "title": "爱马仕家族故事：一门手艺的六代传承",
-      "summary": "爱马仕家族故事：一门手艺的六代传承 的核心治理主线，是爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "这一篇的治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
       "path": "knowledge/stories/hermes.md",
       "frontmatter": {
         "id": "story:hermes",
@@ -1055,7 +1055,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:ikea",
       "type": "story",
       "title": "把宜家留给世界：坎普拉德家族的传奇故事",
-      "summary": "把宜家留给世界：坎普拉德家族的传奇故事 的核心治理主线，是坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "这一篇的治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
       "path": "knowledge/stories/ikea.md",
       "frontmatter": {
         "id": "story:ikea",
@@ -1115,7 +1115,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:rong-family",
       "type": "story",
       "title": "荣氏家族：从“衣食”帝国到红色资本家的百年历程",
-      "summary": "荣氏家族：从“衣食”帝国到红色资本家的百年历程 的核心治理主线，是荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "这一篇的治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
       "path": "knowledge/stories/rong-family.md",
       "frontmatter": {
         "id": "story:rong-family",
@@ -1176,7 +1176,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:pei-family",
       "type": "story",
       "title": "贝氏家族：从苏州到世界的六百年",
-      "summary": "贝氏家族：从苏州到世界的六百年 的核心治理主线，是贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
+      "summary": "这一篇的治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
       "path": "knowledge/stories/pei-family.md",
       "frontmatter": {
         "id": "story:pei-family",
@@ -1235,7 +1235,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:toyoda",
       "type": "story",
       "title": "丰田家族：从一台织机到车坛巨擘的百年传奇",
-      "summary": "丰田家族：从一台织机到车坛巨擘的百年传奇 的核心治理主线，是丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
+      "summary": "这一篇的治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
       "path": "knowledge/stories/toyoda.md",
       "frontmatter": {
         "id": "story:toyoda",
@@ -1293,7 +1293,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:robert-kuok",
       "type": "story",
       "title": "马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生",
-      "summary": "马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生 的核心治理主线，是郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
+      "summary": "这一篇的治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
       "path": "knowledge/stories/robert-kuok.md",
       "frontmatter": {
         "id": "story:robert-kuok",
@@ -1355,7 +1355,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:cp-group",
       "type": "story",
       "title": "一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国",
-      "summary": "一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国 的核心治理主线，是正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
+      "summary": "这一篇的治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
       "path": "knowledge/stories/cp-group.md",
       "frontmatter": {
         "id": "story:cp-group",
@@ -1416,7 +1416,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:wang-yongqing",
       "type": "story",
       "title": "从茶山贫童到石化王国：王永庆的传奇与传承",
-      "summary": "从茶山贫童到石化王国：王永庆的传奇与传承 的核心治理主线，是王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
+      "summary": "这一篇的治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
       "path": "knowledge/stories/wang-yongqing.md",
       "frontmatter": {
         "id": "story:wang-yongqing",
@@ -1475,7 +1475,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:disney",
       "type": "story",
       "title": "从米老鼠到魔法王国：迪斯尼家族的百年传奇",
-      "summary": "从米老鼠到魔法王国：迪斯尼家族的百年传奇 的核心治理主线，是迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
+      "summary": "这一篇的治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
       "path": "knowledge/stories/disney.md",
       "frontmatter": {
         "id": "story:disney",
@@ -1593,7 +1593,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:gucci",
       "type": "story",
       "title": "金色双 G 的阴影：古驰家族百年兴衰",
-      "summary": "金色双 G 的阴影：古驰家族百年兴衰 的核心治理主线，是古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
+      "summary": "这一篇的治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
       "path": "knowledge/stories/gucci.md",
       "frontmatter": {
         "id": "story:gucci",
@@ -1651,7 +1651,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:stanley-ho",
       "type": "story",
       "title": "十元起步到赌王加冕：何鸿燊的世纪豪赌",
-      "summary": "十元起步到赌王加冕：何鸿燊的世纪豪赌 的核心治理主线，是何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "这一篇的治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
       "path": "knowledge/stories/stanley-ho.md",
       "frontmatter": {
         "id": "story:stanley-ho",
@@ -1713,7 +1713,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:watson-ibm",
       "type": "story",
       "title": "思考者：沃森家族与 IBM 的百年基业",
-      "summary": "思考者：沃森家族与 IBM 的百年基业 的核心治理主线，是沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
+      "summary": "这一篇的治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
       "path": "knowledge/stories/watson-ibm.md",
       "frontmatter": {
         "id": "story:watson-ibm",
@@ -1769,7 +1769,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:zeng-guofan",
       "type": "story",
       "title": "从耕读之家到中兴名臣：曾国藩的传世智慧",
-      "summary": "从耕读之家到中兴名臣：曾国藩的传世智慧 的核心治理主线，是曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
+      "summary": "这一篇的治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
       "path": "knowledge/stories/zeng-guofan.md",
       "frontmatter": {
         "id": "story:zeng-guofan",
@@ -1823,7 +1823,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:rockefeller",
       "type": "story",
       "title": "百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路",
-      "summary": "百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路 的核心治理主线，是洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "这一篇的治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
       "path": "knowledge/stories/rockefeller.md",
       "frontmatter": {
         "id": "story:rockefeller",
@@ -1883,7 +1883,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:ambani",
       "type": "story",
       "title": "印度第一家族：安巴尼王朝的权利游戏与传承密码",
-      "summary": "印度第一家族：安巴尼王朝的权利游戏与传承密码 的核心治理主线，是安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "这一篇的治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
       "path": "knowledge/stories/ambani.md",
       "frontmatter": {
         "id": "story:ambani",
@@ -1943,7 +1943,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:qiao-family",
       "type": "story",
       "title": "红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧",
-      "summary": "红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧 的核心治理主线，是晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
+      "summary": "这一篇的治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
       "path": "knowledge/stories/qiao-family.md",
       "frontmatter": {
         "id": "story:qiao-family",
@@ -2053,7 +2053,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:sheng-xuanhuai",
       "type": "story",
       "title": "晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录",
-      "summary": "晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录 的核心治理主线，是盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
+      "summary": "这一篇的治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
       "path": "knowledge/stories/sheng-xuanhuai.md",
       "frontmatter": {
         "id": "story:sheng-xuanhuai",
@@ -3774,7 +3774,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:toyoda-family",
       "type": "family",
       "title": "丰田家族",
-      "summary": "丰田家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。 风险侧重点：技术转型、质量危机、家族社长角色边界、全球化后组织复杂度上升。",
+      "summary": "丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
       "path": "knowledge/families/toyoda-family.md",
       "frontmatter": {
         "id": "family:toyoda-family",
@@ -3825,7 +3825,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:qiao-family",
       "type": "family",
       "title": "乔氏家族",
-      "summary": "乔氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。 风险侧重点：政治周期、票号信用链、后代能力分化、商业伦理从人格约束转向制度约束的难度。",
+      "summary": "晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
       "path": "knowledge/families/qiao-family.md",
       "frontmatter": {
         "id": "family:qiao-family",
@@ -3874,7 +3874,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:ho-family",
       "type": "family",
       "title": "何鸿燊家族",
-      "summary": "何鸿燊家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。 风险侧重点：多房继承冲突、牌照政策变化、家族成员与上市公司边界、财富分配引发的声誉风险。",
+      "summary": "何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
       "path": "knowledge/families/ho-family.md",
       "frontmatter": {
         "id": "family:ho-family",
@@ -4039,7 +4039,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:gucci-family",
       "type": "family",
       "title": "古驰家族",
-      "summary": "古驰家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。 风险侧重点：兄弟与父子冲突、品牌资产被家族内斗折损、创始人姓氏与企业控制权分离。",
+      "summary": "古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
       "path": "knowledge/families/gucci-family.md",
       "frontmatter": {
         "id": "family:gucci-family",
@@ -4132,7 +4132,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:kamprad-family",
       "type": "family",
       "title": "坎普拉德家族",
-      "summary": "坎普拉德家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。 风险侧重点：基金会结构透明度、家族影响力边界、低价使命与全球商业扩张之间的张力。",
+      "summary": "坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
       "path": "knowledge/families/kamprad-family.md",
       "frontmatter": {
         "id": "family:kamprad-family",
@@ -4260,7 +4260,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:ambani-family",
       "type": "family",
       "title": "安巴尼家族",
-      "summary": "安巴尼家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。 风险侧重点：兄弟冲突、资产切分、创始人影子、过度集中决策和新业务资本开支压力。",
+      "summary": "安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
       "path": "knowledge/families/ambani-family.md",
       "frontmatter": {
         "id": "family:ambani-family",
@@ -4313,7 +4313,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:zeng-family",
       "type": "family",
       "title": "曾氏家族",
-      "summary": "曾氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。 风险侧重点：个人德性难以制度化、仕宦风险、家训被后代形式化执行、公共责任与家族利益混同。",
+      "summary": "曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
       "path": "knowledge/families/zeng-family.md",
       "frontmatter": {
         "id": "family:zeng-family",
@@ -4418,7 +4418,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:watson-family",
       "type": "family",
       "title": "沃森家族",
-      "summary": "沃森家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。 风险侧重点：创始人影子、父子冲突、技术转型压力、家族退出后企业文化是否仍能延续。",
+      "summary": "沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
       "path": "knowledge/families/watson-family.md",
       "frontmatter": {
         "id": "family:watson-family",
@@ -4467,7 +4467,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:rockefeller-family",
       "type": "family",
       "title": "洛克菲勒家族",
-      "summary": "洛克菲勒家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。 风险侧重点：垄断争议、财富合法性、后代分散、公益使命与家族控制之间的边界。",
+      "summary": "洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
       "path": "knowledge/families/rockefeller-family.md",
       "frontmatter": {
         "id": "family:rockefeller-family",
@@ -4520,7 +4520,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:hermes-family",
       "type": "family",
       "title": "爱马仕家族",
-      "summary": "爱马仕家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。 风险侧重点：外部资本突袭、家族股东分散、手工艺产能与增长压力之间的矛盾。",
+      "summary": "爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
       "path": "knowledge/families/hermes-family.md",
       "frontmatter": {
         "id": "family:hermes-family",
@@ -4571,7 +4571,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:wang-yongqing-family",
       "type": "family",
       "title": "王永庆家族",
-      "summary": "王永庆家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。 风险侧重点：创始人超强管理风格难以复制、事业版图复杂、后代分支多元化后的共识维护。",
+      "summary": "王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
       "path": "knowledge/families/wang-yongqing-family.md",
       "frontmatter": {
         "id": "family:wang-yongqing-family",
@@ -4732,7 +4732,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:sheng-family",
       "type": "family",
       "title": "盛氏家族",
-      "summary": "盛氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。 风险侧重点：官商资源依赖、家族资产过度复杂、信托安排与后代共识不足、时代变迁导致资产安全下降。",
+      "summary": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
       "path": "knowledge/families/sheng-family.md",
       "frontmatter": {
         "id": "family:sheng-family",
@@ -4784,7 +4784,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:ford-family",
       "type": "family",
       "title": "福特家族",
-      "summary": "福特家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。 风险侧重点：创始人阴影、父子创伤、双层股权的公共公司争议、家族成员经营能力与所有者责任之间的边界。",
+      "summary": "福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
       "path": "knowledge/families/ford-family.md",
       "frontmatter": {
         "id": "family:ford-family",
@@ -4848,7 +4848,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:rothschild-family",
       "type": "family",
       "title": "罗斯柴尔德家族",
-      "summary": "罗斯柴尔德家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。 风险侧重点：反犹阴谋论投射、过度保密制造外部想象、男系继承限制人才池、跨国家族分支在现代金融监管下持续收缩。",
+      "summary": "罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
       "path": "knowledge/families/rothschild-family.md",
       "frontmatter": {
         "id": "family:rothschild-family",
@@ -5030,7 +5030,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:fan-family",
       "type": "family",
       "title": "范氏家族",
-      "summary": "范氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。 风险侧重点：族产被个别房支侵占、规则执行依赖掌管人和官府、战乱与改朝换代冲击、义庄终局中的土地制度变迁。",
+      "summary": "范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
       "path": "knowledge/families/fan-family.md",
       "frontmatter": {
         "id": "family:fan-family",
@@ -5086,7 +5086,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:rong-family",
       "type": "family",
       "title": "荣氏家族",
-      "summary": "荣氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。 风险侧重点：时代政治变迁、资产所有权变化、家族成员公共角色与企业角色交错。",
+      "summary": "荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
       "path": "knowledge/families/rong-family.md",
       "frontmatter": {
         "id": "family:rong-family",
@@ -5140,7 +5140,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:cp-family",
       "type": "family",
       "title": "谢氏家族",
-      "summary": "谢氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。 风险侧重点：兄弟合伙分工、跨国政策周期、产业链扩张、二三代专业化接班。",
+      "summary": "正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
       "path": "knowledge/families/cp-family.md",
       "frontmatter": {
         "id": "family:cp-family",
@@ -5191,7 +5191,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:pei-family",
       "type": "family",
       "title": "贝氏家族",
-      "summary": "贝氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。 风险侧重点：文化资本被个人天才吸收、家族分散后共同身份淡化、公共声望与商业资产连接较弱。",
+      "summary": "贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
       "path": "knowledge/families/pei-family.md",
       "frontmatter": {
         "id": "family:pei-family",
@@ -5312,7 +5312,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:disney-family",
       "type": "family",
       "title": "迪斯尼家族",
-      "summary": "迪斯尼家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。 风险侧重点：创始人神话遮蔽组织能力、家族成员影响力下降、创意文化被资本市场短期化。",
+      "summary": "迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
       "path": "knowledge/families/disney-family.md",
       "frontmatter": {
         "id": "family:disney-family",
@@ -5409,7 +5409,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:kuok-family",
       "type": "family",
       "title": "郭氏家族",
-      "summary": "郭氏家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。 风险侧重点：地缘政治、跨国资产配置、家族低调文化与组织透明度之间的平衡。",
+      "summary": "郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
       "path": "knowledge/families/kuok-family.md",
       "frontmatter": {
         "id": "family:kuok-family",
@@ -5523,7 +5523,7 @@ window.KNOWLEDGE_DATA = {
       "id": "family:takagi-family",
       "type": "family",
       "title": "高木家族",
-      "summary": "高木家族节点用于聚合本篇故事中的家族成员、企业机构、制度工具和治理风险。治理特征：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。 风险侧重点：核心技艺单点依赖、产量限制与市场需求冲突、继承人训练周期长。",
+      "summary": "高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
       "path": "knowledge/families/takagi-family.md",
       "frontmatter": {
         "id": "family:takagi-family",
@@ -5670,7 +5670,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:sakichi-toyoda",
       "type": "person",
       "title": "丰田佐吉",
-      "summary": "丰田佐吉节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
+      "summary": "静冈县农民兼木匠家庭出身的发明家，丰田家族第一代，据说只受过小学教育。1924 年造出 G 型自动织机，断线即自动停机，这套自働化思想后来长成丰田生产方式的根。他投身发明的起点不是商业野心，是想让织布的母亲轻松一些，这份初心被儿子整理进 1935 年的《丰田纲领》，成了丰田的精神宪法。",
       "path": "knowledge/people/sakichi-toyoda.md",
       "frontmatter": {
         "id": "person:sakichi-toyoda",
@@ -5696,7 +5696,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:kiichiro-toyoda",
       "type": "person",
       "title": "丰田喜一郎",
-      "summary": "丰田喜一郎节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
+      "summary": "佐吉之子，第二代，1937 年把父亲的织机家业押进汽车业，创办丰田汽车。1950 年经营危机中约四分之一员工离开，他以创办人之身率全部董事引咎辞职，主动退出自己一手创建的公司，两年后郁郁病逝。这场退位给丰田立下规矩：企业生存排在家族权位前面，家族在公司的权威从此靠担当维持，不靠世袭。",
       "path": "knowledge/people/kiichiro-toyoda.md",
       "frontmatter": {
         "id": "person:kiichiro-toyoda",
@@ -5722,7 +5722,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:akio-toyoda",
       "type": "person",
       "title": "丰田章男",
-      "summary": "丰田章男节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
+      "summary": "佐吉曾孙，丰田家族第四代，2009 年出任社长，结束了职业经理人连续执掌的十四年。质量危机听证会上他对美国国会说，我的姓氏印在每一辆车上，车出问题我感同身受，用家族百年声誉为公司担保。又斥巨资在富士山脚下建造 Woven City 实验城市，把家族社长这个角色做成了技术转型期的象征性守门人。",
       "path": "knowledge/people/akio-toyoda.md",
       "frontmatter": {
         "id": "person:akio-toyoda",
@@ -5798,7 +5798,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:jonas-kamprad",
       "type": "person",
       "title": "乔纳斯·坎普拉德",
-      "summary": "乔纳斯·坎普拉德节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "坎普拉德次子，Ikano 集团共同持有人，同时以少数董事身份参与宜家基金会治理。2010 年代宜家面对电商和数字化转型压力，他在董事会里的立场是：渠道怎么变，质优价廉的基本承诺不能动摇，不为追逐短期流量牺牲产品质量和可及性。父亲不给儿子股权，给的是这种价值观守门人的位置。",
       "path": "knowledge/people/jonas-kamprad.md",
       "frontmatter": {
         "id": "person:jonas-kamprad",
@@ -5824,7 +5824,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:qiao-zhiyong",
       "type": "person",
       "title": "乔致庸",
-      "summary": "乔致庸节点来自《红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧》的 first_pass 结构化整理，用于连接这条治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
+      "summary": "乔家第三代掌门，晋商传奇的定盘星，1907 年年近九旬在乔家大院寿终正寝。他把家业从茶叶贸易推进票号业，货通天下之后再做汇通天下，向朝廷供军饷、与官府建立银贷关系；光绪年间连旱三年，他开仓赈灾，包头同和店把上等米面掺进普通米面按平价卖给穷人，信条是取利于义，损己利人。家产不分房，各家用度由族长从公共账户核拨；两个儿子一个早逝一个体弱，身后的接力棒交给了长孙乔映霞。",
       "path": "knowledge/people/qiao-zhiyong.md",
       "frontmatter": {
         "id": "person:qiao-zhiyong",
@@ -5850,7 +5850,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:alexandra-ford-english",
       "type": "person",
       "title": "亚历山德拉·福特·英格利什",
-      "summary": "亚历山德拉·福特·英格利什节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "比尔·福特之女，福特第五代（1987 年生），进入家族企业前在 Tory Burch、Gap 等公司积累了零售业履历。2021 年她进入福特董事会，是 1903 年建公司以来第一位坐进董事会的福特家族女性。对一个五代人姓氏与公司深度捆绑的家族来说，这个迟到了一百一十八年的席位，本身就是治理演进的刻度。",
       "path": "knowledge/people/alexandra-ford-english.md",
       "frontmatter": {
         "id": "person:alexandra-ford-english",
@@ -5876,7 +5876,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:henry-ford",
       "type": "person",
       "title": "亨利·福特",
-      "summary": "亨利·福特节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "福特汽车创始人（1863-1947），1903 年与 12 个股东、2.8 万美元现金起家，1913 年把芝加哥屠宰场滑轨的逻辑反过来装进车厂，底盘装配从 12 小时 28 分压到 1 小时 33 分，T 型车售价从 850 美元一路降到 260 美元。1919 年他花约 1.06 亿美元买断全部外部股东，换来不受华尔街节制的自由，也换来无人制衡的晚年：反犹文本、压制独子埃德塞尔、纵容打手班尼特，直到 1945 年被儿媳用股权逼着交权。100% 控股并不等于安全，他的晚年是这句话最贵的注脚。",
       "path": "knowledge/people/henry-ford.md",
       "frontmatter": {
         "id": "person:henry-ford",
@@ -5902,7 +5902,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:henry-ford-iii",
       "type": "person",
       "title": "亨利·福特三世",
-      "summary": "亨利·福特三世节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "福特第五代（1980 年生），埃德塞尔·福特二世之子，2021 年与亚历山德拉·福特·英格利什一同进入董事会。这一代人面对的课题换成了电动车、软件和全球供应链，入局前的训练也从工厂车间换成公司内外的完整职业履历。第五代进董事会而不是进管理层，延续了福特家族用所有权而非经营权守住姓氏的路数。",
       "path": "knowledge/people/henry-ford-iii.md",
       "frontmatter": {
         "id": "person:henry-ford-iii",
@@ -5928,7 +5928,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:henry-ford-ii",
       "type": "person",
       "title": "亨利·福特二世",
-      "summary": "亨利·福特二世节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "埃德塞尔长子（1917-1987），1945 年 9 月 21 日靠母亲和祖母手里的股权，28 岁接任总裁，散会即把班尼特扫地出门。1956 年 1 月 17 日他主持双层股权上市，家族以 B 股锁住 40% 表决权；1978 年 7 月又解雇声望正盛的艾柯卡，理由近乎任性：有时候你就是不喜欢一个人，代价是随后四年 33 亿美元亏损。1980 年他卸任董事长，让卡德威尔成为福特第一位非家族 CEO，福特从此定型为家族在董事会、经理人在管理层。",
       "path": "knowledge/people/henry-ford-ii.md",
       "frontmatter": {
         "id": "person:henry-ford-ii",
@@ -5954,7 +5954,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:lawrence-ho",
       "type": "person",
       "title": "何猷龙",
-      "summary": "何猷龙节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何鸿燊二房长子，没有坐等父亲的牌照，早年就去打理家族的海外博彩投资新濠国际。他执掌的新濠博亚后来拿到澳门赌牌中的一张副牌，与父亲的澳博同城竞技。一个家族握着三张牌照、两代人开着三家公司，何家把多房竞争直接搬进了同一个市场。",
       "path": "knowledge/people/lawrence-ho.md",
       "frontmatter": {
         "id": "person:lawrence-ho",
@@ -5980,7 +5980,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:daisy-ho",
       "type": "person",
       "title": "何超凤",
-      "summary": "何超凤节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何鸿燊二房次女。2018 年 6 月父亲卸任澳门博彩控股董事局主席及执行董事，帅印交到她手上，家族的主赌牌自此进入第二代。姐姐掌信德、她掌澳博，这对分工是赌王晚年在十七名子女中做出的最重要的两项人事安排。",
       "path": "knowledge/people/daisy-ho.md",
       "frontmatter": {
         "id": "person:daisy-ho",
@@ -6006,7 +6006,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:pansy-ho",
       "type": "person",
       "title": "何超琼",
-      "summary": "何超琼节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何鸿燊二房长女，父亲属意接班博彩业的女儿，传说中赌王不喜外甥干政、点名要她接手。她主导的美高梅中国持有澳门赌牌中的一张副牌，2017 年 6 月又从父亲手中接过香港信德集团主席之位。赌王身后核心资产大半落在二房，她是这一房的头雁。",
       "path": "knowledge/people/pansy-ho.md",
       "frontmatter": {
         "id": "person:pansy-ho",
@@ -6032,7 +6032,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:stanley-ho",
       "type": "person",
       "title": "何鸿燊",
-      "summary": "何鸿燊节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何东家族旁支后人（1921-2020），欧亚混血，战时避走澳门做贸易赚下第一桶金。1961 年澳门博彩专营权重新招标，他联合霍英东、叶汉以远超对手预期的出价拿下 20 年赌牌，此后半个世纪把一张牌照做成一座城；家事却比生意复杂：四房太太、十七名子女，传承安排一拖再拖，2011 年初四房对簿公堂震动港澳，最后他在律师见证下重新划分产业，各房均沾。2017 年信德交给何超琼，2018 年澳博交给何超凤，98 岁谢幕。",
       "path": "knowledge/people/stanley-ho.md",
       "frontmatter": {
         "id": "person:stanley-ho",
@@ -6087,7 +6087,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:nathan-mayer-rothschild",
       "type": "person",
       "title": "内森·迈尔·罗斯柴尔德",
-      "summary": "内森·迈尔·罗斯柴尔德节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "迈尔三子，伦敦行创建者，五兄弟中最强硬也最有影响力的一个。拿破仑战争中他低价收购威灵顿的汇票，再以官方身份替英军跨海转运黄金，自称那是他做过的最好的一笔生意；滑铁卢一夜暴富是后世编的神话，真正的大钱在战后：1815 年底起大举买入英国公债，1817 年 7 月持仓达 160 万英镑面值，随后凭财政大臣范西塔特的内线消息高位抛出，获利超过 25 万英镑。1816 年家族初次受封时纹章上只有四支箭，缺的正是这位功劳最大、却最不在乎头衔的兄弟。",
       "path": "knowledge/people/nathan-mayer-rothschild.md",
       "frontmatter": {
         "id": "person:nathan-mayer-rothschild",
@@ -6239,7 +6239,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:walt-disney",
       "type": "person",
       "title": "华特·迪士尼",
-      "summary": "华特·迪士尼节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
+      "summary": "迪士尼公司联合创始人（1901-1966），罗伊的弟弟，帝国的想象力引擎。1932 年他力排众议做出世界首部彩色动画《花与树》拿下奥斯卡，1937 年《白雪公主》开创动画长片时代，1955 年又把公司押上主题乐园这个没人看好的赌注；他给哥哥的和解便笺上写着：我们从借不到一千美元走到负债两千四百万，但我们俩一起总算成就了一些事业。1966 年 12 月 15 日他因肺癌去世，65 岁，留下建到一半的佛罗里达梦想和一个以他名字命名的符号体系。",
       "path": "knowledge/people/walt-disney.md",
       "frontmatter": {
         "id": "person:walt-disney",
@@ -6265,7 +6265,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:gutle-schnapper",
       "type": "person",
       "title": "古特勒·施纳佩尔",
-      "summary": "古特勒·施纳佩尔节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "迈尔之妻，五兄弟的母亲，在法兰克福犹太巷那栋绿盾老宅里住了六十多年，儿子们封男爵、住宫殿，她到 1849 年 96 岁仍不肯搬走。按家规，家族凡有婚事都回法兰克福办，新人无论门第多高都要进这栋窄巷小楼，经她过目点头才算进了罗斯柴尔德家门，公爵夫人向她屈膝行礼，亲吻她粗糙的手。她不管一分钱生意，却用一栋房子替家族守住了出身。",
       "path": "knowledge/people/gutle-schnapper.md",
       "frontmatter": {
         "id": "person:gutle-schnapper",
@@ -6291,7 +6291,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:guccio-gucci",
       "type": "person",
       "title": "古驰奥·古驰",
-      "summary": "古驰奥·古驰节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
+      "summary": "古驰品牌创始人（1881-1953），1921 年在佛罗伦萨开出第一家以自己姓氏命名的皮具店，材料管制年代用印菱格纹的帆布替代皮革，反而造出经典。他鼓励儿子们互相竞争，股权却绝对平均，三个儿子人人等份，为家族生意操劳多年的长女格里玛尔达在遗嘱里一分股份没有。1953 年他 72 岁去世，没留任何接班安排，女儿起诉争产败诉，古驰后来数十年内斗的种子在这份遗嘱里已经种齐。",
       "path": "knowledge/people/guccio-gucci.md",
       "frontmatter": {
         "id": "person:guccio-gucci",
@@ -6499,7 +6499,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:edsel-ford",
       "type": "person",
       "title": "埃德塞尔·福特",
-      "summary": "埃德塞尔·福特节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "亨利·福特独子（1893-1943），1919 年 1 月 1 日 25 岁就任福特总裁，办公室与父亲的相邻门相通，不在父亲面前做的决定常在下次见面时被推翻。他推动收购林肯，想造一辆美国人的劳斯莱斯，1925 年在董事会提议给 T 型车加装液压刹车被否，A 型车设计大量出自他手，功劳却归在父亲名下。1943 年他先父亲四年去世，成了创始人阴影压垮第二代的最完整标本。",
       "path": "knowledge/people/edsel-ford.md",
       "frontmatter": {
         "id": "person:edsel-ford",
@@ -6525,7 +6525,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:eleanor-clay-ford",
       "type": "person",
       "title": "埃莉诺·克莱·福特",
-      "summary": "埃莉诺·克莱·福特节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "埃德塞尔之妻，丈夫死后成为家族真正的持股重心。1945 年 9 月，公司每月亏损上千万美元、班尼特借老亨利之名把持工厂，她在费尔莱恩庄园书房对公公摊牌：不把公司交给亨利二世，就卖掉自己和孩子们手里的股票。她没有哭诉旧账，把丧夫之痛压缩成一个可执行的股权条件，9 月 21 日董事会通过交接，福特史上最干净的一次权力干预出自这位儿媳之手。",
       "path": "knowledge/people/eleanor-clay-ford.md",
       "frontmatter": {
         "id": "person:eleanor-clay-ford",
@@ -6627,7 +6627,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:david-rockefeller",
       "type": "person",
       "title": "大卫·洛克菲勒",
-      "summary": "大卫·洛克菲勒节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "洛克菲勒第三代五兄弟中最小的一个（1915-2017），哈佛毕业，芝加哥大学经济学博士。1960 年出任大通曼哈顿银行联席 CEO，1969 年独掌，请德鲁克当顾问给老银行装上现代管理架构，1981 年退休时银行资产从他入职时的 48 亿美元涨到 762 亿；1940 年他与四位兄长共同出资设立洛克菲勒兄弟基金，兄弟定期聚会议事，实际承担了家族理事会的功能。兄长们从政、做公益，他替家族守住了金融这一翼。",
       "path": "knowledge/people/david-rockefeller.md",
       "frontmatter": {
         "id": "person:david-rockefeller",
@@ -6678,7 +6678,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:aldo-gucci",
       "type": "person",
       "title": "奥尔多·古驰",
-      "summary": "奥尔多·古驰节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
+      "summary": "古驰奥长子，二代实际掌门，1938 年推动罗马开分店，1953 年亲赴纽约曼哈顿开出意大利之外第一家门店，古驰的国际版图大半出自他手。1974 年他在美国设古驰香水公司，自己和三个儿子拿 80% 股份，只给弟弟鲁道夫留 20%，兄弟心结自此结下；后来儿子保罗向美国国税局实名举报他离岸逃税，1986 年他锒铛入狱。出狱后被迫把剩余约 16% 股份低价卖给 Investcorp，1990 年郁郁而终，享年 84 岁。",
       "path": "knowledge/people/aldo-gucci.md",
       "frontmatter": {
         "id": "person:aldo-gucci",
@@ -6729,7 +6729,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:thomas-j-watson-jr",
       "type": "person",
       "title": "小托马斯·J·沃森",
-      "summary": "小托马斯·J·沃森节点来自《思考者：沃森家族与 IBM 的百年基业》的 first_pass 结构化整理，用于连接这条治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
+      "summary": "老沃森长子（1914-1993），二战空军服役后听了布拉德利将军一句你的归宿应是 IBM，1946 年回公司从副总裁做起，在父亲的当众驳斥和弟弟的平行竞争中熬成接班人。掌舵后他把 IBM 从制表机文化推进计算机时代，1953 年颁布第 4 号政策信，规定招聘晋升不问种族肤色宗教，比民权法案早了 11 年，又用去中心化改革把决策权分到各事业部。1979 至 1981 年他出任美国驻苏联大使；子女无人接班，他坦然把 IBM 交给职业经理人，用所有权和声望替代了经营权。",
       "path": "knowledge/people/thomas-j-watson-jr.md",
       "frontmatter": {
         "id": "person:thomas-j-watson-jr",
@@ -6781,7 +6781,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:john-d-rockefeller-jr",
       "type": "person",
       "title": "小约翰·D·洛克菲勒",
-      "summary": "小约翰·D·洛克菲勒节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "老洛克菲勒独子（1874-1960），家族从产业资本转向制度资本的执行人。1914 年科罗拉多卢德洛矿场惨案把 40 岁的他推上国会听证席和道德审判台，痛定思痛，他请来公关先驱艾维·李，又请麦肯锡·金设计出让矿工自选代表与资方对话的洛克菲勒计划，成了现代劳资关系与公关史的双重经典。此后他把一生投进慈善和家族建制，六个子女里走出副总统、州长与国际银行家，第三代的舞台是他搭起来的。",
       "path": "knowledge/people/john-d-rockefeller-jr.md",
       "frontmatter": {
         "id": "person:john-d-rockefeller-jr",
@@ -6976,7 +6976,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:peter-kamprad",
       "type": "person",
       "title": "彼得·坎普拉德",
-      "summary": "彼得·坎普拉德节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "坎普拉德长子，三兄弟里最低调的一个，成年后长期在英国生活。他与弟弟乔纳斯以少数董事身份进入宜家的基金会体系，刻意不让家族在治理结构中占据绝对优势，同时共同持有并经营百分之百家族所有的 Ikano 集团，用银行、地产和零售合作从侧翼支持宜家。不接管，也不退场，站在制度后面而不是主席台上，是这一代坎普拉德的共同姿态。",
       "path": "knowledge/people/peter-kamprad.md",
       "frontmatter": {
         "id": "person:peter-kamprad",
@@ -7027,7 +7027,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:salomon-mayer-rothschild",
       "type": "person",
       "title": "所罗门·迈尔·罗斯柴尔德",
-      "summary": "所罗门·迈尔·罗斯柴尔德节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "迈尔次子，维也纳分行当家人，五兄弟里最像父亲的一个，善奉承，擅宫廷外交。他与首相梅特涅的共生是家族让权力与自己共享利益那套打法的巅峰，奥地利财政捉襟见肘时，他一句要多少就有多少，都由您支配；时人库贝克讥讽说，梅特涅像风向标，在主战派与所罗门的和平之间摇摆。1848 年革命烧进维也纳、梅特涅倒台，这套把身家系于一个权臣的模式也随之谢幕。",
       "path": "knowledge/people/salomon-mayer-rothschild.md",
       "frontmatter": {
         "id": "person:salomon-mayer-rothschild",
@@ -7053,7 +7053,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:thomas-j-watson-sr",
       "type": "person",
       "title": "托马斯·J·沃森",
-      "summary": "托马斯·J·沃森节点来自《思考者：沃森家族与 IBM 的百年基业》的 first_pass 结构化整理，用于连接这条治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
+      "summary": "IBM 之父（1874-1956），接手一家濒临破产的制表机小厂，用推销员的纪律和 THINK 的信条把它锻造成科技巨擘。他魅力与独断并存：1946 年让退伍归来的长子进管理层、破格入董事会，却迟迟不放权，会议上当众驳斥儿子，又把次子亚瑟安排去掌管全部海外业务，让兄弟平行竞争；年逾七旬仍居权力中枢，直到把小沃森推上总裁磨炼五年，才交出 CEO。身后遗产以遗嘱和信托安排妥帖，遗孀珍妮特在 IBM 董事会一直坐到 1966 年去世。",
       "path": "knowledge/people/thomas-j-watson-sr.md",
       "frontmatter": {
         "id": "person:thomas-j-watson-sr",
@@ -7158,7 +7158,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:zeng-guofan",
       "type": "person",
       "title": "曾国藩",
-      "summary": "曾国藩节点来自《从耕读之家到中兴名臣：曾国藩的传世智慧》的 first_pass 结构化整理，用于连接这条治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
+      "summary": "晚清中兴名臣（1811-1872），湖南湘乡耕读之家出身，组建湘军平定太平天国，把一个普通农家带成百年名门。他治家如治军：手书八本训条，读书以训诂为本、居官以不要钱为本、居家以不晏起为本，规矩落到起床时间和银钱账目上；千里军营中家书不断，修身日课与家中功课相互对账，还提前一步请西方传教士教儿子英文和西学。爵位止于一身，这套写进日常的纪律却让儿子们一个成了外交家、一个成了数学家。",
       "path": "knowledge/people/zeng-guofan.md",
       "frontmatter": {
         "id": "person:zeng-guofan",
@@ -7184,7 +7184,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:zeng-jize",
       "type": "person",
       "title": "曾纪泽",
-      "summary": "曾纪泽节点来自《从耕读之家到中兴名臣：曾国藩的传世智慧》的 first_pass 结构化整理，用于连接这条治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
+      "summary": "曾国藩长子，在父亲中西并举的家教里长大，请进家门的西方传教士教会了他英文。他先后出使英法俄，1880 年前后对俄交涉据理力争，收回被侵占的伊犁等地，被誉为大清第一外交人才，中法战争时又力主抗法。科举世家的儿子靠外语而非八股立身，父亲那套面向时代的教育，在他身上第一次兑现。",
       "path": "knowledge/people/zeng-jize.md",
       "frontmatter": {
         "id": "person:zeng-jize",
@@ -7210,7 +7210,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:zeng-jihong",
       "type": "person",
       "title": "曾纪鸿",
-      "summary": "曾纪鸿节点来自《从耕读之家到中兴名臣：曾国藩的传世智慧》的 first_pass 结构化整理，用于连接这条治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
+      "summary": "曾国藩之子，纪泽之弟，家里科场失意的那一个。父亲没有逼他继续挤科举独木桥，反而支持他钻研西学，他后来出任京师同文馆算学总教习，成为清代知名数学家，娶的是同年进士郭沛霖之女郭筠。一门之内，功名、外交、算学各行其道，曾家的教育不定人生模板，只定品行底线。",
       "path": "knowledge/people/zeng-jihong.md",
       "frontmatter": {
         "id": "person:zeng-jihong",
@@ -7291,7 +7291,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:angela-leong",
       "type": "person",
       "title": "梁安琪",
-      "summary": "梁安琪节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何鸿燊四太太，舞会上结识的舞伴，1980 年代末进门。2009 年 88 岁的何鸿燊在她家中跌倒重伤，赌王暮年的争产风波由此拉开序幕；产业重新划分后，她出任澳博控股联席主席。四房里她进门最晚，拿到的却是旗舰上市公司的经营席位，多房平衡的精巧与代价都写在这个安排里。",
       "path": "knowledge/people/angela-leong.md",
       "frontmatter": {
         "id": "person:angela-leong",
@@ -7367,7 +7367,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:bill-ford",
       "type": "person",
       "title": "比尔·福特",
-      "summary": "比尔·福特节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "福特第四代（1957 年生），普林斯顿和麻省理工出身，1999 年出任董事长，2001 年短暂兼任 CEO。2006 年他对穆拉利说了三句话：福特可能破产，我不是合适的 CEO，希望你来迪尔伯恩接手，自己退守执行董事长。家族仍在，公司优先，这次让位把 1956 年双层股权结构的正确用法演示了一遍：家族不必亲自经营，但决定谁来经营。",
       "path": "knowledge/people/bill-ford.md",
       "frontmatter": {
         "id": "person:bill-ford",
@@ -7393,7 +7393,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:maurizio-gucci",
       "type": "person",
       "title": "毛里齐奥·古驰",
-      "summary": "毛里齐奥·古驰节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
+      "summary": "鲁道夫独子，古驰第三代掌门。1984 年前后他以 2000 万美元收购堂兄保罗的股份、合组授权公司凑足过半表决权，随即让家族法律顾问德索雷召开特别股东大会，罢免伯父阿尔多的董事长职务；掌权后经营连年失血，Investcorp 在董事会逼宫，1993 年他卖光全部股份，公司里从此再无姓古驰的人。1995 年 3 月 27 日清晨，他在米兰办公楼前中枪身亡，46 岁，买凶的是前妻帕特里齐娅·雷贾尼，后者被判 26 年。",
       "path": "knowledge/people/maurizio-gucci.md",
       "frontmatter": {
         "id": "person:maurizio-gucci",
@@ -7448,7 +7448,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:tom-ford",
       "type": "person",
       "title": "汤姆·福特",
-      "summary": "汤姆·福特节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
+      "summary": "古驰重生的设计师，1990 年前后加入负责女装系列，家族出局后与 CEO 德索雷搭档，1994 年执掌创意大权。几年之内他把濒死的古驰重新做成奢侈品界最锋利的品牌，公司 1995 年上市，1999 年靠开云入股挡下 LVMH 的收购。古驰家族三代没做成的事，两个外人做成了，品牌离开家族之后反而释放了更大潜力。",
       "path": "knowledge/people/tom-ford.md",
       "frontmatter": {
         "id": "person:tom-ford",
@@ -7527,7 +7527,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:wang-wenyuan",
       "type": "person",
       "title": "王文渊",
-      "summary": "王文渊节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
+      "summary": "王永庆之弟王永在的长子，台塑第二代，七人决策小组的核心。2006 年创办人兄弟交棒，他出任集团总裁成为实际经营负责人，与出任名义董事长的老臣李志村搭档。堂兄王文洋在百慕大兴讼追索信托资产时他是主要被告，2020 年前后凭王永庆亲笔委托书获不起诉处分，离岸信托安排经司法确认，护产成功。",
       "path": "knowledge/people/wang-wenyuan.md",
       "frontmatter": {
         "id": "person:wang-wenyuan",
@@ -7553,7 +7553,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:wang-yongqing",
       "type": "person",
       "title": "王永庆",
-      "summary": "王永庆节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
+      "summary": "台塑集团创办人（1917-2008），茶农之子，米店起家，1950 年代接下无人问津的 PVC 项目做成石化王国，人称经营之神。他清晨两点半起床做毛巾操，高雄那间不足三坪的董事长办公室四十八年陈设未动；晚年不指定单一继承人，2002 年设七人最高经营会议让二代与职业经理人共治，又把核心股权划归长庚医院等公益机构，不让任何个人绝对控股。2008 年他去世，被逐的长子王文洋跨海兴讼，第四房与三名私生子女随之浮出水面，制度设计和未了的家事同时接受检验。",
       "path": "knowledge/people/wang-yongqing.md",
       "frontmatter": {
         "id": "person:wang-yongqing",
@@ -7579,7 +7579,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:cher-wang",
       "type": "person",
       "title": "王雪红",
-      "summary": "王雪红节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
+      "summary": "王永庆二房杨娇所生的女儿，十几岁就被父亲送到海外独自读书。她没有进台塑，在体系之外创办了宏达电（HTC）等科技公司，台湾商界流传一句话：生女当如王雪红。众多子女里她被公认最像父亲，父亲凌晨起床工作数十年不辍，她清晨五点半起床长跑同样数十年；继承精神而不继承产业，王家最成功的传承发生在集团之外。",
       "path": "knowledge/people/cher-wang.md",
       "frontmatter": {
         "id": "person:cher-wang",
@@ -7629,7 +7629,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:pierre-alexis-dumas",
       "type": "person",
       "title": "皮埃尔-亚历克西·迪马",
-      "summary": "皮埃尔-亚历克西·迪马节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "让-路易之子，第六代直系，2005 年由父亲任命为艺术总监，接过创意大权。他与职业经理人托马斯搭档，一个专注产品创意与文化延续，一个负责集团运营，创意权留在血脉、经营权暂时外放，这套安排撑过了掌门人的代际空档。堂弟阿克塞尔出任 CEO 后，他继续坐镇艺术总监，兄弟俩分掌创意与经营。",
       "path": "knowledge/people/pierre-alexis-dumas.md",
       "frontmatter": {
         "id": "person:pierre-alexis-dumas",
@@ -7655,7 +7655,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:sheng-xuanhuai",
       "type": "person",
       "title": "盛宣怀",
-      "summary": "盛宣怀节点来自《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》的 first_pass 结构化整理，用于连接这条治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
+      "summary": "晚清官督商办体系的操盘手（1844-1916），轮船招商局、电报、汉冶萍、通商银行、北洋大学堂皆出自他手，也是替李鸿章执行围猎、把胡雪岩逼入绝境的对手方。1916 年 4 月 26 日深夜，弥留的他向亲信顾咏铨口授保家之策：家产十分开拆，五份作善举，五份分五房，清查遗产约合白银 1350 万两；这份只分利不分本的信托式设计，很快因受托人辞职而停摆，被子孙折中改回半数分产。四子盛恩颐在赌桌上一夜输掉多处房产，七女盛爱颐告赢兄长拿回七分之一家产，中国近代第一例女性继承权胜诉出自这个家。",
       "path": "knowledge/people/sheng-xuanhuai.md",
       "frontmatter": {
         "id": "person:sheng-xuanhuai",
@@ -7685,7 +7685,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:kokilaben-ambani",
       "type": "person",
       "title": "科基拉本·安巴尼",
-      "summary": "科基拉本·安巴尼节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "迪鲁拜遗孀，一生守着传统主妇的角色，2005 年两个儿子的公开战争几乎撕裂帝国时被迫走到台前，以母亲身份主持分家：穆克什得石化炼油，阿尼尔得电信电力金融。两个女儿在这场分割里几乎没有发声，只在她的安排下象征性获得权益。安巴尼家没有家族宪章，最高仲裁者就是她本人，凭的不是条文，是儿子们对母亲的尊重。",
       "path": "knowledge/people/kokilaben-ambani.md",
       "frontmatter": {
         "id": "person:kokilaben-ambani",
@@ -7736,7 +7736,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:mukesh-ambani",
       "type": "person",
       "title": "穆克什·安巴尼",
-      "summary": "穆克什·安巴尼节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "迪鲁拜长子，2005 年分家拿走约七成资产，包括旗舰信实工业和石化炼油主业。2010 年兄弟废除互不竞争协议后，他重返电信推出 Jio，把信实再度推上亚洲市值之巅；2019 年弟弟因欠爱立信约 55 亿卢比面临监禁，他在最后关头代为付清。吸取父亲无遗嘱之乱的教训，他给阿卡什、伊莎、阿南特按所长分配业务，计划股份平分、经营分工，把传承从悬念变成日程表。",
       "path": "knowledge/people/mukesh-ambani.md",
       "frontmatter": {
         "id": "person:mukesh-ambani",
@@ -7762,7 +7762,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:john-d-rockefeller",
       "type": "person",
       "title": "约翰·D·洛克菲勒",
-      "summary": "约翰·D·洛克菲勒节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "标准石油创始人（1839-1937），生于纽约州清贫之家，父亲是行踪不定的江湖郎中，母亲教他把收入的十分之一捐给教会，记账的习惯从少年记到暮年。1870 年 30 岁的他与弟弟威廉等人以 100 万美元注册资本创立标准石油，垄断美国炼油业四十年，1911 年被最高法院下令拆成 34 家公司；财富的另一半故事是芝加哥大学、洛克菲勒大学和一整套现代慈善机构。他把敬虔、账本和捐赠拴在同一根线上，留给后代的与其说是石油，不如说是处理巨额财富的方法。",
       "path": "knowledge/people/john-d-rockefeller.md",
       "frontmatter": {
         "id": "person:john-d-rockefeller",
@@ -7870,7 +7870,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:roy-e-disney",
       "type": "person",
       "title": "罗伊·E·迪士尼",
-      "summary": "罗伊·E·迪士尼节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
+      "summary": "罗伊·O 之子，家族第二代，两次凭少数股权改写公司命运。1984 年斯坦伯格恶意收购威胁下他站出来，逼走执掌公司的沃尔特女婿米勒，主导请来艾斯纳与威尔斯；此后自己坐镇动画部门，领军《小美人鱼》《美女与野兽》《狮子王》，动画师叫他公司的吉米尼蟋蟀，那只提醒良知的蟋蟀。2003 年 11 月，73 岁的他以辞去董事职务为代价公开发难，发动拯救迪士尼运动，把家族当年亲手挑的 CEO 拉下马；家族早已退出管理层，他演示了所有者如何用价值观继续治理公司。",
       "path": "knowledge/people/roy-e-disney.md",
       "frontmatter": {
         "id": "person:roy-e-disney",
@@ -7896,7 +7896,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:roy-o-disney",
       "type": "person",
       "title": "罗伊·O·迪士尼",
-      "summary": "罗伊·O·迪士尼节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
+      "summary": "沃尔特的哥哥（1893-1971），迪士尼联合创始人，帝国的账房与压舱石。弟弟每一次技术冒险背后都是他在精打细算，彩色动画既领潮流又不烧穿财务，靠的正是这对互补搭档；1966 年沃尔特病逝，他推迟退休扛起佛罗里达工程，坚持把度假区冠上弟弟的名字。1971 年 10 月华特迪士尼世界开幕，78 岁的他站在城堡前把功劳全数归给弟弟，两个月后与世长辞，像完成使命一样退场。",
       "path": "knowledge/people/roy-o-disney.md",
       "frontmatter": {
         "id": "person:roy-o-disney",
@@ -8003,7 +8003,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:alan-mulally",
       "type": "person",
       "title": "艾伦·穆拉利",
-      "summary": "艾伦·穆拉利节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "波音商用飞机 CEO 出身的工程师，习惯用白板把问题拆开，2006 年 9 月 5 日接受比尔·福特邀请出任福特 CEO，此前他一度拒绝。上任两个月他做出最大决定：把福特全部资产连同蓝色椭圆商标抵押出去，借入 236 亿美元，这笔提前储备的现金让福特在 2008 年危机中不必接受政府救助。他后来多次说，说服自己接手的关键，正是家族控制带来的稳定性。",
       "path": "knowledge/people/alan-mulally.md",
       "frontmatter": {
         "id": "person:alan-mulally",
@@ -8079,7 +8079,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:ingvar-kamprad",
       "type": "person",
       "title": "英格瓦·坎普拉德",
-      "summary": "英格瓦·坎普拉德节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "宜家创始人（1926-2018）。1955 年瑞典家具行业协会集体断供，围剿这个 29 岁的降价者，把他逼上自主设计、自建体系之路；1976 年他写下《一个家具商的宣言》，后来更把宜家所有权整体注入英卡、英特罗哥两个基金会，家族只留外围的 Ikano 集团，为的是提前拆掉三个儿子围绕接班明争暗斗的可能。遗嘱里养女安妮卡只得一笔象征性遗产，三个儿子继承的也只是 Ikano 股权和基金会的管理责任；2013 年 87 岁的他退出所有董事会，把公司彻底交还给那套结构。",
       "path": "knowledge/people/ingvar-kamprad.md",
       "frontmatter": {
         "id": "person:ingvar-kamprad",
@@ -8191,7 +8191,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:fan-zhongyan",
       "type": "person",
       "title": "范仲淹",
-      "summary": "范仲淹节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "北宋名臣（989-1052），两岁丧父随母改嫁，29 岁中进士后回苏州请求把姓氏从朱改回范，族人疑他来分家产，他再三保证不图财产才被接纳。1050 年，62 岁的他把一生省下的俸禄赏赐在吴县长洲买下一千余亩水田设为义田，不归自己也不归儿子，归苏州范氏全族，计口给米、嫁娶丧葬皆有定数，亲手写下十三条《义庄规矩》。《告子弟书》里他把道理讲透：于吾固有亲疏，然祖宗视之，均是子孙。把家族变成超越任何个人的抽象主体，这份契约由此活了九百年。",
       "path": "knowledge/people/fan-zhongyan.md",
       "frontmatter": {
         "id": "person:fan-zhongyan",
@@ -8217,7 +8217,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:fan-yanqiao",
       "type": "person",
       "title": "范烟桥",
-      "summary": "范烟桥节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "范仲淹第二十八世孙（1894-1967），江南知名文人，写过《唐伯虎点秋香》《珍珠塔》等剧本，也是范氏义庄最后一任掌庄人。1949 年 4 月苏州解放后第二天，他到军管会报到，把义庄全部账册、田产登记簿和《义庄规矩》刻石拓本一一交清，签字画押。从 1050 年立庄到这一刻，整整 899 年，一份家族契约的终局由他平静办完。",
       "path": "knowledge/people/fan-yanqiao.md",
       "frontmatter": {
         "id": "person:fan-yanqiao",
@@ -8243,7 +8243,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:fan-chunren",
       "type": "person",
       "title": "范纯仁",
-      "summary": "范纯仁节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "范仲淹次子，后来两度拜相，义庄真正的制度化者。父亲身后他做了三件事：1064 年上书朝廷，请求州县官府受理义庄违规案件，给家规接上国家的执行力；把《义庄规矩》刻上石头，添八个字，子子孙孙遵承勿替，并立下后代可增新条、不得改原十三条的规矩；两次拜相期间所得奉赐，皆以广义庄。父亲立了契约，他给契约上了锁。",
       "path": "knowledge/people/fan-chunren.md",
       "frontmatter": {
         "id": "person:fan-chunren",
@@ -8269,7 +8269,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:rong-zongjing",
       "type": "person",
       "title": "荣宗敬",
-      "summary": "荣宗敬节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "荣家兄弟中的兄长，与弟弟荣德生从钱庄学徒起步，在无锡和上海建起遍布大江南北的面粉厂与纱厂，做成面粉大王、棉纱大王，鼎盛时衣被半个中国、食供万家餐桌。1937 年底上海沦陷，他严辞拒绝汪伪政权让他出任维持会头目的拉拢，1938 年初病逝。兄弟同心不分家的第一代格局，是荣氏三代各领风骚的起点。",
       "path": "knowledge/people/rong-zongjing.md",
       "frontmatter": {
         "id": "person:rong-zongjing",
@@ -8295,7 +8295,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:rong-deseng",
       "type": "person",
       "title": "荣德生",
-      "summary": "荣德生节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "荣宗敬之弟，兄弟档里持重的一半，面粉与棉纱帝国的共同缔造者。1938 年 5 月，年逾花甲的他返回沦陷的上海，宣布退出一切公开商务、闭门谢客，以收藏古籍书画度日，暗中支持抗日；日方图谋吞并申新纱厂，汪伪外长褚民谊设宴威逼利诱，他称病不见，派次子荣尔仁赴宴当面回绝。不合作也不出逃，用蛰伏同时保全企业和民族立场，这一手是荣家战时的定海针。",
       "path": "knowledge/people/rong-deseng.md",
       "frontmatter": {
         "id": "person:rong-deseng",
@@ -8321,7 +8321,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:rong-zhijian",
       "type": "person",
       "title": "荣智健",
-      "summary": "荣智健节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "荣毅仁之子（1942 年生），工科训练出身的第三代，执掌中信泰富，凭业绩连续数年问鼎福布斯中国富豪榜。2008 年金融危机中，中信泰富因澳元累计期权巨亏 155 亿港元爆出炒汇巨亏案，他随即辞职退场；家族在中信体系的特殊影响力自此稀释，2014 年中信整体上市后彻底变为纯国企。此后他以隆源企业控股为平台低调重组家族投资，红色资本家的第三代回到了纯粹市场玩家的位置。",
       "path": "knowledge/people/rong-zhijian.md",
       "frontmatter": {
         "id": "person:rong-zhijian",
@@ -8347,7 +8347,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:rong-yiren",
       "type": "person",
       "title": "荣毅仁",
-      "summary": "荣毅仁节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "荣德生之子（1916-2005），圣约翰大学出身，一口流利英语。1950 年代他主动配合三大改造把家业交给国家，成为最著名的红色资本家；文革中被抄家批斗、下放扫地，周恩来一句荣毅仁一定要保护好，让纺织部以军管名义派工作组进驻荣宅护住全家。1979 年他创办中信集团，为改革开放试水金融与外贸，晚年官至国家副主席；企业家家族与国家的关系这道百年考题，他交出了自己那一代的答案。",
       "path": "knowledge/people/rong-yiren.md",
       "frontmatter": {
         "id": "person:rong-yiren",
@@ -8373,7 +8373,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:thierry-hermes",
       "type": "person",
       "title": "蒂埃里·爱马仕",
-      "summary": "蒂埃里·爱马仕节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "爱马仕创始人，1801 年生于德国克雷费尔德，客栈老板家的第六个孩子，新教徒。1837 年他在巴黎第九区开出一间马具工坊，为上流社会打造马鞍缰绳，据说客户里有拿破仑三世和俄国沙皇。低调、轻盈、经久耐用，这几条马具时代立下的手艺标准，被后代守了六代，成了这家公司的骨架。",
       "path": "knowledge/people/thierry-hermes.md",
       "frontmatter": {
         "id": "person:thierry-hermes",
@@ -8425,7 +8425,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:james-mayer-rothschild",
       "type": "person",
       "title": "詹姆斯·迈尔·罗斯柴尔德",
-      "summary": "詹姆斯·迈尔·罗斯柴尔德节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "迈尔幼子，巴黎行当家人，五兄弟里最时髦、最会社交，海涅叫他右岸的大拉比。1848 年革命把五行十年的资本利润率压到 1.8%，他靠雄厚清偿力和五国分散的结构在废墟中纹丝不动；1860 年加里波第兵临那不勒斯，他判断旧王朝大势已去，拦下给国王的救命贷款，还警告维也纳不要出钱，亲手关掉了五箭中的第一支。动乱发财是外界的想象，这个家族真正押注的从来是秩序的延续。",
       "path": "knowledge/people/james-mayer-rothschild.md",
       "frontmatter": {
         "id": "person:james-mayer-rothschild",
@@ -8502,7 +8502,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:jean-louis-dumas",
       "type": "person",
       "title": "让-路易·迪马",
-      "summary": "让-路易·迪马节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "爱马仕第五代掌门，1978 年从父亲罗伯特手中接棒，天生的改革者。1984 年巴黎飞伦敦的航班上，邻座的简·柏金抱怨手袋一翻东西散落一地，他由此设计出柏金包；任内年销售额从约 5000 万美元涨到 1990 年的 4.6 亿，1993 年推动公司在巴黎上市而家族牢控多数股份。2005 年他把创意大权交给儿子皮埃尔-亚历克西，把运营交给职业经理人托马斯，提前铺好了自己身后的双轨。",
       "path": "knowledge/people/jean-louis-dumas.md",
       "frontmatter": {
         "id": "person:jean-louis-dumas",
@@ -8554,7 +8554,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:dhanin-chearavanont",
       "type": "person",
       "title": "谢国民",
-      "summary": "谢国民节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
+      "summary": "谢易初四子（1939 年生），正大真正的扩张引擎，大哥谢正民看他卓有成效，主动让贤腾位。他把从美国学来的契约养殖搬进泰国乡村，公司包贷款、鸡苗、饲料、兽医并保底价回收，农户从养几十只鸡变成养上万只；1988 年拿下 7-Eleven 泰国特许经营权，1990 年代投 4.5 亿美元建上海正大广场，1997 年在浦东开出大陆第一家大型综合超市易初莲花，以父亲之名命名。2017 年 78 岁交棒，长子谢吉人任董事长、三子谢镕仁任 CEO，自己退居资深董事长，兑现了集团十年一代新陈代谢的理念。",
       "path": "knowledge/people/dhanin-chearavanont.md",
       "frontmatter": {
         "id": "person:dhanin-chearavanont",
@@ -8580,7 +8580,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:chia-ek-chor",
       "type": "person",
       "title": "谢易初",
-      "summary": "谢易初节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
+      "summary": "正大集团创始人（1896 年生于潮州），地主家庭出身，父亲吸鸦片早逝后以长子之身撑起五个弟妹，少年下南洋。1921 年他在曼谷唐人街盘下一间小铺，挂牌正大庄卖菜种，以光明正大四字立店训，生意做大后把弟弟谢少飞从国内叫来合伙。四个儿子依次取名正民、大民、中民、国民，店号与家国一起写进了下一代的名字。",
       "path": "knowledge/people/chia-ek-chor.md",
       "frontmatter": {
         "id": "person:chia-ek-chor",
@@ -8632,7 +8632,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:bei-runsheng",
       "type": "person",
       "title": "贝润生",
-      "summary": "贝润生节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
+      "summary": "贝氏第十三世孙（1870-1945），出身人丁凋零的蘅山支，从小吃族中义庄发的月米长大，16 岁带着义庄资助置办的行囊去上海颜料行当学徒。后来他做成了上海滩的颜料大王，1917 年花 1 万银元买下荒废的狮子林，再投约 80 万银元购入周边上千亩地产整修一新；上世纪 30 年代又捐出 1500 亩田产设承训义庄，狮子林一并划入，用作全族共享的祠堂和学校。义庄养大的孩子回头再办义庄，苏州人从此以狮子林代称贝家。",
       "path": "knowledge/people/bei-runsheng.md",
       "frontmatter": {
         "id": "person:bei-runsheng",
@@ -8658,7 +8658,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:pei-tsu-yee",
       "type": "person",
       "title": "贝祖诒",
-      "summary": "贝祖诒节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
+      "summary": "贝理泰之子，贝聿铭之父，民国金融界的顶尖银行家。1914 年入中国银行北京总行，在粤港任上扩充外汇业务、筹设海外分行，打破汇丰等外资行对中国外汇的垄断，1933 年作为委员深度参与废两改元币制改革，官至中国银行副总经理、中央银行总裁。时局翻覆之际，这位手握国家金库钥匙的人远走美国时分文未取，此后转战国际金融界，用一次地理转移替家族避开了系统性风险。",
       "path": "knowledge/people/pei-tsu-yee.md",
       "frontmatter": {
         "id": "person:pei-tsu-yee",
@@ -8684,7 +8684,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:i-m-pei",
       "type": "person",
       "title": "贝聿铭",
-      "summary": "贝聿铭节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
+      "summary": "贝祖诒之子，贝氏第十五代（1917-2019）。1935 年赴美求学，宾大转麻省理工，再入哈佛师从格罗皮乌斯，1955 年自立事务所，1964 年被杰奎琳·肯尼迪从一众大师中选中设计肯尼迪总统图书馆，此后有卢浮宫玻璃金字塔、香港中银大厦和回赠故乡的苏州博物馆，102 岁在纽约辞世。家族的银行和园林都没能带出时代，他用建筑把贝家的名字重新写回了苏州和世界。",
       "path": "knowledge/people/i-m-pei.md",
       "frontmatter": {
         "id": "person:i-m-pei",
@@ -8710,7 +8710,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:michael-eisner",
       "type": "person",
       "title": "迈克尔·艾斯纳",
-      "summary": "迈克尔·艾斯纳节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
+      "summary": "1984 年从派拉蒙总裁任上被迪士尼请来的职业经理人，与威尔斯搭档开启第二春：创立试金石影业、收购 ABC 电视网、从《小美人鱼》开始的动画文艺复兴，十年间市值涨了数十倍。后期他重金聘来奥维茨又在 16 个月后高额赔偿辞退，逼走卡森伯格养出对手梦工厂，股价停滞多年；2003 年罗伊小迪士尼发动股东运动，他被赶下台。迪士尼这个姓氏已不在管理层，却依然决定谁配掌管这块招牌，他的进退是这条规律最完整的证明。",
       "path": "knowledge/people/michael-eisner.md",
       "frontmatter": {
         "id": "person:michael-eisner",
@@ -8736,7 +8736,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:mayer-amschel-rothschild",
       "type": "person",
       "title": "迈尔·阿姆谢尔·罗斯柴尔德",
-      "summary": "迈尔·阿姆谢尔·罗斯柴尔德节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "法兰克福犹太巷的古钱币商，罗斯柴尔德王朝的奠基人。他与黑森财政官布代鲁斯签下秘密合伙协议，让替自己说话的人分享利益，由此接住欧洲最富君主威廉九世的私库；1812 年临终前立下家族真正的宪章：五子平分生意，合伙权只传男系，女儿女婿连账目都无权过问，叛离者只能按压低的估值拿法定最低份额。遗嘱里反复叮嘱的那个词是团结，后来纹章上攥住五支箭的那只手，就是他。",
       "path": "knowledge/people/mayer-amschel-rothschild.md",
       "frontmatter": {
         "id": "person:mayer-amschel-rothschild",
@@ -8762,7 +8762,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:dhirubhai-ambani",
       "type": "person",
       "title": "迪鲁拜·安巴尼",
-      "summary": "迪鲁拜·安巴尼节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "信实集团创始人，17 岁远赴亚丁投奔兄长谋生，据说靠熔炼含银量高于面值的也门银币赚到第一桶金。回国后从进口聚酯纱线起家，靠深入政制肌理的政商网络拿许可证、打价格战，80 年代的涤纶大战把老牌对手 Bombay Dyeing 挤下擂台，把信实做成印度首屈一指的工业集团。2002 年他去世，未留遗嘱，也无接班安排，两个儿子的战争随即开场。",
       "path": "knowledge/people/dhirubhai-ambani.md",
       "frontmatter": {
         "id": "person:dhirubhai-ambani",
@@ -8908,7 +8908,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:robert-kuok",
       "type": "person",
       "title": "郭鹤年",
-      "summary": "郭鹤年节点来自《马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生》的 first_pass 结构化整理，用于连接这条治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
+      "summary": "亚洲糖王（1923 年生），在大家族里受冷落的童年养出一辈子的谨慎低调。1949 年母亲郑格如召集两房五人合股组建郭氏兄弟有限公司，25 岁的他名义上只是执行董事兼公司秘书，实际已是主心骨；此后从米面粮油做到垄断一国之糖，一座糖厂四十余年赚出 30 亿马币，又办出香格里拉酒店，1968 年应邀出任马来西亚国家航运公司董事局主席。改革开放后他率先押注北京国贸中心，谈判里拍过桌子，被副总理当面挽留，最终建成中国最大的中外合资房产项目，为整个华商群体趟出了进内地的路。",
       "path": "knowledge/people/robert-kuok.md",
       "frontmatter": {
         "id": "person:robert-kuok",
@@ -8960,7 +8960,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:axel-dumas",
       "type": "person",
       "title": "阿克塞尔·迪马",
-      "summary": "阿克塞尔·迪马节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "让-路易的侄子，爱马仕第六代掌门，1970 年生，法律和政治学出身，投行历练多年，母亲米歇尔生前是爱马仕副总经理。2010 年 LVMH 突袭持股 17.1%，家族结成锁定过半股份的 H51 联盟并对簿公堂，他说这场股权保卫战是我们这一代人的战役；2012 年他出任联合 CEO，2014 年正式接棒，爱马仕重回家族人掌门的传统。任内他坚持不请明星代言、不铺广告：我们没有形象政策，只有产品政策。",
       "path": "knowledge/people/axel-dumas.md",
       "frontmatter": {
         "id": "person:axel-dumas",
@@ -8986,7 +8986,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:amschel-mayer-rothschild",
       "type": "person",
       "title": "阿姆谢尔·迈尔·罗斯柴尔德",
-      "summary": "阿姆谢尔·迈尔·罗斯柴尔德节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "迈尔长子，五支箭里留守法兰克福总行的那一支，家族的对外发言人，专司给各国君主写慰问与祝贺。他最传统也最谨慎，内森重仓英国公债时他吓坏了，反复写信骂弟弟把全部身家押在单一证券上极其愚蠢；每年公开捐出两万古尔登，相当于歌德全家年收入的九倍，吃饭时窗外飞进乞讨信，他几乎下意识塞进一枚金币扔回去。1822 年与四个兄弟同受奥地利世袭男爵。",
       "path": "knowledge/people/amschel-mayer-rothschild.md",
       "frontmatter": {
         "id": "person:amschel-mayer-rothschild",
@@ -9012,7 +9012,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:anil-ambani",
       "type": "person",
       "title": "阿尼尔·安巴尼",
-      "summary": "阿尼尔·安巴尼节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "迪鲁拜次子，2005 年分家分得电信、电力、金融等新兴业务，约占三成。此后杠杆扩张接连失手，信实通信从被寄予厚望到拖垮整个 ADAG 集团，多家旗舰公司走向破产重组；2019 年他因拖欠爱立信约 55 亿卢比险些被最高法院送进监狱，靠兄长代付脱身。同一场分家，两种命运，资产怎么切，本身就在改写继承者的轨迹。",
       "path": "knowledge/people/anil-ambani.md",
       "frontmatter": {
         "id": "person:anil-ambani",
@@ -9190,7 +9190,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:mathias-kamprad",
       "type": "person",
       "title": "马蒂亚斯·坎普拉德",
-      "summary": "马蒂亚斯·坎普拉德节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "坎普拉德幼子，年轻时被派到法国宜家门店从仓库搬家具干起，在伦敦银行实习时刻意隐藏自己与宜家的关系。2013 年他接替非家族人士路德维格松出任 Inter IKEA Holding 董事长，宜家创立 70 年来第一次由创始人之外的家族成员坐上这个位置。他上任时公开承诺严格遵循父亲定下的长期战略，做的是战略监护人和文化传承者，不是经营者。",
       "path": "knowledge/people/mathias-kamprad.md",
       "frontmatter": {
         "id": "person:mathias-kamprad",
@@ -9216,7 +9216,7 @@ window.KNOWLEDGE_DATA = {
       "id": "person:takagi-akitsuna",
       "type": "person",
       "title": "高木显统",
-      "summary": "高木显统节点来自《从“朝日鹰”到“十四代”：高木酒造家族的四百年传承》的 first_pass 结构化整理，用于连接这条治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
+      "summary": "山形高木酒造第十五代传人，东京农业大学酿造学科出身，那是父亲高木辰五郎早早与他商定的路。1993 年家业下滑、外聘杜氏也无力回天，25 岁的他接过杜氏之位，蔵元之子亲自站到酒槽边，1994 年春天酿出人生第一批酒，以十四代为名的新系列一举翻身，成了日本清酒界一瓶难求的幻之酒。四百年酒藏由此改写传承范式：继承人不是账房里的东家，是酒窖里的匠人。",
       "path": "knowledge/people/takagi-akitsuna.md",
       "frontmatter": {
         "id": "person:takagi-akitsuna",
@@ -9267,13 +9267,13 @@ window.KNOWLEDGE_DATA = {
     {
       "id": "company:bw-group",
       "type": "company",
-      "title": "BW Group",
-      "summary": "包氏家族后续航运与能源业务平台，体现第三代延续。",
+      "title": "BW 集团",
+      "summary": "前身是包玉刚 1955 年在香港创立的环球航运，靠长租约加银行融资的金融式打法做成世界最大独立船队。包玉刚 1989 年把核心资产装入家族信托、按四房女儿分块托付，航运交给长女包陪庆与女婿苏海文一支；这一支 2003 年并购挪威船东 Bergesen，整合为总部在新加坡的 BW 集团，现由外孙苏文骏执掌。船王没有儿子，船队却传到了第三代。",
       "path": "knowledge/companies/bw-group.md",
       "frontmatter": {
         "id": "company:bw-group",
         "type": "company",
-        "title": "BW Group",
+        "title": "BW 集团",
         "source_stories": [
           "story:pao-family"
         ],
@@ -9294,98 +9294,10 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "company:exor",
-      "type": "company",
-      "title": "EXOR",
-      "summary": "阿涅利家族控股平台，用于维持跨产业所有权和家族守门角色。",
-      "path": "knowledge/companies/exor.md",
-      "frontmatter": {
-        "id": "company:exor",
-        "type": "company",
-        "title": "EXOR",
-        "source_stories": [
-          "story:agnelli"
-        ],
-        "families": [
-          "family:agnelli-family"
-        ],
-        "industries": [
-          "投资控股"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "company:edmond-de-rothschild-group",
-      "type": "company",
-      "title": "Edmond de Rothschild Group",
-      "summary": "Edmond de Rothschild Group节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
-      "path": "knowledge/companies/edmond-de-rothschild-group.md",
-      "frontmatter": {
-        "id": "company:edmond-de-rothschild-group",
-        "type": "company",
-        "title": "Edmond de Rothschild Group",
-        "source_stories": [
-          "story:rothschild"
-        ],
-        "families": [
-          "family:rothschild-family"
-        ],
-        "related_concepts": [
-          "concept:family-control-unity",
-          "concept:family-constitution",
-          "concept:credit-capital"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "industries": [
-          "银行",
-          "公债",
-          "跨国家族"
-        ]
-      }
-    },
-    {
-      "id": "company:gucci",
-      "type": "company",
-      "title": "Gucci",
-      "summary": "Gucci节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
-      "path": "knowledge/companies/gucci.md",
-      "frontmatter": {
-        "id": "company:gucci",
-        "type": "company",
-        "title": "Gucci",
-        "source_stories": [
-          "story:gucci"
-        ],
-        "families": [
-          "family:gucci-family"
-        ],
-        "related_concepts": [
-          "concept:family-conflict-as-innovation",
-          "concept:succession-planning-gap",
-          "concept:professionalization"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "industries": [
-          "奢侈品",
-          "时尚"
-        ]
-      }
-    },
-    {
       "id": "company:h51",
       "type": "company",
       "title": "H51 家族控股",
-      "summary": "H51 家族控股节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "2010 年 LVMH 亮出暗购的 17.1% 爱马仕股份后，五十多名家族股东把超过半数股权注入的一致行动联盟，名字就叫 H51，承诺二十年锁仓。堂表亲中唯一拒绝加入的尼古拉·皮埃什，正是把股份卖给对手的那个缺口。靠这道防线加上监管调查，LVMH 2014 年被迫把持股分派给自家股东、鸣金收兵；一场偷袭，反而把分散六代的家族股权重新拧成一股绳。",
       "path": "knowledge/companies/h51.md",
       "frontmatter": {
         "id": "company:h51",
@@ -9412,72 +9324,10 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "company:htc",
-      "type": "company",
-      "title": "HTC",
-      "summary": "HTC节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
-      "path": "knowledge/companies/htc.md",
-      "frontmatter": {
-        "id": "company:htc",
-        "type": "company",
-        "title": "HTC",
-        "source_stories": [
-          "story:wang-yongqing"
-        ],
-        "families": [
-          "family:wang-yongqing-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:professionalization",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "industries": [
-          "石化",
-          "制造",
-          "医疗"
-        ]
-      }
-    },
-    {
-      "id": "company:ibm",
-      "type": "company",
-      "title": "IBM",
-      "summary": "IBM节点来自《思考者：沃森家族与 IBM 的百年基业》的 first_pass 结构化整理，用于连接这条治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
-      "path": "knowledge/companies/ibm.md",
-      "frontmatter": {
-        "id": "company:ibm",
-        "type": "company",
-        "title": "IBM",
-        "source_stories": [
-          "story:watson-ibm"
-        ],
-        "families": [
-          "family:watson-family"
-        ],
-        "related_concepts": [
-          "concept:professionalization",
-          "concept:founder-shadow",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "industries": [
-          "科技",
-          "计算机",
-          "企业服务"
-        ]
-      }
-    },
-    {
       "id": "company:ingka-foundation",
       "type": "company",
       "title": "INGKA 基金会",
-      "summary": "INGKA 基金会节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "坎普拉德 1982 年在荷兰设立的基金会，名字取自他姓名的缩写，持有运营全球绝大多数宜家门店的英格卡集团。它让宜家零售主体不存在可分割、可出售的家族股份：继承时无产可析，恶意收购无从下手；批评者则始终追问这套结构的避税与透明度。永续经营的制度底座和外界的质疑，装在同一部「荷兰钟表」里。",
       "path": "knowledge/companies/ingka-foundation.md",
       "frontmatter": {
         "id": "company:ingka-foundation",
@@ -9538,7 +9388,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:interogo-foundation",
       "type": "company",
       "title": "Interogo 基金会",
-      "summary": "Interogo 基金会节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "坎普拉德家族在列支敦士登设立的基金会，通过英特宜家集团握有宜家的品牌、概念与商标，全球每家宜家门店都要按销售额向它缴纳百分之三的特许经营费。它与荷兰的英卡基金会分掌品牌与门店，两权分离，任何一方都无法单独变卖宜家。坎普拉德把公司拆成了谁也带不走的形状。",
       "path": "knowledge/companies/interogo-foundation.md",
       "frontmatter": {
         "id": "company:interogo-foundation",
@@ -9565,105 +9415,15 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "company:jio",
-      "type": "company",
-      "title": "Jio",
-      "summary": "Jio节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
-      "path": "knowledge/companies/jio.md",
-      "frontmatter": {
-        "id": "company:jio",
-        "type": "company",
-        "title": "Jio",
-        "source_stories": [
-          "story:ambani"
-        ],
-        "families": [
-          "family:ambani-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
-          "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "industries": [
-          "能源",
-          "电信",
-          "零售"
-        ]
-      }
-    },
-    {
-      "id": "company:kirkbi",
-      "type": "company",
-      "title": "KIRKBI",
-      "summary": "乐高家族控股平台，承接长期所有者和家族守门角色。",
-      "path": "knowledge/companies/kirkbi.md",
-      "frontmatter": {
-        "id": "company:kirkbi",
-        "type": "company",
-        "title": "KIRKBI",
-        "source_stories": [
-          "story:lego"
-        ],
-        "families": [
-          "family:kirk-kristiansen-family"
-        ],
-        "industries": [
-          "家族控股"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "company:lotus",
-      "type": "company",
-      "title": "Lotus",
-      "summary": "Lotus节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
-      "path": "knowledge/companies/lotus.md",
-      "frontmatter": {
-        "id": "company:lotus",
-        "type": "company",
-        "title": "Lotus",
-        "source_stories": [
-          "story:cp-group"
-        ],
-        "families": [
-          "family:cp-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:family-control-unity",
-          "concept:related-diversification"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "industries": [
-          "农牧",
-          "食品",
-          "零售"
-        ]
-      }
-    },
-    {
       "id": "company:nm-rothschild-and-sons",
       "type": "company",
-      "title": "N M Rothschild & Sons",
-      "summary": "N M Rothschild & Sons节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "title": "N M 罗斯柴尔德父子银行",
+      "summary": "内森·罗斯柴尔德在拿破仑战争年代于伦敦新庭创立的银行，五支箭里最锋利的一支，靠为英国政府输送战争资金和跨国金银调度奠定家族的金融地位。此后近两百年它始终由男系合伙人执掌，是家族保密与联姻传统的大本营；本世纪初与巴黎分支整合，成为今日罗斯柴尔德公司的伦敦根系。银行名字里写着「父子」，也写尽了这个家族的继承规则。",
       "path": "knowledge/companies/nm-rothschild-and-sons.md",
       "frontmatter": {
         "id": "company:nm-rothschild-and-sons",
         "type": "company",
-        "title": "N M Rothschild & Sons",
+        "title": "N M 罗斯柴尔德父子银行",
         "source_stories": [
           "story:rothschild"
         ],
@@ -9717,13 +9477,13 @@ window.KNOWLEDGE_DATA = {
     {
       "id": "company:rit-capital-partners",
       "type": "company",
-      "title": "RIT Capital Partners",
-      "summary": "RIT Capital Partners节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "title": "RIT 资本合伙",
+      "summary": "雅各布·罗斯柴尔德 1980 年与堂兄伊夫林决裂、离开家族银行后执掌的投资信托，后来以 RIT 资本合伙之名在伦敦上市，成为他独立于 N M 罗斯柴尔德的事业根据地。男系合伙制留不住最有野心的合伙人，这场分裂正是家族封闭治理代价的注脚。同一个姓氏，从此在伦敦金融城挂着两块互不相干的招牌。",
       "path": "knowledge/companies/rit-capital-partners.md",
       "frontmatter": {
         "id": "company:rit-capital-partners",
         "type": "company",
-        "title": "RIT Capital Partners",
+        "title": "RIT 资本合伙",
         "source_stories": [
           "story:rothschild"
         ],
@@ -9743,72 +9503,13 @@ window.KNOWLEDGE_DATA = {
           "公债",
           "跨国家族"
         ]
-      }
-    },
-    {
-      "id": "company:rothschild-and-co",
-      "type": "company",
-      "title": "Rothschild & Co",
-      "summary": "Rothschild & Co节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
-      "path": "knowledge/companies/rothschild-and-co.md",
-      "frontmatter": {
-        "id": "company:rothschild-and-co",
-        "type": "company",
-        "title": "Rothschild & Co",
-        "source_stories": [
-          "story:rothschild"
-        ],
-        "families": [
-          "family:rothschild-family"
-        ],
-        "related_concepts": [
-          "concept:family-control-unity",
-          "concept:family-constitution",
-          "concept:credit-capital"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "industries": [
-          "银行",
-          "公债",
-          "跨国家族"
-        ]
-      }
-    },
-    {
-      "id": "company:stellantis",
-      "type": "company",
-      "title": "Stellantis",
-      "summary": "菲亚特克莱斯勒与 PSA 合并后的汽车集团，是阿涅利家族产业重组的结果之一。",
-      "path": "knowledge/companies/stellantis.md",
-      "frontmatter": {
-        "id": "company:stellantis",
-        "type": "company",
-        "title": "Stellantis",
-        "source_stories": [
-          "story:agnelli"
-        ],
-        "families": [
-          "family:agnelli-family"
-        ],
-        "industries": [
-          "汽车"
-        ],
-        "related_concepts": [
-          "concept:professionalization",
-          "concept:industrial-integration"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
       }
     },
     {
       "id": "company:citic-pacific",
       "type": "company",
       "title": "中信泰富",
-      "summary": "中信泰富节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "荣智健依托中信香港在港股打造的红筹旗舰，凭基建、航空、地产的出色业绩让他连续数年问鼎福布斯中国富豪榜，荣家第三代在市场化年代重新登顶。2008 年澳元累计期权巨亏逾百亿港元，荣智健 2009 年辞任主席，2014 年中信集团整体注入上市平台后，家族印记被彻底稀释。荣家三代与国家资本的共生关系，在这家公司走到了终点。",
       "path": "knowledge/companies/citic-pacific.md",
       "frontmatter": {
         "id": "company:citic-pacific",
@@ -9839,7 +9540,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:bank-of-china",
       "type": "company",
       "title": "中国银行",
-      "summary": "中国银行节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
+      "summary": "1912 年由大清银行改组而来，民国年间的发钞与外汇主力行。贝祖贻 1914 年进北京总行，在广东、香港分行任上大力拓展国外汇兑，打破汇丰对中国外汇业务的垄断，1933 年又深度参与废两改元币制改革。对苏州贝氏而言，这家银行是「金融世家」名号的主舞台：家族靠专业能力而非产业所有权立足，声望随职位走，也随时代走。",
       "path": "knowledge/companies/bank-of-china.md",
       "frontmatter": {
         "id": "company:bank-of-china",
@@ -9870,7 +9571,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:toyota",
       "type": "company",
       "title": "丰田汽车",
-      "summary": "丰田汽车节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
+      "summary": "1937 年从丰田自动织机的汽车部独立而来，丰田喜一郎创办。1950 年经营危机中裁员四分之一，喜一郎率全体董事引咎辞职，两年后郁郁而终，家族用创始人的退场换来公司存续；1995 到 2009 年连续三任职业经理人执掌，直到丰田章男回归，在美国国会听证席上以「我的姓氏印在每一辆车上」为公司担保。姓氏与产品互为抵押，是丰田式家族治理的核心。",
       "path": "knowledge/companies/toyota.md",
       "frontmatter": {
         "id": "company:toyota",
@@ -9901,7 +9602,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:toyota-industries",
       "type": "company",
       "title": "丰田自动织机",
-      "summary": "丰田自动织机节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
+      "summary": "发明家丰田佐吉 1926 年创立的织机公司，丰田集团的母体；两年前问世的 G 型自动织机内含「自働化」思想，机器有异常就自动停下，把人从盯机器的劳役中解放出来。儿子喜一郎在公司里设立汽车部，后来独立成丰田汽车；把织机专利卖给英国普拉特公司换来的十万英镑，成了造车的第一桶金。一台织机里，已经装着日后丰田生产方式的灵魂。",
       "path": "knowledge/companies/toyota-industries.md",
       "frontmatter": {
         "id": "company:toyota-industries",
@@ -9932,7 +9633,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:wilmar",
       "type": "company",
       "title": "丰益国际",
-      "summary": "丰益国际节点来自《马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生》的 first_pass 结构化整理，用于连接这条治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
+      "summary": "郭鹤年之侄郭孔丰 1991 年与印尼伙伴联合创办的农业综合企业，2007 年与郭氏集团的粮油资产合并后成为亚洲领先的粮油加工集团，在新加坡上市。中国厨房里的金龙鱼食用油，就出自它旗下的益海嘉里。郭家把粮油版图交给这位白手起家的侄辈打理：血缘之外，能力照样能进核心。",
       "path": "knowledge/companies/wilmar.md",
       "frontmatter": {
         "id": "company:wilmar",
@@ -10020,7 +9721,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:qiao-family-compound",
       "type": "company",
       "title": "乔家大院",
-      "summary": "乔家大院节点来自《红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧》的 first_pass 结构化整理，用于连接这条治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
+      "summary": "始建于乾隆年间的祁县深宅，历经数代扩建成六大院、十九小院、三百余间房的格局，乔家「在中堂」的心脏。1907 年乔致庸在这里寿终正寝，此后大院见证了不分家的祖训如何被新一代的分家诉求撕开。商号散尽后，宅院成了博物馆，红灯笼还挂着，映照的已是别人的故事。",
       "path": "knowledge/companies/qiao-family-compound.md",
       "frontmatter": {
         "id": "company:qiao-family-compound",
@@ -10108,7 +9809,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:reliance-industries",
       "type": "company",
       "title": "信实工业",
-      "summary": "信实工业节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "迪鲁拜·安巴尼从小贸易行起步建立的集团，靠涤纶和石化吃透印度执照制年代的政策缝隙，做成印度最大的私营企业。2002 年他没留遗嘱骤然离世，兄弟阋墙三年后由母亲主持分家，穆克什拿下石化炼油旗舰，此后把集团推向零售与电信平台，问鼎亚洲首富。创始人的整合能力，和他留下的继承真空，同样惊人。",
       "path": "knowledge/companies/reliance-industries.md",
       "frontmatter": {
         "id": "company:reliance-industries",
@@ -10139,7 +9840,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:reliance-communications",
       "type": "company",
       "title": "信实通信",
-      "summary": "信实通信节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "2005 年安巴尼兄弟分家时划给弟弟阿尼尔的电信板块，一度是他半壁帝国的门面。此后战略失误叠加债务缠身，2019 年因付不出爱立信约 55 亿卢比欠款，阿尼尔面临牢狱之灾，最后关头由哥哥穆克什代付解围，公司最终走进破产程序。分家分走了资产，也分走了各自沉浮的命运。",
       "path": "knowledge/companies/reliance-communications.md",
       "frontmatter": {
         "id": "company:reliance-communications",
@@ -10170,7 +9871,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:shun-tak",
       "type": "company",
       "title": "信德集团",
-      "summary": "信德集团节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何鸿燊 1972 年创立的香港上市公司，经营地产、航运与酒店，港澳之间的喷射飞航客轮是它最日常的存在。二房长女何超琼长期执掌，这里是她在父亲庞大版图中的权力基地，也是何家多房结构里少数界线清晰的资产。赌王身后，女儿靠它证明自己不只是继承人。",
       "path": "knowledge/companies/shun-tak.md",
       "frontmatter": {
         "id": "company:shun-tak",
@@ -10228,7 +9929,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:the-walt-disney-company",
       "type": "company",
       "title": "华特迪士尼公司",
-      "summary": "华特迪士尼公司节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
+      "summary": "1923 年沃尔特与罗伊兄弟创办的动画工作室，弟弟造梦、哥哥管钱，做出第一部彩色动画和《白雪公主》，也做出一个娱乐帝国。1966 年沃尔特病逝，罗伊推迟退休替弟弟建成佛罗里达的迪士尼世界，开幕两个月后离世；此后家族淡出经营，罗伊之子小罗伊两度发起倒阁，把偏离「迪士尼精神」的管理层拉下马。创始人姓氏成了品牌本身，家族因此永远握着一票软否决。",
       "path": "knowledge/companies/the-walt-disney-company.md",
       "frontmatter": {
         "id": "company:the-walt-disney-company",
@@ -10291,6 +9992,37 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:lotus",
+      "type": "company",
+      "title": "卜蜂莲花",
+      "summary": "正大集团 1997 年在上海浦东开出大陆第一家大型综合超市，取名易初莲花：「易初」纪念父亲谢易初，莲花是泰国国花。2007 年更名卜蜂莲花与国际品牌统一，但扩张始终不敌后来者，到 2022 年在中国只剩百余家门店。它是正大在中国零售业摸索的缩影，也提醒人：先发的名分换不来渠道战争的胜负。",
+      "path": "knowledge/companies/lotus.md",
+      "frontmatter": {
+        "id": "company:lotus",
+        "type": "company",
+        "title": "卜蜂莲花",
+        "source_stories": [
+          "story:cp-group"
+        ],
+        "families": [
+          "family:cp-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:family-control-unity",
+          "concept:related-diversification"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "农牧",
+          "食品",
+          "零售"
+        ]
+      }
+    },
+    {
       "id": "company:air-india",
       "type": "company",
       "title": "印度航空",
@@ -10323,10 +10055,40 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:gucci",
+      "type": "company",
+      "title": "古驰",
+      "summary": "1921 年古驰欧·古驰在佛罗伦萨开出的皮具行，三代之内长成奢侈品帝国，也烂成家族修罗场：儿子揭发父亲逃税入狱，堂兄弟联手夺权又反目，1995 年第三代掌门毛里齐奥在自家办公楼前被前妻买凶枪杀。此前他已把最后的家族股份卖给投资基金 Investcorp，古驰姓氏从此只留在商标上。1995 年公司登陆纽交所，1999 年并入开云，品牌活了下来，家族出局了。",
+      "path": "knowledge/companies/gucci.md",
+      "frontmatter": {
+        "id": "company:gucci",
+        "type": "company",
+        "title": "古驰",
+        "source_stories": [
+          "story:gucci"
+        ],
+        "families": [
+          "family:gucci-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:professionalization"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "奢侈品",
+          "时尚"
+        ]
+      }
+    },
+    {
       "id": "company:formosa-plastics",
       "type": "company",
       "title": "台塑集团",
-      "summary": "台塑集团节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
+      "summary": "1954 年王永庆在美援工业规划里接下无人敢碰的 PVC 项目创办台塑，从日产四吨的小厂做成石化王国。高雄那间不足三坪的董事长办公室四十八年陈设未动，三张塑胶椅、一副算盘，勤俭管理具体到一条毛巾用多少年。晚年他把核心股权托管进慈善与信托平台，以七人小组集体决策完成世代交接：创始人退场，制度接棒。",
       "path": "knowledge/companies/formosa-plastics.md",
       "frontmatter": {
         "id": "company:formosa-plastics",
@@ -10383,6 +10145,37 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:jio",
+      "type": "company",
+      "title": "吉奥（Jio）",
+      "summary": "穆克什·安巴尼 2016 年在信实工业旗下推出的电信运营商，用免费语音和低价流量血洗市场，几年内做成印度用户最多的运营商。它的出生证上有一行家族印记：2010 年兄弟俩废除分家时签下的互不竞争协议，才为穆克什重返电信扫清障碍。弟弟的信实通信破产退场，哥哥的吉奥平台化崛起，一场分家的两条曲线在同一个行业交汇。",
+      "path": "knowledge/companies/jio.md",
+      "frontmatter": {
+        "id": "company:jio",
+        "type": "company",
+        "title": "吉奥（Jio）",
+        "source_stories": [
+          "story:ambani"
+        ],
+        "families": [
+          "family:ambani-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "能源",
+          "电信",
+          "零售"
+        ]
+      }
+    },
+    {
       "id": "company:chow-tai-fook",
       "type": "company",
       "title": "周大福",
@@ -10410,6 +10203,95 @@ window.KNOWLEDGE_DATA = {
           "story:zhou-dafu"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "company:ibm",
+      "type": "company",
+      "title": "国际商业机器（IBM）",
+      "summary": "老沃森 1914 年出任总经理的计算-制表-记录公司（CTR），1924 年改名 IBM，靠销售文化和 THINK 信条做成办公机器霸主。儿子小沃森顶着父亲的驳斥推动公司押注电子计算机，1956 年完成父子交接，几十年父子冲突换来一次成功的技术代际跳跃。家族股权早已淡出，沃森父子刻下的企业基因却延续了一百年。",
+      "path": "knowledge/companies/ibm.md",
+      "frontmatter": {
+        "id": "company:ibm",
+        "type": "company",
+        "title": "国际商业机器（IBM）",
+        "source_stories": [
+          "story:watson-ibm"
+        ],
+        "families": [
+          "family:watson-family"
+        ],
+        "related_concepts": [
+          "concept:professionalization",
+          "concept:founder-shadow",
+          "concept:enterprise-before-family"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "科技",
+          "计算机",
+          "企业服务"
+        ]
+      }
+    },
+    {
+      "id": "company:exor",
+      "type": "company",
+      "title": "埃克索尔（EXOR）",
+      "summary": "阿涅利家族的顶层控股公司，2009 年由老阿涅利 1927 年创设的 IFI 与姊妹公司 IFIL 合并而来，第六代约翰·埃尔坎执掌，持有斯泰兰蒂斯、法拉利、尤文图斯等核心资产。经历继承人早逝、母子对簿公堂之后，家族不再亲自经营实业，改由这个平台选继承人、任命职业经理人、调度资本；2021 年推动菲亚特克莱斯勒与标致雪铁龙合并，就是它掌舵的手笔。方向盘还在家族手里，只是握法变了。",
+      "path": "knowledge/companies/exor.md",
+      "frontmatter": {
+        "id": "company:exor",
+        "type": "company",
+        "title": "埃克索尔（EXOR）",
+        "source_stories": [
+          "story:agnelli"
+        ],
+        "families": [
+          "family:agnelli-family"
+        ],
+        "industries": [
+          "投资控股"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "company:edmond-de-rothschild-group",
+      "type": "company",
+      "title": "埃德蒙·德·罗斯柴尔德集团",
+      "summary": "法国分支的小埃德蒙 1953 年在日内瓦创立的私人银行与资产管理机构，与做并购顾问的罗斯柴尔德公司完全独立，两家 2018 年专门签协议厘清品牌边界。掌门人本杰明 2021 年去世，年仅五十七岁，遗孀阿丽亚娜接掌，成为第一位执掌罗斯柴尔德品牌金融机构的女性，也是第一位非罗斯柴尔德血统的当家人。男系合伙两百年之后，这个姓氏的一角由外姓女性撑起。",
+      "path": "knowledge/companies/edmond-de-rothschild-group.md",
+      "frontmatter": {
+        "id": "company:edmond-de-rothschild-group",
+        "type": "company",
+        "title": "埃德蒙·德·罗斯柴尔德集团",
+        "source_stories": [
+          "story:rothschild"
+        ],
+        "families": [
+          "family:rothschild-family"
+        ],
+        "related_concepts": [
+          "concept:family-control-unity",
+          "concept:family-constitution",
+          "concept:credit-capital"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "银行",
+          "公债",
+          "跨国家族"
+        ]
       }
     },
     {
@@ -10576,7 +10458,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:dadetong-piaohao",
       "type": "company",
       "title": "大德通票号",
-      "summary": "大德通票号节点来自《红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧》的 first_pass 结构化整理，用于连接这条治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
+      "summary": "乔致庸把茶叶贸易攒下的资本投入票号业的产物，乔家金融版图的旗舰，鼎盛时分号铺到全国主要商埠。庚子年两宫西逃路经山西，大德通慷慨接驾垫银，换来此后官款往来的特殊信用。进了民国，现代银行崛起，票号的人格化信用链再也接不上，随乔家一同谢幕。",
       "path": "knowledge/companies/dadetong-piaohao.md",
       "frontmatter": {
         "id": "company:dadetong-piaohao",
@@ -10604,10 +10486,41 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:htc",
+      "type": "company",
+      "title": "宏达电（HTC）",
+      "summary": "王永庆之女王雪红 1997 年参与创办的手机公司，她没有走进台塑的接班序列，而是在新赛道再造一块「王」字招牌，智能手机浪潮初起时一度与苹果、三星同台竞技。在王家传承叙事里，她代表「离开体系创业」这条路径：把王氏勤勉转译成技术与市场的胜利，也要独自扛产业周期的寒潮。宏达电后来的沉浮，把这条路的风险与尊严都演了一遍。",
+      "path": "knowledge/companies/htc.md",
+      "frontmatter": {
+        "id": "company:htc",
+        "type": "company",
+        "title": "宏达电（HTC）",
+        "source_stories": [
+          "story:wang-yongqing"
+        ],
+        "families": [
+          "family:wang-yongqing-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:professionalization",
+          "concept:enterprise-before-family"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "石化",
+          "制造",
+          "医疗"
+        ]
+      }
+    },
+    {
       "id": "company:ikea",
       "type": "company",
       "title": "宜家",
-      "summary": "宜家节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "1943 年 17 岁的英瓦尔·坎普拉德在瑞典乡下注册的邮购小店，靠平板包装和低价信条长成全球最大家具商。坎普拉德最与众不同的动作在所有权：他把宜家从家族私产改造成基金会控制的使命型系统，三个儿子做守门人而非继承人，2013 年 87 岁的他退出所有董事会。「为大多数人创造更美好的日常生活」写在章程里，也锁在股权结构里。",
       "path": "knowledge/companies/ikea.md",
       "frontmatter": {
         "id": "company:ikea",
@@ -10664,7 +10577,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:kering",
       "type": "company",
       "title": "开云集团",
-      "summary": "开云集团节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
+      "summary": "皮诺家族控制的法国奢侈品集团，前身 PPR 1999 年入股古驰，帮它挡下 LVMH 的收购，此后以古驰为旗舰聚拢圣罗兰、葆蝶家等品牌，2013 年改名开云。古驰家族内斗腾空的权力真空，由曾任家族法律顾问的德索雷与设计师汤姆·福特填上，品牌在外部资本手里重获新生。一个家族的溃败，成了另一个家族集团的基石。",
       "path": "knowledge/companies/kering.md",
       "frontmatter": {
         "id": "company:kering",
@@ -10756,6 +10669,34 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:stellantis",
+      "type": "company",
+      "title": "斯泰兰蒂斯",
+      "summary": "2021 年菲亚特克莱斯勒与标致雪铁龙合并组建的全球第四大汽车集团，阿涅利家族的埃克索尔是最大单一股东。对这个家族而言，它是菲亚特故事的现代形态：从 1899 年都灵作坊里数百里拉的入股，到不再独自造车、以大股东身份守住方向盘。第六代掌门约翰·埃尔坎用一场跨国合并，替百年家业换了一台引擎。",
+      "path": "knowledge/companies/stellantis.md",
+      "frontmatter": {
+        "id": "company:stellantis",
+        "type": "company",
+        "title": "斯泰兰蒂斯",
+        "source_stories": [
+          "story:agnelli"
+        ],
+        "families": [
+          "family:agnelli-family"
+        ],
+        "industries": [
+          "汽车"
+        ],
+        "related_concepts": [
+          "concept:professionalization",
+          "concept:industrial-integration"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "company:new-world-development",
       "type": "company",
       "title": "新世界发展",
@@ -10791,7 +10732,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:melco",
       "type": "company",
       "title": "新濠",
-      "summary": "新濠节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何鸿燊旗下的香港老牌上市公司新濠国际，2001 年交到儿子何猷龙手中。澳门赌权开放后，何猷龙借它与澳洲博彩世家合资拿下六张赌牌之一，建起新濠天地、新濠影汇，在父亲的澳博之外再造一个独立的博彩王国。多房十七子的家族里，这是儿子一辈自己划出的疆土。",
       "path": "knowledge/companies/melco.md",
       "frontmatter": {
         "id": "company:melco",
@@ -10851,7 +10792,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:standard-oil",
       "type": "company",
       "title": "标准石油",
-      "summary": "标准石油节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "1870 年洛克菲勒在克利夫兰创立，靠成本控制与铁路回扣吞并同行，鼎盛时掌控美国约九成炼油能力，也把「垄断」两个字变成全民公敌。1911 年最高法院判决把它拆成三十四家公司，埃克森、美孚、雪佛龙都是它的碎片；拆分后股价大涨，洛克菲勒反而更富。这笔带着原罪的财富，逼出了此后整个家族的慈善转身。",
       "path": "knowledge/companies/standard-oil.md",
       "frontmatter": {
         "id": "company:standard-oil",
@@ -10882,7 +10823,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:cp-group",
       "type": "company",
       "title": "正大集团",
-      "summary": "正大集团节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
+      "summary": "1921 年谢易初在曼谷唐人街开出正大庄菜籽行，一粒潮汕种子百年后长成横跨农牧、零售、电信、金融的跨国集团，改革开放后拿到深圳外商投资企业 0001 号执照。谢家四代以「正大光明」立训，兄弟分工、家族控股；1997 年亚洲金融危机中谢国民果断出售莲花超市部分股权等资产，断臂止血。留得青山在，是这个家族风险哲学的原话。",
       "path": "knowledge/companies/cp-group.md",
       "frontmatter": {
         "id": "company:cp-group",
@@ -10913,7 +10854,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:hanyeping",
       "type": "company",
       "title": "汉冶萍",
-      "summary": "汉冶萍节点来自《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》的 first_pass 结构化整理，用于连接这条治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
+      "summary": "1908 年盛宣怀把汉阳铁厂、大冶铁矿、萍乡煤矿合并而成，当时中国最大的钢铁煤联合企业，也是他遗产里最重的一块股票。儿子盛恩颐名义上出任总经理，却把公司经营得一塌糊涂，还闹出赌桌上一夜输掉多处房产的丑闻；公司本身越来越深地押在以矿权抵押的日本借款上。官商起家的资产，最后两头都靠不住。",
       "path": "knowledge/companies/hanyeping.md",
       "frontmatter": {
         "id": "company:hanyeping",
@@ -10976,7 +10917,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:rockefeller-foundation",
       "type": "company",
       "title": "洛克菲勒基金会",
-      "summary": "洛克菲勒基金会节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "1913 年注册成立，把洛克菲勒的石油财富从个人施舍升级成制度化慈善，北京协和医学院和全球公共卫生事业背后都有它的钱。对家族而言它有双重功能：既回应垄断骂名、重建财富的合法性，也给后代提供了不经商也能承担家族使命的岗位。散财由此成为另一种治理。",
       "path": "knowledge/companies/rockefeller-foundation.md",
       "frontmatter": {
         "id": "company:rockefeller-foundation",
@@ -11007,7 +10948,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:rockefeller-family-office",
       "type": "company",
       "title": "洛克菲勒家族办公室",
-      "summary": "洛克菲勒家族办公室节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "从老洛克菲勒的私人账房演变而来、常驻洛克菲勒中心「5600 房间」的家族中枢，管着几代人的信托、投资、慈善与档案。1934 年起家族财富被装进一系列不可撤销信托，1952 年再设朝代信托交由专业机构打理，成员身故的寿险赔付源源注入，资产不因代际分割而缩水。后人谈起现代单一家族办公室，多半要回到这个原点。",
       "path": "knowledge/companies/rockefeller-family-office.md",
       "frontmatter": {
         "id": "company:rockefeller-family-office",
@@ -11066,7 +11007,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:sjm-holdings",
       "type": "company",
       "title": "澳博控股",
-      "summary": "澳博控股节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "源头是何鸿燊 1962 年拿下澳门博彩专营权后创办的澳门旅游娱乐公司，独家经营赌场四十年；2002 年赌权开放后改组，澳博控股 2008 年在香港上市，持有赌牌之一。2011 年 90 岁的何鸿燊突然指控家人夺产，股权风波闹上法庭又戏剧性和解，此后二房女儿何超凤出任主席。一张牌照养大的帝国，差点在继承桌上翻船。",
       "path": "knowledge/companies/sjm-holdings.md",
       "frontmatter": {
         "id": "company:sjm-holdings",
@@ -11097,7 +11038,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:hermes",
       "type": "company",
       "title": "爱马仕",
-      "summary": "爱马仕节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "1837 年蒂埃里·爱马仕在巴黎开出的马具工坊，从马鞍缰绳做到丝巾铂金包，六代人守着「没有形象政策，只有产品政策」的信条。家族拒绝明星代言与降价促销，用手工艺产能天然限制增长，反而养出奢侈品界最深的稀缺感。2010 年 LVMH 突袭之后，家族以 H51 联盟锁定控股权，证明股权分散的老家族在生死关头仍能合成一只拳头。",
       "path": "knowledge/companies/hermes.md",
       "frontmatter": {
         "id": "company:hermes",
@@ -11195,7 +11136,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:sheng-family-assets",
       "type": "company",
       "title": "盛氏家族资产",
-      "summary": "盛氏家族资产节点来自《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》的 first_pass 结构化整理，用于连接这条治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
+      "summary": "盛宣怀 1916 年去世时留下约合 1350 万两白银的遗产，其中招商局、汉冶萍、通商银行等股票五百多万两，遗嘱按「十分开拆」：一半充善举、一半分五房，由愚斋义庄统筹。两位受托人随即辞职，议事机制停摆，方案改成一半分本金、一半留公益股；后来儿子们联手瓜分公益股，七小姐盛爱颐愤而起诉，打赢了中国近代首例女性继承权官司。超前的制度设计，终究没跑赢人心与时代。",
       "path": "knowledge/companies/sheng-family-assets.md",
       "frontmatter": {
         "id": "company:sheng-family-assets",
@@ -11226,7 +11167,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:ford-foundation",
       "type": "company",
       "title": "福特基金会",
-      "summary": "福特基金会节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "1936 年埃德塞尔·福特创立，家族把大批无投票权股票注入其中，既避开遗产税，又保住了 B 类股的控制权。1956 年基金会大规模出售持股，促成福特汽车上市，自己也成为当时世界上规模最大的基金会；此后与家族渐行渐远，亨利二世 1976 年留下一封抱怨它忘记资本主义的信，愤而退出董事会。钱是福特的钱，方向早已不由福特决定。",
       "path": "knowledge/companies/ford-foundation.md",
       "frontmatter": {
         "id": "company:ford-foundation",
@@ -11257,7 +11198,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:ford-motor-company",
       "type": "company",
       "title": "福特汽车公司",
-      "summary": "福特汽车公司节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "1903 年亨利·福特创立，T 型车把汽车变成大众商品，也把创始人的个人意志刻进公司骨髓。1956 年上市时设计的双层股权，让家族以少量经济利益握住四成投票权，此后福特进入「家族坐董事会、经理人管经营」的模式：1978 年亨利二世一句「有时候你就是不喜欢一个人」解雇功勋总裁艾柯卡，1980 年卡德威尔成为首位非家族 CEO。从家族拥有到家族负责，这条路走了三代人。",
       "path": "knowledge/companies/ford-motor-company.md",
       "frontmatter": {
         "id": "company:ford-motor-company",
@@ -11281,6 +11222,65 @@ window.KNOWLEDGE_DATA = {
           "汽车",
           "制造",
           "家族控股"
+        ]
+      }
+    },
+    {
+      "id": "company:kirkbi",
+      "type": "company",
+      "title": "科克比（KIRKBI）",
+      "summary": "乐高创始家族的控股与投资公司，持有乐高集团四分之三股权，管理家族财富并握有乐高商标权益，2019 年还与投资伙伴一道把运营乐高乐园的默林娱乐私有化。第三代基耶尔德在 2004 年危机中把经营权交给职业经理人，家族退到这个平台上专职做所有者；第四代托马斯 2020 年起出任乐高集团董事长。「只有最好才足够好」的祖训，如今靠股权而非管理权来守护。",
+      "path": "knowledge/companies/kirkbi.md",
+      "frontmatter": {
+        "id": "company:kirkbi",
+        "type": "company",
+        "title": "科克比（KIRKBI）",
+        "source_stories": [
+          "story:lego"
+        ],
+        "families": [
+          "family:kirk-kristiansen-family"
+        ],
+        "industries": [
+          "家族控股"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "company:rothschild-and-co",
+      "type": "company",
+      "title": "罗斯柴尔德公司",
+      "summary": "伦敦与巴黎两支罗斯柴尔德银行整合而成的集团，戴维与亚历山大父子这一支执掌，做全球并购顾问和财富管理，约一千六百名顾问银行家遍布近五十个国家。2023 年家族控股实体以每股四十八欧元、约三十七亿欧元的估值将它私有化，10 月 11 日正式从巴黎退市，理由很朴素：不想再向公开市场按季度交账。两百年老店用退市的方式，重申了长期主义。",
+      "path": "knowledge/companies/rothschild-and-co.md",
+      "frontmatter": {
+        "id": "company:rothschild-and-co",
+        "type": "company",
+        "title": "罗斯柴尔德公司",
+        "source_stories": [
+          "story:rothschild"
+        ],
+        "families": [
+          "family:rothschild-family"
+        ],
+        "related_concepts": [
+          "concept:family-control-unity",
+          "concept:family-constitution",
+          "concept:credit-capital"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "银行",
+          "公债",
+          "跨国家族"
         ]
       }
     },
@@ -11344,7 +11344,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:fan-yizhuang",
       "type": "company",
       "title": "范氏义庄",
-      "summary": "范氏义庄节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "皇祐二年即公历 1050 年，六十二岁的范仲淹用一生俸禄在苏州买下一千余亩义田，亲手订立十三条《义庄规矩》：义田不归己也不归子，归整个范氏宗族，计口给米，婚丧嫁娶各有定例。此后历经南宋重建、明清扩充，靠成文规矩、掌管人制度和官府背书一路运转到 1949 年，将近九百年。一份写在田亩上的家族宪法，后世义庄的原型。",
       "path": "knowledge/companies/fan-yizhuang.md",
       "frontmatter": {
         "id": "company:fan-yizhuang",
@@ -11375,7 +11375,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:rong-flour-textile",
       "type": "company",
       "title": "荣氏面粉纺织事业",
-      "summary": "荣氏面粉纺织事业节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "荣宗敬、荣德生兄弟从钱庄学徒起步，1902 年在无锡办起保兴面粉厂，此后以茂新、福新、申新系列做成「面粉大王」与「棉纱大王」，鼎盛时衣被半个中国。抗战中兄弟俩宁可工厂停摆也拒绝与日伪合作，荣德生闭门谢客，次子荣尔仁赴宴当面回绝卖厂。这份实业既是家产，也是荣家「实业救国」公共身份的来源。",
       "path": "knowledge/companies/rong-flour-textile.md",
       "frontmatter": {
         "id": "company:rong-flour-textile",
@@ -11434,7 +11434,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:pei-family-garden",
       "type": "company",
       "title": "贝氏园林与宅第",
-      "summary": "贝氏园林与宅第节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
+      "summary": "「颜料大王」贝润生 1917 年买下苏州荒废的狮子林，花巨资重修；这位吃义庄月米长大、十六岁靠义庄资助去上海当学徒的族人，用一座园子回报了家族。贝聿铭儿时在假山间玩耍的记忆，日后流进他的建筑；园林连同祠堂在 1950 年代由后人捐给国家。宅第留在苏州，声望走向世界，物理资产与文化资本在贝家完成了一次交接。",
       "path": "knowledge/companies/pei-family-garden.md",
       "frontmatter": {
         "id": "company:pei-family-garden",
@@ -11465,7 +11465,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:china-merchants-steam-navigation",
       "type": "company",
       "title": "轮船招商局",
-      "summary": "轮船招商局节点来自《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》的 first_pass 结构化整理，用于连接这条治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
+      "summary": "1872 年洋务运动中由李鸿章主导创设的官督商办航运企业，中国第一家近代轮船公司，盛宣怀参与筹办、后长期出任督办。它是盛宣怀官商生涯的起点式资产，他身后遗产里还躺着包括招商局在内五百多万两的公司股票。成也官商，衰也官商：企业命运始终系在朝廷和经手人身上，而不在制度上。",
       "path": "knowledge/companies/china-merchants-steam-navigation.md",
       "frontmatter": {
         "id": "company:china-merchants-steam-navigation",
@@ -11527,7 +11527,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:kuok-group",
       "type": "company",
       "title": "郭氏集团",
-      "summary": "郭氏集团节点来自《马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生》的 first_pass 结构化整理，用于连接这条治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
+      "summary": "1949 年郭鹤年与兄弟们在马来西亚新山创立的郭兄弟公司起家，从糖业霸主扩展到地产、酒店、物流、粮油、传媒，板块各自上市，所有权始终不分家。郭鹤年的传承方案是「分工不分家」：郭孔华掌嘉里建设，郭惠光掌香格里拉，侄子郭孔丰理粮油，各管一摊，股权统在家族名下。百岁掌门至今不立唯一继承人，用结构代替遗嘱。",
       "path": "knowledge/companies/kuok-group.md",
       "frontmatter": {
         "id": "company:kuok-group",
@@ -11588,7 +11588,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:chang-gung-hospital",
       "type": "company",
       "title": "长庚医院",
-      "summary": "长庚医院节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
+      "summary": "王永庆 1976 年以父亲王长庚之名创办的非营利医院体系，用台塑式成本管理办医，废除住院保证金等陋规，重新定了台湾私立医疗的价格与效率标准。更关键的角色在股权：长庚医疗法人持有台塑集团核心公司大量股份，是创始人身后锁定控制权的公益防火墙。医疗是慈善，也是传承结构的承重墙。",
       "path": "knowledge/companies/chang-gung-hospital.md",
       "frontmatter": {
         "id": "company:chang-gung-hospital",
@@ -11679,7 +11679,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:shangri-la",
       "type": "company",
       "title": "香格里拉",
-      "summary": "香格里拉节点来自《马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生》的 first_pass 结构化整理，用于连接这条治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
+      "summary": "郭鹤年 1971 年在新加坡开出第一家香格里拉酒店，此后长成亚洲最具代表性的豪华酒店集团之一，香格里拉亚洲在港交所上市。这块最露脸的资产交给了二房长女郭惠光，她以董事会主席兼行政总裁的身份执掌酒店版图，是郭家「分工不分家」里打破性别与房系成见的一笔。低调的糖王，把最面向公众的生意交给了女儿。",
       "path": "knowledge/companies/shangri-la.md",
       "frontmatter": {
         "id": "company:shangri-la",
@@ -11710,7 +11710,7 @@ window.KNOWLEDGE_DATA = {
       "id": "company:takagi-shuzo",
       "type": "company",
       "title": "高木酒造",
-      "summary": "高木酒造节点来自《从“朝日鹰”到“十四代”：高木酒造家族的四百年传承》的 first_pass 结构化整理，用于连接这条治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
+      "summary": "山形县村山市的家族酒藏，十七世纪初获藩主许可开坛酿造，「朝日鹰」清酒养活了这个兼具武家与町人血统的家族四百年。1993 年 25 岁的第十五代高木显统临危接任杜氏，以「十四代」系列扭转颓势，把一家地方酒藏做成日本清酒的王者级名字。限定产量、收紧渠道、拒绝扩张，稀缺本身成了传承策略。",
       "path": "knowledge/companies/takagi-shuzo.md",
       "frontmatter": {
         "id": "company:takagi-shuzo",
@@ -11776,694 +11776,6 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "tool:board-activism",
-      "type": "tool",
-      "title": "Board Activism",
-      "summary": "Board Activism节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
-      "path": "knowledge/tools/board-activism.md",
-      "frontmatter": {
-        "id": "tool:board-activism",
-        "type": "tool",
-        "title": "Board Activism",
-        "source_stories": [
-          "story:disney"
-        ],
-        "families": [
-          "family:disney-family"
-        ],
-        "related_concepts": [
-          "concept:founder-shadow",
-          "concept:professionalization",
-          "concept:enterprise-independence"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:brand-professionalization",
-      "type": "tool",
-      "title": "Brand Professionalization",
-      "summary": "Brand Professionalization节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
-      "path": "knowledge/tools/brand-professionalization.md",
-      "frontmatter": {
-        "id": "tool:brand-professionalization",
-        "type": "tool",
-        "title": "Brand Professionalization",
-        "source_stories": [
-          "story:gucci"
-        ],
-        "families": [
-          "family:gucci-family"
-        ],
-        "related_concepts": [
-          "concept:family-conflict-as-innovation",
-          "concept:succession-planning-gap",
-          "concept:professionalization"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:brother-partnership",
-      "type": "tool",
-      "title": "Brother Partnership",
-      "summary": "Brother Partnership节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
-      "path": "knowledge/tools/brother-partnership.md",
-      "frontmatter": {
-        "id": "tool:brother-partnership",
-        "type": "tool",
-        "title": "Brother Partnership",
-        "source_stories": [
-          "story:cp-group"
-        ],
-        "families": [
-          "family:cp-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:family-control-unity",
-          "concept:related-diversification"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:craft-standard-governance",
-      "type": "tool",
-      "title": "Craft Standard Governance",
-      "summary": "Craft Standard Governance节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
-      "path": "knowledge/tools/craft-standard-governance.md",
-      "frontmatter": {
-        "id": "tool:craft-standard-governance",
-        "type": "tool",
-        "title": "Craft Standard Governance",
-        "source_stories": [
-          "story:hermes"
-        ],
-        "families": [
-          "family:hermes-family"
-        ],
-        "related_concepts": [
-          "concept:family-control-unity",
-          "concept:family-constitution",
-          "concept:standard-setting"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:creative-founder-legacy",
-      "type": "tool",
-      "title": "Creative Founder Legacy",
-      "summary": "Creative Founder Legacy节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
-      "path": "knowledge/tools/creative-founder-legacy.md",
-      "frontmatter": {
-        "id": "tool:creative-founder-legacy",
-        "type": "tool",
-        "title": "Creative Founder Legacy",
-        "source_stories": [
-          "story:disney"
-        ],
-        "families": [
-          "family:disney-family"
-        ],
-        "related_concepts": [
-          "concept:founder-shadow",
-          "concept:professionalization",
-          "concept:enterprise-independence"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:cultural-family-lineage",
-      "type": "tool",
-      "title": "Cultural Family Lineage",
-      "summary": "Cultural Family Lineage节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
-      "path": "knowledge/tools/cultural-family-lineage.md",
-      "frontmatter": {
-        "id": "tool:cultural-family-lineage",
-        "type": "tool",
-        "title": "Cultural Family Lineage",
-        "source_stories": [
-          "story:pei-family"
-        ],
-        "families": [
-          "family:pei-family"
-        ],
-        "related_concepts": [
-          "concept:cultural-legitimacy",
-          "concept:succession-training",
-          "concept:patient-long-termism"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:daily-cultivation-rules",
-      "type": "tool",
-      "title": "Daily Cultivation Rules",
-      "summary": "Daily Cultivation Rules节点来自《从耕读之家到中兴名臣：曾国藩的传世智慧》的 first_pass 结构化整理，用于连接这条治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
-      "path": "knowledge/tools/daily-cultivation-rules.md",
-      "frontmatter": {
-        "id": "tool:daily-cultivation-rules",
-        "type": "tool",
-        "title": "Daily Cultivation Rules",
-        "source_stories": [
-          "story:zeng-guofan"
-        ],
-        "families": [
-          "family:zeng-family"
-        ],
-        "related_concepts": [
-          "concept:family-consensus",
-          "concept:patient-long-termism",
-          "concept:succession-training"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:education-as-family-capital",
-      "type": "tool",
-      "title": "Education As Family Capital",
-      "summary": "Education As Family Capital节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
-      "path": "knowledge/tools/education-as-family-capital.md",
-      "frontmatter": {
-        "id": "tool:education-as-family-capital",
-        "type": "tool",
-        "title": "Education As Family Capital",
-        "source_stories": [
-          "story:pei-family",
-          "story:fan-yizhuang"
-        ],
-        "families": [
-          "family:pei-family",
-          "family:fan-family"
-        ],
-        "related_concepts": [
-          "concept:cultural-legitimacy",
-          "concept:succession-training",
-          "concept:patient-long-termism",
-          "concept:family-constitution",
-          "concept:institutionalized-trust",
-          "concept:steward-ownership"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:external-ceo-family-control",
-      "type": "tool",
-      "title": "External Ceo Family Control",
-      "summary": "External Ceo Family Control节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
-      "path": "knowledge/tools/external-ceo-family-control.md",
-      "frontmatter": {
-        "id": "tool:external-ceo-family-control",
-        "type": "tool",
-        "title": "External Ceo Family Control",
-        "source_stories": [
-          "story:agnelli",
-          "story:ford-family"
-        ],
-        "related_concepts": [
-          "concept:professionalization",
-          "concept:family-as-guardian",
-          "concept:founder-shadow",
-          "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "families": [
-          "family:ford-family"
-        ]
-      }
-    },
-    {
-      "id": "tool:family-constitution",
-      "type": "tool",
-      "title": "Family Constitution",
-      "summary": "Family Constitution节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
-      "path": "knowledge/tools/family-constitution.md",
-      "frontmatter": {
-        "id": "tool:family-constitution",
-        "type": "tool",
-        "title": "Family Constitution",
-        "related_concept": "concept:family-constitution",
-        "purpose": [
-          "固化共同价值观",
-          "降低多家族共治摩擦",
-          "指导重大事项决策",
-          "把隐性承诺变成显性契约"
-        ],
-        "limitations": [
-          "缺少硬性执行程序时依赖自律",
-          "需要仪式和故事持续活化",
-          "家族成员行为失范会削弱权威"
-        ],
-        "source_segments": [
-          "segment:kikkoman-005",
-          "segment:kikkoman-008"
-        ],
-        "reviewed": false,
-        "source_stories": [
-          "story:fan-yizhuang",
-          "story:rothschild"
-        ],
-        "families": [
-          "family:fan-family",
-          "family:rothschild-family"
-        ],
-        "related_concepts": [
-          "concept:family-constitution",
-          "concept:institutionalized-trust",
-          "concept:steward-ownership",
-          "concept:family-control-unity",
-          "concept:credit-capital"
-        ],
-        "curation_stage": "first_pass",
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:family-council",
-      "type": "tool",
-      "title": "Family Council",
-      "summary": "Family Council节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
-      "path": "knowledge/tools/family-council.md",
-      "frontmatter": {
-        "id": "tool:family-council",
-        "type": "tool",
-        "title": "Family Council",
-        "source_stories": [
-          "story:rockefeller"
-        ],
-        "families": [
-          "family:rockefeller-family"
-        ],
-        "related_concepts": [
-          "concept:philanthropy-as-governance",
-          "concept:family-constitution",
-          "concept:institutionalized-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:family-exit-from-brand",
-      "type": "tool",
-      "title": "Family Exit From Brand",
-      "summary": "Family Exit From Brand节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
-      "path": "knowledge/tools/family-exit-from-brand.md",
-      "frontmatter": {
-        "id": "tool:family-exit-from-brand",
-        "type": "tool",
-        "title": "Family Exit From Brand",
-        "source_stories": [
-          "story:gucci",
-          "story:dassler"
-        ],
-        "families": [
-          "family:gucci-family",
-          "family:dassler-family"
-        ],
-        "related_concepts": [
-          "concept:family-conflict-as-innovation",
-          "concept:succession-planning-gap",
-          "concept:professionalization"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:family-holding-defense",
-      "type": "tool",
-      "title": "Family Holding Defense",
-      "summary": "Family Holding Defense节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
-      "path": "knowledge/tools/family-holding-defense.md",
-      "frontmatter": {
-        "id": "tool:family-holding-defense",
-        "type": "tool",
-        "title": "Family Holding Defense",
-        "source_stories": [
-          "story:hermes"
-        ],
-        "families": [
-          "family:hermes-family"
-        ],
-        "related_concepts": [
-          "concept:family-control-unity",
-          "concept:family-constitution",
-          "concept:standard-setting"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:family-letters-as-governance",
-      "type": "tool",
-      "title": "Family Letters As Governance",
-      "summary": "Family Letters As Governance节点来自《从耕读之家到中兴名臣：曾国藩的传世智慧》的 first_pass 结构化整理，用于连接这条治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
-      "path": "knowledge/tools/family-letters-as-governance.md",
-      "frontmatter": {
-        "id": "tool:family-letters-as-governance",
-        "type": "tool",
-        "title": "Family Letters As Governance",
-        "source_stories": [
-          "story:zeng-guofan"
-        ],
-        "families": [
-          "family:zeng-family"
-        ],
-        "related_concepts": [
-          "concept:family-consensus",
-          "concept:patient-long-termism",
-          "concept:succession-training"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:family-office",
-      "type": "tool",
-      "title": "Family Office",
-      "summary": "Family Office节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
-      "path": "knowledge/tools/family-office.md",
-      "frontmatter": {
-        "id": "tool:family-office",
-        "type": "tool",
-        "title": "Family Office",
-        "source_stories": [
-          "story:pao-family",
-          "story:rockefeller"
-        ],
-        "related_concepts": [
-          "concept:family-consensus",
-          "concept:professionalization",
-          "concept:philanthropy-as-governance",
-          "concept:family-constitution",
-          "concept:institutionalized-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "families": [
-          "family:rockefeller-family"
-        ]
-      }
-    },
-    {
-      "id": "tool:family-president-as-symbolic-steward",
-      "type": "tool",
-      "title": "Family President As Symbolic Steward",
-      "summary": "Family President As Symbolic Steward节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
-      "path": "knowledge/tools/family-president-as-symbolic-steward.md",
-      "frontmatter": {
-        "id": "tool:family-president-as-symbolic-steward",
-        "type": "tool",
-        "title": "Family President As Symbolic Steward",
-        "source_stories": [
-          "story:toyoda",
-          "story:ford-family"
-        ],
-        "families": [
-          "family:toyoda-family",
-          "family:ford-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:professionalization",
-          "concept:employee-stewardship",
-          "concept:founder-shadow",
-          "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:family-rules-and-frugality",
-      "type": "tool",
-      "title": "Family Rules And Frugality",
-      "summary": "Family Rules And Frugality节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
-      "path": "knowledge/tools/family-rules-and-frugality.md",
-      "frontmatter": {
-        "id": "tool:family-rules-and-frugality",
-        "type": "tool",
-        "title": "Family Rules And Frugality",
-        "source_stories": [
-          "story:qiao-family",
-          "story:fan-yizhuang"
-        ],
-        "families": [
-          "family:qiao-family",
-          "family:fan-family"
-        ],
-        "related_concepts": [
-          "concept:credit-capital",
-          "concept:family-constitution",
-          "concept:community-embeddedness",
-          "concept:institutionalized-trust",
-          "concept:steward-ownership"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:family-trust",
-      "type": "tool",
-      "title": "Family Trust",
-      "summary": "Family Trust节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
-      "path": "knowledge/tools/family-trust.md",
-      "frontmatter": {
-        "id": "tool:family-trust",
-        "type": "tool",
-        "title": "Family Trust",
-        "related_concept": "concept:family-trust",
-        "purpose": [
-          "稳定所有权",
-          "降低家族资产分割风险",
-          "形成最高控股层"
-        ],
-        "limitations": [
-          "不能自动解决经营能力问题",
-          "不能替代董事会和管理层治理",
-          "不能消除接班人权威不足"
-        ],
-        "source_segments": [
-          "segment:zhou-dafu-002",
-          "segment:zhou-dafu-010"
-        ],
-        "reviewed": false,
-        "source_stories": [
-          "story:sheng-xuanhuai",
-          "story:fan-yizhuang"
-        ],
-        "families": [
-          "family:sheng-family",
-          "family:fan-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-trust",
-          "concept:governance-complexity",
-          "concept:family-constitution",
-          "concept:institutionalized-trust",
-          "concept:steward-ownership"
-        ],
-        "curation_stage": "first_pass",
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:foundation-ownership-structure",
-      "type": "tool",
-      "title": "Foundation Ownership Structure",
-      "summary": "Foundation Ownership Structure节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
-      "path": "knowledge/tools/foundation-ownership-structure.md",
-      "frontmatter": {
-        "id": "tool:foundation-ownership-structure",
-        "type": "tool",
-        "title": "Foundation Ownership Structure",
-        "source_stories": [
-          "story:ikea"
-        ],
-        "families": [
-          "family:kamprad-family"
-        ],
-        "related_concepts": [
-          "concept:foundation-ownership",
-          "concept:non-listing-control",
-          "concept:mission-locked-ownership"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:frugal-management",
-      "type": "tool",
-      "title": "Frugal Management",
-      "summary": "Frugal Management节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
-      "path": "knowledge/tools/frugal-management.md",
-      "frontmatter": {
-        "id": "tool:frugal-management",
-        "type": "tool",
-        "title": "Frugal Management",
-        "source_stories": [
-          "story:wang-yongqing"
-        ],
-        "families": [
-          "family:wang-yongqing-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:professionalization",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:frugality-culture",
-      "type": "tool",
-      "title": "Frugality Culture",
-      "summary": "Frugality Culture节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
-      "path": "knowledge/tools/frugality-culture.md",
-      "frontmatter": {
-        "id": "tool:frugality-culture",
-        "type": "tool",
-        "title": "Frugality Culture",
-        "source_stories": [
-          "story:ikea"
-        ],
-        "families": [
-          "family:kamprad-family"
-        ],
-        "related_concepts": [
-          "concept:foundation-ownership",
-          "concept:non-listing-control",
-          "concept:mission-locked-ownership"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:geographic-risk-diversification",
-      "type": "tool",
-      "title": "Geographic Risk Diversification",
-      "summary": "Geographic Risk Diversification节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
-      "path": "knowledge/tools/geographic-risk-diversification.md",
-      "frontmatter": {
-        "id": "tool:geographic-risk-diversification",
-        "type": "tool",
-        "title": "Geographic Risk Diversification",
-        "source_stories": [
-          "story:robert-kuok",
-          "story:rothschild"
-        ],
-        "families": [
-          "family:kuok-family",
-          "family:rothschild-family"
-        ],
-        "related_concepts": [
-          "concept:patient-long-termism",
-          "concept:credit-capital",
-          "concept:related-diversification",
-          "concept:family-control-unity",
-          "concept:family-constitution"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:industrial-patriotism",
-      "type": "tool",
-      "title": "Industrial Patriotism",
-      "summary": "Industrial Patriotism节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
-      "path": "knowledge/tools/industrial-patriotism.md",
-      "frontmatter": {
-        "id": "tool:industrial-patriotism",
-        "type": "tool",
-        "title": "Industrial Patriotism",
-        "source_stories": [
-          "story:rong-family"
-        ],
-        "families": [
-          "family:rong-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:enterprise-before-family",
-          "concept:cultural-legitimacy"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:jinshang-credit-network",
-      "type": "tool",
-      "title": "Jinshang Credit Network",
-      "summary": "Jinshang Credit Network节点来自《红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧》的 first_pass 结构化整理，用于连接这条治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
-      "path": "knowledge/tools/jinshang-credit-network.md",
-      "frontmatter": {
-        "id": "tool:jinshang-credit-network",
-        "type": "tool",
-        "title": "Jinshang Credit Network",
-        "source_stories": [
-          "story:qiao-family"
-        ],
-        "families": [
-          "family:qiao-family"
-        ],
-        "related_concepts": [
-          "concept:credit-capital",
-          "concept:family-constitution",
-          "concept:community-embeddedness"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "tool:kirkbi-family-holding",
       "type": "tool",
       "title": "KIRKBI 家族控股",
@@ -12479,330 +11791,6 @@ window.KNOWLEDGE_DATA = {
         "related_concepts": [
           "concept:family-as-guardian",
           "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:limited-production-standard",
-      "type": "tool",
-      "title": "Limited Production Standard",
-      "summary": "Limited Production Standard节点来自《从“朝日鹰”到“十四代”：高木酒造家族的四百年传承》的 first_pass 结构化整理，用于连接这条治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
-      "path": "knowledge/tools/limited-production-standard.md",
-      "frontmatter": {
-        "id": "tool:limited-production-standard",
-        "type": "tool",
-        "title": "Limited Production Standard",
-        "source_stories": [
-          "story:takagi-shuzo"
-        ],
-        "families": [
-          "family:takagi-family"
-        ],
-        "related_concepts": [
-          "concept:standard-setting",
-          "concept:succession-training",
-          "concept:patient-long-termism"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:listed-company-succession",
-      "type": "tool",
-      "title": "Listed Company Succession",
-      "summary": "Listed Company Succession节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
-      "path": "knowledge/tools/listed-company-succession.md",
-      "frontmatter": {
-        "id": "tool:listed-company-succession",
-        "type": "tool",
-        "title": "Listed Company Succession",
-        "source_stories": [
-          "story:stanley-ho",
-          "story:ford-family"
-        ],
-        "families": [
-          "family:ho-family",
-          "family:ford-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
-          "concept:family-trust",
-          "concept:founder-shadow",
-          "concept:professionalization",
-          "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:low-profile-family-governance",
-      "type": "tool",
-      "title": "Low Profile Family Governance",
-      "summary": "Low Profile Family Governance节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
-      "path": "knowledge/tools/low-profile-family-governance.md",
-      "frontmatter": {
-        "id": "tool:low-profile-family-governance",
-        "type": "tool",
-        "title": "Low Profile Family Governance",
-        "source_stories": [
-          "story:robert-kuok",
-          "story:rothschild"
-        ],
-        "families": [
-          "family:kuok-family",
-          "family:rothschild-family"
-        ],
-        "related_concepts": [
-          "concept:patient-long-termism",
-          "concept:credit-capital",
-          "concept:related-diversification",
-          "concept:family-control-unity",
-          "concept:family-constitution"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:marriage-alliance",
-      "type": "tool",
-      "title": "Marriage Alliance",
-      "summary": "Marriage Alliance节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
-      "path": "knowledge/tools/marriage-alliance.md",
-      "frontmatter": {
-        "id": "tool:marriage-alliance",
-        "type": "tool",
-        "title": "Marriage Alliance",
-        "source_stories": [
-          "story:medici",
-          "story:rothschild"
-        ],
-        "related_concepts": [
-          "concept:family-consensus",
-          "concept:related-diversification",
-          "concept:family-control-unity",
-          "concept:family-constitution",
-          "concept:credit-capital"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false,
-        "families": [
-          "family:rothschild-family"
-        ]
-      }
-    },
-    {
-      "id": "tool:medical-philanthropy",
-      "type": "tool",
-      "title": "Medical Philanthropy",
-      "summary": "Medical Philanthropy节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
-      "path": "knowledge/tools/medical-philanthropy.md",
-      "frontmatter": {
-        "id": "tool:medical-philanthropy",
-        "type": "tool",
-        "title": "Medical Philanthropy",
-        "source_stories": [
-          "story:wang-yongqing"
-        ],
-        "families": [
-          "family:wang-yongqing-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:professionalization",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:mother-mediated-family-split",
-      "type": "tool",
-      "title": "Mother Mediated Family Split",
-      "summary": "Mother Mediated Family Split节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
-      "path": "knowledge/tools/mother-mediated-family-split.md",
-      "frontmatter": {
-        "id": "tool:mother-mediated-family-split",
-        "type": "tool",
-        "title": "Mother Mediated Family Split",
-        "source_stories": [
-          "story:ambani"
-        ],
-        "families": [
-          "family:ambani-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
-          "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:multi-branch-family-settlement",
-      "type": "tool",
-      "title": "Multi Branch Family Settlement",
-      "summary": "Multi Branch Family Settlement节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
-      "path": "knowledge/tools/multi-branch-family-settlement.md",
-      "frontmatter": {
-        "id": "tool:multi-branch-family-settlement",
-        "type": "tool",
-        "title": "Multi Branch Family Settlement",
-        "source_stories": [
-          "story:stanley-ho"
-        ],
-        "families": [
-          "family:ho-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
-          "concept:family-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:official-merchant-network",
-      "type": "tool",
-      "title": "Official Merchant Network",
-      "summary": "Official Merchant Network节点来自《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》的 first_pass 结构化整理，用于连接这条治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "path": "knowledge/tools/official-merchant-network.md",
-      "frontmatter": {
-        "id": "tool:official-merchant-network",
-        "type": "tool",
-        "title": "Official Merchant Network",
-        "source_stories": [
-          "story:sheng-xuanhuai"
-        ],
-        "families": [
-          "family:sheng-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-trust",
-          "concept:governance-complexity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:philanthropic-foundation-governance",
-      "type": "tool",
-      "title": "Philanthropic Foundation Governance",
-      "summary": "Philanthropic Foundation Governance节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
-      "path": "knowledge/tools/philanthropic-foundation-governance.md",
-      "frontmatter": {
-        "id": "tool:philanthropic-foundation-governance",
-        "type": "tool",
-        "title": "Philanthropic Foundation Governance",
-        "source_stories": [
-          "story:rockefeller"
-        ],
-        "families": [
-          "family:rockefeller-family"
-        ],
-        "related_concepts": [
-          "concept:philanthropy-as-governance",
-          "concept:family-constitution",
-          "concept:institutionalized-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:professional-corporate-culture",
-      "type": "tool",
-      "title": "Professional Corporate Culture",
-      "summary": "Professional Corporate Culture节点来自《思考者：沃森家族与 IBM 的百年基业》的 first_pass 结构化整理，用于连接这条治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
-      "path": "knowledge/tools/professional-corporate-culture.md",
-      "frontmatter": {
-        "id": "tool:professional-corporate-culture",
-        "type": "tool",
-        "title": "Professional Corporate Culture",
-        "source_stories": [
-          "story:watson-ibm"
-        ],
-        "families": [
-          "family:watson-family"
-        ],
-        "related_concepts": [
-          "concept:professionalization",
-          "concept:founder-shadow",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:public-private-family-role",
-      "type": "tool",
-      "title": "Public Private Family Role",
-      "summary": "Public Private Family Role节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
-      "path": "knowledge/tools/public-private-family-role.md",
-      "frontmatter": {
-        "id": "tool:public-private-family-role",
-        "type": "tool",
-        "title": "Public Private Family Role",
-        "source_stories": [
-          "story:rong-family"
-        ],
-        "families": [
-          "family:rong-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:enterprise-before-family",
-          "concept:cultural-legitimacy"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:related-diversification-system",
-      "type": "tool",
-      "title": "Related Diversification System",
-      "summary": "Related Diversification System节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
-      "path": "knowledge/tools/related-diversification-system.md",
-      "frontmatter": {
-        "id": "tool:related-diversification-system",
-        "type": "tool",
-        "title": "Related Diversification System",
-        "source_stories": [
-          "story:cp-group"
-        ],
-        "families": [
-          "family:cp-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:family-control-unity",
-          "concept:related-diversification"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -12834,13 +11822,13 @@ window.KNOWLEDGE_DATA = {
     {
       "id": "tool:think-culture",
       "type": "tool",
-      "title": "Think Culture",
-      "summary": "Think Culture节点来自《思考者：沃森家族与 IBM 的百年基业》的 first_pass 结构化整理，用于连接这条治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
+      "title": "THINK 文化",
+      "summary": "IBM 办公室的墙上挂着一个词：THINK。老沃森把它从 NCR 时期带进 IBM，要求各个办公场所悬挂标语，他的账算得很直白：「我没有思考」这句话让世界损失了数百万美元。口号靠行为续命：员工被鼓励改进产品和流程、不满足于现状，小沃森更把这股劲推到极致，押上公司开发 System/360，1964 年发布后以统一架构让客户从小机型平滑升级，开创计算机工业新纪元，他的版本是「组织要迎接变化，就必须准备改变除信念以外的一切」。前提是符号背后有授权和资源跟上，否则 THINK 只是墙上的漆。代价藏在后头：同一套基因把 IBM 送上大型主机时代的王座，也在浪潮转向时变成挣脱困境的沉重枷锁，符号会固化成功路径，路径过时之后符号还在发光。案例：沃森家族与 IBM（第 7 期）。",
       "path": "knowledge/tools/think-culture.md",
       "frontmatter": {
         "id": "tool:think-culture",
         "type": "tool",
-        "title": "Think Culture",
+        "title": "THINK 文化",
         "source_stories": [
           "story:watson-ibm"
         ],
@@ -12851,84 +11839,6 @@ window.KNOWLEDGE_DATA = {
           "concept:professionalization",
           "concept:founder-shadow",
           "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:toji-succession",
-      "type": "tool",
-      "title": "Toji Succession",
-      "summary": "Toji Succession节点来自《从“朝日鹰”到“十四代”：高木酒造家族的四百年传承》的 first_pass 结构化整理，用于连接这条治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
-      "path": "knowledge/tools/toji-succession.md",
-      "frontmatter": {
-        "id": "tool:toji-succession",
-        "type": "tool",
-        "title": "Toji Succession",
-        "source_stories": [
-          "story:takagi-shuzo"
-        ],
-        "families": [
-          "family:takagi-family"
-        ],
-        "related_concepts": [
-          "concept:standard-setting",
-          "concept:succession-training",
-          "concept:patient-long-termism"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:toyota-way",
-      "type": "tool",
-      "title": "Toyota Way",
-      "summary": "Toyota Way节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
-      "path": "knowledge/tools/toyota-way.md",
-      "frontmatter": {
-        "id": "tool:toyota-way",
-        "type": "tool",
-        "title": "Toyota Way",
-        "source_stories": [
-          "story:toyoda"
-        ],
-        "families": [
-          "family:toyoda-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:professionalization",
-          "concept:employee-stewardship"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "tool:vertical-integration-control",
-      "type": "tool",
-      "title": "Vertical Integration Control",
-      "summary": "Vertical Integration Control节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
-      "path": "knowledge/tools/vertical-integration-control.md",
-      "frontmatter": {
-        "id": "tool:vertical-integration-control",
-        "type": "tool",
-        "title": "Vertical Integration Control",
-        "source_stories": [
-          "story:ambani"
-        ],
-        "families": [
-          "family:ambani-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
-          "concept:family-control-unity"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -12958,6 +11868,37 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:listed-company-succession",
+      "type": "tool",
+      "title": "上市公司传承",
+      "summary": "上市是家族企业拿别人的钱做大自己的事，考验在钱进来之后：控制权和继承怎么安排。福特1919年花约1.06亿美元买断全部外部股东，尝过百分之百控股的自由，也在1945年交班危机里看清独资不等于安全，1956年上市时便反向设计了双层股权，家族持有的B股锁定四成投票权，公司归公众，方向盘归家族。从此传承的对象不再是公司本身，而是投票权、董事会席位和挑选CEO的权力。这套安排的前提是上市那一刻就把规则写死，事后再想补设双层股权，公众股东不会答应；代价是家族从此活在披露、股价与小股东的注视之下。边界没划清的样子看何鸿燊：赌业公司上了市，四房十七子的家产边界却始终模糊，创始人一再拖延规划，晚年各房围绕控股股权公开争夺，家事全数变成头条。福特家族第30期与何鸿燊家族第8期，一正一反。",
+      "path": "knowledge/tools/listed-company-succession.md",
+      "frontmatter": {
+        "id": "tool:listed-company-succession",
+        "type": "tool",
+        "title": "上市公司传承",
+        "source_stories": [
+          "story:stanley-ho",
+          "story:ford-family"
+        ],
+        "families": [
+          "family:ho-family",
+          "family:ford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-trust",
+          "concept:founder-shadow",
+          "concept:professionalization",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:asymmetric-trust-clause",
       "type": "tool",
       "title": "不对称信托条款",
@@ -12979,6 +11920,32 @@ window.KNOWLEDGE_DATA = {
           "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:toyota-way",
+      "type": "tool",
+      "title": "丰田模式",
+      "summary": "丰田佐吉造织机的起点只是「想让母亲轻松一些」，这份孝心最后要回答的问题却很硬：家族不在场时，公司凭什么还按家族的方式运转。丰田的办法是把遗训写成宪法：1935年，儿子喜一郎和女婿利三郎把佐吉遗训整理成五条《丰田纲领》，从「产业造福社会」到「知恩图报」，至今被集团奉为圭臬，约束力压过董事会章程。纲领养出一代代不姓丰田的「丰田人」，1995年后长达14年由职业经理人执掌，公司照样沿着纲领走。前提是家族自己先守约：1950年危机中约8000名员工走了四分之一，喜一郎带着全体董事引咎辞职，把企业生存摆在家族私利前面，五条纲领因此不是墙上的标语。风险也清楚：纲领一旦沦为装饰，或者家族自己先破戒，约束力一代人之内就会蒸发。这部精神宪法的来历与用法，见丰田家族第15期。",
+      "path": "knowledge/tools/toyota-way.md",
+      "frontmatter": {
+        "id": "tool:toyota-way",
+        "type": "tool",
+        "title": "丰田模式",
+        "source_stories": [
+          "story:toyoda"
+        ],
+        "families": [
+          "family:toyoda-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:professionalization",
+          "concept:employee-stewardship"
+        ],
+        "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
       }
@@ -13032,6 +11999,88 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:low-profile-family-governance",
+      "type": "tool",
+      "title": "低调治理",
+      "summary": "1949 年郭氏兄弟有限公司成立时，真正的主心骨郭鹤年只任执行董事兼公司秘书，董事长头衔给了大哥郭鹤举；1816 年奥地利皇帝第一次给罗斯柴尔德颁纹章，上面只有四支箭，缺的恰是出力最多、始终躲在幕后的内森。低调在这里防的是名声招来的觊觎与清算，做法是实权与头衔分开、账房与合伙名单只对家里人开放：郭家把《南华早报》和私人投资收在不上市的嘉里控股名下，罗斯柴尔德传信用带假底的马车，写希伯来字母拼成的德文暗语。郭鹤年至今不立公开的财富分割令，也不宣布唯一继承人，办公桌后方摆着母亲郑格如手书的家训：「儿孙能如我，何必留多财」。这套做法的前提是家里人守得住沉默，代价是外界会替你把空白填满：从巴尔扎克的小说、纳粹的电影到《货币战争》，账目密不透风的罗斯柴尔德被同一个神话缠了两百年，弗格森说，所有银行都有历史，只有罗斯柴尔德家族银行拥有一个神话。低调也换不来豁免：郭家大房两兄弟争产照样闹上媒体，双双退出核心管理层；1938 年维也纳，欧洲最有钱的人之一路易斯·冯·罗斯柴尔德，在纳粹枪口下吃完了他的最后一顿午餐。出处：郭鹤年（第 14 期）、罗斯柴尔德（第 32 期）。",
+      "path": "knowledge/tools/low-profile-family-governance.md",
+      "frontmatter": {
+        "id": "tool:low-profile-family-governance",
+        "type": "tool",
+        "title": "低调治理",
+        "source_stories": [
+          "story:robert-kuok",
+          "story:rothschild"
+        ],
+        "families": [
+          "family:kuok-family",
+          "family:rothschild-family"
+        ],
+        "related_concepts": [
+          "concept:patient-long-termism",
+          "concept:credit-capital",
+          "concept:related-diversification",
+          "concept:family-control-unity",
+          "concept:family-constitution"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:daily-cultivation-rules",
+      "type": "tool",
+      "title": "修身日课",
+      "summary": "家训最常见的死法是停在纸上，人人会背，无人去做；修身日课把德行拆成每天可检查的动作。曾国藩在理学家倭仁「必须写日课，当即写，不再因循」的督促下给自己订了日课十二条：主敬、静坐、早起、读书不二、读史、谨言、养气、保身、日知所亡、月无忘所能、作字、夜省，条条落在当天。再往上一层是祖父曾星冈传下的八字诀「书、蔬、鱼、猪、早、扫、考、宝」，读书、种菜、养鱼、喂猪、早起、扫地、祭祖、睦邻，把一个家的价值观全部翻译成日常劳作。这套办法的前提是当家人先做给人看，曾国藩军务再重也坚持早起读书、日日反省，代价是对自己近乎苛刻，全靠意志硬撑。边界也清楚：日课修得了自己，修不住手握兵权的兄弟，曾国荃攻下安庆、天京后纵容部下屠掠，恶名记在全家账上，曾国藩终究没能制止。案例：曾国藩家族（第 6 期）。",
+      "path": "knowledge/tools/daily-cultivation-rules.md",
+      "frontmatter": {
+        "id": "tool:daily-cultivation-rules",
+        "type": "tool",
+        "title": "修身日课",
+        "source_stories": [
+          "story:zeng-guofan"
+        ],
+        "families": [
+          "family:zeng-family"
+        ],
+        "related_concepts": [
+          "concept:family-consensus",
+          "concept:patient-long-termism",
+          "concept:succession-training"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:brother-partnership",
+      "type": "tool",
+      "title": "兄弟合伙",
+      "summary": "多个儿子同时进入家业，最常见的结局是分家或者内斗，正大集团谢家的答案是合伙不分家，位子跟着能力走。谢易初四个儿子的名字连起来是正大中国，接班掌舵的不是长子，而是从少年时代就显出组织才能、被家族早早认定为接班人选的幼子谢国民，几位兄长各守一块业务。2017年，78岁的谢国民卸任董事长兼首席执行官，第三代沿用同一结构：长子谢吉人接董事长，三子谢镕仁接首席执行官，一个掌方向，一个管经营，谢国民本人退居资深董事长压阵。这套安排的前提是家族对谁最能干有共识，兄长接受让贤，否则合伙随时退化成内斗。反面样本是安巴尼家：同样是兄弟接班，父亲没立遗嘱也没定分工，穆克什和阿尼尔从2002年公开斗到2005年，最后靠母亲出面才切开了这个家。出处：正大集团谢氏家族，家族·故事第13期《一粒种子，正大百年》。",
+      "path": "knowledge/tools/brother-partnership.md",
+      "frontmatter": {
+        "id": "tool:brother-partnership",
+        "type": "tool",
+        "title": "兄弟合伙",
+        "source_stories": [
+          "story:cp-group"
+        ],
+        "families": [
+          "family:cp-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:family-control-unity",
+          "concept:related-diversification"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:charter-over-will",
       "type": "tool",
       "title": "公司章程高于遗嘱",
@@ -13053,6 +12102,32 @@ window.KNOWLEDGE_DATA = {
           "concept:founder-shadow"
         ],
         "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:public-private-family-role",
+      "type": "tool",
+      "title": "公私双重角色",
+      "summary": "1956 年公私合营高潮中，荣毅仁把茂新、福新、申新所有工厂的产权悉数献给国家，领了约 600 万元补偿款，还带头公开表态拥护。私产没了，角色换了：他转身出任原荣氏企业的董事长、经理，1957 到 1959 年任上海市副市长兼纺织工业部副部长，把家族的工商经验和人脉直接注入新体制；文革中靠周恩来指示纺织工业部以军管名义派工作组进驻荣宅，才免于更大的冲击。1979 年邓小平点将，62 岁的荣毅仁组建国务院直属的中信公司，是新中国第一家对外投融资窗口公司，他本人后来官至国家副主席（1993 到 1998 年）。走这条路的前提是极高的政治判断力和自我克制，代价是家族财富从私产变成身份，能用，不能分。边界踩错一次就出局：第三代荣智健执掌的中信泰富 2008 年因澳元累计期权巨亏 155 亿港元，市值蒸发超过七成半，荣智健辞职退场，2014 年中信整体上市后，家族在这家国企里的特殊影响力随之稀释殆尽。案例：荣氏（第 17 期）。",
+      "path": "knowledge/tools/public-private-family-role.md",
+      "frontmatter": {
+        "id": "tool:public-private-family-role",
+        "type": "tool",
+        "title": "公私双重角色",
+        "source_stories": [
+          "story:rong-family"
+        ],
+        "families": [
+          "family:rong-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:enterprise-before-family",
+          "concept:cultural-legitimacy"
+        ],
+        "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
       }
@@ -13084,6 +12159,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:creative-founder-legacy",
+      "type": "tool",
+      "title": "创始人创意遗产",
+      "summary": "「沃尔特会怎么做」，创始人1966年去世后，这个问题在迪士尼内部悬了近二十年，既是罗盘，也是枷锁。这份遗产的底座是品牌与创始人一体：派拉蒙、环球的招牌早与创始人无关，迪士尼的管理者却必须按创始人精神自我要求，否则会被公众批评「有违迪士尼精神」，家族由此握有一种不靠股权的软约束力。哥哥罗伊为遗产定了调，弟弟死后他推迟退休，1971年10月把佛罗里达度假区建成开幕并坚持冠名沃尔特·迪士尼世界，两个月后自己也随之离世；侄子罗伊小迪士尼则常年扮演提醒初心的「吉米尼蟋蟀」。枷锁的一面同样真实：凡事先问死者的公司渐渐不敢冒险，直到1984年艾斯纳进来，一手引入好莱坞的市场化打法，一手尊重品牌传统，才把遗产从供桌请回生产线。用好这份遗产的前提，是家族里始终有人既懂创始人也懂业务，只会念「沃尔特会怎么做」的守灵人救不了公司。这段双面故事见迪士尼家族第11期。",
+      "path": "knowledge/tools/creative-founder-legacy.md",
+      "frontmatter": {
+        "id": "tool:creative-founder-legacy",
+        "type": "tool",
+        "title": "创始人创意遗产",
+        "source_stories": [
+          "story:disney"
+        ],
+        "families": [
+          "family:disney-family"
+        ],
+        "related_concepts": [
+          "concept:founder-shadow",
+          "concept:professionalization",
+          "concept:enterprise-independence"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:frugal-management",
+      "type": "tool",
+      "title": "勤俭经营",
+      "summary": "王永庆的信条是点点滴滴求其合理化，把每一分不合理的成本省掉，把每一个问题追到根上。这套功夫从嘉义那家一天最多卖一百多斗米的米店练起；高雄台塑总公司那间不足三坪的董事长办公室，三张塑胶椅、共用办公桌和墙角的算盘 48 年不动，他每年生日回去坐一坐，提醒全集团根基是什么。勤俭不是不敢花钱：他敢把 PVC 月产能从 120 吨一口气扩到 1200 吨，也敢接手美国人经营不下去的德拉威尔石化厂，把追根究底移植过去，两年做到平均利润率 21%；1941 年碾米厂被迫关闭时悟出的瘦鹅理论是同一枚硬币，逆境里忍饥耐饿活下来，机会一来就疯狂进食。前提是创办人自己先做到，他清晨两点半起床，用一条脱絮的旧毛巾做毛巾操，身教一旦停止，节俭就退化成口号。他把勤俭刻进了组织，却没能用同样的制度化管好家族，身后三房争产照样爆发。案例：王永庆（第 12 期）。",
+      "path": "knowledge/tools/frugal-management.md",
+      "frontmatter": {
+        "id": "tool:frugal-management",
+        "type": "tool",
+        "title": "勤俭经营",
+        "source_stories": [
+          "story:wang-yongqing"
+        ],
+        "families": [
+          "family:wang-yongqing-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:professionalization",
+          "concept:enterprise-before-family"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:pao-family-trust",
       "type": "tool",
       "title": "包氏家族信托",
@@ -13099,6 +12226,32 @@ window.KNOWLEDGE_DATA = {
         "related_concepts": [
           "concept:family-trust",
           "concept:family-consensus"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:medical-philanthropy",
+      "type": "tool",
+      "title": "医疗公益",
+      "summary": "父亲王长庚积劳成疾一病不起那年，王永庆九岁，全家为治病花光积蓄，绝望的父亲深夜拖着病体上茶山寻短，被母亲背了回来。那一夜埋下的誓愿，几十年后落成长庚纪念医院：1973 年捐资筹设，以父亲之名命名，要救治的正是当年那样求医无门的穷苦人。医院是医疗财团法人，由 15 人董事会管理，王家成员或密切关系者、社会贤达、专业人士各占 5 席；它同时持有台塑 6.7%、南亚 8.2%、台化 18.6%、台塑石化 4.5% 的股份，股票不可转让，股息只能用于慈善，公益与集团控制权互相锁定。前提是医院真把医疗办好，公益法人的公信力才撑得起这层结构，代价是这部分财富永久离开家族名下。隐患同样在此：谁掌管医院和基金会，谁就间接握住集团，王永庆身后李宝珠掌管长庚基金会等资源，长子王文洋随即发难，公益席位成了争产的延长线。案例：王永庆（第 12 期）。",
+      "path": "knowledge/tools/medical-philanthropy.md",
+      "frontmatter": {
+        "id": "tool:medical-philanthropy",
+        "type": "tool",
+        "title": "医疗公益",
+        "source_stories": [
+          "story:wang-yongqing"
+        ],
+        "families": [
+          "family:wang-yongqing-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:professionalization",
+          "concept:enterprise-before-family"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -13150,6 +12303,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:brand-professionalization",
+      "type": "tool",
+      "title": "品牌职业化",
+      "summary": "古驰的重生发生在家族离场之后，品牌职业化解决的是后代既撑不起品牌又不肯放权的死结。职业化在家族末期已经起步：毛里齐奥 1989 年重金请来创意总监唐·梅洛、提拔年轻设计师汤姆·福特，真正的转折在 1993 年海湾投资巨头 Investcorp 全面接手之后，1994 年做过古驰家族法律顾问的多梅尼科·德索雷出任 CEO，与汤姆·福特搭档，几年内让连年亏损的古驰起死回生，1995 年登陆纽交所，1999 年加入开云集团抵御 LVMH 恶意收购。它的前提是品牌的产品力独立于家族存在，代价是家族对品牌从此再无话语权。职业化来得太晚就不再是家族的工具：古驰各房在 1980 年代已各自套现内斗，Investcorp 在董事会逼宫时，家族没有换到任何席位或保留条款，1993 年后再无古驰家族成员在公司任职或持股。案例：古驰（第 9 期）。",
+      "path": "knowledge/tools/brand-professionalization.md",
+      "frontmatter": {
+        "id": "tool:brand-professionalization",
+        "type": "tool",
+        "title": "品牌职业化",
+        "source_stories": [
+          "story:gucci"
+        ],
+        "families": [
+          "family:gucci-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:professionalization"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:brand-fee-contract",
       "type": "tool",
       "title": "品牌费与行为准则合同",
@@ -13171,6 +12350,62 @@ window.KNOWLEDGE_DATA = {
           "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:geographic-risk-diversification",
+      "type": "tool",
+      "title": "地域风险分散",
+      "summary": "五个儿子像五支箭射向五座金融城：阿姆谢尔守法兰克福，所罗门去维也纳，内森在伦敦，卡尔在那不勒斯，詹姆斯在巴黎，罗斯柴尔德把身家拆在五个政权名下，再靠一套自家专属的密信马车系统保持联动。这个布局对付的是全部家当押在单一政权上的风险：1840 到 1849 年，夹着 1848 年革命的那十年，五行资本利润率跌到百分之一点八，是十九世纪最差的十年，巴黎的詹姆斯却在废墟中纹丝不动，弗格森给的解释是雄厚的清偿能力加分散在五国的风险。郭鹤年是同一套打法的现代版：地产装进香港上市的嘉里建设，酒店放在港交所挂牌的香格里拉亚洲，粮油交给新加坡侄子郭孔丰的丰益国际，《南华早报》和私人投资收进不上市的嘉里控股，各板块互为防火墙。前提是每个据点都有一个信得过、扛得起的自家人坐镇，罗斯柴尔德的教训是这种人比钱更稀缺。分散也有到不了的地方：那不勒斯分行的客户全押在波旁王朝身上，1860 年加里波第打来，詹姆斯判断大势已去，拒绝放贷救急，次年王国覆灭，分行清盘，当家人阿道夫成了家族第一个被赎买出局的合伙人。出处：郭鹤年（第 14 期）、罗斯柴尔德（第 32 期）。",
+      "path": "knowledge/tools/geographic-risk-diversification.md",
+      "frontmatter": {
+        "id": "tool:geographic-risk-diversification",
+        "type": "tool",
+        "title": "地域风险分散",
+        "source_stories": [
+          "story:robert-kuok",
+          "story:rothschild"
+        ],
+        "families": [
+          "family:kuok-family",
+          "family:rothschild-family"
+        ],
+        "related_concepts": [
+          "concept:patient-long-termism",
+          "concept:credit-capital",
+          "concept:related-diversification",
+          "concept:family-control-unity",
+          "concept:family-constitution"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:vertical-integration-control",
+      "type": "tool",
+      "title": "垂直整合",
+      "summary": "纺织厂的命门握在原料商手里，迪鲁拜·安巴尼的解法是沿着原料链一路向上吃：信实从纺织向聚酯、石化、炼油逆向一体化，把每个受制于人的环节变成自己的地盘。80年代与老牌纺织企业Bombay Dyeing的涤纶大战演示了这种控制力的用法：双方在聚酯原料上分别押注PTA和DMT两条技术路线，迪鲁拜一边以低于成本的价格倾销，一边推动政府降低PTA进口关税、维持DMT相关产品的税负，产业链选择叠加政策运作，赢下了与努斯利·瓦迪亚的对决。前提和代价同样醒目：一体化极度吃资本，在管制经济里还离不开政商网络，澳大利亚记者哈米什·麦克唐纳在《涤纶王子》里记录了信实获取许可证、影响政策的种种运作，这本书在印度遭到查禁。还有一层隐性代价：一体化的链条拆不开，2005年分家时石化炼油主业整体归了穆克什，拿到电信等新业务的阿尼尔失去链条依托，这份初始分配加大了他日后的困境。出处：安巴尼家族，家族·故事第4期《印度第一家族》。",
+      "path": "knowledge/tools/vertical-integration-control.md",
+      "frontmatter": {
+        "id": "tool:vertical-integration-control",
+        "type": "tool",
+        "title": "垂直整合",
+        "source_stories": [
+          "story:ambani"
+        ],
+        "families": [
+          "family:ambani-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
       }
@@ -13206,6 +12441,86 @@ window.KNOWLEDGE_DATA = {
           "segment:bosch-009"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "tool:foundation-ownership-structure",
+      "type": "tool",
+      "title": "基金会持股",
+      "summary": "把公司股权整体注入基金会，是为了让分家、遗产税和接班内斗永远够不到核心资产。坎普拉德 1982 年把覆盖大部分宜家商场的营运公司转让给荷兰注册的英卡基金会（Stichting INGKA Foundation），后者通过 Ingka Holding B.V. 持有运营全球约九成宜家门店的 Ingka 集团；1989 年又在列支敦士登设立英特罗哥基金会，控股 Inter IKEA 集团，握有 IKEA 商标与整套商业概念，向全球零售商按营业额收取约 3% 的特许费，两个篮子互相牵制。家族退到自己全资的 Ikano 集团经营金融、保险、地产，成员在基金会理事会只占少数席位、不得从中取得资产，坎普拉德明文规定家族不得占多数席位，以防一姓独大。适用前提有两条：所在法域承认这类目的基金会（荷兰、列支敦士登），家族接受核心财富在法律上不属于任何个人，后代只能凭能力任职而不能变现。争议随之而来：没有公开股东约束，问责全靠内部治理，欧盟在 2010 年代调查宜家的税收安排、批评其侵蚀税基，英卡基金会也因捐赠比例偏低被质疑借公益外衣做税务筹划。案例：宜家（第 18 期）。",
+      "path": "knowledge/tools/foundation-ownership-structure.md",
+      "frontmatter": {
+        "id": "tool:foundation-ownership-structure",
+        "type": "tool",
+        "title": "基金会持股",
+        "source_stories": [
+          "story:ikea"
+        ],
+        "families": [
+          "family:kamprad-family"
+        ],
+        "related_concepts": [
+          "concept:foundation-ownership",
+          "concept:non-listing-control",
+          "concept:mission-locked-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:external-ceo-family-control",
+      "type": "tool",
+      "title": "外人掌舵，家族控股",
+      "summary": "家族需要比自己能干的人经营公司，却常常受不了他的光盖过家族，这是外聘经理人制度真正的考题。福特的解法在1980年成形：亨利二世卸任董事长，菲利普·卡德威尔成为公司历史上第一位非家族CEO，从此家族坐董事会、经理人管经营，靠1956年上市时设计的双层股权攥住任命权，2006年比尔·福特又把CEO让给从波音请来的穆拉利，2008年金融危机中福特成了底特律三巨头里唯一没要政府救助的一家。阿涅利家族是同一路数：詹尼身后，职业经理人马尔乔内把菲亚特从悬崖边拉回来并完成与克莱斯勒的合并，家族通过控股平台选人守向，2021年再推动与标致雪铁龙合并，造出全球第四大汽车集团。用好这套结构的分寸在于家族不必亲自经营，但必须决定谁来经营，并且忍得住经理人的风头。忍不住的样子福特也示范过：1978年亨利二世在总部12楼解雇声望正盛的艾柯卡，理由近乎任性，「有时候你就是不喜欢一个人」，公司1979到1982年累计亏损33亿美元，双层股权解决了资本问题，解决不了权力心理问题。两段故事见福特家族第30期、阿涅利家族第21期。",
+      "path": "knowledge/tools/external-ceo-family-control.md",
+      "frontmatter": {
+        "id": "tool:external-ceo-family-control",
+        "type": "tool",
+        "title": "外人掌舵，家族控股",
+        "source_stories": [
+          "story:agnelli",
+          "story:ford-family"
+        ],
+        "related_concepts": [
+          "concept:professionalization",
+          "concept:family-as-guardian",
+          "concept:founder-shadow",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "families": [
+          "family:ford-family"
+        ]
+      }
+    },
+    {
+      "id": "tool:multi-branch-family-settlement",
+      "type": "tool",
+      "title": "多房和解",
+      "summary": "四房太太、十七名子女，其中一名早逝，何鸿燊留下的家庭结构注定找不出单一继承人。他的解法是东方式的分产传承：不设信托、不学盖茨和巴菲特裸捐，把绝大部分财产按房分给子孙，晚年那场围绕控股股权的风波，最后也是靠各房分到看得见的份额和位置收场。分产换和平的代价是帝国被切开，博彩版图散落各房，何家再没有一个人握有当年赌王式的话语权。和解还有时间前提：创始人拖得越久，各房越会自行布局，何鸿燊一再推迟规划，争产在他生前就已爆发。不肯和解的下场写在他妹妹身上：十姑娘何婉琪2001年与他彻底决裂，官司缠到2018年她去世，兄妹至死没见最后一面，坊间传她临终遗言仍是「何鸿燊还钱」。他本人去世一年零四天后，灵柩才在2021年5月30日正式下葬，多房家族连一场告别都要漫长协调，全案见何鸿燊家族第8期。",
+      "path": "knowledge/tools/multi-branch-family-settlement.md",
+      "frontmatter": {
+        "id": "tool:multi-branch-family-settlement",
+        "type": "tool",
+        "title": "多房和解",
+        "source_stories": [
+          "story:stanley-ho"
+        ],
+        "families": [
+          "family:ho-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-trust"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -13262,6 +12577,188 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:marriage-alliance",
+      "type": "tool",
+      "title": "婚姻联盟",
+      "summary": "美第奇三百年的联姻史是一部用婚姻换筹码的攀升史：乔凡尼·迪·比奇的妻子带来一千五百弗罗林嫁妆，1469 年洛伦佐迎娶罗马贵族克拉丽切·奥尔西尼换到蓝色血统，凯特琳娜 1533 年嫁给法国王子，玛丽 1600 年嫁给法王亨利四世，每桩婚事都在欧洲权力版图上插进一面旗。联姻换的是钱直接买不到的东西：洛伦佐先把女儿嫁给教皇的私生子，再让银行向教廷源源不断输血，1489 年英诺森八世点头，红衣主教的帽子落到他十三岁的次子乔凡尼头上。罗斯柴尔德把同一件工具反着用：男系合伙加内部通婚，资本不随女儿外流，凡婚事一律回法兰克福办，新人门第再高，也得走进犹太巷那栋挂绿盾的老宅，向老太太古特勒屈膝行礼，等她点头。两个方向共用一个前提：家里得有足够的人丁可供调度，人丁一旦不济，策略立刻反噬。美第奇衰落期的婚事全数落空，科西莫三世娶奥尔良公主是场灾难，贾恩·加斯顿的婚姻更是荒诞，全都没有产出继承人，直接加速家族绝嗣；罗斯柴尔德的内婚则把扩张半径锁死在「合格且愿意干的罗斯柴尔德男性」这个稀缺资源上，五支箭之后再无第六支。出处：美第奇（第 27 期）、罗斯柴尔德（第 32 期）。",
+      "path": "knowledge/tools/marriage-alliance.md",
+      "frontmatter": {
+        "id": "tool:marriage-alliance",
+        "type": "tool",
+        "title": "婚姻联盟",
+        "source_stories": [
+          "story:medici",
+          "story:rothschild"
+        ],
+        "related_concepts": [
+          "concept:family-consensus",
+          "concept:related-diversification",
+          "concept:family-control-unity",
+          "concept:family-constitution",
+          "concept:credit-capital"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "families": [
+          "family:rothschild-family"
+        ]
+      }
+    },
+    {
+      "id": "tool:official-merchant-network",
+      "type": "tool",
+      "title": "官商网络",
+      "summary": "晚清办大实业，牌照、资本、垄断经营权都握在朝廷手里，绕开官府寸步难行。盛宣怀的父亲盛康与李鸿章私交甚厚，他年轻时入李鸿章幕府办洋务，从此一生亦官亦商：以官督商办模式办起轮船招商局、中国电报总局、汉冶萍和中国通商银行，创办北洋大学堂、南洋公学，官至邮传部右侍郎；儿女婚事多与名门结亲，四子盛恩颐由慈禧赐名，岳丈做过总理，这张网上至朝廷重臣、下至工商巨贾。它的前提是朝廷始终用得着你，网络的价值锚在政权上，不在企业自身的治理结构上。代价与败局是同一件事：这些企业在清廷庇护下成长，缺乏现代法人治理，全系于盛宣怀个人威望，清帝逊位后庇护落空，24岁接班的盛恩颐挂着汉冶萍总经理、津浦铁路局局长的头衔，却在赌桌上一夜输掉多处房产，网络无人能续，产业随王朝一起退场。案例：盛宣怀家族。",
+      "path": "knowledge/tools/official-merchant-network.md",
+      "frontmatter": {
+        "id": "tool:official-merchant-network",
+        "type": "tool",
+        "title": "官商网络",
+        "source_stories": [
+          "story:sheng-xuanhuai"
+        ],
+        "families": [
+          "family:sheng-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-trust",
+          "concept:governance-complexity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:industrial-patriotism",
+      "type": "tool",
+      "title": "实业报国",
+      "summary": "红的火柴、黑的煤炭、白的面粉棉纱，荣宗敬、荣德生兄弟从三样民生必需品里选了白色，1900 年前后卖掉钱庄，在无锡办起保兴、福新面粉厂，立志办中国人自己的面粉厂、纺织厂。使命给生意装了压舱石：他们钦佩张謇，荣德生说不忍见大量失业壮年沿街乞讨，办厂既为利也为民生，鼎盛时做到面粉大王、棉纱大王，衣被半个中国。真正的考验在 1938 年：荣德生回到沦陷的上海，宣布退出一切公开商务、闭门谢客；汪伪褚民谊在国际饭店设宴，逼荣家把申新卖给日本丰田纱厂，荣德生称病不见，次子荣尔仁赴宴当面回绝。前提是全家共享这套价值排序，接受企业利益随时给民族大义让路，工厂停摆受损也在所不惜。硬币的另一面：民族资本家的招牌在新中国让荣毅仁获得信任，也注定家族企业最终交给国家，身份既是通行证，也是枷锁。案例：荣氏（第 17 期）。",
+      "path": "knowledge/tools/industrial-patriotism.md",
+      "frontmatter": {
+        "id": "tool:industrial-patriotism",
+        "type": "tool",
+        "title": "实业报国",
+        "source_stories": [
+          "story:rong-family"
+        ],
+        "families": [
+          "family:rong-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:enterprise-before-family",
+          "concept:cultural-legitimacy"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-letters-as-governance",
+      "type": "tool",
+      "title": "家书治理",
+      "summary": "家长常年在外做官带兵，家里的规矩靠什么维持，曾国藩的答案是一支笔。他十几年间写给诸弟和儿女的信后来辑成《曾国藩家书》，论修身、治家、处世的警句不下百余条；信中要求具体到动作，子侄要勤于看、读、写、作，诗文寄来由他亲自批改，他还要求弟弟子侄抄读《家训》，把私人通信变成了可执行的治理制度。这套远程治理的前提是写的人十几年不断笔、读的人当真照办，家中还得有人落地执行，在湘乡主持家务的四弟曾国潢就是那个执行者。失败模式同样写在曾家：曾国潢与地方官府有利益勾连，曾国荃战场上手段酷烈，家书里劝了多年，行为未必改，收信人不从时，信只剩记录价值。案例：曾国藩家族（第 6 期）。",
+      "path": "knowledge/tools/family-letters-as-governance.md",
+      "frontmatter": {
+        "id": "tool:family-letters-as-governance",
+        "type": "tool",
+        "title": "家书治理",
+        "source_stories": [
+          "story:zeng-guofan"
+        ],
+        "families": [
+          "family:zeng-family"
+        ],
+        "related_concepts": [
+          "concept:family-consensus",
+          "concept:patient-long-termism",
+          "concept:succession-training"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-trust",
+      "type": "tool",
+      "title": "家族信托",
+      "summary": "创始人一死家产就被分光，是多数富家的结局；信托把所有权、管理权、受益权拆开，让财产比人活得久。盛宣怀1916年临终遗命，约合1350万两白银的家产本金不动，进项「作十分开拆」，五份留作善举、五份分给五房，身后随即成立至善堂议会，陶湘、何梅阁等八位社会名流任议员，李经方等八人任顾问，子孙只分利不分本。更早的原型是范氏义庄：范仲淹1050年把一千余亩义田的产权交给「苏州范氏」这个超越任何个人的主体，「祖宗视之，则均是子孙」，每一房都是受益人，没有一房是所有人，这层非个人化让义庄从1050年运转到1949年，共899年。这套安排的前提是继承人接受只分利不分本，并容忍外人管钱。盛家两条都没守住：议会开张数月，总经理顾咏铨与族侄盛玉麐双双辞职，议会停摆，1919年改为一半本金直接分给五房、一半作保存股交愚斋义庄董事会管，这笔公益股后来又被盛恩颐联合董事申请转为五房私产，妹妹盛爱颐告上法庭，赢下中国近代第一例女性继承权胜诉案，争回七分之一家产，信托名存实亡。案例：盛宣怀家族、范氏义庄（第 31 期）。",
+      "path": "knowledge/tools/family-trust.md",
+      "frontmatter": {
+        "id": "tool:family-trust",
+        "type": "tool",
+        "title": "家族信托",
+        "related_concept": "concept:family-trust",
+        "purpose": [
+          "稳定所有权",
+          "降低家族资产分割风险",
+          "形成最高控股层"
+        ],
+        "limitations": [
+          "不能自动解决经营能力问题",
+          "不能替代董事会和管理层治理",
+          "不能消除接班人权威不足"
+        ],
+        "source_segments": [
+          "segment:zhou-dafu-002",
+          "segment:zhou-dafu-010"
+        ],
+        "reviewed": false,
+        "source_stories": [
+          "story:sheng-xuanhuai",
+          "story:fan-yizhuang"
+        ],
+        "families": [
+          "family:sheng-family",
+          "family:fan-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-trust",
+          "concept:governance-complexity",
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:steward-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-office",
+      "type": "tool",
+      "title": "家族办公室",
+      "summary": "分了家，总还剩下分不掉的事：跨房的重大投资、共同的风险、家族的公共事务。包玉刚 1989 年在汇丰银行顶层签完信托文件，宣布的最后一项决定就是由四位女婿共同成立家族办公室，郑维健牵头，统筹全家族的战略投资与财富管理，四房产业各自独立经营，头顶留一个总平台。洛克菲勒家走得更早，1882 年设立家族理财办公室，长驻洛克菲勒中心人称 Room 5600 的办公室，打理几代人的资产与捐赠，2018 年这一脉演变为面向外部客户的洛克菲勒资本管理公司。前提是资产规模撑得起专职团队，牵头人拿到明确授权，否则家办只是一间高级账房。分寸也在这里：家办只管各房的交集，若越界插手各房经营，每家公司就有了两个头，包玉刚给郑维健划的职权是统筹而不是指挥。案例：包玉刚（第 22 期）、洛克菲勒（第 5 期）。",
+      "path": "knowledge/tools/family-office.md",
+      "frontmatter": {
+        "id": "tool:family-office",
+        "type": "tool",
+        "title": "家族办公室",
+        "source_stories": [
+          "story:pao-family",
+          "story:rockefeller"
+        ],
+        "related_concepts": [
+          "concept:family-consensus",
+          "concept:professionalization",
+          "concept:philanthropy-as-governance",
+          "concept:family-constitution",
+          "concept:institutionalized-trust"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false,
+        "families": [
+          "family:rockefeller-family"
+        ]
+      }
+    },
+    {
       "id": "tool:family-pact-cultural-legacy",
       "type": "tool",
       "title": "家族契约保全文脉",
@@ -13277,6 +12774,218 @@ window.KNOWLEDGE_DATA = {
         "related_concepts": [
           "concept:philanthropy-as-governance",
           "concept:cultural-legitimacy"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-council",
+      "type": "tool",
+      "title": "家族委员会",
+      "summary": "家族一过百人，最先失灵的是沟通，各支系信息不通、价值观各自漂移，内耗往往从这里开始。洛克菲勒家的办法是把议事挂在共同事业上：第三代五兄弟 1940 年共同出资设立洛克菲勒兄弟基金，兄弟同任受托人，定期聚会名义上谈基金，家族事务也一并议决，实际扮演了家族理事会；从第三代起，全族每年还聚会两次，夏季在哈德逊河谷的波坎蒂科庄园，圣诞节在纽约，上百位成员共进午餐，会上通报投资与慈善项目进展。适用前提是家族手里有共同资产或共同事业当议题载体，光靠亲情聚不拢人。考验出现在代际交接：1970 年代第三代与第四代价值观冲突，有长辈一度提议把基金会捐完关停，靠一轮轮对话才把分歧磨成共识，而多少财富家族正是败在无处说话。案例：洛克菲勒（第 5 期）。",
+      "path": "knowledge/tools/family-council.md",
+      "frontmatter": {
+        "id": "tool:family-council",
+        "type": "tool",
+        "title": "家族委员会",
+        "source_stories": [
+          "story:rockefeller"
+        ],
+        "families": [
+          "family:rockefeller-family"
+        ],
+        "related_concepts": [
+          "concept:philanthropy-as-governance",
+          "concept:family-constitution",
+          "concept:institutionalized-trust"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-president-as-symbolic-steward",
+      "type": "tool",
+      "title": "家族守门人",
+      "summary": "持股早已稀释到极少的家族还能给公司什么，丰田的答案是守门人，而不是掌权者。丰田家族在丰田汽车持股极少，前11任社长中家族与非家族大约各占一半，1995年起更连续14年由奥田硕、张富士夫、渡边捷昭三位职业经理人执掌，家族只在董事会和顾问席上看方向。2009年丰田章男回任社长，次年召回危机的听证会上他说「我的姓氏印在每一辆车上，当车辆出现问题，我感同身受」，以家族百年声誉为整改作保，比随时可以离职的经理人更可信。这份分量是几代人清廉自律、实业报国攒下的无形资产，平时不显眼，企业信誉遭到毁灭性打击时才派上用场；反过来，姓氏没有积累或早被透支的家族，同样的位子上坐着的只是吉祥物。守门也不等于世袭，丰田从不坚持每任社长都姓丰田，谁合适谁上。福特家族第30期是同一角色的美国版本，比尔·福特以家族董事长身份配合外聘CEO；丰田的故事见丰田家族第15期。",
+      "path": "knowledge/tools/family-president-as-symbolic-steward.md",
+      "frontmatter": {
+        "id": "tool:family-president-as-symbolic-steward",
+        "type": "tool",
+        "title": "家族守门人",
+        "source_stories": [
+          "story:toyoda",
+          "story:ford-family"
+        ],
+        "families": [
+          "family:toyoda-family",
+          "family:ford-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:professionalization",
+          "concept:employee-stewardship",
+          "concept:founder-shadow",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-constitution",
+      "type": "tool",
+      "title": "家族宪章",
+      "summary": "族产靠某个人的威望维系，人一走就散，家族宪章做的是把规矩安放在任何个人之上。皇祐二年（1050 年），六十二岁的范仲淹把一生积攒的俸禄赏赐换成苏州一千余亩义田，写下十三条《义庄规矩》：义田归全族公有而不归他的儿子，计口给米每口一升，丧葬钱尊长二十五贯、卑幼十七贯、七岁以下不支，再借《告子弟书》里「祖宗视之，则均是子孙」一句，把所有权挂到祖宗这个抽象主体名下，每一房都是受益人，没有一房是所有人。迈尔·阿姆谢尔 1812 年的遗嘱是同一件事的银行版：男系合伙，婚事一律回法兰克福办，新人要过老太太古特勒那一关，纹章上一只手攥住五支箭，家训三个词，团结、诚信、勤勉。章程立得住，前提是成文规则之下还有文化共识兜底，范仲淹用的是儒家伦理，罗斯柴尔德靠犹太巷的共同记忆；代价是边界写死也就锁住扩张，罗斯柴尔德此后再没有射出第六支箭。它同样挡不住政权翻页：靖康之变后义庄停摆七十年，靠族人记得天平山下那块刻石才得以重建；1949 年最后一任掌庄人范烟桥向军管会交出全部账册和刻石拓本，两万多亩义田在第 899 年随土改分尽。出处：范氏义庄（第 31 期）、罗斯柴尔德（第 32 期）。",
+      "path": "knowledge/tools/family-constitution.md",
+      "frontmatter": {
+        "id": "tool:family-constitution",
+        "type": "tool",
+        "title": "家族宪章",
+        "related_concept": "concept:family-constitution",
+        "purpose": [
+          "固化共同价值观",
+          "降低多家族共治摩擦",
+          "指导重大事项决策",
+          "把隐性承诺变成显性契约"
+        ],
+        "limitations": [
+          "缺少硬性执行程序时依赖自律",
+          "需要仪式和故事持续活化",
+          "家族成员行为失范会削弱权威"
+        ],
+        "source_segments": [
+          "segment:kikkoman-005",
+          "segment:kikkoman-008"
+        ],
+        "reviewed": false,
+        "source_stories": [
+          "story:fan-yizhuang",
+          "story:rothschild"
+        ],
+        "families": [
+          "family:fan-family",
+          "family:rothschild-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:steward-ownership",
+          "concept:family-control-unity",
+          "concept:credit-capital"
+        ],
+        "curation_stage": "first_pass",
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-holding-defense",
+      "type": "tool",
+      "title": "家族控股防御",
+      "summary": "上市家族企业的股权散在几十个后代手里，收购方最擅长各个击破，家族控股防御是把散股重新拧成绝对多数的一纸协议。LVMH 2010 年 10 月来电摊牌时已暗中吃进爱马仕 17.1% 股份，挑的正是让·路易·杜马斯去世、公司 173 年来首次由外姓 CEO 代掌的权力空窗。五十多位核心家族成员在巴黎密会，2011 年组建 H51 控股：注入家族 62.8% 的总股权，其中约 50.2% 锁定 20 年不得出售、价值约 80 亿欧元，每年再以利润的三分之一回购流通股，把几十个股东捆成一致行动人，对外只出一个声音。防线的前提是危机来临时家族仍握有可锁定的多数，代价是每位签字者放弃二十年的变现自由和部分分红。缺口出在个人：唯独尼古拉·皮埃什拒绝加入，LVMH 吃进的筹码正来自他的出售；防线锁死后阿尔诺无从增持，2013 年 LVMH 被罚 800 万欧元，2014 年和解退出。案例：爱马仕（第 19 期）。",
+      "path": "knowledge/tools/family-holding-defense.md",
+      "frontmatter": {
+        "id": "tool:family-holding-defense",
+        "type": "tool",
+        "title": "家族控股防御",
+        "source_stories": [
+          "story:hermes"
+        ],
+        "families": [
+          "family:hermes-family"
+        ],
+        "related_concepts": [
+          "concept:family-control-unity",
+          "concept:family-constitution",
+          "concept:standard-setting"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-exit-from-brand",
+      "type": "tool",
+      "title": "家族退出品牌",
+      "summary": "当家族既压不住内斗又救不了业绩，退出品牌是止损的最后一个工具，退出的时点和姿势决定家族最后拿到什么。古驰的退出是被逼的：1993 年公司债台高筑，投资伙伴 Investcorp 在董事会逼宫，毛里齐奥辞去董事长并卖出剩余全部股份，延续 72 年的家族王朝落幕，此后再无家族成员在公司任职或持股。达斯勒家族的两支血脉相继照此散场：1989 年 5 月德意志银行把鲁道夫一支持有的彪马 72% 股份以约四千三百五十万美元的估值卖给科萨·利伯曼，继承人们总共只分到两千万出头德国马克；1990 年 7 月霍斯特的四个姐姐把阿迪达斯 80% 股份以约 4.4 亿德国马克卖给贝尔纳·塔皮，约为外界估值的一半，签约前最后的请求只是保留八折的员工购物折扣。教训在谈判地位：等到债务和银行代替家族做决定，就只剩贱卖一种退法。而品牌在家族离场后各自复兴，古驰 1995 年登陆纽交所，阿迪达斯 1995 年上市时家族持股已经归零。案例：古驰（第 9 期）、达斯勒（第 34 期）。",
+      "path": "knowledge/tools/family-exit-from-brand.md",
+      "frontmatter": {
+        "id": "tool:family-exit-from-brand",
+        "type": "tool",
+        "title": "家族退出品牌",
+        "source_stories": [
+          "story:gucci",
+          "story:dassler"
+        ],
+        "families": [
+          "family:gucci-family",
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:professionalization"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:family-rules-and-frugality",
+      "type": "tool",
+      "title": "家规与节俭",
+      "summary": "财富的第一个敌人不在外面，在自家子弟的嗜好里，纳妾、赌博、鸦片能掏空最厚的家底。乔家的规矩立在创业起点上：相传始祖乔贵发在西口亲眼看着合伙伙伴发财后沉迷吃喝嫖赌、挪用商业资本，回头定下六不准，不准纳妾、不准赌博、不准嫖娼、不准吸毒、不准虐仆、不准酗酒，其中不准纳妾一条，在纳妾成风的年代直接堵住妾室争宠、庶出争产的内耗源头。范氏义庄用的是定额化的节俭：计口给米每人每月一升，嫁女支钱三十贯、再嫁减为二十贯，丧葬按辈分定额，尊长一场合计二十五贯，钱够体面，不够挥霍。这类规矩的前提是对当家人同样生效，且各房用度有公共账目可查。它管得住嗜好，管不住产权：乔家各房开销由族长从公共账户核拨，晚辈觉得出力多却分不到本，1920年代末在外求学归来的乔健喊出「财产独立，门户自主」，分家的呼声正是从这种不满里长出来的。案例：乔家（第 3 期）、范氏义庄（第 31 期）。",
+      "path": "knowledge/tools/family-rules-and-frugality.md",
+      "frontmatter": {
+        "id": "tool:family-rules-and-frugality",
+        "type": "tool",
+        "title": "家规与节俭",
+        "source_stories": [
+          "story:qiao-family",
+          "story:fan-yizhuang"
+        ],
+        "families": [
+          "family:qiao-family",
+          "family:fan-family"
+        ],
+        "related_concepts": [
+          "concept:credit-capital",
+          "concept:family-constitution",
+          "concept:community-embeddedness",
+          "concept:institutionalized-trust",
+          "concept:steward-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:craft-standard-governance",
+      "type": "tool",
+      "title": "工艺标准治理",
+      "summary": "手艺是奢侈品牌的立身之本，工艺标准治理要解决的是品质在六代传承与全球扩张中不走样。爱马仕的标准从创始人手上就长成了规矩：蒂埃里 1837 年在巴黎开出马具工坊，独创双针马鞍缝法，两根针线从相反方向交织，每根缝线浸满蜂蜡，一副马具常耗时数月。后代把它变成否决权：让·路易·杜马斯定下「不让有瑕疵的作品离开工坊」，次品销毁、绝不打折促销，阿克塞尔·杜马斯用祖辈箴言「奢侈就是可修复的」要求耐用性，营销上只认「我们没有形象政策，只有产品政策」。代价是产能和增长被标准锁死，铂金包供不应求也不扩产，客户排队多年，甚至要等品牌邀请购买。反面是古驰：阿尔多晚年为追求销量大肆授权生产平价产品，品牌形象严重受损，成了家族日后失去品牌的伏笔之一。案例：爱马仕（第 19 期）。",
+      "path": "knowledge/tools/craft-standard-governance.md",
+      "frontmatter": {
+        "id": "tool:craft-standard-governance",
+        "type": "tool",
+        "title": "工艺标准治理",
+        "source_stories": [
+          "story:hermes"
+        ],
+        "families": [
+          "family:hermes-family"
+        ],
+        "related_concepts": [
+          "concept:family-control-unity",
+          "concept:family-constitution",
+          "concept:standard-setting"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -13305,6 +13014,32 @@ window.KNOWLEDGE_DATA = {
           "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:philanthropic-foundation-governance",
+      "type": "tool",
+      "title": "慈善基金会治理",
+      "summary": "1910 年前后，老洛克菲勒的个人资产已近 10 亿美元，友人警告他再不规划，子孙后代将不堪重负。他的解法是把散钱式行善改造成一部机器：1913 年成立洛克菲勒基金会，请牧师出身的顾问弗雷德里克·盖茨主持规划，不再零散捐助个人和教会，而是设立专业机构，对准公共卫生、医学教育、科学研究这些根源问题。治理上向外开放、向下传承：1940 年成立的洛克菲勒兄弟基金在 1950 年代增补两名非家族理事，60 年代末又在董事会设两个无表决权的访问席位让第四代轮流列席，1967 年再设洛克菲勒家族基金，专做年轻一代学习当受托人的练手平台。前提是家族接受钱捐出去就不再是私产，并愿意长期养一支职业团队。反例是卡内基：生前把钱捐完，家族随之退出历史舞台，慈善没能成为凝聚后代的平台；洛克菲勒家 1970 年代也有长辈动过捐完关停的念头，最终被家族对话否掉。案例：洛克菲勒（第 5 期）。",
+      "path": "knowledge/tools/philanthropic-foundation-governance.md",
+      "frontmatter": {
+        "id": "tool:philanthropic-foundation-governance",
+        "type": "tool",
+        "title": "慈善基金会治理",
+        "source_stories": [
+          "story:rockefeller"
+        ],
+        "families": [
+          "family:rockefeller-family"
+        ],
+        "related_concepts": [
+          "concept:philanthropy-as-governance",
+          "concept:family-constitution",
+          "concept:institutionalized-trust"
+        ],
+        "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
       }
@@ -13354,6 +13089,63 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:education-as-family-capital",
+      "type": "tool",
+      "title": "教育资本",
+      "summary": "战乱能占田，政局能没收账册，装进人的学问没收不了，教育是家族财富里最难被剥夺的形态。范氏义庄在口粮婚丧之外单列教育款：南宋续定规矩给赴科举的子弟每次一贯路费，反复应考减半，借赴考领钱不去的要退还，义庄靠田养人、人成才、才回馈田的回路从一千亩涨到两万亩，后世支系出了民国教育总长范源濂、化工实业家范旭东。贝氏走的是同一条路的近代版：科举、留洋、名校代代投入且不定统一出路，允许子女自选专业，一门里出了银行家、工程师、建筑师、艺术家和律师，贝聿铭1935年赴美深造就是父亲贝祖贻支持的。前提是家族公共财产愿意为读书长期出钱，回报以一代人计，等不得急钱。漏洞也在钱上：南宋义庄就碰上过借赴考之名骗钱的族人，只发钱不验去向，教育津贴会退化成另一份口粮。案例：贝氏家族（第 16 期）、范氏义庄（第 31 期）。",
+      "path": "knowledge/tools/education-as-family-capital.md",
+      "frontmatter": {
+        "id": "tool:education-as-family-capital",
+        "type": "tool",
+        "title": "教育资本",
+        "source_stories": [
+          "story:pei-family",
+          "story:fan-yizhuang"
+        ],
+        "families": [
+          "family:pei-family",
+          "family:fan-family"
+        ],
+        "related_concepts": [
+          "concept:cultural-legitimacy",
+          "concept:succession-training",
+          "concept:patient-long-termism",
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:steward-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:cultural-family-lineage",
+      "type": "tool",
+      "title": "文化世家",
+      "summary": "把家族认同押在一门产业上，产业过时家就散了；文化世家把认同押在教养、专业和声望上，让身份比生意活得久。苏州贝氏自明朝中叶以草药铺起家，清末已是「四大富户」之一，此后每代换一次行当：贝理泰把药材行转成金融业，贝祖贻1914年进中国银行、参与1933年废两改元，贝聿铭1935年赴美，从麻省理工读到哈佛师从格罗皮乌斯，1964年赢得肯尼迪总统图书馆设计权，留下卢浮宫玻璃金字塔和苏州博物馆，行当换了，江南士绅的底色没换。前提是代代有人接受长周期教育，并把「贝家人」当成需要努力维护的光荣，代价是慢，一次转换要一代人。这条路也不自动覆盖所有支系：蘅山支中途家道中落，到贝润生时家境贫寒，靠族里留余义庄发的月米长大，16岁被介绍去上海颜料行当学徒，行囊还是义庄出钱置办的，没有族内互济，这一支早断了。案例：贝氏家族（第 16 期）。",
+      "path": "knowledge/tools/cultural-family-lineage.md",
+      "frontmatter": {
+        "id": "tool:cultural-family-lineage",
+        "type": "tool",
+        "title": "文化世家",
+        "source_stories": [
+          "story:pei-family"
+        ],
+        "families": [
+          "family:pei-family"
+        ],
+        "related_concepts": [
+          "concept:cultural-legitimacy",
+          "concept:succession-training",
+          "concept:patient-long-termism"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:cultural-patronage",
       "type": "tool",
       "title": "文化赞助",
@@ -13391,6 +13183,84 @@ window.KNOWLEDGE_DATA = {
         "related_concepts": [
           "concept:steward-ownership",
           "concept:brake-mechanism"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:jinshang-credit-network",
+      "type": "tool",
+      "title": "晋商信用网络",
+      "summary": "白银押运走几千里，运费、损耗和风险全压在路上，晋商用票号把银子变成一张可异地兑付的汇票。乔致庸光绪十年（1884）把自家茶庄德兴号改组为大德通票号，与大德恒两号从北京、天津、东北一路铺到长江流域，乔家的票号、钱庄、当铺、粮店在全国超过两百家；字号内部行银股身股制，掌柜以身股入股、按业绩分红，经理人的身家和字号的信誉绑在一起。这张网的本钱是兑付纪律：货币动荡的年头乔家票号照单兑现，不拒提现，包头同和店甚至把上等米面掺进普通米面平价卖给穷人，宁可让利也要养住人心和字号。前提由此而来：信誉要当本金养，经营者得接受短期少赚。败局来自体系之外：20世纪初现代银行和外资银行进场，第四代掌门乔映霞守成有余、开拓不足，票号这套旧信用网络被整体替换，字号再多也留不住。案例：乔家（第 3 期）。",
+      "path": "knowledge/tools/jinshang-credit-network.md",
+      "frontmatter": {
+        "id": "tool:jinshang-credit-network",
+        "type": "tool",
+        "title": "晋商信用网络",
+        "source_stories": [
+          "story:qiao-family"
+        ],
+        "families": [
+          "family:qiao-family"
+        ],
+        "related_concepts": [
+          "concept:credit-capital",
+          "concept:family-constitution",
+          "concept:community-embeddedness"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:toji-succession",
+      "type": "tool",
+      "title": "杜氏传承",
+      "summary": "日本酒藏的旧例是外人掌技、家人掌财：藏元（东家）不碰酿造，每年冬天从专门的村子外聘杜氏（酿造总负责人）带队进藏，春天酿完就回乡种田，技术命脉始终握在外人手里。杜氏传承把这条命脉收回家族：1993 年秋，守藏数十年的老杜氏山内年迈退职，财务困顿的高木家又请不起顶级杜氏，55 岁的高木辰五郎把 25 岁的儿子显统从东京召回，一句「只能由你来酿了，我们别无选择」，让他直接顶上杜氏之位。这步棋走得通，靠的是提前一代人的铺垫：儿时祖父训练味觉，青年读东京农业大学酿造学科，毕业后在伊势丹酒类柜台卖酒摸市场，显统以藏元兼杜氏的身份带着比自己年长的酒工，1994 年酿出十四代一举翻身。前提是家族肯做十几年的培养投入，也敢打破熬到中年才可接杜氏的年功旧规；代价同样具体，显统第一个酿造季劳累到心脏异常，昏迷三天。只靠外聘的老铺是反面参照，显统自己说过，家业只靠请新的杜氏已无法扭转困局；十四代成功后，飞露喜的广木健司等青年藏元纷纷效仿自酿，显统本人在 2023 年前后袭名第十五代辰五郎，把这套传承又推进一代。案例：高木酒造（第 20 期）。",
+      "path": "knowledge/tools/toji-succession.md",
+      "frontmatter": {
+        "id": "tool:toji-succession",
+        "type": "tool",
+        "title": "杜氏传承",
+        "source_stories": [
+          "story:takagi-shuzo"
+        ],
+        "families": [
+          "family:takagi-family"
+        ],
+        "related_concepts": [
+          "concept:standard-setting",
+          "concept:succession-training",
+          "concept:patient-long-termism"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:mother-mediated-family-split",
+      "type": "tool",
+      "title": "母亲调停分家",
+      "summary": "创始人猝然离世又没有留下遗嘱，两个继承人都不肯退，这时能叫停战争的往往不是律师，是母亲。迪鲁拜·安巴尼2002年去世后，穆克什与阿尼尔为集团控制权公开争斗了三年，2005年母亲科基拉本出面主持分家：穆克什保住信实工业的石化炼油主业，阿尼尔分走电信、电力、金融，双方另签一份为期十年的互不竞争协议。这种调停成立的前提，是家族里还有一位两边都不敢违逆的长辈，而且各方接受的目标是止战，不是算清公平。代价就藏在方案里：初始资产的划分对阿尼尔不利，加上他后续的战略失误，2019年信实通信因拖欠爱立信约55亿卢比，阿尼尔一度面临被最高法院判处监禁的风险，最后靠穆克什代付脱身。那份互不竞争协议在2010年被兄弟俩同意废除，穆克什随后带着Jio重回电信市场，母亲划下的界线只守了五年。出处：安巴尼家族，家族·故事第4期《印度第一家族》。",
+      "path": "knowledge/tools/mother-mediated-family-split.md",
+      "frontmatter": {
+        "id": "tool:mother-mediated-family-split",
+        "type": "tool",
+        "title": "母亲调停分家",
+        "source_stories": [
+          "story:ambani"
+        ],
+        "families": [
+          "family:ambani-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-control-unity"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -13455,6 +13325,110 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:related-diversification-system",
+      "type": "tool",
+      "title": "相关多元化",
+      "summary": "种子、饲料、鸡肉都是薄利生意，单独做哪一环都受行情摆布，正大的办法是顺着产业链把相邻的环节一个个接起来。每一步都长在上一步的能力上：从曼谷唐人街的种子铺起家，转做饲料，再用谢国民从美国学回的小保姆式契约养殖把农户纳入体系，公司协调银行贷款帮农户建鸡舍，供雏鸡苗和饲料，派兽医上门防疫，鸡出栏后按保底价全部回收，农户的风险降下来，标准和利润留在公司手里。养殖打通之后再往零售延伸，1988年拿下7-Eleven在泰国的特许经营权。这套打法的前提是新业务借得上老业务的供应链和客户，而且链条不保证每个新环节都赢：1997年6月在上海浦东开出大陆第一家大型综合超市易初莲花，因入场早、对手多，扩张始终乏力，2007年改名卜蜂莲花，到2022年在中国只经营百余家门店。链条铺得越长，危机中越需要果断做减法，1997年亚洲金融危机时谢国民忍痛出售莲花超市部分股权，才保住了整体的资金链。出处：正大集团谢氏家族，家族·故事第13期《一粒种子，正大百年》。",
+      "path": "knowledge/tools/related-diversification-system.md",
+      "frontmatter": {
+        "id": "tool:related-diversification-system",
+        "type": "tool",
+        "title": "相关多元化",
+        "source_stories": [
+          "story:cp-group"
+        ],
+        "families": [
+          "family:cp-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:family-control-unity",
+          "concept:related-diversification"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:professional-corporate-culture",
+      "type": "tool",
+      "title": "职业化企业文化",
+      "summary": "血缘和个人魅力管得住作坊，管不住跨国公司，沃森父子给 IBM 装的是一套不认人的操作系统。老沃森立下深色西装、白衬衫、条纹领带的着装规范，工作时间禁酒，办销售培训学校，大萧条期间坚持不裁员、倡导终身雇佣；规矩对儿子同样生效，小沃森 1937 年入职先进培训学校再下曼哈顿一线，1939 年老沃森在贺电里写明，你不是凭血缘或出身，而是凭个人能力与业务知识成为一名合格的 IBM 人。小沃森接班后把文化推进制度：1953 年颁布第 4 号政策信，招聘晋升不分种族、肤色、宗教，比民权法案早 11 年；又以去中心化改革把决策权分到各事业部，上任头 6 年把工程师队伍从 500 人扩到 4000 人。前提是企业肯在培训和福利上花真金白银，家族成员带头守规矩。阴影面是家长制：老沃森集权到近乎绝对，公司里一度弥漫对创始人的人格崇拜，他会在会议上当众驳斥儿子，文化定型之后也可能沦为教条。案例：沃森家族与 IBM（第 7 期）。",
+      "path": "knowledge/tools/professional-corporate-culture.md",
+      "frontmatter": {
+        "id": "tool:professional-corporate-culture",
+        "type": "tool",
+        "title": "职业化企业文化",
+        "source_stories": [
+          "story:watson-ibm"
+        ],
+        "families": [
+          "family:watson-family"
+        ],
+        "related_concepts": [
+          "concept:professionalization",
+          "concept:founder-shadow",
+          "concept:enterprise-before-family"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:frugality-culture",
+      "type": "tool",
+      "title": "节俭文化",
+      "summary": "奢侈和官僚是坎普拉德眼中企业的两大敌人，节俭文化对付的正是富过一代之后的松懈与特权。他先用自己示范：长住瑞士乡间一栋普通别墅，开了十几年的旧车，穿二手衣，坐经济舱，茶包要泡两次，孩子们很长时间不知道父亲在外界眼中有多富。再把习惯写成制度：1976 年亲笔《一个家具商的宣言》告诫「对任何问题动辄用昂贵方案去解决，往往是平庸之辈所为」，宜家高管出差至今住廉价酒店、没有专车和头等舱，这些价值观被写进手册，融入招聘、培训和晋升。这套文化成立的前提是掌门人身体力行加文本固化，两者缺一，节俭就退化成老板的个人怪癖或公关说辞。反例在古驰：二三代从小养尊处优，保罗花钱无度，毛里齐奥沉迷豪车游艇，「财富即张扬」的风气侵蚀掉创业一代的进取精神。案例：宜家（第 18 期）。",
+      "path": "knowledge/tools/frugality-culture.md",
+      "frontmatter": {
+        "id": "tool:frugality-culture",
+        "type": "tool",
+        "title": "节俭文化",
+        "source_stories": [
+          "story:ikea"
+        ],
+        "families": [
+          "family:kamprad-family"
+        ],
+        "related_concepts": [
+          "concept:foundation-ownership",
+          "concept:non-listing-control",
+          "concept:mission-locked-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:board-activism",
+      "type": "tool",
+      "title": "董事会行动主义",
+      "summary": "公司走偏，而家族既不再经营、持股又不足以控制时，最后的纠错杠杆是董事会席位加上姓氏。罗伊·E·迪士尼把这根杠杆用过两次：1984年他逼走沃尔特的女婿、时任掌门米勒，把艾斯纳和威尔斯请进门，迪士尼随后迎来动画文艺复兴，市值十年涨了数十倍；2003年他辞去董事职务发起「拯救迪士尼」运动，矛头对准被指远离创始初心的艾斯纳，次年股东大会上超过四成的投票不再支持艾斯纳，董事长头衔随即被摘，罗伊二十年前亲手请来的救星就此下台。杠杆的支点不是股权，而是大众对「迪士尼应该是什么样子」的共同认知，姓氏让罗伊天然有资格代言这份认知。动用它的前提是品牌与家族深度绑定，还要有盟友、媒体和机构股东配合，单凭一腔义愤成不了事。代价也躲不开：请来的救星可能变成下一个要倒的人，家族得有打第二仗的耐心，还得付亲情的账，被逼走的米勒正是长女黛安娜的丈夫，她据传因此多年对媒体缄口。两场政变的全程，见迪士尼家族第11期。",
+      "path": "knowledge/tools/board-activism.md",
+      "frontmatter": {
+        "id": "tool:board-activism",
+        "type": "tool",
+        "title": "董事会行动主义",
+        "source_stories": [
+          "story:disney"
+        ],
+        "families": [
+          "family:disney-family"
+        ],
+        "related_concepts": [
+          "concept:founder-shadow",
+          "concept:professionalization",
+          "concept:enterprise-independence"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:book-value-exit",
       "type": "tool",
       "title": "账面价值退出",
@@ -13503,10 +13477,36 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:limited-production-standard",
+      "type": "tool",
+      "title": "限量生产",
+      "summary": "爆红之后要不要扩产，是名酒品牌最凶险的一道题，限量生产的答案是宁可少卖也不降标准。高木酒造对十四代常年严控产量，每年出货有限并优先供应签约经销商，全国只与 53 家特约店合作，不直销、不设网店，稀少酒款按配额或抽签发售。这套打法脱胎于第十五代高木显统在伊势丹酒类柜台的经验：稀缺和品质是奢侈品的命脉，优质商品只有在优质渠道才卖得出应有的价值。前提是产品硬到让人甘愿排队，家族也扛得住少赚的钱；代价是需求溢出到体系外，黄牛把十四代炒到数倍的黑市价，「幻之酒」的名号还伴生了用回收空瓶灌廉价酒的假酒，官方明示建议零售价、强化防伪也收效有限。同一套标准握得太紧，也会从品质把控滑向自我设限，大量真心想喝的人永远买不到正品。案例：高木酒造（第 20 期）。",
+      "path": "knowledge/tools/limited-production-standard.md",
+      "frontmatter": {
+        "id": "tool:limited-production-standard",
+        "type": "tool",
+        "title": "限量生产",
+        "source_stories": [
+          "story:takagi-shuzo"
+        ],
+        "families": [
+          "family:takagi-family"
+        ],
+        "related_concepts": [
+          "concept:standard-setting",
+          "concept:succession-training",
+          "concept:patient-long-termism"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:five-dollar-day-1914",
       "type": "event",
       "title": "5 美元日薪",
-      "summary": "5 美元日薪节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "流水线把工人压进单一动作，1913 年 12 月福特工厂离职率冲到 370%，一年要雇五万人才能维持一万人的规模。1914 年 1 月 5 日，董事会通过 5 美元日薪方案，一周后生效：最低日薪从 2.34 美元翻了一倍多，配套八小时工作制和三班倒。工人从此进入公共叙事，福特的控制欲也跟着进了工人的厨房和卧室，慷慨老板与父权式管理从同一个决定里长出来。",
       "path": "knowledge/events/five-dollar-day-1914.md",
       "frontmatter": {
         "id": "event:five-dollar-day-1914",
@@ -13521,32 +13521,6 @@ window.KNOWLEDGE_DATA = {
         "related_concepts": [
           "concept:founder-shadow",
           "concept:professionalization",
-          "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:ambani-family-split-2005",
-      "type": "event",
-      "title": "Ambani Family Split 2005",
-      "summary": "Ambani Family Split 2005节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
-      "path": "knowledge/events/ambani-family-split-2005.md",
-      "frontmatter": {
-        "id": "event:ambani-family-split-2005",
-        "type": "event",
-        "title": "Ambani Family Split 2005",
-        "source_stories": [
-          "story:ambani"
-        ],
-        "families": [
-          "family:ambani-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
           "concept:family-control-unity"
         ],
         "curation_stage": "first_pass",
@@ -13583,136 +13557,6 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:chang-gung-hospital-founded-1976",
-      "type": "event",
-      "title": "Chang Gung Hospital Founded 1976",
-      "summary": "Chang Gung Hospital Founded 1976节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
-      "path": "knowledge/events/chang-gung-hospital-founded-1976.md",
-      "frontmatter": {
-        "id": "event:chang-gung-hospital-founded-1976",
-        "type": "event",
-        "title": "Chang Gung Hospital Founded 1976",
-        "source_stories": [
-          "story:wang-yongqing"
-        ],
-        "families": [
-          "family:wang-yongqing-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:professionalization",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:chia-tai-seed-shop",
-      "type": "event",
-      "title": "Chia Tai Seed Shop",
-      "summary": "Chia Tai Seed Shop节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
-      "path": "knowledge/events/chia-tai-seed-shop.md",
-      "frontmatter": {
-        "id": "event:chia-tai-seed-shop",
-        "type": "event",
-        "title": "Chia Tai Seed Shop",
-        "source_stories": [
-          "story:cp-group"
-        ],
-        "families": [
-          "family:cp-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:family-control-unity",
-          "concept:related-diversification"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:cp-china-return",
-      "type": "event",
-      "title": "Cp China Return",
-      "summary": "Cp China Return节点来自《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》的 first_pass 结构化整理，用于连接这条治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
-      "path": "knowledge/events/cp-china-return.md",
-      "frontmatter": {
-        "id": "event:cp-china-return",
-        "type": "event",
-        "title": "Cp China Return",
-        "source_stories": [
-          "story:cp-group"
-        ],
-        "families": [
-          "family:cp-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:family-control-unity",
-          "concept:related-diversification"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:disney-governance-crisis-1984",
-      "type": "event",
-      "title": "Disney Governance Crisis 1984",
-      "summary": "Disney Governance Crisis 1984节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
-      "path": "knowledge/events/disney-governance-crisis-1984.md",
-      "frontmatter": {
-        "id": "event:disney-governance-crisis-1984",
-        "type": "event",
-        "title": "Disney Governance Crisis 1984",
-        "source_stories": [
-          "story:disney"
-        ],
-        "families": [
-          "family:disney-family"
-        ],
-        "related_concepts": [
-          "concept:founder-shadow",
-          "concept:professionalization",
-          "concept:enterprise-independence"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:disneyland-opening-1955",
-      "type": "event",
-      "title": "Disneyland Opening 1955",
-      "summary": "Disneyland Opening 1955节点来自《从米老鼠到魔法王国：迪斯尼家族的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
-      "path": "knowledge/events/disneyland-opening-1955.md",
-      "frontmatter": {
-        "id": "event:disneyland-opening-1955",
-        "type": "event",
-        "title": "Disneyland Opening 1955",
-        "source_stories": [
-          "story:disney"
-        ],
-        "families": [
-          "family:disney-family"
-        ],
-        "related_concepts": [
-          "concept:founder-shadow",
-          "concept:professionalization",
-          "concept:enterprise-independence"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "event:stellantis-merger-2021",
       "type": "event",
       "title": "FCA 与 PSA 合并为 Stellantis",
@@ -13741,67 +13585,15 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:formosa-plastics-founded-1954",
-      "type": "event",
-      "title": "Formosa Plastics Founded 1954",
-      "summary": "Formosa Plastics Founded 1954节点来自《从茶山贫童到石化王国：王永庆的传奇与传承》的 first_pass 结构化整理，用于连接这条治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
-      "path": "knowledge/events/formosa-plastics-founded-1954.md",
-      "frontmatter": {
-        "id": "event:formosa-plastics-founded-1954",
-        "type": "event",
-        "title": "Formosa Plastics Founded 1954",
-        "source_stories": [
-          "story:wang-yongqing"
-        ],
-        "families": [
-          "family:wang-yongqing-family"
-        ],
-        "related_concepts": [
-          "concept:succession-training",
-          "concept:professionalization",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:gucci-family-exit-1993",
-      "type": "event",
-      "title": "Gucci Family Exit 1993",
-      "summary": "Gucci Family Exit 1993节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
-      "path": "knowledge/events/gucci-family-exit-1993.md",
-      "frontmatter": {
-        "id": "event:gucci-family-exit-1993",
-        "type": "event",
-        "title": "Gucci Family Exit 1993",
-        "source_stories": [
-          "story:gucci"
-        ],
-        "families": [
-          "family:gucci-family"
-        ],
-        "related_concepts": [
-          "concept:family-conflict-as-innovation",
-          "concept:succession-planning-gap",
-          "concept:professionalization"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "event:h51-family-holding-2011",
       "type": "event",
-      "title": "H51 Family Holding 2011",
-      "summary": "H51 Family Holding 2011节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "title": "H51 家族控股联盟（2011）",
+      "summary": "面对 LVMH 步步增持，2011 年，五十多位爱马仕核心家族成员在巴黎一间私密会所秘密集结，表决时全场同时起立，无一人迟疑。H51 联盟就此成立，用一份一致行动人协议把超过 50%的家族股份拧成一股绳，筑起绝对控股防线。法律反击随后跟上：监管调查、2013 年 LVMH 因隐瞒持股被罚 800 万欧元、2014 年和解退出，分散在几十位继承人手里的股权，第一次变成一堵墙。",
       "path": "knowledge/events/h51-family-holding-2011.md",
       "frontmatter": {
         "id": "event:h51-family-holding-2011",
         "type": "event",
-        "title": "H51 Family Holding 2011",
+        "title": "H51 家族控股联盟（2011）",
         "source_stories": [
           "story:hermes"
         ],
@@ -13821,13 +13613,13 @@ window.KNOWLEDGE_DATA = {
     {
       "id": "event:ibm-computer-transition",
       "type": "event",
-      "title": "Ibm Computer Transition",
-      "summary": "Ibm Computer Transition节点来自《思考者：沃森家族与 IBM 的百年基业》的 first_pass 结构化整理，用于连接这条治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
+      "title": "IBM 计算机转型（1952-1964）",
+      "summary": "老沃森觉得电脑只是实验室玩具，小沃森却在军中见过雷达和电子设备的威力，回到公司力推电子计算，1952 年 IBM 推出首台商用计算机 IBM 701。真正的豪赌在接班之后：他砸下空前的 50 亿美元研发预算开发 System/360，几乎放弃全部原有产品线，自己承认“这是赌上公司的赌注”。1964 年 4 月 360 系列发布，统一架构让客户从小机型平滑升级，订单远超预期，IBM 从制表机公司变成计算机时代的霸主。",
       "path": "knowledge/events/ibm-computer-transition.md",
       "frontmatter": {
         "id": "event:ibm-computer-transition",
         "type": "event",
-        "title": "Ibm Computer Transition",
+        "title": "IBM 计算机转型（1952-1964）",
         "source_stories": [
           "story:watson-ibm"
         ],
@@ -13845,93 +13637,15 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:ikea-foundation-structure",
-      "type": "event",
-      "title": "Ikea Foundation Structure",
-      "summary": "Ikea Foundation Structure节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
-      "path": "knowledge/events/ikea-foundation-structure.md",
-      "frontmatter": {
-        "id": "event:ikea-foundation-structure",
-        "type": "event",
-        "title": "Ikea Foundation Structure",
-        "source_stories": [
-          "story:ikea"
-        ],
-        "families": [
-          "family:kamprad-family"
-        ],
-        "related_concepts": [
-          "concept:foundation-ownership",
-          "concept:non-listing-control",
-          "concept:mission-locked-ownership"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:ikea-succession-2013",
-      "type": "event",
-      "title": "Ikea Succession 2013",
-      "summary": "Ikea Succession 2013节点来自《把宜家留给世界：坎普拉德家族的传奇故事》的 first_pass 结构化整理，用于连接这条治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
-      "path": "knowledge/events/ikea-succession-2013.md",
-      "frontmatter": {
-        "id": "event:ikea-succession-2013",
-        "type": "event",
-        "title": "Ikea Succession 2013",
-        "source_stories": [
-          "story:ikea"
-        ],
-        "families": [
-          "family:kamprad-family"
-        ],
-        "related_concepts": [
-          "concept:foundation-ownership",
-          "concept:non-listing-control",
-          "concept:mission-locked-ownership"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:im-pei-global-career",
-      "type": "event",
-      "title": "Im Pei Global Career",
-      "summary": "Im Pei Global Career节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
-      "path": "knowledge/events/im-pei-global-career.md",
-      "frontmatter": {
-        "id": "event:im-pei-global-career",
-        "type": "event",
-        "title": "Im Pei Global Career",
-        "source_stories": [
-          "story:pei-family"
-        ],
-        "families": [
-          "family:pei-family"
-        ],
-        "related_concepts": [
-          "concept:cultural-legitimacy",
-          "concept:succession-training",
-          "concept:patient-long-termism"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "event:jio-launch-2016",
       "type": "event",
-      "title": "Jio Launch 2016",
-      "summary": "Jio Launch 2016节点来自《印度第一家族：安巴尼王朝的权利游戏与传承密码》的 first_pass 结构化整理，用于连接这条治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "title": "Jio 上线（2016）",
+      "summary": "2005 年分家协议里的十年互不竞争条款，2010 年被兄弟俩废除，为穆克什重返电信扫清了路。2016 年 Reliance Jio 上线，用颠覆性低价 4G 席卷印度，做成印度最大的电信运营商，Jio Platforms 随后引来 Meta、Google 的巨额投资。价格战摧毁了传统运营商的盈利模式，弟弟阿尼尔的信实通信也在其中：分家时拿到“未来产业”的人，十一年后被握着“旧产业”现金流的哥哥反手清场。",
       "path": "knowledge/events/jio-launch-2016.md",
       "frontmatter": {
         "id": "event:jio-launch-2016",
         "type": "event",
-        "title": "Jio Launch 2016",
+        "title": "Jio 上线（2016）",
         "source_stories": [
           "story:ambani"
         ],
@@ -13942,58 +13656,6 @@ window.KNOWLEDGE_DATA = {
           "concept:succession-planning-gap",
           "concept:family-conflict-as-innovation",
           "concept:family-control-unity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:juyondai-brand-rise",
-      "type": "event",
-      "title": "Juyondai Brand Rise",
-      "summary": "Juyondai Brand Rise节点来自《从“朝日鹰”到“十四代”：高木酒造家族的四百年传承》的 first_pass 结构化整理，用于连接这条治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
-      "path": "knowledge/events/juyondai-brand-rise.md",
-      "frontmatter": {
-        "id": "event:juyondai-brand-rise",
-        "type": "event",
-        "title": "Juyondai Brand Rise",
-        "source_stories": [
-          "story:takagi-shuzo"
-        ],
-        "families": [
-          "family:takagi-family"
-        ],
-        "related_concepts": [
-          "concept:standard-setting",
-          "concept:succession-training",
-          "concept:patient-long-termism"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:kuok-sugar-rise",
-      "type": "event",
-      "title": "Kuok Sugar Rise",
-      "summary": "Kuok Sugar Rise节点来自《马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生》的 first_pass 结构化整理，用于连接这条治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
-      "path": "knowledge/events/kuok-sugar-rise.md",
-      "frontmatter": {
-        "id": "event:kuok-sugar-rise",
-        "type": "event",
-        "title": "Kuok Sugar Rise",
-        "source_stories": [
-          "story:robert-kuok"
-        ],
-        "families": [
-          "family:kuok-family"
-        ],
-        "related_concepts": [
-          "concept:patient-long-termism",
-          "concept:credit-capital",
-          "concept:related-diversification"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -14031,13 +13693,13 @@ window.KNOWLEDGE_DATA = {
     {
       "id": "event:lvmh-raid-2010",
       "type": "event",
-      "title": "Lvmh Raid 2010",
-      "summary": "Lvmh Raid 2010节点来自《爱马仕家族故事：一门手艺的六代传承》的 first_pass 结构化整理，用于连接这条治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "title": "LVMH 突袭爱马仕（2010）",
+      "summary": "2010 年 10 月 23 日，周六清晨，阿尔诺打电话给爱马仕家族控股公司主席伯特兰·皮埃什，用过分礼貌的平静语调告知：LVMH 已持有爱马仕 17.1%的股份。这场突袭从 2001 年就开始铺设，股份藏在多家海外子公司名下，每次买入控制在 5%以下躲开披露线，2008 年起再用股权掉期变相吸筹。到 2011 年底 LVMH 持股升至 22.6%，一个传了六代的家族企业猛然发现，最大的外部股东就是最危险的对手。",
       "path": "knowledge/events/lvmh-raid-2010.md",
       "frontmatter": {
         "id": "event:lvmh-raid-2010",
         "type": "event",
-        "title": "Lvmh Raid 2010",
+        "title": "LVMH 突袭爱马仕（2010）",
         "source_stories": [
           "story:hermes"
         ],
@@ -14048,58 +13710,6 @@ window.KNOWLEDGE_DATA = {
           "concept:family-control-unity",
           "concept:family-constitution",
           "concept:standard-setting"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:macau-gaming-liberalization-2002",
-      "type": "event",
-      "title": "Macau Gaming Liberalization 2002",
-      "summary": "Macau Gaming Liberalization 2002节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
-      "path": "knowledge/events/macau-gaming-liberalization-2002.md",
-      "frontmatter": {
-        "id": "event:macau-gaming-liberalization-2002",
-        "type": "event",
-        "title": "Macau Gaming Liberalization 2002",
-        "source_stories": [
-          "story:stanley-ho"
-        ],
-        "families": [
-          "family:ho-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
-          "concept:family-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:maurizio-gucci-murder-1995",
-      "type": "event",
-      "title": "Maurizio Gucci Murder 1995",
-      "summary": "Maurizio Gucci Murder 1995节点来自《金色双 G 的阴影：古驰家族百年兴衰》的 first_pass 结构化整理，用于连接这条治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
-      "path": "knowledge/events/maurizio-gucci-murder-1995.md",
-      "frontmatter": {
-        "id": "event:maurizio-gucci-murder-1995",
-        "type": "event",
-        "title": "Maurizio Gucci Murder 1995",
-        "source_stories": [
-          "story:gucci"
-        ],
-        "families": [
-          "family:gucci-family"
-        ],
-        "related_concepts": [
-          "concept:family-conflict-as-innovation",
-          "concept:succession-planning-gap",
-          "concept:professionalization"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -14135,32 +13745,6 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:pei-family-migration",
-      "type": "event",
-      "title": "Pei Family Migration",
-      "summary": "Pei Family Migration节点来自《贝氏家族：从苏州到世界的六百年》的 first_pass 结构化整理，用于连接这条治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
-      "path": "knowledge/events/pei-family-migration.md",
-      "frontmatter": {
-        "id": "event:pei-family-migration",
-        "type": "event",
-        "title": "Pei Family Migration",
-        "source_stories": [
-          "story:pei-family"
-        ],
-        "families": [
-          "family:pei-family"
-        ],
-        "related_concepts": [
-          "concept:cultural-legitimacy",
-          "concept:succession-training",
-          "concept:patient-long-termism"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "event:pictet-founded-1805",
       "type": "event",
       "title": "Pictet 百达创立",
@@ -14189,140 +13773,10 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:qiao-family-business-rise",
-      "type": "event",
-      "title": "Qiao Family Business Rise",
-      "summary": "Qiao Family Business Rise节点来自《红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧》的 first_pass 结构化整理，用于连接这条治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
-      "path": "knowledge/events/qiao-family-business-rise.md",
-      "frontmatter": {
-        "id": "event:qiao-family-business-rise",
-        "type": "event",
-        "title": "Qiao Family Business Rise",
-        "source_stories": [
-          "story:qiao-family"
-        ],
-        "families": [
-          "family:qiao-family"
-        ],
-        "related_concepts": [
-          "concept:credit-capital",
-          "concept:family-constitution",
-          "concept:community-embeddedness"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:qiao-family-compound-legacy",
-      "type": "event",
-      "title": "Qiao Family Compound Legacy",
-      "summary": "Qiao Family Compound Legacy节点来自《红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧》的 first_pass 结构化整理，用于连接这条治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
-      "path": "knowledge/events/qiao-family-compound-legacy.md",
-      "frontmatter": {
-        "id": "event:qiao-family-compound-legacy",
-        "type": "event",
-        "title": "Qiao Family Compound Legacy",
-        "source_stories": [
-          "story:qiao-family"
-        ],
-        "families": [
-          "family:qiao-family"
-        ],
-        "related_concepts": [
-          "concept:credit-capital",
-          "concept:family-constitution",
-          "concept:community-embeddedness"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:rockefeller-foundation-created-1913",
-      "type": "event",
-      "title": "Rockefeller Foundation Created 1913",
-      "summary": "Rockefeller Foundation Created 1913节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
-      "path": "knowledge/events/rockefeller-foundation-created-1913.md",
-      "frontmatter": {
-        "id": "event:rockefeller-foundation-created-1913",
-        "type": "event",
-        "title": "Rockefeller Foundation Created 1913",
-        "source_stories": [
-          "story:rockefeller"
-        ],
-        "families": [
-          "family:rockefeller-family"
-        ],
-        "related_concepts": [
-          "concept:philanthropy-as-governance",
-          "concept:family-constitution",
-          "concept:institutionalized-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:rong-family-industrial-rise",
-      "type": "event",
-      "title": "Rong Family Industrial Rise",
-      "summary": "Rong Family Industrial Rise节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
-      "path": "knowledge/events/rong-family-industrial-rise.md",
-      "frontmatter": {
-        "id": "event:rong-family-industrial-rise",
-        "type": "event",
-        "title": "Rong Family Industrial Rise",
-        "source_stories": [
-          "story:rong-family"
-        ],
-        "families": [
-          "family:rong-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:enterprise-before-family",
-          "concept:cultural-legitimacy"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:rong-yiren-public-private-transition",
-      "type": "event",
-      "title": "Rong Yiren Public Private Transition",
-      "summary": "Rong Yiren Public Private Transition节点来自《荣氏家族：从“衣食”帝国到红色资本家的百年历程》的 first_pass 结构化整理，用于连接这条治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
-      "path": "knowledge/events/rong-yiren-public-private-transition.md",
-      "frontmatter": {
-        "id": "event:rong-yiren-public-private-transition",
-        "type": "event",
-        "title": "Rong Yiren Public Private Transition",
-        "source_stories": [
-          "story:rong-family"
-        ],
-        "families": [
-          "family:rong-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:enterprise-before-family",
-          "concept:cultural-legitimacy"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "event:rothschild-and-co-take-private-2023",
       "type": "event",
       "title": "Rothschild & Co 私有化",
-      "summary": "Rothschild & Co 私有化节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "2023 年，家族控股实体以每股 48 欧元发起收购，把罗斯柴尔德公司从巴黎证券交易所私有化，交易估值约 37 亿欧元，10 月 11 日强制退市完成，逾一个半世纪的公开交易历史就此结束。理由很朴素：并购顾问和财富管理业务不再需要公开市场融资，退市省去每个季度向资本市场交账。两百年前靠信息保密起家的家族，兜了一圈，又把账本收回自己手里。",
       "path": "knowledge/events/rothschild-and-co-take-private-2023.md",
       "frontmatter": {
         "id": "event:rothschild-and-co-take-private-2023",
@@ -14345,140 +13799,10 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:shangri-la-founded-1971",
-      "type": "event",
-      "title": "Shangri La Founded 1971",
-      "summary": "Shangri La Founded 1971节点来自《马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生》的 first_pass 结构化整理，用于连接这条治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
-      "path": "knowledge/events/shangri-la-founded-1971.md",
-      "frontmatter": {
-        "id": "event:shangri-la-founded-1971",
-        "type": "event",
-        "title": "Shangri La Founded 1971",
-        "source_stories": [
-          "story:robert-kuok"
-        ],
-        "families": [
-          "family:kuok-family"
-        ],
-        "related_concepts": [
-          "concept:patient-long-termism",
-          "concept:credit-capital",
-          "concept:related-diversification"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:sheng-family-estate-dispute",
-      "type": "event",
-      "title": "Sheng Family Estate Dispute",
-      "summary": "Sheng Family Estate Dispute节点来自《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》的 first_pass 结构化整理，用于连接这条治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "path": "knowledge/events/sheng-family-estate-dispute.md",
-      "frontmatter": {
-        "id": "event:sheng-family-estate-dispute",
-        "type": "event",
-        "title": "Sheng Family Estate Dispute",
-        "source_stories": [
-          "story:sheng-xuanhuai"
-        ],
-        "families": [
-          "family:sheng-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-trust",
-          "concept:governance-complexity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:sheng-family-trust-arrangement",
-      "type": "event",
-      "title": "Sheng Family Trust Arrangement",
-      "summary": "Sheng Family Trust Arrangement节点来自《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》的 first_pass 结构化整理，用于连接这条治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "path": "knowledge/events/sheng-family-trust-arrangement.md",
-      "frontmatter": {
-        "id": "event:sheng-family-trust-arrangement",
-        "type": "event",
-        "title": "Sheng Family Trust Arrangement",
-        "source_stories": [
-          "story:sheng-xuanhuai"
-        ],
-        "families": [
-          "family:sheng-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-trust",
-          "concept:governance-complexity"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:standard-oil-breakup-1911",
-      "type": "event",
-      "title": "Standard Oil Breakup 1911",
-      "summary": "Standard Oil Breakup 1911节点来自《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》的 first_pass 结构化整理，用于连接这条治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
-      "path": "knowledge/events/standard-oil-breakup-1911.md",
-      "frontmatter": {
-        "id": "event:standard-oil-breakup-1911",
-        "type": "event",
-        "title": "Standard Oil Breakup 1911",
-        "source_stories": [
-          "story:rockefeller"
-        ],
-        "families": [
-          "family:rockefeller-family"
-        ],
-        "related_concepts": [
-          "concept:philanthropy-as-governance",
-          "concept:family-constitution",
-          "concept:institutionalized-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:stanley-ho-family-settlement-2011",
-      "type": "event",
-      "title": "Stanley Ho Family Settlement 2011",
-      "summary": "Stanley Ho Family Settlement 2011节点来自《十元起步到赌王加冕：何鸿燊的世纪豪赌》的 first_pass 结构化整理，用于连接这条治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
-      "path": "knowledge/events/stanley-ho-family-settlement-2011.md",
-      "frontmatter": {
-        "id": "event:stanley-ho-family-settlement-2011",
-        "type": "event",
-        "title": "Stanley Ho Family Settlement 2011",
-        "source_stories": [
-          "story:stanley-ho"
-        ],
-        "families": [
-          "family:ho-family"
-        ],
-        "related_concepts": [
-          "concept:succession-planning-gap",
-          "concept:family-conflict-as-innovation",
-          "concept:family-trust"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "event:model-t-launch-1908",
       "type": "event",
       "title": "T 型车推出",
-      "summary": "T 型车推出节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "售价 850 美元，同级旅行车普遍卖 2000 到 3500 美元：1908 年 10 月 1 日，第一辆 T 型车驶出底特律皮克特工厂。第一年出货 10607 辆，超过任何一家同行的同类车型；到 1925 年，售价被流水线一路压到 260 美元。一辆车把汽车从富人的玩具变成普通人的工具，也把福特这个姓氏钉进了美国人的日常生活。",
       "path": "knowledge/events/model-t-launch-1908.md",
       "frontmatter": {
         "id": "event:model-t-launch-1908",
@@ -14501,15 +13825,15 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:takagi-generational-succession",
+      "id": "event:juyondai-brand-rise",
       "type": "event",
-      "title": "Takagi Generational Succession",
-      "summary": "Takagi Generational Succession节点来自《从“朝日鹰”到“十四代”：高木酒造家族的四百年传承》的 first_pass 结构化整理，用于连接这条治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
-      "path": "knowledge/events/takagi-generational-succession.md",
+      "title": "“十四代”问世（1994）",
+      "summary": "家业衰退、酒蔵濒临倒闭之际，25 岁的高木显统在 1993 年临危受命接下杜氏之位，苦战一个冬天，1994 年春酿出人生第一批清酒，人也累出了心脏毛病。当年夏天新酒上市，他没有沿用祖传的“朝日鹰”，起名“十四代”，致敬父亲、第十四代传人辰五郎，芳醇甘口的新风格一炮而红。山形一家小酒蔵就此翻身成清酒界传奇，飞露喜、贵、王禄等一批后来者都把他当作偶像。",
+      "path": "knowledge/events/juyondai-brand-rise.md",
       "frontmatter": {
-        "id": "event:takagi-generational-succession",
+        "id": "event:juyondai-brand-rise",
         "type": "event",
-        "title": "Takagi Generational Succession",
+        "title": "“十四代”问世（1994）",
         "source_stories": [
           "story:takagi-shuzo"
         ],
@@ -14527,140 +13851,10 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
-      "id": "event:toyota-motor-founded-1937",
-      "type": "event",
-      "title": "Toyota Motor Founded 1937",
-      "summary": "Toyota Motor Founded 1937节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
-      "path": "knowledge/events/toyota-motor-founded-1937.md",
-      "frontmatter": {
-        "id": "event:toyota-motor-founded-1937",
-        "type": "event",
-        "title": "Toyota Motor Founded 1937",
-        "source_stories": [
-          "story:toyoda"
-        ],
-        "families": [
-          "family:toyoda-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:professionalization",
-          "concept:employee-stewardship"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:toyota-quality-crisis-2009",
-      "type": "event",
-      "title": "Toyota Quality Crisis 2009",
-      "summary": "Toyota Quality Crisis 2009节点来自《丰田家族：从一台织机到车坛巨擘的百年传奇》的 first_pass 结构化整理，用于连接这条治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
-      "path": "knowledge/events/toyota-quality-crisis-2009.md",
-      "frontmatter": {
-        "id": "event:toyota-quality-crisis-2009",
-        "type": "event",
-        "title": "Toyota Quality Crisis 2009",
-        "source_stories": [
-          "story:toyoda"
-        ],
-        "families": [
-          "family:toyoda-family"
-        ],
-        "related_concepts": [
-          "concept:family-as-guardian",
-          "concept:professionalization",
-          "concept:employee-stewardship"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:watson-jr-succession",
-      "type": "event",
-      "title": "Watson Jr Succession",
-      "summary": "Watson Jr Succession节点来自《思考者：沃森家族与 IBM 的百年基业》的 first_pass 结构化整理，用于连接这条治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
-      "path": "knowledge/events/watson-jr-succession.md",
-      "frontmatter": {
-        "id": "event:watson-jr-succession",
-        "type": "event",
-        "title": "Watson Jr Succession",
-        "source_stories": [
-          "story:watson-ibm"
-        ],
-        "families": [
-          "family:watson-family"
-        ],
-        "related_concepts": [
-          "concept:professionalization",
-          "concept:founder-shadow",
-          "concept:enterprise-before-family"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:xiang-army-formation",
-      "type": "event",
-      "title": "Xiang Army Formation",
-      "summary": "Xiang Army Formation节点来自《从耕读之家到中兴名臣：曾国藩的传世智慧》的 first_pass 结构化整理，用于连接这条治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
-      "path": "knowledge/events/xiang-army-formation.md",
-      "frontmatter": {
-        "id": "event:xiang-army-formation",
-        "type": "event",
-        "title": "Xiang Army Formation",
-        "source_stories": [
-          "story:zeng-guofan"
-        ],
-        "families": [
-          "family:zeng-family"
-        ],
-        "related_concepts": [
-          "concept:family-consensus",
-          "concept:patient-long-termism",
-          "concept:succession-training"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
-      "id": "event:zeng-family-letters",
-      "type": "event",
-      "title": "Zeng Family Letters",
-      "summary": "Zeng Family Letters节点来自《从耕读之家到中兴名臣：曾国藩的传世智慧》的 first_pass 结构化整理，用于连接这条治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
-      "path": "knowledge/events/zeng-family-letters.md",
-      "frontmatter": {
-        "id": "event:zeng-family-letters",
-        "type": "event",
-        "title": "Zeng Family Letters",
-        "source_stories": [
-          "story:zeng-guofan"
-        ],
-        "families": [
-          "family:zeng-family"
-        ],
-        "related_concepts": [
-          "concept:family-consensus",
-          "concept:patient-long-termism",
-          "concept:succession-training"
-        ],
-        "curation_stage": "first_pass",
-        "reviewed": false,
-        "draft": false
-      }
-    },
-    {
       "id": "event:yizhuang-rules-codified-1050",
       "type": "event",
       "title": "《义庄规矩》成文",
-      "summary": "《义庄规矩》成文节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "义庄开张的同一年，范仲淹亲手写定十三条规矩，订成《义庄规矩》：族人计口给米、岁给冬衣，婚丧有钱、应急有款，寡妇再嫁也给二十贯。最要紧的设计在条文之外：后人可以续加新条，但不许改动原十三条，范纯仁、范良器、范之柔们此后八百年都在这个框架里打补丁。朱熹后来评价，范家之法，是要逐渐补足的，一部家族章程从此有了母法与修正案的分层。",
       "path": "knowledge/events/yizhuang-rules-codified-1050.md",
       "frontmatter": {
         "id": "event:yizhuang-rules-codified-1050",
@@ -14676,6 +13870,58 @@ window.KNOWLEDGE_DATA = {
           "concept:family-constitution",
           "concept:institutionalized-trust",
           "concept:steward-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:toyota-quality-crisis-2009",
+      "type": "event",
+      "title": "丰田召回危机（2009）",
+      "summary": "金融危机的巨亏还没消化，“突然加速”事故又把丰田拖进信任危机，全球召回数百万辆车，公司录得 59 年来首次营业亏损，约 86 亿美元。2009 年丰田章男出任社长，日本舆论称之为“大政奉还”；2010 年 2 月他亲赴美国国会听证会，当众鞠躬致歉，承诺以个人名誉担保重获信任。他在听证席上动用的最强武器不是公关辞令，而是自己的姓氏：每辆车都打着我们的姓，公司有难，家族不能逃。",
+      "path": "knowledge/events/toyota-quality-crisis-2009.md",
+      "frontmatter": {
+        "id": "event:toyota-quality-crisis-2009",
+        "type": "event",
+        "title": "丰田召回危机（2009）",
+        "source_stories": [
+          "story:toyoda"
+        ],
+        "families": [
+          "family:toyoda-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:professionalization",
+          "concept:employee-stewardship"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:toyota-motor-founded-1937",
+      "type": "event",
+      "title": "丰田汽车创立（1937）",
+      "summary": "试制成功多款车型后，汽车部 1937 年从丰田自动织机独立，丰田汽车工业株式会社成立。首任社长不是创始人丰田喜一郎，而是入赘女婿丰田利三郎，喜一郎任副社长掌实权；商标也听了利三郎的建议，从十划的 Toyoda 改成八划更吉利的 Toyota。名义领导与实际经营分开的安排，从公司成立第一天就写进了丰田的传统。",
+      "path": "knowledge/events/toyota-motor-founded-1937.md",
+      "frontmatter": {
+        "id": "event:toyota-motor-founded-1937",
+        "type": "event",
+        "title": "丰田汽车创立（1937）",
+        "source_stories": [
+          "story:toyoda"
+        ],
+        "families": [
+          "family:toyoda-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:professionalization",
+          "concept:employee-stewardship"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -14792,10 +14038,62 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:qiao-family-business-rise",
+      "type": "event",
+      "title": "乔家商业崛起（乾隆至光绪）",
+      "summary": "清乾隆初年，父母双亡的乔贵发随“走西口”的人流到包头，与同乡秦肇庆合伙经营草料杂货起家。传到乔致庸手里，包头的复盛公商号做到“先有复盛公，后有包头城”，1884 年他把茶庄改成票号大德通，银本从六万两增至五十万两，与大德恒两号汇通南北。鼎盛时大德通每股年分红高达一万七千两，身股制把掌柜伙计和东家绑在同一张分红表上，这才是乔家生意真正的发动机。",
+      "path": "knowledge/events/qiao-family-business-rise.md",
+      "frontmatter": {
+        "id": "event:qiao-family-business-rise",
+        "type": "event",
+        "title": "乔家商业崛起（乾隆至光绪）",
+        "source_stories": [
+          "story:qiao-family"
+        ],
+        "families": [
+          "family:qiao-family"
+        ],
+        "related_concepts": [
+          "concept:credit-capital",
+          "concept:family-constitution",
+          "concept:community-embeddedness"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:qiao-family-compound-legacy",
+      "type": "event",
+      "title": "乔家大院的遗产",
+      "summary": "乔家大院始建于乾隆年间，数代扩建成六大院、十九小院、三百余间房的格局，是乔家鼎盛的实物证据。1937 年太原陷落，次年祁县被日军占领，乔氏各房携资弃宅四散，去了包头、西安、重庆，红灯笼下的深宅从此人去院空。商号和票号都没能传下来，传下来的是这座如今成为博物馆的建筑，和“六不准”家规里的家族记忆。",
+      "path": "knowledge/events/qiao-family-compound-legacy.md",
+      "frontmatter": {
+        "id": "event:qiao-family-compound-legacy",
+        "type": "event",
+        "title": "乔家大院的遗产",
+        "source_stories": [
+          "story:qiao-family"
+        ],
+        "families": [
+          "family:qiao-family"
+        ],
+        "related_concepts": [
+          "concept:credit-capital",
+          "concept:family-constitution",
+          "concept:community-embeddedness"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:five-houses-expansion",
       "type": "event",
       "title": "五地分行成形",
-      "summary": "五地分行成形节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "迈尔身后，五个儿子分驻五座金融重镇：长子阿姆谢尔守法兰克福总行，所罗门在维也纳，内森在伦敦，卡尔在那不勒斯，詹姆斯在巴黎，到 1820 年代初五箭格局成形。奥地利皇帝封爵时赐下的纹章，画的正是一只手攥着五支箭。同一姓氏在五国放贷、互通消息，跨国调度资本成了独门优势，兄弟团结从美德变成了生存结构。",
       "path": "knowledge/events/five-houses-expansion.md",
       "frontmatter": {
         "id": "event:five-houses-expansion",
@@ -14839,6 +14137,32 @@ window.KNOWLEDGE_DATA = {
           "concept:founder-shadow"
         ],
         "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:stanley-ho-family-settlement-2011",
+      "type": "event",
+      "title": "何鸿燊家产重分与和解（2011）",
+      "summary": "2011 年初，九旬赌王的家族爆发公开争产，四房人马分成两个阵营对簿公堂，何鸿燊本人一度被传“架空”，成了各房拉锯的宝藏。风波之后，他在律师见证下重新划分产业，资产大致按比例分给四房，求一个“雨露均沾，各得其所”。此前从没有一套清晰的传承蓝图，十七个子女的分配全靠家长晚年临场裁决，纷争延续到 2020 年他去世之后仍未完全平息。",
+      "path": "knowledge/events/stanley-ho-family-settlement-2011.md",
+      "frontmatter": {
+        "id": "event:stanley-ho-family-settlement-2011",
+        "type": "event",
+        "title": "何鸿燊家产重分与和解（2011）",
+        "source_stories": [
+          "story:stanley-ho"
+        ],
+        "families": [
+          "family:ho-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-trust"
+        ],
+        "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
       }
@@ -15009,7 +14333,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:fan-yizhuang-rebuilt-southern-song",
       "type": "event",
       "title": "南宋重建义庄",
-      "summary": "南宋重建义庄节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "金兵 1127 年南下，义庄在战火中毁损，此前范纯仁已经在义庄濒临废坏时上书朝廷求护持。金兵走后七十年，1196 年范良器、范之柔从废墟里重建义庄，续加新条，最要紧的是奖学金条款：子弟赴考资助一贯，反复考者减半，无故不去须退钱。原十三条一字不改、后人只许增补，这套修正机制让制度在改朝换代后还能重新拼装起来。",
       "path": "knowledge/events/fan-yizhuang-rebuilt-southern-song.md",
       "frontmatter": {
         "id": "event:fan-yizhuang-rebuilt-southern-song",
@@ -15164,6 +14488,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:gucci-family-exit-1993",
+      "type": "event",
+      "title": "古驰家族出局（1993）",
+      "summary": "到 1993 年，古驰集团债台高筑几近破产，投资伙伴 Investcorp 在董事会对毛里齐奥发起逼宫，他被迫辞去董事长，把剩余全部股份卖给对方。创始家族的姓氏从此与公司的所有权、经营权彻底分离，此后再没有任何古驰家族成员在公司任职或持股。品牌反而就此翻身：1994 年起德索雷与汤姆·福特搭档，把古驰重新做回一线，家族退场成了品牌重生的前提。",
+      "path": "knowledge/events/gucci-family-exit-1993.md",
+      "frontmatter": {
+        "id": "event:gucci-family-exit-1993",
+        "type": "event",
+        "title": "古驰家族出局（1993）",
+        "source_stories": [
+          "story:gucci"
+        ],
+        "families": [
+          "family:gucci-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:professionalization"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:formosa-plastics-founded-1954",
+      "type": "event",
+      "title": "台塑创立（1954）",
+      "summary": "想做水泥和轮胎都被人捷足先登，1954 年，王永庆接下一个被官员半带嘲讽推荐、无人肯碰的项目：PVC 塑胶。他押上多年积攒的 50 万美元，加上 79.8 万美元美援贷款，注册福懋塑胶公司，即后来的台湾塑胶。1957 年高雄工厂投产，头十个月一吨都卖不出去，他反而力排众议把月产能从 120 吨扩到 1200 吨，用规模压低成本，台塑帝国从这步险棋里长出来。",
+      "path": "knowledge/events/formosa-plastics-founded-1954.md",
+      "frontmatter": {
+        "id": "event:formosa-plastics-founded-1954",
+        "type": "event",
+        "title": "台塑创立（1954）",
+        "source_stories": [
+          "story:wang-yongqing"
+        ],
+        "families": [
+          "family:wang-yongqing-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:professionalization",
+          "concept:enterprise-before-family"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:tang-sentencing-2006",
       "type": "event",
       "title": "唐万新获刑",
@@ -15186,6 +14562,32 @@ window.KNOWLEDGE_DATA = {
           "segment:delong-009"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "event:ikea-succession-2013",
+      "type": "event",
+      "title": "坎普拉德交棒（2013）",
+      "summary": "87 岁的坎普拉德在 2013 年退出宜家所有董事会，同年小儿子马提亚斯接替非家族人士路德维格松出任 Inter IKEA Holding 董事长，宜家创立七十年来第一次由创始人之外的家族成员坐上关键位置。老人同时辞去英特罗哥基金会监事会职务，放弃指定董事的权利，基金会随即修改规则，明确家族成员在治理机构不得占多数。表面上家族回到台前，实际上马提亚斯扮演的是战略监护人，表决权上没有任何特权。",
+      "path": "knowledge/events/ikea-succession-2013.md",
+      "frontmatter": {
+        "id": "event:ikea-succession-2013",
+        "type": "event",
+        "title": "坎普拉德交棒（2013）",
+        "source_stories": [
+          "story:ikea"
+        ],
+        "families": [
+          "family:kamprad-family"
+        ],
+        "related_concepts": [
+          "concept:foundation-ownership",
+          "concept:non-listing-control",
+          "concept:mission-locked-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -15343,6 +14745,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:ambani-family-split-2005",
+      "type": "event",
+      "title": "安巴尼兄弟分家（2005）",
+      "summary": "迪鲁拜·安巴尼 2002 年去世时没有留下遗嘱，穆克什与阿尼尔为控制权公开开战，信实帝国濒临撕裂。斡旋数月后，母亲科姬娜本于 2005 年 6 月 18 日宣布和解：哥哥拿走石化炼油等现金流稳定的核心业务，弟弟分得电信、电力、金融，外加一纸十年互不竞争协议，两个女儿只在母亲安排下象征性获得权益。资产怎么切，日后的胜负就已写好一半：握着现金流的穆克什，十年后有本钱杀回任何赛道。",
+      "path": "knowledge/events/ambani-family-split-2005.md",
+      "frontmatter": {
+        "id": "event:ambani-family-split-2005",
+        "type": "event",
+        "title": "安巴尼兄弟分家（2005）",
+        "source_stories": [
+          "story:ambani"
+        ],
+        "families": [
+          "family:ambani-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:ikea-foundation-structure",
+      "type": "event",
+      "title": "宜家双基金会架构（1982）",
+      "summary": "1982 年，坎普拉德把运营绝大部分宜家商场的公司转让给荷兰注册的英卡基金会，后者通过 Ingka Holding 持有全球约九成宜家门店。商标和特许经营体系装进另一个篮子：列支敦士登的英特罗哥基金会控股 Inter IKEA 集团，章程写明宗旨是保障宜家概念的长期生存。两只基金会互相咬合，宜家从此既卖不掉也分不了家，坎普拉德用放弃所有权的方式，换来了谁也拿不走的控制。",
+      "path": "knowledge/events/ikea-foundation-structure.md",
+      "frontmatter": {
+        "id": "event:ikea-foundation-structure",
+        "type": "event",
+        "title": "宜家双基金会架构（1982）",
+        "source_stories": [
+          "story:ikea"
+        ],
+        "families": [
+          "family:kamprad-family"
+        ],
+        "related_concepts": [
+          "concept:foundation-ownership",
+          "concept:non-listing-control",
+          "concept:mission-locked-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:dassler-family-final-exit-2018",
       "type": "event",
       "title": "家族彻底退场（2018）",
@@ -15388,6 +14842,32 @@ window.KNOWLEDGE_DATA = {
           "concept:succession-contingency"
         ],
         "date": "2000-11-15",
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:watson-jr-succession",
+      "type": "event",
+      "title": "小沃森接班（1956）",
+      "summary": "父子在高层会议上当众相左、下属无所适从的局面，到 1956 年才画上句号：老沃森在生命的最后一年交出权杖，随后去世，遗孀珍妮特被任命为 IBM 董事，是美国大公司里最早进入董事会的女性之一。小沃森接手的是一家市值营收全球领先、文化被奉为典范的公司，他随即把它押进计算机时代。最激烈的接班冲突发生在会议室里而不是遗嘱里，这对父子用多年争吵完成了交接。",
+      "path": "knowledge/events/watson-jr-succession.md",
+      "frontmatter": {
+        "id": "event:watson-jr-succession",
+        "type": "event",
+        "title": "小沃森接班（1956）",
+        "source_stories": [
+          "story:watson-ibm"
+        ],
+        "families": [
+          "family:watson-family"
+        ],
+        "related_concepts": [
+          "concept:professionalization",
+          "concept:founder-shadow",
+          "concept:enterprise-before-family"
+        ],
         "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
@@ -15632,6 +15112,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:zeng-family-letters",
+      "type": "event",
+      "title": "曾国藩家书传家",
+      "summary": "三十余年戎马宦海之间，曾国藩写给家人的书信近 1500 封，治家、教子、修身的道理全在里面，“兄弟和，虽穷氓小户必兴；兄弟不和，虽世家宦族必败”即出自其中。家书多寄给主持家务的弟弟曾国潢，由他向全家传达落实，田产、祖屋、子侄教育都按信里的意思办。对这个家族而言，家书就是治理文件，一封封纸上的叮嘱把家风变成了可以执行的日常。",
+      "path": "knowledge/events/zeng-family-letters.md",
+      "frontmatter": {
+        "id": "event:zeng-family-letters",
+        "type": "event",
+        "title": "曾国藩家书传家",
+        "source_stories": [
+          "story:zeng-guofan"
+        ],
+        "families": [
+          "family:zeng-family"
+        ],
+        "related_concepts": [
+          "concept:family-consensus",
+          "concept:patient-long-termism",
+          "concept:succession-training"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:berlin-olympics-1936",
       "type": "event",
       "title": "柏林奥运欧文斯穿达斯勒钉鞋（1936）",
@@ -15658,10 +15164,114 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:standard-oil-breakup-1911",
+      "type": "event",
+      "title": "标准石油拆分（1911）",
+      "summary": "1911 年，美国最高法院裁定标准石油违反反垄断法，下令拆成 34 家相互独立的公司。判决没有让洛克菲勒倾家荡产：拆分后各子公司股票大幅飙升，市值总和反超原公司，他的个人财富不减反增，家族继续持有埃克森、美孚、雪佛龙等公司的大量股票。垄断帝国死了，财富却逼近十亿美元，怎么安置这笔钱成了新难题，两年后成立的洛克菲勒基金会就是答案。",
+      "path": "knowledge/events/standard-oil-breakup-1911.md",
+      "frontmatter": {
+        "id": "event:standard-oil-breakup-1911",
+        "type": "event",
+        "title": "标准石油拆分（1911）",
+        "source_stories": [
+          "story:rockefeller"
+        ],
+        "families": [
+          "family:rockefeller-family"
+        ],
+        "related_concepts": [
+          "concept:philanthropy-as-governance",
+          "concept:family-constitution",
+          "concept:institutionalized-trust"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:chia-tai-seed-shop",
+      "type": "event",
+      "title": "正大庄种子铺开张（1921）",
+      "summary": "曼谷唐人街的一间小铺面，1921 年挂出“正大庄”的招牌，谢易初在这里卖菜籽，立下“正大光明”四字店训。集市上别家抓把种子用纸一裹就卖，他讲究选种培育，能按当地水土育出高产稳产的品种，靠质量做出回头客。日后横跨农牧、零售、电信的正大集团，商号和信条都从这间种子铺延续下来，一百年没有换过。",
+      "path": "knowledge/events/chia-tai-seed-shop.md",
+      "frontmatter": {
+        "id": "event:chia-tai-seed-shop",
+        "type": "event",
+        "title": "正大庄种子铺开张（1921）",
+        "source_stories": [
+          "story:cp-group"
+        ],
+        "families": [
+          "family:cp-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:family-control-unity",
+          "concept:related-diversification"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:cp-china-return",
+      "type": "event",
+      "title": "正大重返中国（1981）",
+      "summary": "《中外合资经营企业法》1979 年 7 月颁布，谢家离开中国大陆二十多年后，谢国民立刻着手回来。深圳特区成立后，正大与美国大陆谷物公司合资在深圳建现代化饲料厂，取名“正大康地”，“正大”沿用谢易初当年曼谷菜种店的老招牌。这家公司拿到深圳“0001 号”合资企业执照，1981 年签发的批准证书至今藏在深圳博物馆，改革开放后第一家外商投资企业就此落在一个潮汕家族名下。",
+      "path": "knowledge/events/cp-china-return.md",
+      "frontmatter": {
+        "id": "event:cp-china-return",
+        "type": "event",
+        "title": "正大重返中国（1981）",
+        "source_stories": [
+          "story:cp-group"
+        ],
+        "families": [
+          "family:cp-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:family-control-unity",
+          "concept:related-diversification"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:maurizio-gucci-murder-1995",
+      "type": "event",
+      "title": "毛里齐奥·古驰遇刺（1995）",
+      "summary": "1995 年 3 月 27 日清晨，米兰巴勒斯特罗街 20 号门前四声枪响，46 岁的毛里齐奥·古驰倒在自己办公楼前的石阶上，买凶的是他的前妻帕特里齐亚。这位两年前刚把公司股份出清的末代掌门人，最终连性命也没能从家族恩怨里赎出来。父子反目、兄弟阋墙、儿子举报父亲逃税之后，古驰家族的故事以雇凶杀夫收尾。",
+      "path": "knowledge/events/maurizio-gucci-murder-1995.md",
+      "frontmatter": {
+        "id": "event:maurizio-gucci-murder-1995",
+        "type": "event",
+        "title": "毛里齐奥·古驰遇刺（1995）",
+        "source_stories": [
+          "story:gucci"
+        ],
+        "families": [
+          "family:gucci-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:professionalization"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:frankfurt-house-closed-1901",
       "type": "event",
       "title": "法兰克福分行关闭",
-      "summary": "法兰克福分行关闭节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "1901 年，法兰克福罗斯柴尔德银行的末代当家人威廉·卡尔去世，没有留下男性继承人。按 1812 年遗嘱定下的家规，合伙权只传男系，而伦敦、巴黎、维也纳的堂亲没有一个人愿意迁回这座普鲁士治下风光不再的发源地，总行只能清算关门。宁可关张、不让外人接手，那道锁住财富的男系铁律，这一次锁死的是家族自己的退路。",
       "path": "knowledge/events/frankfurt-house-closed-1901.md",
       "frontmatter": {
         "id": "event:frankfurt-house-closed-1901",
@@ -15684,10 +15294,62 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:rockefeller-foundation-created-1913",
+      "type": "event",
+      "title": "洛克菲勒基金会成立（1913）",
+      "summary": "个人资产逼近十亿美元时，友人警告洛克菲勒：再不规划，财富会把子孙压垮。1913 年洛克菲勒基金会正式成立，牧师出身的顾问弗雷德里克·盖茨帮他把散乱的个人捐助改造成有组织的慈善，锚定公共卫生、医学教育和科学研究。与卡内基“终身散尽、绝嗣而终”的路线不同，洛克菲勒让慈善成为家族的共同事业，基金会既卸下了财产传承的重压，也成了凝聚后代的平台。",
+      "path": "knowledge/events/rockefeller-foundation-created-1913.md",
+      "frontmatter": {
+        "id": "event:rockefeller-foundation-created-1913",
+        "type": "event",
+        "title": "洛克菲勒基金会成立（1913）",
+        "source_stories": [
+          "story:rockefeller"
+        ],
+        "families": [
+          "family:rockefeller-family"
+        ],
+        "related_concepts": [
+          "concept:philanthropy-as-governance",
+          "concept:family-constitution",
+          "concept:institutionalized-trust"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:xiang-army-formation",
+      "type": "event",
+      "title": "湘军创建（1853）",
+      "summary": "太平军横扫半壁江山的 1853 年，在籍守制的曾国藩奉命帮办湖南团练，以书生领兵组建湘军。九弟曾国荃的吉字营成为攻坚主力，安庆、天京都由它攻破，曾国荃官至两江总督。湘军平定太平天国，把一个五六百年寂寂无闻的耕读之家推成“中兴名臣”门第，曾氏家族百余年的兴盛从这支军队起步。",
+      "path": "knowledge/events/xiang-army-formation.md",
+      "frontmatter": {
+        "id": "event:xiang-army-formation",
+        "type": "event",
+        "title": "湘军创建（1853）",
+        "source_stories": [
+          "story:zeng-guofan"
+        ],
+        "families": [
+          "family:zeng-family"
+        ],
+        "related_concepts": [
+          "concept:family-consensus",
+          "concept:patient-long-termism",
+          "concept:succession-training"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:waterloo-myth-1815",
       "type": "event",
       "title": "滑铁卢神话",
-      "summary": "滑铁卢神话节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "传说内森·罗斯柴尔德靠信鸽先于政府得知拿破仑兵败，在交易所先抛后买，一夜赚下天文数字。账本说的是另一回事：他赌的是持久战，囤了大量黄金，和平骤至反而险些被套，滑铁卢前后即便操作公债，利润也不过七千英镑上下；真正的大钱来自 1815 年底重仓英国统一公债、1817 年凭财政大臣处的内线在高位抛出，获利超过二十五万英镑。这个神话从反犹小说一路加码到纳粹电影和《货币战争》，流传两百年，恰恰因为这个家族对外什么都不解释。",
       "path": "knowledge/events/waterloo-myth-1815.md",
       "frontmatter": {
         "id": "event:waterloo-myth-1815",
@@ -15703,6 +15365,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-control-unity",
           "concept:family-constitution",
           "concept:credit-capital"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:macau-gaming-liberalization-2002",
+      "type": "event",
+      "title": "澳门赌权开放（2002）",
+      "summary": "2002 年，澳门正式开放赌权，何鸿燊家族四十年的博彩专营时代落幕。拉斯维加斯式的对手涌入后，习惯了垄断的澳博在应变速度、服务和产品上全面显出迟钝，市场份额一路下滑。专营牌照曾是这个家族全部财富与权力的地基，制度一变，被垄断红利掩盖的治理问题开始一件件露头。",
+      "path": "knowledge/events/macau-gaming-liberalization-2002.md",
+      "frontmatter": {
+        "id": "event:macau-gaming-liberalization-2002",
+        "type": "event",
+        "title": "澳门赌权开放（2002）",
+        "source_stories": [
+          "story:stanley-ho"
+        ],
+        "families": [
+          "family:ho-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-conflict-as-innovation",
+          "concept:family-trust"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -15956,10 +15644,62 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:sheng-family-trust-arrangement",
+      "type": "event",
+      "title": "盛宣怀遗产信托安排（1916）",
+      "summary": "盛宣怀遗嘱的核心是“效仿三井，不分家产”：1916 年 4 月 26 日深夜，弥留的他当着夫人和五房子孙立下遗命，家产收益每年分作十份，五份留作善举，五份分给五房，本金“动利不动本”。身后清查的遗产约合白银 1350 万两，其中招商局、汉冶萍、通商银行等股票 500 多万两，全部交由至善堂议会管理，陶湘、何梅阁等八位社会名流出任议员。请外人监督家产，这在当时的中国几乎没有先例，也几乎立刻遭到子孙抵制。",
+      "path": "knowledge/events/sheng-family-trust-arrangement.md",
+      "frontmatter": {
+        "id": "event:sheng-family-trust-arrangement",
+        "type": "event",
+        "title": "盛宣怀遗产信托安排（1916）",
+        "source_stories": [
+          "story:sheng-xuanhuai"
+        ],
+        "families": [
+          "family:sheng-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-trust",
+          "concept:governance-complexity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:sheng-family-estate-dispute",
+      "type": "event",
+      "title": "盛氏争产风波",
+      "summary": "盛宣怀死后，至善堂议会很快陷入权威危机，各房龃龉不断，最终妥协：一半产业各房抽签分走，另一半改为“愚斋公产”，交由家族自己控制的愚斋义庄董事会接管，遗嘱里设计的外部监督就此废弃。1928 年，被兄弟排除在公益基金分配之外的七小姐盛爱颐把兄长们告上法庭，宋霭龄、宋庆龄公开声援，盛家姐妹胜诉分得遗产，成为轰动上海的女性继承权案。父亲生前布下的制度防线，就这样被子女一层层拆掉。",
+      "path": "knowledge/events/sheng-family-estate-dispute.md",
+      "frontmatter": {
+        "id": "event:sheng-family-estate-dispute",
+        "type": "event",
+        "title": "盛氏争产风波",
+        "source_stories": [
+          "story:sheng-xuanhuai"
+        ],
+        "families": [
+          "family:sheng-family"
+        ],
+        "related_concepts": [
+          "concept:succession-planning-gap",
+          "concept:family-trust",
+          "concept:governance-complexity"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:ford-ipo-dual-class-1956",
       "type": "event",
       "title": "福特上市与 B 类股安排",
-      "summary": "福特上市与 B 类股安排节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "1956 年 1 月，福特公开发行普通股，融资 6.579 亿美元，3 月在纽交所挂牌，真正的安排藏在股票结构里：B 类股只能由福特家族成员、后代及相关信托持有，转给外人自动变成普通股，只要数量保持在章程门槛之上，家族合计握有 40% 的投票权。设计这套结构的关键人物是亨利二世的母亲埃莉诺，十一年前正是她与婆婆克拉拉联手，让 82 岁的亨利交出公司。家族的经济权益此后一路稀释，投票权却被锁进了章程。",
       "path": "knowledge/events/ford-ipo-dual-class-1956.md",
       "frontmatter": {
         "id": "event:ford-ipo-dual-class-1956",
@@ -15985,7 +15725,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:ford-no-bailout-2008",
       "type": "event",
       "title": "福特抵押资产并避免破产救助",
-      "summary": "福特抵押资产并避免破产救助节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "2006 年 11 月 27 日，福特宣布把全部资产抵押给银行，借入 236 亿美元，抵押品包括工厂、设备、库存、海外业务，连 1907 年启用的蓝色椭圆商标也在内，等于把家族姓氏押给了债权人。比尔·福特投下赞成票，家族董事跟随。两年后金融危机爆发，通用和克莱斯勒接受政府救助并破产重组，手握现金的福特两样都没要，把姓氏完好地赎了回来。",
       "path": "knowledge/events/ford-no-bailout-2008.md",
       "frontmatter": {
         "id": "event:ford-no-bailout-2008",
@@ -16011,7 +15751,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:ford-motor-founded-1903",
       "type": "event",
       "title": "福特汽车公司成立",
-      "summary": "福特汽车公司成立节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "1903 年 6 月 16 日，底特律麦克大道，煤炭商马尔科姆森凑齐十二个股东和两万八千美元现金，福特汽车公司签署章程：亨利·福特持股 25.5%，马尔科姆森同样 25.5%，道奇兄弟以现金加零部件入股。从 1876 年那只怀表算起，到在章程上签字，亨利走了二十七年。共同创业的股权结构日后成了他的心病，1919 年家族买断全部外部股东，正是对这一天的反向修正。",
       "path": "knowledge/events/ford-motor-founded-1903.md",
       "frontmatter": {
         "id": "event:ford-motor-founded-1903",
@@ -16063,7 +15803,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:moving-assembly-line-1913",
       "type": "event",
       "title": "移动装配线成型",
-      "summary": "移动装配线成型节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "海兰帕克工厂 1913 年开始的移动装配线实验，把飞轮磁石电机拆成 29 道工序，单台装配从 20 分钟压到 5 分钟，底盘总装从 12 小时 28 分压到 1 小时 33 分。产量随之起飞：1913 年出货 16.8 万辆，1923 年约 200 万辆。代价同步显现，当年 12 月离职率冲到 370%，一年要雇五万人才能留住一万人，5 美元日薪的伏笔就埋在这条线上。",
       "path": "knowledge/events/moving-assembly-line-1913.md",
       "frontmatter": {
         "id": "event:moving-assembly-line-1913",
@@ -16352,7 +16092,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:mulally-ceo-2006",
       "type": "event",
       "title": "艾伦·穆拉利出任 CEO",
-      "summary": "艾伦·穆拉利出任 CEO节点来自《福特家族：一只怀表、一个姓氏与五代传承的故事》的 first_pass 结构化整理，用于连接这条治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "比尔·福特 2006 年承认自己不是合适的 CEO，把帅印交给从波音请来的艾伦·穆拉利，自己退到执行董事长位置。上任当年 11 月，穆拉利就拍板把福特全部资产抵押出去借入 236 亿美元，比尔带头投赞成票，家族董事跟进。福特走到第四代，终于把家族控制和家族亲自经营拆成两件事：控制权留在家里，方向盘交给最会开的人。",
       "path": "knowledge/events/mulally-ceo-2006.md",
       "frontmatter": {
         "id": "event:mulally-ceo-2006",
@@ -16378,7 +16118,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:fan-yizhuang-founded-1050",
       "type": "event",
       "title": "范氏义庄创设",
-      "summary": "范氏义庄创设节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "皇祐二年（1050），六十二岁、肺病缠身的范仲淹在杭州知州任上，于苏州老家置下千亩义田创设义庄，十月起族人按口领米、岁给冬衣绢。当年族人不肯让这个随母改嫁的孩子轻易归宗，如今他在《告子弟书》里写：吾吴中宗族甚众，于吾固有亲疏，然吾祖宗视之，则均是子孙。一个曾被挡在门外的人，回头给全族立了一个管九百年的制度。",
       "path": "knowledge/events/fan-yizhuang-founded-1050.md",
       "frontmatter": {
         "id": "event:fan-yizhuang-founded-1050",
@@ -16404,7 +16144,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:fan-yizhuang-ended-1949",
       "type": "event",
       "title": "范氏义庄土地终局",
-      "summary": "范氏义庄土地终局节点来自《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》的 first_pass 结构化整理，用于连接这条治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "1949 年春，苏南土改，最后一任掌庄人把账册交给新政府的工作人员，范氏义庄连同名下田产一起被接收。从皇祐二年算起，这份契约整整走了九百年，义田从最初的一千亩涨到清末的八千亩。乾隆题过诗的那块义庄石碑作为文物留了下来，一套运转近千年的宗族公共资产制度停在这个春天。",
       "path": "knowledge/events/fan-yizhuang-ended-1949.md",
       "frontmatter": {
         "id": "event:fan-yizhuang-ended-1949",
@@ -16420,6 +16160,58 @@ window.KNOWLEDGE_DATA = {
           "concept:family-constitution",
           "concept:institutionalized-trust",
           "concept:steward-ownership"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:rong-yiren-public-private-transition",
+      "type": "event",
+      "title": "荣毅仁公私合营转身（1956）",
+      "summary": "1949 年荣毅仁选择留在大陆，1956 年公私合营高潮中他走得更彻底：把茂新、福新、申新全部荣氏工厂并入公私合营序列，产权献给国家，家族获得约 600 万元补偿款。他随后出任原荣氏企业的董事长、经理和上海市副市长；1979 年邓小平亲自点将，62 岁的他再度出山创办中信，后来官至国家副主席。三个时点连起来是同一种判断：在保不住所有权的时代，先把角色保住。",
+      "path": "knowledge/events/rong-yiren-public-private-transition.md",
+      "frontmatter": {
+        "id": "event:rong-yiren-public-private-transition",
+        "type": "event",
+        "title": "荣毅仁公私合营转身（1956）",
+        "source_stories": [
+          "story:rong-family"
+        ],
+        "families": [
+          "family:rong-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:enterprise-before-family",
+          "concept:cultural-legitimacy"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:rong-family-industrial-rise",
+      "type": "event",
+      "title": "荣氏实业崛起（1902）",
+      "summary": "荣宗敬、荣德生兄弟 1900 年前后卖掉钱庄投身实业，先在无锡办保兴面粉厂，1902 年创立茂新，“兵船”牌面粉靠剔除霉麦的死规矩打响；1915 年前后再办申新纱厂，1917 年反向收购日资恒昌源纱厂改为申新二厂，轰动民族工商业。一战期间欧洲订单如潮，1926 年“兵船”在费城万国博览会拿下大奖。“面粉大王”加“棉纱大王”，鼎盛时衣被半个中国，这份家底就是日后“红色资本家”故事的起点。",
+      "path": "knowledge/events/rong-family-industrial-rise.md",
+      "frontmatter": {
+        "id": "event:rong-family-industrial-rise",
+        "type": "event",
+        "title": "荣氏实业崛起（1902）",
+        "source_stories": [
+          "story:rong-family"
+        ],
+        "families": [
+          "family:rong-family"
+        ],
+        "related_concepts": [
+          "concept:family-as-guardian",
+          "concept:enterprise-before-family",
+          "concept:cultural-legitimacy"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -16483,6 +16275,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:pei-family-migration",
+      "type": "event",
+      "title": "贝氏迁居苏州（明嘉靖年间）",
+      "summary": "明嘉靖年间，原籍浙江金华府兰溪县的贝氏举家迁到苏州，一世祖贝兰堂靠行医勉强度日，子嗣也不兴旺。谁也想不到这户医家的后代会成为吴中望族，生意从药材做到颜料，再转入近代金融，最后长出贝聿铭的世界声望。一次不起眼的迁徙选对了城市，此后几百年，苏州的商业和文教水土养出了这个家族的每一次转身。",
+      "path": "knowledge/events/pei-family-migration.md",
+      "frontmatter": {
+        "id": "event:pei-family-migration",
+        "type": "event",
+        "title": "贝氏迁居苏州（明嘉靖年间）",
+        "source_stories": [
+          "story:pei-family"
+        ],
+        "families": [
+          "family:pei-family"
+        ],
+        "related_concepts": [
+          "concept:cultural-legitimacy",
+          "concept:succession-training",
+          "concept:patient-long-termism"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:im-pei-global-career",
+      "type": "event",
+      "title": "贝聿铭的全球建筑生涯",
+      "summary": "1935 年，贝聿铭在父亲支持下赴美，从宾大、麻省理工一路读到哈佛。1964 年，杰奎琳·肯尼迪从路易斯·康、密斯等一众大师中选中这位尚不知名的华人设计肯尼迪总统图书馆，说要“和他一起进行一次伟大的飞跃”，他从此跻身世界顶级建筑师行列，卢浮宫玻璃金字塔、香港中银大厦、苏州博物馆接连落成。家族在大陆的产业尽失之后，饱经劫难的贝氏长者在电视上看到族中小辈站在卢浮宫前，家族的荣光以谁都没料到的方式续了下来。",
+      "path": "knowledge/events/im-pei-global-career.md",
+      "frontmatter": {
+        "id": "event:im-pei-global-career",
+        "type": "event",
+        "title": "贝聿铭的全球建筑生涯",
+        "source_stories": [
+          "story:pei-family"
+        ],
+        "families": [
+          "family:pei-family"
+        ],
+        "related_concepts": [
+          "concept:cultural-legitimacy",
+          "concept:succession-training",
+          "concept:patient-long-termism"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:dassler-factory-founded-1924",
       "type": "event",
       "title": "达斯勒兄弟鞋厂注册（1924）",
@@ -16512,7 +16356,7 @@ window.KNOWLEDGE_DATA = {
       "id": "event:rothschild-will-1812",
       "type": "event",
       "title": "迈尔·罗斯柴尔德遗嘱",
-      "summary": "迈尔·罗斯柴尔德遗嘱节点来自《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》的 first_pass 结构化整理，用于连接这条治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "1812 年 9 月 19 日，迈尔·阿姆谢尔·罗斯柴尔德在法兰克福去世，病来得太急，海外的儿子都来不及赶回。他留下的遗嘱把生意干净地传给五个儿子、各持五分之一：女儿女婿及其后代被完全排除在生意之外，连知情权都没有，合伙权只传男系，账目对外严格保密。这份文件像一道上锁的家规，锁出了此后两百年的五箭格局，也在 1901 年法兰克福因绝嗣关门时露出锁死的另一面。",
       "path": "knowledge/events/rothschild-will-1812.md",
       "frontmatter": {
         "id": "event:rothschild-will-1812",
@@ -16528,6 +16372,58 @@ window.KNOWLEDGE_DATA = {
           "concept:family-control-unity",
           "concept:family-constitution",
           "concept:credit-capital"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:disneyland-opening-1955",
+      "type": "event",
+      "title": "迪士尼乐园开园（1955）",
+      "summary": "公司不肯为乐园拨款，沃尔特就成立个人独资的 WED 企业推进计划，抵押自己的寿险保单、卖掉家庭房产，凑出前期设计和买地的钱。1955 年 7 月，加州阿纳海姆的迪士尼乐园开幕，两个月内游客超过一百万人次，公司收入爆发式增长。一个连自家账上都不肯出钱的项目，把迪士尼从电影公司变成可以反复收费的体验帝国，创始人的想象力第一次变成了可传承的固定资产。",
+      "path": "knowledge/events/disneyland-opening-1955.md",
+      "frontmatter": {
+        "id": "event:disneyland-opening-1955",
+        "type": "event",
+        "title": "迪士尼乐园开园（1955）",
+        "source_stories": [
+          "story:disney"
+        ],
+        "families": [
+          "family:disney-family"
+        ],
+        "related_concepts": [
+          "concept:founder-shadow",
+          "concept:professionalization",
+          "concept:enterprise-independence"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:disney-governance-crisis-1984",
+      "type": "event",
+      "title": "迪士尼治理危机（1984）",
+      "summary": "“企业掠夺者”索尔·斯坦伯格 1984 年向迪士尼发起恶意收购，准备拆卖公司资产，迪士尼成立以来第一次被外部资本逼到墙角。罗伊小迪士尼联合金融家斯坦利·戈德向董事会发难，随后公司请来派拉蒙总裁迈克尔·艾斯纳和华纳的弗兰克·威尔斯出任 CEO 和总裁，创始家族第一次把最高经营权完全交给外来职业经理人。罗伊小自己退守动画部门，用《小美人鱼》《狮子王》守住家族真正的话语权：创意。",
+      "path": "knowledge/events/disney-governance-crisis-1984.md",
+      "frontmatter": {
+        "id": "event:disney-governance-crisis-1984",
+        "type": "event",
+        "title": "迪士尼治理危机（1984）",
+        "source_stories": [
+          "story:disney"
+        ],
+        "families": [
+          "family:disney-family"
+        ],
+        "related_concepts": [
+          "concept:founder-shadow",
+          "concept:professionalization",
+          "concept:enterprise-independence"
         ],
         "curation_stage": "first_pass",
         "reviewed": false,
@@ -16560,6 +16456,32 @@ window.KNOWLEDGE_DATA = {
           "segment:zhou-dafu-001"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "event:kuok-sugar-rise",
+      "type": "event",
+      "title": "郭鹤年糖业崛起（1959）",
+      "summary": "把生意重心从大米转向食糖后，郭鹤年 1959 年拍板与日本三井等合资建厂，东南亚第一家由本地私人资本主导的现代炼糖厂在马来西亚投产，他出任董事长，曾被英国洋行欺压的小经销商第一次有了自己的工厂。1962 年关税听证后政府禁止进口精炼糖，高额保护随之而来；1968 年他再创玻璃市种植公司开垦蔗园，打通从种植到精炼的全链条。马来亚制糖几乎主导了马来西亚食糖行业，“亚洲糖王”的名号从此跟了他一生。",
+      "path": "knowledge/events/kuok-sugar-rise.md",
+      "frontmatter": {
+        "id": "event:kuok-sugar-rise",
+        "type": "event",
+        "title": "郭鹤年糖业崛起（1959）",
+        "source_stories": [
+          "story:robert-kuok"
+        ],
+        "families": [
+          "family:kuok-family"
+        ],
+        "related_concepts": [
+          "concept:patient-long-termism",
+          "concept:credit-capital",
+          "concept:related-diversification"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -16640,6 +16562,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:chang-gung-hospital-founded-1976",
+      "type": "event",
+      "title": "长庚纪念医院创立（1976）",
+      "summary": "年少时立下的誓愿，要建一所台湾最大的医院救治穷苦病人，1976 年以长庚纪念医院的形式兑现，名字取自王永庆的父亲王长庚。它名义上是医疗财团法人，实际是台塑集团的最终控股平台：持有台化 18.6%、南亚 8.2%、台塑 6.7%等核心公司股份，股票不可转让，股息只能用于慈善，十五人董事会里王家相关者、社会贤达、专业人士各占五席。家族矛盾被隔在医院董事会门外，谁也无法单独支配集团股份，这是王永庆给台塑上的最后一道锁。",
+      "path": "knowledge/events/chang-gung-hospital-founded-1976.md",
+      "frontmatter": {
+        "id": "event:chang-gung-hospital-founded-1976",
+        "type": "event",
+        "title": "长庚纪念医院创立（1976）",
+        "source_stories": [
+          "story:wang-yongqing"
+        ],
+        "families": [
+          "family:wang-yongqing-family"
+        ],
+        "related_concepts": [
+          "concept:succession-training",
+          "concept:professionalization",
+          "concept:enterprise-before-family"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:adidas-family-exit-1990",
       "type": "event",
       "title": "阿迪达斯四姐妹出售（1990）",
@@ -16661,6 +16609,58 @@ window.KNOWLEDGE_DATA = {
           "concept:founder-shadow"
         ],
         "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:shangri-la-founded-1971",
+      "type": "event",
+      "title": "香格里拉酒店创立（1971）",
+      "summary": "1971 年，郭鹤年在新加坡开出第一家香格里拉大酒店，名字取自《消失的地平线》里的世外桃源，合伙人嫌虚构地名不妥，他一句“就是它了”拍板。酒店以东方意境和顶级服务震动业界，连锁随后开到马来西亚、泰国、斐济，中国大门一开，杭州西子湖畔和北京也竖起香格里拉的招牌。糖王由此多了一条穿越周期的现金流，家族版图从大宗商品挪进了高端服务业。",
+      "path": "knowledge/events/shangri-la-founded-1971.md",
+      "frontmatter": {
+        "id": "event:shangri-la-founded-1971",
+        "type": "event",
+        "title": "香格里拉酒店创立（1971）",
+        "source_stories": [
+          "story:robert-kuok"
+        ],
+        "families": [
+          "family:kuok-family"
+        ],
+        "related_concepts": [
+          "concept:patient-long-termism",
+          "concept:credit-capital",
+          "concept:related-diversification"
+        ],
+        "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:takagi-generational-succession",
+      "type": "event",
+      "title": "高木家袭名交接",
+      "summary": "高木家的交接不靠遗嘱靠袭名：每代当主继位后袭用“辰五郎”之名，第十四代高木尚如此，高木显统也在 2023 年前后正式袭名第十五代辰五郎。名字是家族意志的载体，提醒每代当主家业不是私产，自己只是暂时的保管者，任务是把这块招牌无损地传给下一代。上一代留下的也不只是名字：第十四代培育的酒米“酒未来”，正是第十五代酿出传世“十四代”的原料。",
+      "path": "knowledge/events/takagi-generational-succession.md",
+      "frontmatter": {
+        "id": "event:takagi-generational-succession",
+        "type": "event",
+        "title": "高木家袭名交接",
+        "source_stories": [
+          "story:takagi-shuzo"
+        ],
+        "families": [
+          "family:takagi-family"
+        ],
+        "related_concepts": [
+          "concept:standard-setting",
+          "concept:succession-training",
+          "concept:patient-long-termism"
+        ],
+        "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
       }

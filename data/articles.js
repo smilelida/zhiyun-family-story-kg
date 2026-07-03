@@ -2617,7 +2617,8 @@ window.ARTICLE_DATA = {
           "text": "董事会每周定期开会，重大决策要求全体同意方可通过，力求避免一言堂和私心。议会与董事会的权限也作了明确区分：议员作为“立法机关”，不得兼任日常经理职务，以示权责分明。可以看出，盛宣怀试图引入一种近代“公司治理”架构来管理家族事务——有点类似现代家族信托+董事会的模式，在当时的中国家族中极为新颖。",
           "related_node_ids": [
             "person:sheng-xuanhuai",
-            "concept:family-trust"
+            "concept:family-trust",
+            "tool:family-trust"
           ]
         },
         {
@@ -3575,7 +3576,8 @@ window.ARTICLE_DATA = {
           "text": "盛宣怀去世后，他的遗嘱要求子孙“不准分产”，而是由家族共同体继续经营各项企业，子女按章程仅享用收益，不动用资本。这一安排类似于现代家族企业中的“家族信托”或“家族基金”，旨在避免因代际分割导致产业四分五裂。",
           "related_node_ids": [
             "person:sheng-xuanhuai",
-            "concept:family-trust"
+            "concept:family-trust",
+            "tool:family-trust"
           ]
         },
         {
@@ -3664,7 +3666,8 @@ window.ARTICLE_DATA = {
           "text": "盛宣怀直到生命最后几年才匆忙筹划家族信托，从萌发想法到付诸实践仅5年时间，许多制度细节来不及周全设计。",
           "related_node_ids": [
             "person:sheng-xuanhuai",
-            "concept:family-trust"
+            "concept:family-trust",
+            "tool:family-trust"
           ]
         },
         {
@@ -7192,9 +7195,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "电信领域：2016年推出 Reliance Jio，以颠覆性的低价 4G 服务迅速席卷印度市场，引发了行业革命，并成为印度最大的电信运营商。Jio Platforms 还成功吸引了 Facebook (Meta)、Google 等全球科技巨头的巨额投资。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-101",
@@ -7203,9 +7204,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "零售领域：Reliance Retail 自2006年启动以来，在穆克什主导下加速扩张，通过自建门店和线上平台 (JioMart)，成为印度规模最大、覆盖最广的零售商。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-102",
@@ -7279,9 +7278,7 @@ window.ARTICLE_DATA = {
           "kind": "list",
           "level": null,
           "text": "- 激烈竞争：印度电信市场竞争异常激烈，价格战频发，尤其是 Reliance Jio 的进入，以极低价格摧毁了 RCom 等传统运营商的盈利模式。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-110",
@@ -7299,9 +7296,7 @@ window.ARTICLE_DATA = {
           "kind": "list",
           "level": null,
           "text": "- 交易失败：试图通过与 Aircel 合并或向 Jio 出售资产来自救，但均告失败。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-112",
@@ -7456,9 +7451,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "此外，分家方案本身可能也造成了某种“路径依赖”。穆克什继承了稳定产生现金流的核心业务，这为他后续向资本密集的新领域（如Jio、零售）扩张提供了坚实的基础。而阿尼尔获得的是潜力巨大但也更不稳定、更需要持续巨额投资、且对监管环境更敏感的新兴业务。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-129",
@@ -7505,9 +7498,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "一个重要的转折点是2010年，双方同意废除2005年分家时签订的为期十年的互不竞争协议。这一举动为穆克什的RIL重新进入电信市场（推出Jio）扫清了障碍，也为兄弟间未来潜在的合作打开了一扇门。随后在2013年，双方确实达成了一项共享电信网络基础设施的协议，这是自分家以来的首次重大合作。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-134",
@@ -7679,9 +7670,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在战略层面，穆克什的核心思路是：在巩固和优化 RIL 传统的石油化工和能源业务这一现金牛的基础上，利用其产生的巨额利润和强大融资能力，大举投资于面向未来的新增长引擎，特别是数字服务 (Jio)、零售 (Reliance Retail) 和新能源 (New Energy) 这三大领域。这一战略旨在推动 RIL 从重资产的工业巨头向科技和服务驱动的综合性企业转型，并抓住印度经济结构变迁带来的巨大机遇。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-152",
@@ -7690,9 +7679,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "三大引擎：Jio、零售与新能源的颠覆之路",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-153",
@@ -7710,9 +7697,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Reliance Jio (电信与数字服务)：",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-155",
@@ -7721,9 +7706,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这是穆克什时代最具代表性的手笔。在 2010 年非竞争协议废除后，穆克什迅速重返电信市场。2016年，Reliance Jio 正式推出商业服务，以近乎免费的语音通话和极其低廉的 4G 数据流量套餐，彻底颠覆了印度电信市场的格局。Jio 不仅迅速积累了数亿用户，成为印度最大的移动运营商，更极大地推动了印度的移动互联网普及。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-156",
@@ -7732,9 +7715,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Jio 的成功吸引了包括 Meta (Facebook)、Google 在内的全球科技巨头进行战略投资，进一步巩固了其在数字服务领域的领先地位。未来，Jio 的重点将放在 5G 网络的推广、光纤宽带的普及以及物联网 (IoT)、云计算、数字支付等增值服务的拓展上。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-157",
@@ -7761,9 +7742,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "同时，它大力发展线上平台 JioMart，并致力于整合数百万家印度传统的“基拉纳”夫妻老婆店 (kirana stores)，打造线上线下融合 (O2O) 的新零售模式。截至2024年底，其门店数量已超过1.8万家，是印度无可争议的最大零售商。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-160",
@@ -8031,9 +8010,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "冒险精神与拥抱变革：迪鲁拜以敢于冒险著称，穆克什同样在关键时刻展现出颠覆行业的勇气（如推出 Jio）。他们似乎不惧怕打破现状，愿意为了更大的机遇而承担风险。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-188",
@@ -8071,9 +8048,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "创新与技术驱动：在穆克什时代，对技术创新的重视程度显著提升，无论是 Jio 的数字平台，还是新能源领域的技术投入，都体现了以技术驱动未来增长的理念。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-192",
@@ -8409,9 +8384,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "2019-2022年间，又先后任命阿卡什为Jio（电信数字业务旗舰）的董事长、伊莎为零售业务的领军者、阿南特则被安排在新能源板块接受锻炼。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-227",
@@ -8543,9 +8516,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "分家后，穆克什领导的RIL似乎逐步走向一种混合治理模式。虽然家族成员（第三代）开始在核心业务板块担任领导职务并进入董事会，显示出家族对战略方向的掌控，但公司也强调专业化管理和引入外部投资者（如Jio Platforms引入Meta、Google等战略投资者）。",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-241",
@@ -9446,9 +9417,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "14.Jio Institute. Official Website",
-          "related_node_ids": [
-            "company:jio"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "ambani-p-333",
@@ -10609,7 +10578,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "值得注意的是，洛克菲勒家族的财富早已不再以“某公司股份”形式集中存在，而是高度多元化。他们的资产包括股票投资组合、地产物业、能源和科技投资，以及庞大的艺术收藏和慈善基金。例如，家族投资公司Venrock（由“Venture”和“Rockefeller”组合而成）仍活跃于创业投资领域，一如当年劳伦斯·洛克菲勒所开创的事业。另外，曾服务于家族的洛克菲勒财务管理公司（Rockefeller & Co., 创建于1882年作为家族理财办公室）在家族带领下演变成面向外部客户的专业财富管理机构，2018年进一步发展为洛克菲勒资本管理公司，业务横跨资产管理和财务顾问等。这表明，洛克菲勒家族在退出实业经营后，成功转型为金融资本运作的行家，家族办公室也成为现代私人银行业的先驱之一。",
           "related_node_ids": [
-            "family:rockefeller-family"
+            "family:rockefeller-family",
+            "tool:family-office"
           ]
         },
         {
@@ -11560,7 +11530,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "洛克菲勒家族很早就意识到，财富延续需要良好的内部治理和沟通。为此，他们搭建了多层次的机制：一方面通过法律和财务手段（信托、基金、家族办公室）建立财富管理的硬机制，确保资产稳健运营、代际传承；另一方面也通过定期聚会、共同慈善活动等交流合作的软机制，维持家族凝聚力和决策协同性。",
           "related_node_ids": [
-            "family:rockefeller-family"
+            "family:rockefeller-family",
+            "tool:family-office"
           ]
         },
         {
@@ -15144,8 +15115,7 @@ window.ARTICLE_DATA = {
           "level": 1,
           "text": "思考者(THINK)：沃森家族与IBM的百年基业（执允“家族·故事”系列第 7 期）",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -15194,8 +15164,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这个家族故事以托马斯·J·沃森（老沃森）的传奇开篇。他以非凡的魄力，将一家濒临破产的制表小厂，锻造成了日后闻名世界的科技巨擘。他的管理风格，既有令人景仰的个人魅力，也带着不容置喙的独断专行。舞台的另一位主角，是他的长子——托马斯·J·沃森二世（小沃森）。他成长于父亲巨大的光环与阴影之下，父子间的冲突与和解，宛如一根贯穿始终的紧张弦线。然而，正是这位曾经叛逆的继承者，最终接过了权杖，勇敢地带领IBM闯入了波澜壮阔的计算机时代。",
           "related_node_ids": [
-            "person:thomas-j-watson-sr",
-            "company:ibm"
+            "person:thomas-j-watson-sr"
           ]
         },
         {
@@ -15216,9 +15185,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "吴军博士曾在其著作《浪潮之巅》中提出“基因决定论”：一家公司的创始人和关键领导者，会像DNA一样，将自己的特质烙印在企业的核心之中，从而深刻地影响其未来的道路。沃森父子，正是IBM企业基因的奠基人。他们注入的，是坚韧、是远见，也是一种深刻的、几乎是固执的信念。这种基因，曾引领IBM登上大型主机时代的巅峰王座；但也正是这同样的基因，在浪潮转向时，成为了公司挣脱困境的沉重枷锁。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-009",
@@ -15283,9 +15250,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "帕特森的管理风格和销售策略对沃森产生了深远影响，塑造了他日后在IBM的管理方式和企业文化。然而，1913年，由于帕特森担心沃森可能威胁到自己的地位，沃森被NCR解雇。这一事件也间接为他的传奇转折埋下伏笔。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-016",
@@ -15294,9 +15259,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "逆风翻盘：CTR 浴火，IBM 曙光",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-017",
@@ -15342,8 +15305,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "1924年，为了更好地体现公司的国际化雄心和业务重心，沃森将C-T-R更名为国际商业机器公司（International Business Machines Corporation, IBM）。这标志着IBM品牌的正式诞生，也开启了沃森家族与这个商业帝国近六十年的紧密联系。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -15353,9 +15315,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "沃森深知企业文化的重要性。他在NCR工作期间，帕特森就曾推行“THINK”的口号，沃森将其带到了IBM，并使其成为IBM企业文化的核心标识。他要求在公司各个办公场所悬挂“THINK”标语，以此激励员工独立思考、积极创新。沃森认为，“‘我没有思考’这句话让世界损失了数百万美元”。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-023",
@@ -15364,9 +15324,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "除了“THINK”，沃森还强调客户服务、尊重员工和追求卓越。他建立了严格的着装规范，要求员工穿着深色西装、白衬衫和条纹领带，并禁止在工作时间饮酒。他还推行公司歌曲和诗歌，甚至亲自带领员工唱歌，以增强团队凝聚力和归属感。这些看似严苛的规定，在当时却有效地塑造了IBM专业、纪律严明的企业形象。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-024",
@@ -15375,9 +15333,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这种文化深深打上他的个人烙印，以至有人形容IBM当年有种对创始人的“人格崇拜”氛围。沃森深信尊重员工和提供优厚福利是企业成功的基石，他在经济大萧条时期坚持不裁员，倡导“终身雇佣”的理念，使IBM员工对公司拥有极高归属感，被誉为“IBM大家庭”的一员。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-025",
@@ -15386,9 +15342,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "沃森将IBM的成功归功于其独特的企业文化和价值观。他认为，一个组织要想脱颖而出，就必须勇于承担看似不可能完成的任务。这种理念激励着IBM不断挑战极限，追求技术和商业上的突破。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-026",
@@ -15397,9 +15351,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "然而，老沃森管理风格的另一面是高度集权与家长式作风。作为CEO，沃森个人对IBM拥有近乎绝对的控制权，尽管他本人持有的公司股票比例并不高。公司大小决策皆由他说了算，下属“唯命是从”，公司上下形成对他个人的忠诚文化。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-027",
@@ -15408,9 +15360,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这种治理风格在IBM早期规模较小、业务相对单一的阶段是有效的，能够确保决策的统一和高效执行。然而，随着IBM的快速发展和业务复杂性的增加，这种高度集权模式的弊端也逐渐显现，为日后小沃森推动管理变革埋下了伏笔。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-028",
@@ -15437,9 +15387,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在创立IBM帝国的同时，老沃森也在摸索如何平衡事业与家庭。他在1913年迎娶珍妮特·基特里奇（Jeannette Kittredge），两人育有四个孩子。两个儿子小托马斯（Tom Jr，昵称小沃森）和小阿瑟（Arthur，昵称Dick），以及两个女儿海伦（Helen）和简（Jane）。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-031",
@@ -15490,9 +15438,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森年轻时白手起家历经挫折，因此对孩子要求近乎苛刻。他曾在小沃森成绩不佳时斥责他“不争气”，并在工作中给他安排超出能力的任务以锻炼他，却很少给予肯定。这种严父式教育一度让父子关系十分紧张。可以说，第一代沃森家长的威权风格既塑造了IBM独特的企业文化，也给家庭内部埋下了冲突的种子。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-036",
@@ -15501,9 +15447,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "IBM 之道：第一代的成功与遗产",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-037",
@@ -15521,9 +15465,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森凭借卓越的销售才能、敢于冒险的战略眼光和铁腕的管理风格，将IBM从默默无闻的小公司带到了美国商业版图的中心。在他退休那年（1956年），IBM的市值、营收已跻身世界领先，公司文化被奉为业界典范，他本人被誉为“20世纪最具影响力的企业家”之一。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-039",
@@ -15533,8 +15475,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "他创造的“IBM之道”——强调信念、忠诚、纪律和对员工的尊重——成为公司得以长盛不衰的重要基因。老沃森还通过基金会和社会活动，将家族理念延伸至商业以外的领域。1956年老沃森去世时，珍妮特夫人被任命为IBM董事会成员，成为美国大公司中首批进入董事会的女性之一。这一安排不仅是对创始人的纪念，更体现了沃森家族在公司治理中的特殊地位。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -15544,9 +15485,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "然而，老沃森的离世也标志着一个时代的结束：这位桀骜不驯的一代商业巨人并未能亲眼看到公司真正踏入电子计算时代的辉煌。在他生命的最后几年，IBM内部暗流涌动——以他的长子为首的新生力量急欲突破父辈时代的框架，推动公司转型升级。家族企业正站在代际传承的十字路口，等待新舵手的掌舵。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-041",
@@ -15583,8 +15522,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "托马斯·J·沃森二世（小沃森）1914年出生，比IBM公司年长几个月，可谓“与IBM一同长大”。作为家中长子，小沃森自幼聪颖但性格叛逆，与强势的父亲关系紧张。",
           "related_node_ids": [
-            "person:thomas-j-watson-sr",
-            "company:ibm"
+            "person:thomas-j-watson-sr"
           ]
         },
         {
@@ -15612,9 +15550,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "为培养儿子的商业才能，老沃森大学期间便让小沃森暑期到IBM底层岗位实习，从推销器材、整理卡片等基础做起。大学毕业后，小沃森于1937年正式进入IBM做销售员。父亲特地安排他先在IBM著名的销售培训学校受训，然后把他分配到曼哈顿金融区的一线销售岗位。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-048",
@@ -15623,9 +15559,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森表面上声称不给儿子特殊照顾，甚至在1939年拍发电报祝贺小沃森超额完成销售业绩，称“你并非因血缘或出身，而是凭个人能力与业务知识成为一名合格的IBM人”。这一举动表面看是对儿子的肯定，但也隐含着父亲要儿子“自证实力”、不给他特殊待遇的讯号。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-049",
@@ -15634,9 +15568,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "事实上，小沃森在IBM早期的经历并不算如意：他性格内向，不擅长推销，业绩时好时坏，经常挨父亲批评。父亲甚至安排他处理一些“棘手客户”，希望借压力锻炼他，却让小沃森更加自卑，觉得自己在公司只是靠父荫的“太子”。当时的小沃森一度对自己在IBM的前途感到迷茫，他不确定是否真要继承父业。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-050",
@@ -15681,9 +15613,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "布拉德利将军成为小沃森的人生导师，鼓励他发展自信，并对他说：“你的归宿应是IBM。”这句话点醒了小沃森：尽管曾逃避父业，但内心深处，他也渴望有朝一日能挑起重担，证明自己比父亲想象的强。战争让小沃森蜕变成熟。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-055",
@@ -15692,9 +15622,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "他在战后写道：“二战期间的飞行经历对我是一次心理治疗，让我找回了自信和独立。”可以说，没有战争历练，就没有后来的那位意气风发的IBM少帅。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-056",
@@ -15721,9 +15649,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1945年，小沃森怀揣满腔抱负退伍返美，面临人生重要抉择——是继续留在空军发展，还是回IBM辅助年迈的父亲。当时他一度认真考虑以飞行为职业，但布拉德利将军提醒他“你的归宿应是IBM”。在慎重思量并与家人讨论后，小沃森决定返回IBM，准备接班。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-059",
@@ -15732,9 +15658,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1946年，他进入IBM管理层，被任命为公司副总裁，并破格加入董事会。老沃森虽对儿子的军功和成长有所欣慰，但并未立刻放权。相反，他让小沃森担任公司第二号人物的助手：协助当时的IBM执行副总裁查尔斯·柯克（被视为老沃森属意的接班人之一）。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-060",
@@ -15743,9 +15667,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "不料柯克于1947年突然去世，这使老沃森别无选择，只能加速培养自己的长子。1950年代初，IBM的权力中枢出现特殊局面：年逾70仍恋栈不去的创始人、野心勃勃却资历尚浅的公子，以及公司其他高管之间形成微妙平衡。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-061",
@@ -15763,9 +15685,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "更严重的是，老沃森引入了手足竞争的变数：他于1950年代初将小儿子——小沃森的弟弟亚瑟也招入公司高层，让其负责管理IBM在海外的整个业务。这样，小沃森和弟弟“平行”分管不同领域，形成隐忧。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-063",
@@ -15801,9 +15721,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1950年代中期，IBM已发展成全球性公司，而老沃森年事已高，已远超公司规定的退休年龄。公司内外对接班问题议论纷纷，股东和董事们也担心长期不交棒会影响公司未来。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-067",
@@ -15821,9 +15739,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "最终，在巨大压力下，老沃森被迫服软。1952年，他宣布任命38岁的小沃森为IBM总裁，自己继续保留CEO和董事长头衔。然而这次权力让渡充满了戏剧性：据记载，当老沃森在董事会上被说服立下任命时，他脸色铁青，一言不发地离开了办公室，没有对儿子说一句祝贺的话。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-069",
@@ -15841,9 +15757,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "此后几年里，老沃森虽然不再担任总裁，却依旧以董事长身份“垂帘听政”，对子公司的重要决策横加干涉，小沃森实际上难以完全施展拳脚。IBM内部形成一种诡异局面：名义上一家公司有两位“统帅”，父子二人在高层会议上观点相左时，下属们无所适从。这种局面一直持续到1956年老沃森去世方告结束。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-071",
@@ -15853,8 +15767,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "老沃森在生命最后阶段对权力的依恋与对儿子的猜忌，凸显了家族企业接班的典型风险：创始人难以放权，二代接班人迟迟不能真正接管，从而引发内部摩擦甚至危机。沃森家族庆幸的是，这场接班拉锯最终并未导致公司瓦解，而是随着创始人的离世自然终结。1956年老沃森辞世前不久，终于正式指定小沃森为IBM首席执行官。在葬礼上，公司高管们看到父子俩生前未尽的那句“祝贺”终究化作小沃森眼中一滴复杂的泪水。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -15882,9 +15795,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "接过父亲的大旗时，小沃森只有42岁，肩负重担却斗志昂扬。他深知，要证明自己不输于传奇的父辈，就必须带领IBM完成一次脱胎换骨的转型。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-075",
@@ -15893,9 +15804,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "所幸，此时的时代背景也给予了他施展才华的舞台——电子计算机革命的浪潮已经涌现。事实上早在战后，小沃森就强烈意识到IBM不能固守穿孔卡片制表机老本行，必须进军电子计算领域。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-076",
@@ -15913,9 +15822,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "早在1948年，IBM就在他的支持下试制了SSEC选择序列电子计算机，1952年推出了首台商业计算机IBM 701（当时称“防务计算机”）。这些项目在父亲时代仅属边缘尝试，但小沃森已经做好准备，在掌权后大干一场。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-078",
@@ -15924,9 +15831,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "去中心化革命：IBM 文化重塑",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-079",
@@ -15944,9 +15849,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "小沃森上任伊始，先从内部治理下手，对父亲留下的高度集权结构“动手术”。他敏锐地认识到，IBM已发展为全球性大公司，如果仍像父亲那样事无巨细一人裁决，企业将难以适应瞬息万变的科技市场。于是，小沃森大胆推行“去中心化”的管理变革。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-081",
@@ -15964,9 +15867,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "经过激烈讨论，会议达成共识：IBM将根据业务领域和地区划分为更灵活的事业部，各部门负责人获得更大自主权，不再凡事层层上报。正如小沃森会后所总结：“我们走进会场时还是一个头重脚轻、单一结构的公司，走出会场时IBM已实现了分权。”这一决策是IBM管理史上的重要里程碑，标志着老沃森个人集权时代的终结。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-083",
@@ -15975,9 +15876,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "随后几年，IBM逐步建立起现代管理制度——专业经理人制度、明确的决策授权层级和规范的董事会治理。小沃森还着力改变公司内部文化氛围：鼓励创新与争论，而非一味顺从权威；他提拔了一批在父亲时代沉默的专业技术人才进入高层，让理工背景的声音影响公司战略。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-084",
@@ -15986,9 +15885,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这种文化转型并不容易，需要打破员工对创始人旧有的崇拜和思维定式。但小沃森以身作则，展现出更民主开放的领导风格。他常说：“凡是除了核心信念，企业必须勇于改变自我去适应变化的世界。”他坚持保留IBM“尊重人、重视诚信”等信仰，但在组织架构、考核激励等方面大刀阔斧改革。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-085",
@@ -15997,9 +15894,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这套“既坚守价值又勇于变革”的理念，使IBM在剧烈转型中仍保持团队凝聚力。小沃森的管理变革为IBM后来的高速发展奠定了基础：它让一个本可能因规模庞大而僵化的组织重新获得了敏捷性和创造力。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-086",
@@ -16026,9 +15921,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "治理结构调整到位后，小沃森把主要精力投入到战略方向上：全力押注电子计算机。这一决策在当时并非显而易见的康庄大道。1950年代中期，IBM的利润大头依然来自传统穿孔卡片机和制表机业务，电脑研发昂贵且市场不确定。小沃森却坚信，不破不立。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-089",
@@ -16037,9 +15930,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1956年，当他正式接任CEO后，立刻成立了IBM独立的研究部门，将分散各地的实验室统一管理，直接向最高层汇报。他赋予研究部门充分自主性和远大的使命：“从根本上研究对IBM重要的基础科学现象”。这一举措催生了IBM日后享誉全球的研究院（沃森研究中心），孕育出多个诺贝尔奖成果。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-090",
@@ -16048,9 +15939,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "小沃森还高薪延揽人才，大幅扩大工程师队伍：他上任最初6年里，IBM的工程师数量从500人增至4000人。为了适应计算机研发与生产需要，公司每年在美国本土就新招2.5万名员工，对他们进行全新技能培训。这在当时是惊人的扩张规模，也显示出小沃森对未来押注之重。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-091",
@@ -16059,9 +15948,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在产品层面，小沃森亲自挂帅规划了划时代的计算机系列——IBM System/360。这是他职业生涯中最辉煌也最惊险的一步棋。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-092",
@@ -16070,9 +15957,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1964年4月，IBM发布了System/360系列机型，它首次实现不同型号计算机采用统一架构，客户可以方便地从小型号升级到大机器。这一兼容思想开创了计算机工业的新纪元。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-093",
@@ -16090,9 +15975,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "很多董事会成员和分析师担心这是“孤注一掷”，一旦失败将拖垮公司。然而小沃森力排众议，坚持自己的远见。这背后既有他作为飞行员敢于冒险的性格，也有他深思熟虑后的坚定信念：只有押上赌注，IBM才能引领而非跟随。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-095",
@@ -16101,9 +15984,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "他后来坦言：“这是赌上公司的赌注，但我们别无选择。”幸运的是，System/360取得了巨大的成功：产品发布后订单需求远超预期，客户争相升级到这一新平台，IBM的市场主导地位更加牢不可破。此后长达20年，System/360系列及其后继机型几乎统治了全球大型机市场，成为银行、航空、科研等领域计算的标准。这场豪赌的胜利不仅让IBM赚得盆满钵满，也奠定了小沃森在商业史上的地位。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-096",
@@ -16130,9 +16011,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在小沃森领导IBM攀上巅峰的过程中，他也不得不做出一些痛苦的家族决定。其中最显著的就是更换弟弟亚瑟的职务。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-099",
@@ -16160,8 +16039,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这个决定在专业上无疑是正确且及时的：换帅后，IBM集中了优势资源攻克难题，System/360按时推向市场，公司转危为安。但对家族而言，这却是一次沉重打击。据沃森家族朋友透露，亚瑟被哥哥“撤职”后深感挫折和不满，两兄弟关系跌至冰点，一段时间几乎不再往来。亚瑟本人随后于1970年离开IBM，接受美国总统尼克松提名出任驻法国大使（或许是哥哥为他寻找的体面出路），1974年他英年早逝。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16171,9 +16049,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "小沃森晚年曾感慨，当年为了IBM大局只能牺牲手足情义，“我别无选择，只能在公司和家人间选择公司”。这件事凸显了家族企业第二代掌门人面临的两难：一方面要维持事业成功，可能必须以冷峻的专业标准要求亲人；另一方面，这种选择往往给家庭关系留下创伤。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-103",
@@ -16183,8 +16059,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "在沃森家族案例中，小沃森选择了企业利益优先，尽管个人也承受了失去手足情谊的痛苦。这一决策的必要性后来得到证明——IBM因此保住了技术领先地位，但沃森兄弟的裂痕却没有彻底弥合。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16223,9 +16098,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1960年代末，身为IBM掌门人的小沃森已然功成名就：公司登顶全球市值最高，自己也成为商界领袖和政府顾问。然而，连续多年的高压工作和中年丧弟的悲痛让他的健康亮起红灯。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-108",
@@ -16243,9 +16116,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在接班人问题上，小沃森与父亲截然不同——他并未执意传位给自己的子女。事实上，小沃森有三个儿子，但他并未安排他们在IBM担任要职，而是鼓励他们各寻所长，发展独立事业。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-110",
@@ -16254,9 +16125,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这可能一方面由于他的子女成年时IBM已是庞然大物，接班需要极高能力；另一方面，小沃森本人经历过与父亲的激烈冲突，深知强行安排子承父业未必是对孩子和公司的最好选择。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-111",
@@ -16266,8 +16135,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "因此，他选择将公司管理权交给一批他培养的高级主管，例如文森特·李尔森和弗兰克·凯里等人。1971年之后，IBM正式结束了沃森家族直接掌舵的历史，进入职业经理人治理的新阶段。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16278,8 +16146,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这一转变对于很多家族企业来说颇为不易，但沃森家族较为平稳地完成了：公司未出现权力真空或内斗，相反，新管理层继续带领IBM在1970年代保持增长。这从侧面说明，小沃森在任内已经逐步制度化了公司的治理，将企业从“家族作坊”转变为“公众公司”。他的主动退位也赢得了良好声誉。《纽约时报》评论称：“托马斯·沃森二世以他卓越的远见和胸襟，保证了IBM的基业长青”。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16301,8 +16168,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "1993年，小沃森以79岁高龄辞世，举世缅怀。他的讣闻中，时任美国国务卿万斯称赞他是“一位伟大的商业领袖和出色的大使，品格高尚”。沃森二世留下了一个繁盛的家族：与妻子奥利芙（Olive）共育三子三女，孙辈十五人。至此，沃森家族的第二代正式谢幕，IBM公司也走过了由家族控制向公众公司治理的过渡期。接下来的岁月里，这个家族将何去何从？他们虽不再直接管理IBM，却依然拥有财富、影响和声望。他们在家族治理、财富传承和社会公益方面继续探索，为沃森这个姓氏注入新的含义。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16322,8 +16188,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "家族财富与产业布局的演变。 在沃森二代退出IBM管理后，沃森家族并未像有些豪门那样彻底远离公司。家族成员虽然不再担任高管，但依然是IBM的重要股东和精神象征。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16333,9 +16198,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森去世时留下的IBM股票、市值不菲的遗产通过遗嘱和信托传承给妻子和子女。据报道，老沃森当年的遗产安排相当稳健，他设立了家族信托基金，确保其配偶和子女的生活以及慈善计划。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-118",
@@ -16344,9 +16207,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森的遗孀珍妮特直到1966年去世之前，一直是IBM董事会成员，对公司事务保持一定影响力。她去世时，小沃森和弟弟亚瑟正分别担任IBM董事长和副董事长，可谓家族在企业中最后的“余晖”。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-119",
@@ -16356,8 +16217,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "进入1970年代后，沃森家族逐步将主要精力从IBM经营转向财富管理和慈善。由于IBM股票价值巨大，家族通过专业团队管理投资组合，保持了财富的稳健增长。同时，他们开始将更多关注投向社会公益和教育领域，以此实现家族价值观的延续。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16539,8 +16399,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "到了第三代（老沃森的孙辈）时，沃森家族的成员更加多元化，也更加融入普通人的职业轨迹。小沃森的子女大多未选择进入IBM工作，而是发展了各自兴趣领域。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16550,9 +16409,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "例如，小沃森之女珍妮特·沃森在纽约创办了知名的Books & Co.独立书店，成为文化圈活跃人物；她还嫁入公益世家，秉承家族传统致力于慈善。珍妮特在回忆录中坦言，身为“IBM公主”带来了荣耀也带来心理压力，她曾与抑郁和自我怀疑斗争，但最终在书香社会中找到自己的价值。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-139",
@@ -16562,8 +16419,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "小沃森的儿子托马斯·J·沃森三世则选择了法律和创业道路，曾在柯比学院攻读社会学和法学，后成为企业律师和投资人。他没有步祖父和父亲后尘进入IBM管理层，而是更像普通职业人一样打拼。",
           "related_node_ids": [
-            "person:thomas-j-watson-sr",
-            "company:ibm"
+            "person:thomas-j-watson-sr"
           ]
         },
         {
@@ -16754,8 +16610,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "至21世纪，沃森家族虽已没有人在IBM任职，但依然以各种方式与公司保持联系。IBM也未忘记自己的“创始人家族”——公司将纽约州研究中心命名为沃森研究中心，IBM开发的人工智能系统也以“沃森”命名（即著名的IBM Watson超级计算机），可见这一姓氏早已成为IBM文化不可分割的一部分。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16766,8 +16621,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "沃森家族成员偶尔会以股东或顾问身份对IBM事务发表意见。例如在1993年IBM陷入经营危机时，小沃森曾公开表示对公司战略偏离的忧虑，希望新任CEO郭士纳能扭转乾坤。他去世时看到IBM开始重整旗鼓，也算含笑九泉。如今IBM已历经多任外姓CEO，不再是家族企业，但沃森家族的传奇作为公司早年发展的基石，仍为后人所敬重。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16849,8 +16703,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这种不断思考和学习的文化使IBM在技术变革中始终处于领先，也使家族成员具有与时俱进的意识，不会因祖业成功而故步自封。正如小沃森所言：“组织要迎接变化，就必须准备改变除信念以外的一切”。这一思维在家族战略上同样适用：沃森家族能够适应时代调整自身定位，这与其崇尚思考和学习的价值观密不可分。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16869,9 +16722,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森创建了著名的“IBM之道”，核心是尊重员工、善待员工。他提供终身雇佣制和优厚福利，让员工对企业有强烈归属感。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-170",
@@ -16880,9 +16731,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这种“员工第一”的理念被小沃森继承并发扬。他在迅速扩张公司时依然强调“IBM要成为工作的好地方”，努力维护员工的尊严和稳定。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-171",
@@ -16892,8 +16741,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "在沃森家族看来，员工是企业最宝贵的财富。这一理念带来的成功之处在于：IBM拥有极低的员工流动率和高度的团队凝聚力，在需要转型时员工愿意跟随公司一起学习新技能、迎接挑战。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -16932,9 +16780,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森信奉诚信，他要求IBM销售人员不可用欺诈手段推销，并树立了“在市场中以服务和品质取胜”的商业信条。这帮助IBM赢得客户信任，从长远看极大提升了公司品牌价值。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-176",
@@ -16943,9 +16789,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "小沃森继续坚持诚信经营，并把平等多元视为公司的社会责任：他在1953年颁布公司第4号政策信，明确规定IBM招聘与晋升不应有种族、肤色或宗教歧视。这一决定比美国《民权法案》早了11年，显示出公司领袖的前瞻胸襟。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-177",
@@ -16954,9 +16798,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这种平等理念使IBM成为当时少数积极推进种族平权的公司之一，吸引了各领域人才加盟，也避免了劳资冲突和公众抵制风险。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-178",
@@ -17023,9 +16865,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "创业初期老沃森采取高度集权，一人掌控全局，这是当时企业快速崛起的必要条件。IBM在他指挥下如同军队，效率极高。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-185",
@@ -17034,9 +16874,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "然而，当企业规模扩大、时代进入需要专业化管理的新阶段时，小沃森果断实施去中心化改革，将决策权分散到各事业部。这一举措避免了“大企业病”，使IBM在守业阶段仍保持活力。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-186",
@@ -17122,8 +16960,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "沃森家族没有一味恋栈行政职位，而是通过董事会和股东角色继续影响企业。这种转变在沃森二代后期已然完成，使得IBM得以顺利过渡到非家族高管领导，而家族利益也通过股权和声誉得到保障。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17234,8 +17071,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "早在老沃森时代，他的副手比如柯克等就对IBM贡献良多；小沃森更是打造了一支优秀的高管团队，包括后来接班的凯里、欧佩尔等IBM传奇CEO。沃森家族没有因为是家族企业就排斥外人，相反，他们以家族文化吸引人才、用事业舞台留住人才。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17245,9 +17081,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "例如小沃森委任设计大师埃利奥特·诺伊斯负责IBM的工业设计，使IBM产品在科技与美学上齐名；任用管理专家完善财务和运营。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-207",
@@ -17257,8 +17091,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这些举措都反映出沃森家族的开放胸襟。他们懂得，企业做大后光靠家族内部已不足以支撑全部才能，需要汇聚社会各界精英。这种聚才用才战略，不仅提升了IBM竞争力，也减轻了家族管理压力，使企业更具持续发展能力。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17288,9 +17121,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "例如老沃森把员工凝聚在自己周围，像宗教般奉行IBM价值；小沃森则以愿景号召公司上下投入计算机革命的豪赌，令人佩服。同时，小沃森也并非一味照搬父亲风格，而是在新环境下调整了领导方式（如更加民主、鼓励争论）。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-211",
@@ -17348,9 +17179,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森早在1920-30年代就强调国际化，将IBM带出美国，布局欧洲和拉美市场，令公司在二战后迅速占领全球业务。他的“世界贸易促进和平”理念也帮助IBM很早就成为跨国企业，70%收入来自海外。这种远见保证了IBM不会局限于本土市场，有效分散了市场风险。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-217",
@@ -17360,8 +17189,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "小沃森更展现出技术和产业方向的远见：他在计算机尚未成熟时就提前十年投入研发，在竞争对手反应过来前占据了主导地位。当行业发生范式转移时（制表机->电脑），他的前瞻布局使IBM得以引领转折而非被淘汰。这种高度的战略洞察力显然是沃森家族成功的重要因素。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17381,8 +17209,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "沃森家族在重大战略上敢赌敢赢，但也并非盲目冒进，而是做好了风险管理和退路准备。例如System/360项目是巨额赌注，但小沃森在投入同时也调整业务结构、削减其他风险敞口（如接受反垄断要求出售老式设备线，集中资源搞新项目）。这一举措可看作是一种风险对冲：IBM主动放弃夕阳产品，集中兵力攻新兴领域，从而把可能的损失转化为未来收益。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17403,9 +17230,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "还有小沃森提前退休某种意义也是风险管理——他深知创业领袖长期掌权易导致企业路径依赖，与其等自己老迈误事，不如主动交棒，让新人避免自己可能产生的决策迟滞。此举换来了IBM在70年代的新气象。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-222",
@@ -17424,8 +17249,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "虽然沃森家族敢于投资和扩张，但在财务稳健性上一直保持较高要求。IBM在他们手中从未因激进举措出现财务危机，反而一直财务健康。这源于家族奉行的原则：即使押大注，也要保证公司有足够现金流和财务缓冲度。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17435,9 +17259,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "System/360研发虽烧钱，但IBM在发布前几年就储备了可观利润，再加上小沃森在项目成功前抑制股东分红、扩大再投资，确保了资金链安全。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-225",
@@ -17486,9 +17308,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "老沃森担任国际商会主席、人脉遍及政界商界；小沃森在商界功成后也投身外交，与政要建立良好关系。这些广泛的人脉和声誉为IBM争取了诸多机会。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-230",
@@ -17498,8 +17318,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "例如，IBM在冷战时期承接政府大型合同，在海外扩张也得到外交支持。这背后都离不开沃森家族的公关和游说能力。家族良好的公众形象（慈善家、外交家）也为IBM品牌增色不少，让客户和投资者更信赖这家公司。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17570,8 +17389,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "沃森家族最显著的失败教训莫过于第一代交班时期父子失和、几乎酿成企业危机。老沃森作为创始人，性格独断，恋权不退，导致小沃森的接班之路格外坎坷。父子二人明争暗斗数年，不仅让管理层人心不稳，也险些削弱了IBM抓住技术转型机遇的能力。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17601,9 +17419,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "教训：家族企业创始人应当在身体精力允许时，就培养接班团队，信任并逐步授权；切忌因一己私心贻误交接，使企业和家庭关系双受损。要认识到，退位也是领袖责任的一部分。老沃森的迟退差点让IBM错过电子计算机浪潮，这是极为深刻的教训。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-241",
@@ -17640,8 +17456,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "因此，这段历史警示家族企业：代际交接不应演变为零和斗争，双方都要以企业长远利益为重，通过制度化程序和良好沟通来完成权力交接，而不是各执一词、搞到情感决裂。沃森家族差点重演福特家族中亨利·福特压制儿子艾德赛尔、导致企业战略迟滞的悲剧，但好在小沃森足够坚强顶住压力，否则IBM前途可能完全不同。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17669,9 +17484,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "家族内部另一个失败案例是沃森兄弟反目的事件。父亲安排两个儿子共治IBM，初衷或许是让他们相互制衡、共同成长，但现实证明这导致了兄弟嫌隙甚至公开冲突。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-248",
@@ -17680,9 +17493,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "兄弟阋墙带来的恶果包括：管理团队分裂成不同阵营，决策效率下降；兄弟个人关系破裂，家族凝聚削弱；在弟弟亚瑟被替换时，公司内部士气一度受挫。亚瑟心怀不满离开IBM，也剥夺了公司一位有经验高管的贡献机会。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-249",
@@ -17702,9 +17513,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "因此，经验教训是：家族治理中应尽早确定继承顺位和分工，可通过家族宪章或董事会决议等形式加以明确，以免兄弟姐妹之间出现权力真空和冲突。若确需多人共治，也应划定各自管辖领域，建立协调沟通机制，定期调和利益，防患于未然。老沃森在这方面的失误导致兄弟嫌隙，小沃森则汲取教训，后来并未让自己的子女卷入IBM权力，相当于用“家族退出经营、职业经理治企”来避免下一代重蹈覆辙。这是付出代价换来的智慧。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-251",
@@ -17740,9 +17549,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "而小沃森自己在执掌IBM期间，将大量时间投入工作，对子女的关注也相对有限——珍妮特·沃森在回忆录中就提到，父亲繁忙严厉，自己年轻时并未感受到足够的爱和陪伴。这种“顾事业，失亲情”的问题在很多创业家族中存在。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-255",
@@ -17812,8 +17619,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "沃森家族的企业传承在第二代后实际上中断了，即没有第三代接班IBM。这一结果到底算失败还是明智选择，见仁见智。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17824,8 +17630,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "如果从家族希望长期掌控企业的角度，沃森家族未能传承经营权到第三代，似乎是种“失败”——相较某些百年企业仍由创始家族后人执掌（如福特至今由福特曾孙辈领导董事会），沃森家族主动或被动地退出了IBM经营。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17836,8 +17641,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "然而，从IBM发展角度，专业化管理或许是更优选择。小沃森显然认为子女无须硬性接班，让外人管理也无妨。因此，这是否算失败取决于评价标准。如果以“家族控制最大化”为标准，那沃森家族只传了两代是遗憾；但若以“企业繁荣”和“家族整体利益”为标准，他们成功实现了家族财富和事业的转换（用所有权财富和社会影响替代了直接经营权）。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17848,8 +17652,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这里的启发或体会是：家族应根据实际情况决定是否代代相传经营权，不应为了传承而传承。如果后继者不愿或无力接班，勉强为之反而害了企业和家族。沃森家族在发现第三代无意或无能力接棒IBM时，选择激流勇退，保障了公司平稳过渡，也让子孙避免了承担其不能胜任的包袱。这个决策需要胸襟和理性，算是吸取了许多“富不过三代”案例的经验。",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -17923,9 +17726,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "支撑这份从容的，是一套被岁月检验的价值坐标：信任作基石、人才作帆布、制度作龙骨。老沃森用铁腕把家族价值刻进公司文化，小沃森又用去中心化革新，让蓝色巨人学会在多元团队里共舞。正因如此，IBM 能在三次“豪赌”中都找到方向——重塑 CTR、押注 System/360、拆解再造 PC 时代——而家族也在一次次转型中更新自身的“软性资产”。",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-272",
@@ -18090,8 +17891,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "1.理查德·S·泰德洛，《沃森家族：蓝色巨人 IBM 缔造者》，中国出版集团中译出版社",
           "related_node_ids": [
-            "family:watson-family",
-            "company:ibm"
+            "family:watson-family"
           ]
         },
         {
@@ -18101,9 +17901,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "2.小托马斯·约翰·沃森、彼得，《IBM 帝国缔造者：小沃森自传》，北京联合出版公司",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-291",
@@ -18112,9 +17910,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "3.Peter Davies, How Father-Son Battles Helped Shape Today’s IBM, Family Business Magazine, 1990",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-292",
@@ -18123,9 +17919,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "4.Cortada, J. W. (2019). IBM: The Rise and Fall and Reinvention of a Global Icon. MIT Press",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-293",
@@ -18143,9 +17937,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "6.IBM，官网",
-          "related_node_ids": [
-            "company:ibm"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "watson-ibm-p-295",
@@ -21256,7 +21048,8 @@ window.ARTICLE_DATA = {
           "level": 1,
           "text": "金色双 G 的阴影：古驰家族百年兴衰（执允“家族·故事”系列第 9 期）",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21276,7 +21069,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "1995年3月27日清晨，意大利米兰的空气中还带着一丝初春的寒意。在静谧高雅的巴勒斯特罗街20号门前，突然响起四声急促而清脆的枪声，划破了拂晓的宁静。奢侈品牌古驰帝国的第三代继承人——46岁的毛里齐奥·古驰应声倒在自家公司办公楼前的石阶上，身中数弹，血洒当场。",
           "related_node_ids": [
-            "person:maurizio-gucci"
+            "person:maurizio-gucci",
+            "company:gucci"
           ]
         },
         {
@@ -21287,7 +21081,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "整个时尚界和意大利社会为之震惊。这起看似突如其来的豪门命案，其实是古驰家族内部数十年恩怨情仇所酿出的血腥终章。而更令人毛骨悚然的是，这一切的幕后黑手竟是毛里齐奥的前妻帕特里齐娅·雷贾尼——她因买凶杀夫最终被判入狱 26年。当真相大白于天下，古驰家族长达数十年的明争暗斗、爱恨情仇也随之被曝光于世。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21298,7 +21093,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "一时间，媒体争相报道这个远比小说情节更离奇的豪门真实故事：父子反目、兄弟阋墙、姐妹争产、儿子揭发父亲逃税锒铛入狱、妻子买凶枪杀丈夫……种种匪夷所思的宫斗戏码竟在古驰家族中一一上演。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21309,7 +21105,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "血缘不仅没有令这个家族紧密团结，反而因为对权力、财富与荣耀的欲望，亲人之间滋生出猜忌与仇恨，最终不惜以鲜血相残。最终，古驰家族所有成员被彻底逐出由祖辈一手创立的时尚帝国。曾经显赫一时的“古驰王朝”，就此走向了悲剧性的落幕。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21375,7 +21172,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "古驰欧在伦敦著名的萨沃伊酒店当服务生和行李员，终日为上流社会的宾客搬运行李。这份工作让他大开眼界：那些来往达官显贵使用的行头行李做工精美、考究昂贵，已不再只是寻常实用品，而是彰显身份地位的符号。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-014",
@@ -21384,7 +21183,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "年轻的古驰欧由此敏锐地洞察到奢华皮具蕴藏的巨大市场潜力。每天近距离接触那些镌有客人姓名缩写的高级定制箱包，使他对打造属于自己的精品皮具品牌心生向往。萨沃伊酒店的经历在他心中播下了一个雄心勃勃的梦想——总有一天，人们携带的行李箱上也会印着他的姓氏。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-015",
@@ -21393,7 +21194,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "一战结束后，古驰欧·古驰带着在海外积累的见识和一小笔积蓄返回意大利，与挚爱恋人阿依达（Aida Calvelli）结婚。1921年，他在家乡佛罗伦萨的繁华街区创办了第一家以自己姓氏命名的皮具店，古驰品牌就此诞生。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-016",
@@ -21402,7 +21205,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "店铺初期主营高档行李箱和马具用品——古驰欧充分借鉴了他在伦敦观察到的贵族马术元素，将其融入产品设计，并严格甄选托斯卡纳当地顶级工匠制作货品。凭借“一丝不苟的工艺”和“无微不至的服务”，这家小店很快在上流社会中建立起良好口碑。为了满足源源不断增长的订单，古驰欧在店后开设了自家的小作坊自行生产，并提供免费修理等贴心服务举措，不久便使店铺走上盈利。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-017",
@@ -21412,7 +21217,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这位从门童起步的创业者坚持“不盲目铺张扩张，而是凭借顶级品质和卓越服务赢得忠实客户”的经营理念。从行李箱、公文包到皮带、钥匙扣，印有“GG”标志的各种皮具日渐成为上流社会出行宠爱的精品。可以说，对卓越品质近乎执著的追求，加上以顾客为中心的服务精神，构成了古驰家族创业时期最核心的成功要素。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21473,7 +21279,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "就这样，在古驰欧·古驰离世之后，他的三个儿子开始了对家族产业的接管。然而，奠基人一手塑造的治理基因，既赋予了家族事业腾飞的动力，也埋藏着日后内乱的种子。一方面，追求卓越的工匠精神与敏锐创新的经营智慧代代相传；另一方面，兄弟相争的内部文化、残缺不公的传承安排同样如影随形。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-024",
@@ -21500,7 +21308,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在家庭方面，古驰欧与妻子先后育有一女三子：长女格里玛尔达（Grimalda）、长子阿尔多（Aldo）、次子瓦斯科（Vasco）和幼子鲁道夫（Rodolfo）。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-027",
@@ -21509,7 +21319,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "古驰欧很早就让子女参与家族生意，除了无心经商的乌戈，其他孩子常在店里帮忙见习。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-028",
@@ -21518,7 +21330,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "不过，这位事业成功的父亲在教育子女上并不算称职：他个性严厉又寡言少情，与子女感情疏远。古驰欧有着传统家长式的权威作风，在他眼中，事业永远排在家庭前面——据分析，他倾尽心力经营企业，无暇顾及孩子教育和妻子情感，以致对子女关爱不够而心怀愧疚，往往试图以后来的物质补偿来替代。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-029",
@@ -21527,7 +21341,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "更为重要的是，他奉行一种特殊的育儿观：鼓励子孙彼此竞争。古驰欧坚信兄弟间的竞争能激发上进，因此在工作中有意让儿子们明争暗斗。即使几个儿子对公司贡献大小不一，他仍在股权上秉持“绝对平均”的原则：每个儿子继承完全相等的股份。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-030",
@@ -21545,7 +21361,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "古驰欧在传承安排上的另一失误是对女性后代的忽视。作为传统意大利男权思想的信奉者，他认定企业由儿子们承继理所当然，却完全剥夺了女儿格里玛尔达的继承权。尽管这位长女曾为家族生意付出不少辛劳，其丈夫也在早年资助过古驰欧的创业，但父亲的遗嘱中却没有她一分钱股份。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-032",
@@ -21554,7 +21372,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "据记载，格里玛尔达在古驰欧1953年去世后愤而提起诉讼要求平分遗产，但被三个弟弟联合拒绝并在法律上败诉。重男轻女的家产分配使兄妹失和，再次给家族关系蒙上阴影。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-033",
@@ -21564,7 +21384,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这一系列举措表明，古驰欧虽然在品牌建设上极具远见卓识，但在家族传承的安排上几乎是无心亦无力。他大概没有想到，自己辛苦打造的商业帝国在身后竟会因为缺乏清晰的传承规划而陷入混乱。正因如此，古驰家族的兴衰故事也印证了“创业容易守业难”的古训：杰出创业者往往全情投入事业，常常顾不上妥善培养接班人或维护家庭纽带。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21610,7 +21431,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1953年，古驰欧去世，享年72岁。他没有事先指定接班人或设计治理结构，公司控制权的移交陷入真空。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-039",
@@ -21619,7 +21442,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在这种情况下，作为长子的阿尔多理所当然地接过衣钵，成为古驰品牌的实际领导者。阿尔多文化程度不高，但极富商业头脑和进取野心，被父亲称赞为“有商业天赋的人”。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-040",
@@ -21650,9 +21475,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "到了60年代，Gucci在全球时尚圈声名显赫，产品成为社会名流的宠爱之物；到1970年代中期，Gucci品牌已扩张至全球范围：1974年时在全球拥有14家直营店和46家特许经营店，业务从皮具拓展到鞋履、丝巾、香水等众多领域。阿尔多执掌时期，Gucci的盈利和品牌影响力达到了前所未有的高度，真正成为意大利“甜蜜生活”（Dolce Vita）时代的标志性符号。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-043",
@@ -21661,7 +21484,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在阿尔多卓越领导的背后，家族内部的权力与利益格局也在发生变化且暗藏裂痕。按古驰欧遗愿，三子均分股权；但1953年后不久，瓦斯科（次子）由于性格散漫、对经商缺乏兴趣，逐渐边缘化。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-044",
@@ -21679,9 +21504,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "从表面看，Gucci由两兄弟平分天下，但实际上阿尔多作为大哥早已是一家之主，鲁道夫对经营并不上心。鲁道夫年轻时醉心影视表演，做过一段时间演员，战后才回家加入生意。他虽在米兰开设了Gucci分店、负责过手袋设计等事务,但总体而言，企业发展主要仰仗阿尔多的雄才大略。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-046",
@@ -21734,9 +21557,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "阿尔多每隔两三周便召集兄弟开会讨论业务，使家族决策有一定共识基础。他对内将众多亲属安插到公司各岗位，以“家”为纽带笼络人心，对员工也一视同仁地予以厚待，被称赞为把员工当家人的“大家长”。正是这种家族内部的高信任度和灵活决策，使Gucci在扩张期能够较低治理成本、高效抓住机遇。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-051",
@@ -21745,9 +21566,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "大多数家族企业在创业初期由于血缘纽带而具备启动快、用人灵活、决策成本低等优势。Gucci的崛起很好地印证了这些优点：家族成员知根知底，目标一致，在核心家庭成员有限的情况下“血浓于水”的情感和信任成为企业发展强大的润滑剂。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-052",
@@ -21805,7 +21624,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "事实上，古驰家族的治理一直缺乏制度化和公平性。创始人古驰欧去世后虽然将股份平均分配给三个儿子，但家族企业内部并未建立正式的董事会或议事机制，一切仍由家族长子说了算。阿尔多自恃功劳最大、又拥有丰富的经营经验和人脉资源，俨然成为家族帝国的主心骨；鲁道夫性情内向保守，往往附和兄长的决定，但内心未必毫无不平；而性格懒散的瓦斯科在世时基本被边缘化。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21816,7 +21636,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "可以说，古驰家族在二代接班后形成了事实上的“一家之主”模式——长兄阿尔多独揽大权，而没有健全的监督和平衡机制。公司运营更多依赖家族内部的非正式权威和微妙平衡，内部缺少透明的沟通与决策渠道。当生意蒸蒸日上时，一切尚显风平浪静，但权力和利益的不均早已埋下暗流，只待导火索被点燃。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21826,9 +21647,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这根导火索，最终由阿尔多的儿子们点燃。阿尔多在美国家族业务中安排了两个儿子担任要职，罗伯托和保罗都在Gucci美国子公司身居高位。其中尤以保罗最为活跃和雄心勃勃。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-060",
@@ -21880,9 +21699,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "保罗深谙父亲在美国业务上的弱点——阿尔多经营Gucci美国公司多年，涉嫌瞒报收入、偷漏税款。保罗的一纸检举，将家族矛盾赤裸裸地摆上了法庭。结果，81岁高龄的阿尔多于1986年被美国法院以偷漏税740万美元罪名判处一年零一天的监禁。这位曾意气风发的古稀老人不得不认罪伏法，在美国联邦监狱度过了痛苦的半年（实际服刑期减为6个月）。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-065",
@@ -21913,7 +21730,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "但无论如何，阿尔多与保罗这对父子反目的决裂，标志着古驰家族内部信任的彻底破产——过去那些尚可私下解决的矛盾，被推上了法庭和舆论舞台，家丑外扬，无法挽回。正常情况下，家族企业内部的代际冲突本可通过家庭会议或长辈调停来化解，但古驰家族从未建立任何有效的内部沟通机制，每一次纷争都只能通过权力斗争、法律诉讼甚至“玉石俱焚”的方式了结。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21924,7 +21742,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "保罗的选择表明，当“家族”的情感纽带彻底失灵时，“企业”的冷酷逻辑便会以最无情的方式显现。在这场父子战争中，亲情荡然无存，剩下的只有赤裸裸的利益算计和仇恨宣泄。古驰家族作为一个整体的凝聚力和行动力至此被完全摧毁。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21953,7 +21772,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "就在古驰二代和三代的父子相争闹得不可开交之时，另一条隐伏的战线也迅速明朗化：鲁道夫父子之间的矛盾同样激化，甚至引发了古驰家族控制权的根本易主。鲁道夫之子毛里齐奥从小丧母，备受父亲溺爱又管束严格，性格乖巧内向，青年时期一直循规蹈矩。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -21972,9 +21792,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "父子的紧张关系日益升级。毛里齐奥一边口头答应不会忤逆父亲，一边暗中等待机会证明自己的能力。1972年，他在叔叔阿尔多建议下前往纽约的Gucci公司工作，暂时脱离父亲掌控。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-074",
@@ -21992,9 +21810,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "阿尔多万万没想到弟弟的突然离世会如此动摇自己对Gucci的掌控。毛里齐奥继承股份后，迅速联合刚刚与父亲决裂的保罗，准备对阿尔多集团发起总攻。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-076",
@@ -22003,9 +21819,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "毛里齐奥和保罗这对本来并无深厚交情的堂兄弟，因为共同的敌人走到了一起：毛里齐奥需要保罗那可怜的3.3%股权来获取过半数表决权，而保罗需要毛里齐奥的支持以实现自己建立个人品牌的夙愿。两人一拍即合，在1984年前后成立了一家名为“Gucci授权公司”（Gucci Licensing）的新实体，由毛里齐奥控股51%、保罗占49%，专门控制Gucci品牌的全球授权经营。作为交换条件，毛里齐奥以2000万美元收购Paolo手中的Gucci公司股份，并要求他撤销此前对家族的所有诉讼。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-077",
@@ -22014,9 +21828,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "此举相当高明：毛里齐奥借此稳稳掌握超过50%的表决权，一举成为Gucci公司的实际控制人。接下来，他指示律师、多年家族法律顾问多梅尼科·德索雷召开特别股东大会，以种种管理疏失为由罢免了阿尔多的董事长职务。至此，风光一时的阿尔多被自己一手带大的侄子赶下台，黯然退出公司权力核心。毛里齐奥登上Gucci帝国权力顶峰，成为家族第三代中执牛耳的人物。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-078",
@@ -22034,9 +21846,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1986年，毛里齐奥被判逃税罪名成立，面临监禁和巨额罚款，不得不仓皇出走瑞士避风头（所幸几年后此案上诉成功，毛里齐奥被宣告无罪）。而在大洋彼岸，阿尔多也没能等到东山再起的机会——1989年出狱后不久，他被迫以极低的价格将自己剩余的股份（约16%）出售给Investcorp投资集团，并于1990年郁郁去世，享年84岁。而保罗则最终于1995年客死他乡，临终前因破产而变卖掉最后的家产。那些曾显赫一时的Gucci二代、三代人物，一个个黯然退场或香消玉殒，只剩毛里齐奥仍苦苦支撑着家族的荣耀与梦想。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-080",
@@ -22063,9 +21873,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "毛里齐奥在赶走叔叔、扫清掣肘之后，满怀抱负地开始重振Gucci品牌的工作。他深知Gucci在阿尔多晚年时期为了追求销量，大肆授权生产平价产品，品牌形象遭到严重损害。因此毛里齐奥上任后提出“去平民化、重奢华”的战略：砍掉廉价副线，收回特许经营，大幅削减产品种类和经销店数量，以恢复Gucci曾经的高端定位。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-083",
@@ -22075,8 +21883,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "为此，他不惜重金延揽专业人才：1989年请来时尚圈名人唐·梅洛（Dawn Mello）担任创意总监，后又提拔年轻设计师汤姆·福特（Tom Ford）负责女装系列。在他们操刀下，Gucci 1995年的成衣系列以性感大胆的风格一炮而红，为品牌注入新生机。",
           "related_node_ids": [
-            "person:tom-ford",
-            "company:gucci"
+            "person:tom-ford"
           ]
         },
         {
@@ -22095,9 +21902,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "如果仅从品牌转型来看，毛里齐奥称得上功不可没。然而，从经营绩效来看，他的改革却陷入了“阵痛”。大量关闭门店和缩减产品线令Gucci销售额短期下滑，加之毛里齐奥一心追求奢华品质不计成本，公司连续多年亏损。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-086",
@@ -22118,9 +21923,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "毛里齐奥出售股份的决定令他的前妻帕特里齐娅怒不可遏。她认为毛里齐奥此举剥夺了两个女儿未来的财富继承权，一手葬送了Gucci百年基业的“家族荣耀”。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-088",
@@ -22129,7 +21932,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "早在1985年，毛里齐奥便抛弃了帕特里齐娅——他谎称出差后一去不返，随后派人送来离婚通知书。这令帕特里齐娅怀恨在心，曾恶毒诅咒“但愿他不得好死”。离婚后，她每年虽领着高达100万美元的赡养费，却始终以“古驰”夫人自居，对这个身份念念不忘。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-089",
@@ -22150,7 +21955,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "两年后，帕特里齐娅被法院判处26年有期徒刑（实际服刑18年后获释）。古驰家族的恩怨情仇至此画下句点，然而这出“比《教父》更离奇”的真实剧目所揭示的教训，足以令所有家族企业引以为鉴。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -22160,9 +21966,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1993年之后，Gucci公司进入完全职业经理人掌管的新时代。在没有家族羁绊的情况下，专业团队反而将Gucci经营得风生水起。1994年，擅长经营的德索雷出任CEO，与天才设计师Tom Ford搭档，仅用几年时间就使Gucci起死回生，重新奠定奢侈品领先品牌地位。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-092",
@@ -22202,7 +22006,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "和许多“富不过三代”的案例一样，古驰家族的衰败并非偶然。透过现象看本质，可以发现一系列深层次原因，既涉及家族治理的缺陷，也涉及人性的弱点和时代的挑战。这些失败教训对家族企业具有普遍的警示意义。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -22231,7 +22036,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族最致命的弱点，是始终没有建立起正式、理性的家族治理架构。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -22241,7 +22047,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "创始人古驰欧未安排接班人和股份分配方案，就撒手人寰；二代接班后，公司长期靠兄弟君子协定维系，缺乏书面家族章程或外部董事监督，管理高度集中于家族内部非正式的关系网络。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-100",
@@ -22268,9 +22076,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci正是典型的缺少统一的家族价值观约束和矛盾调节机制，导致代际交接时各方按照各自利益行事，最终内斗失控。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-103",
@@ -22318,7 +22124,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族失败的直接导火索是兄弟阋墙、父子反目，使企业元气大伤甚至沦为利益冲突的牺牲品。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -22328,7 +22135,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "从古驰欧时代起，他“鼓励儿女相互竞争”的育儿方式就埋下祸根。阿尔多、鲁道夫等兄弟在父亲有生之年尚能隐忍，但暗中较劲早已存在；父亲一走，兄弟立即联盟对抗、排挤瓦斯科和姐姐，这表明他们看重各自利益胜过血脉亲情。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-109",
@@ -22346,9 +22155,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "家族内部毫无信任可言，反而充斥猜忌和背叛：叔侄相斗、堂兄弟相残、子告父、妻杀夫，令外人瞠目结舌。可以说，Gucci家族在失败过程中充分验证了这样一句教训：“Bad blood breeds bad blood”（恶血滋生恶血）——上一代的恶劣互动如果没有化解，仇恨和不信任就会像遗传病一样传给下一代。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-111",
@@ -22357,9 +22164,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci家族中恰恰缺少起到这个“化解”作用的角色，无论是家族长辈还是配偶，都没能将家庭凝聚起来。反观一些长寿的家族企业，则通常能在内部竞争和合作间找到平衡，或通过明确分工（如兄弟各管一摊业务），或在严格家训下培养手足相互扶持的文化。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-112",
@@ -22368,9 +22173,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "遗憾的是，Gucci家族长辈非但没有制止纷争，反而曾利用兄弟间竞争来激励业绩，结果适得其反。内部明争暗斗一旦越过界限，亲情消耗殆尽，家族企业的基石也就坍塌了。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-113",
@@ -22398,7 +22201,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族在传承过程中犯了许多家族企业常见的错误，其中一点是过度任人唯亲（nepotism），却未能确保接班人的能力与时俱进。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -22408,9 +22212,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci的管理权一直牢牢掌握在直系血亲手中，任何外人都难以染指，但家族成员并非个个称职。尤其到了第三代，毛里齐奥虽然受过高等教育（毕业于米兰大学），却缺乏商业历练；保罗自恃才华但行事冲动乖张。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-117",
@@ -22512,9 +22314,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这类例子比比皆是：毛里齐奥与帕特里齐娅婚姻不和导致管理团队不稳（帕特里齐娅曾是毛里齐奥的重要顾问，失势后她的怨恨又间接危害了公司安全）；兄弟间争权引发的产品线之争更使Gucci品牌形象受损（阿尔多与毛里齐奥因是否“去平价化”战略长期内耗）。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-128",
@@ -22523,9 +22323,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "所有这些都说明Gucci家族没有建立起公私分明的治理文化。当家族成员将企业当作个人权力斗争的舞台，企业决策就充满主观偏见和短视，也很难适应外部环境变化。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-129",
@@ -22534,9 +22332,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "相比之下，一些成功的家族企业会努力通过制度设计和引入独立董事等方式，避免过度感情用事。例如制定“家庭宪章”，明确规定家族纠纷的解决机制，不让私怨影响公司运营。Gucci家族则完全缺乏这类“防火墙”，最终使企业变成家族矛盾的牺牲品。公私混淆、感情用事是家族企业的大忌，Gucci的教训可谓惨痛。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-130",
@@ -22583,9 +22379,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "再如，阿尔多和鲁道夫都恋权不放，年逾古稀仍死死掌控公司，不愿培养新一代真正接班人。这种对权力的留恋部分源于传统观念里“创业是自己的命根子，断不能交给外人”的心态。Gucci二代显然具有这种心态，导致交接延误、矛盾激化。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-135",
@@ -22594,9 +22388,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "相较而言，一些走在时代前沿的家族企业开始引入更开放的理念，如让职业经理人和家族成员竞争上岗，允许女儿或女婿等“外戚”参与管理等等，以适应多元化的现代商业。然而Gucci家族在内部观念上的转变太慢，依然以老旧方式处理新问题，终究无法适应瞬息万变的市场。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-136",
@@ -22605,9 +22397,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "据萨拉·福登（Sara Forden）的观察，Gucci家族在1980-90年代的衰落其实是当时整个意大利家族时尚业困境的缩影——Prada、Versace、Armani等品牌都曾在走向国际化扩张时遭遇传承和治理难题。不同的是，Gucci以最戏剧化的方式“撞墙”，而其他一些家族通过改革勉强跟上了时代。不与时俱进的家族文化和治理模式，是Gucci家族未能基业长青的重要原因。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-137",
@@ -22655,9 +22445,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci家族中，保罗恰是被娇纵却缺乏管教的例子：他花钱无度、几度离婚，在父亲眼中毫无责任感。毛里齐奥则在掌权后沉迷豪车游艇、豪宅私人飞机，生活奢靡。家族成员中盛行着“财富即张扬”的心态，他们热衷于借Gucci之名炫耀身份，而不懂得居安思危。这种纸醉金迷的风气进一步侵蚀了家族创业时代的进取精神。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-142",
@@ -22684,9 +22472,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci家族在巨富面前没能守住基本的伦理和团结，反而纵容了私欲，最终令家业凋零。奢侈品家族自身却成了拜金主义的牺牲品——这无疑是本末倒置的讽刺。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-145",
@@ -22695,9 +22481,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "由此可见，克制贪欲、保持创业初心和勤勉作风，对于家族企业基业长青至关重要。Gucci家族的沉沦再次证明了奢靡之风足以摧毁一个家族的事业根基。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-146",
@@ -22715,7 +22499,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "古驰的独特性：横向对比中的家族兴亡之道",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-148",
@@ -22725,7 +22511,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族的故事固然极端而戏剧化，但置于同时代、同类型的其他家族企业背景下考察，一些独特之处和成因更加清晰。这些独特性既有源自家族自身文化的，也有外部环境造就的。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -22753,9 +22540,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "纵观20世纪著名家族企业史，像Gucci这样充满“阴谋、对抗和暴力”元素的案例并不多见。父子反目、兄弟阋墙在很多家族中都有发生，但儿子联手外人把父亲送进监狱、前妻买凶杀掉当家人——将家族内部纷争推向刑事犯罪地步的，Gucci几乎是独一份。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-152",
@@ -22764,9 +22549,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这使得Gucci家族的故事在流行文化中广为传播，被称为真实版的《权力的游戏》或《继承之战》。相比而言，许多其他奢侈品家族虽然也有矛盾（例如Versace家族在创始人詹尼遇刺后也经历了权力再分配的挑战），但很少出现如此自相残杀的高潮戏码。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-153",
@@ -22824,9 +22607,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "相比之下，同一时期一些家族选择了截然不同的道路。例如，香奈儿的创始人可可·香奈儿没有子嗣，公司直接传给职业经理人团队，避免了家族内斗；Ferragamo家族在创始人去世后由遗孀统领全局，并让多个子女各展所长（设计、生产、零售分别负责），虽然也有矛盾但总体合作顺利。Gucci的“内部竞技场”模式可谓独树一帜，其失败证明家族企业内耗是巨大的隐患。“本是同根生，相煎何太急”这句古训在Gucci家族屡屡上演，带来了独特而惨痛的后果。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-159",
@@ -22853,9 +22634,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci家族在性别维度上也呈现出一些耐人寻味的独特性。家族第一代和第二代由男性牢牢主导，女性（如长女格里玛尔达）被排除在权力和财富分配之外。这种传统在上世纪中叶或许常见，但Gucci由此损失了一名潜在的盟友。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-162",
@@ -22864,9 +22643,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "据记载，格里玛尔达的丈夫早年对Gucci创业有恩，排挤她导致家族失去了一支支持力量，并引发额外的法律争端。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-163",
@@ -22895,9 +22672,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这与不少家族企业形成对照：许多成功的家族企业背后往往有贤内助或家族女强人在支撑（如迪奥家族的夫人们对品牌的守护）。Gucci家族则是一个反例：女性不是被排除在外，就是以近似“妖女”的形象出现，反映出家族文化中对女性力量的压抑与失控。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-166",
@@ -22935,9 +22710,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "正如前文提及，毛里齐奥于1980年代末引入Investcorp投资，是Gucci家族做出的一个非典型决定。当时绝大部分奢侈品牌仍牢牢掌握在家族或创始人手中，Gucci是少数较早实现股权多元化的奢侈品公司。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-170",
@@ -22955,9 +22728,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci家族则几乎是在第一代创业者去世30年后，就部分开放股权给外部，这是从传承模式上看非常不寻常的“先驱”。这种先驱性一方面印证了毛里齐奥对品牌全球化的远见（他意识到必须借助外力才能使Gucci转型为现代化奢侈品牌集团），另一方面也加速了家族出局的进程。因为在外部投资者眼中，家族内斗和业绩不振是无法容忍的，毛里齐奥很快被Investcorp踢出了局。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-172",
@@ -22966,9 +22737,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这与其他一些家族的节奏不同：许多家族企业往往在第三代后才逐渐引入职业经理人和资本，但家族还能通过控股或双层股权等方式保持一定影响力。然而Gucci是在一片混乱中匆忙交权，没有为家族保留任何席位或条款，导致最终完全出局。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-173",
@@ -22977,9 +22746,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这个独特经历也体现了时代和行业因素：80-90年代正值奢侈品行业整合浪潮初起（LVMH集团崛起就是同期的事），Gucci家族没能像爱马仕（Hermès）家族那样团结一致抵抗外敌，反倒主动奉上控制权。可以说，Gucci家族是行业变革的先驱试验品，付出了家族利益的代价。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-174",
@@ -22988,9 +22755,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这一点在横向比较中非常鲜明：Hermès家族在遭遇LVMH恶意收购时同心协力成立家族控股公司最终成功捍卫了家族控制权，而Gucci家族在机会来临前就已内部分裂、各自套现，无法共抗外力。因此Gucci的独特性还表现在家族内部凝聚力之弱与行业外部力量之强的错配，使其成为那个时代首先被吞并的著名家族品牌之一。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-175",
@@ -23029,9 +22794,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这种家族失败而品牌长存的案例在时尚奢侈品界相当引人注目。我们常说“某某品牌就是某某家族的生命”，但Gucci证明了品牌完全可以独立于家族而欣欣向荣。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-179",
@@ -23040,9 +22803,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这一点与很多传统家族企业形成对比：有的品牌一旦家族撤出便迅速没落，或者即使家族不在管理层仍通过控股等方式影响品牌走向。而Gucci则几乎是彻底斩断——1993年后再无任何Gucci家族成员在公司任职或持股，品牌业绩反而扶摇直上。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-180",
@@ -23051,9 +22812,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "这背后揭示的是：Gucci家族并未能把家族情感和价值真正融入品牌的精神。品牌之所以能成功，靠的是创始人和优秀职业经理人奠定的产品力、市场力，与家族后来乌烟瘴气的治理无关。甚至可以说，Gucci品牌在家族被清除后释放了更大潜力。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-181",
@@ -23071,9 +22830,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Gucci家族创造了品牌，但没能与品牌共成长，最终沦为局外的旁观者。这样的独特教训在其他家族中并不多见。",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-183",
@@ -23103,7 +22860,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "从古驰废墟中提炼的七条治家之道",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-186",
@@ -23113,7 +22872,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族的故事宛如一出宏大的莎士比亚悲剧，既有辉煌的人性光芒，也有幽暗的人性阴影。当浮华散尽、血腥落幕，留给后人的不应只是茶余饭后的谈资与唏嘘。这个跨越近百年、历经三代人的家族企业兴衰史，为我们揭示了家族治理与传承的深层智慧，意义远超个案本身。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23123,7 +22883,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "以下七条治家之道，正是从古驰王朝废墟中深刻提炼而来，或许它们便是家族基业长青或分崩离析的关键所在：",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-188",
@@ -23142,7 +22904,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族的悲剧，很大程度上起源于一种看似完美的公平——两兄弟各占50%的股权安排。这种结构让每个关键决策都陷入僵局，使企业决策机制彻底瘫痪。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23179,7 +22942,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "古驰欧·古驰曾是家族中闪耀的精神领袖，他对品质近乎执拗的追求构筑了古驰品牌的基石。但遗憾的是，这些精神理念仅以创始人个人的榜样力量存在，并未被后代清晰制度化传承。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-194",
@@ -23206,7 +22971,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在古驰漫长的家族内斗中，最令人叹息的是缺乏独立而客观的第三方声音。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-197",
@@ -23243,7 +23010,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "毛里齐奥·古驰的悲剧，其实折射的是家族企业最常见却最致命的一个误区：家族成员天然拥有经营能力。毛里齐奥凭借血缘继承了股权，迅速掌控了治理权，却未曾接受过严格的经营训练，他轻率的决策与错误的判断，很快将企业推向崩溃边缘。",
           "related_node_ids": [
-            "person:maurizio-gucci"
+            "person:maurizio-gucci",
+            "company:gucci"
           ]
         },
         {
@@ -23272,7 +23040,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族的诸多矛盾，无论是格里玛尔达的诉讼，还是保罗对父亲的公开告密，几乎每次都闹到不可收拾。究其根本，恰恰是家族从未建立一套正式的冲突解决机制，导致所有问题都只能靠诉诸法律甚至以暴力来收场。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23301,7 +23070,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "相比爱马仕家族的和睦团结，古驰家族始终弥漫着猜忌与竞争氛围，成员之间缺乏共同的价值认同，更难有长远而牢固的凝聚力。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23330,7 +23100,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰家族在第三代的传承中遭遇重挫，正因为家族仅关注财富与权力的转移，却忽略了责任感与管理智慧的培养。结果，年轻的继承人拿到财富，却失去了守护和经营财富的能力。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23350,7 +23121,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "古驰王朝的故事最终告诉我们，一个家族企业最大的威胁从来不是市场波动或竞争对手，而是根植于内部治理的腐朽与人性的弱点。那座曾由皮革、竹节与双G标志筑就的奢华宫殿，并非倒塌于外力，而是崩溃于治理结构的脆弱和人性欲望的侵蚀。这座镀金牢笼困住了古驰家族整整三代人，也为世人留下了一笔沉重却珍贵的警示遗产。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23370,7 +23142,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "若你身在古驰家族，会如何抉择？",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23381,7 +23154,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "奢侈品帝国的荣光与崩塌常被视作“他人的戏剧”。但将自己嵌入情境、亲自做选择，才能真正看见权力、财富与情感交织时的张力。以下思想实验建立在古驰家族百年轨迹之上，请读者暂时放下旁观者视角，走进角色，推演不同抉择的后果。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23401,7 +23175,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "你是古驰家族第三代的一员，手握少量股份，尚未进入核心治理层。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23610,7 +23385,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "- 对比古驰家族真实结局与你的假设，检视哪些盲点源于信息不对称、情绪偏见或制度缺失；",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23639,7 +23415,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "让思想实验成为一面镜子——照见古驰家族，也照见我们自己。",
           "related_node_ids": [
-            "family:gucci-family"
+            "family:gucci-family",
+            "company:gucci"
           ]
         },
         {
@@ -23658,7 +23435,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "1.罗锦荣，《古驰：一个惊心动魄的时尚家族》，新世界出版社",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-245",
@@ -23667,7 +23446,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "2.柏翠莎·古驰，《GUCCI：古驰王朝》，九州出版社",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:gucci"
+          ]
         },
         {
           "id": "gucci-p-246",
@@ -23676,9 +23457,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "3.Sara Gay Forden，《House of Gucci: A Sensational Story of Murder, Madness, Glamour, and Greed》",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-247",
@@ -23687,9 +23466,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "4.Catherine Brock，“Who Owns Gucci?”，The Motley Fool",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-248",
@@ -23698,9 +23475,7 @@ window.ARTICLE_DATA = {
           "kind": "list",
           "level": null,
           "text": "5. “Guccio Gucci”，en.wikipedia.org",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-249",
@@ -23709,9 +23484,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "6.“WA The Gucci Family - A Tragic Italian Opera”，PFBI Case Studies",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-250",
@@ -23720,9 +23493,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "7.Martinez‑Jerez, Francisco de Asis, Elena Corsi, and Vincent M. Dessain. “Gucci Group: Freedom within the Framework.” Harvard Business School Case 109‑079, rev. 2011.",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "gucci-p-251",
@@ -23731,9 +23502,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "8.bank finance，“Relive the Gucci conflict when blood wasn't thicker than water”，moneyandbanking.co.th",
-          "related_node_ids": [
-            "company:gucci"
-          ]
+          "related_node_ids": []
         }
       ]
     },
@@ -30604,8 +30373,7 @@ window.ARTICLE_DATA = {
             "person:wang-yongqing",
             "person:wang-wenyuan",
             "person:cher-wang",
-            "company:formosa-plastics",
-            "company:htc"
+            "company:formosa-plastics"
           ]
         },
         {
@@ -30703,8 +30471,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "他的实践方法极具个人特色。他很早就将自己的子女，包括后来创立HTC的王雪红，送到海外独自求学生活，最小的年仅15岁。他并非简单地提供优渥的生活，而是建立了一套独特的“家书换生活费”制度。子女必须定期给他写信，详细汇报每一笔开销，小到“连买牙膏也写上去”，才能从他那里领到下一笔生活费。他给的钱总是“刚刚好”，几乎没有结余，旨在培养他们对金钱“正当”、“合理”的运用观念，彻底戒除享乐主义。",
           "related_node_ids": [
-            "person:cher-wang",
-            "company:htc"
+            "person:cher-wang"
           ]
         },
         {
@@ -30778,8 +30545,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "王雪红并未走上父亲为她铺设的道路。从加州大学伯克利分校经济系毕业后，她没有进入庞大的台塑体系。1988年，她说服母亲杨娇，将母亲名下的一栋房子拿去抵押，贷款500万新台币，开启了自己的创业之路。她先后于1987年参与创立了芯片设计公司“威盛电子（VIA）”，并于1997年创立了后来闻名全球的智能手机制造商“宏达电子（HTC）”。在2011年，她与丈夫陈文琦的总财富一度超越父亲生前的记录，成为台湾首富。",
           "related_node_ids": [
-            "person:cher-wang",
-            "company:htc"
+            "person:cher-wang"
           ]
         },
         {
@@ -31313,8 +31079,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "王文洋 (长子, 原定接班人, 后被逐), 王贵云, 王雪龄, 王雪红 (HTC/VIA创始人), 王文祥。",
           "related_node_ids": [
-            "person:cher-wang",
-            "company:htc"
+            "person:cher-wang"
           ]
         },
         {
@@ -34190,7 +33955,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "此后，正大集团陆续在全国开设易初莲花分店。不过，由于进入时间较早、竞争者众多等原因，易初莲花未能像后来者那样迅速扩张。2007年起，正大将中国超市业务品牌更名为“卜蜂莲花”，以与国际品牌统一，同时“易初”二字则专用于慈善公益领域。尽管调整策略后卜蜂莲花仍未成为超市业巨无霸，到2022年在中国仅经营百余家门店，但它见证了正大集团在中国零售业从摸索起步到转型升级的一个缩影。",
           "related_node_ids": [
-            "company:cp-group"
+            "company:cp-group",
+            "company:lotus"
           ]
         },
         {
@@ -35259,7 +35025,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "另一方面，对于公众股东的利益诉求，正大集团也秉持开放与负责的态度。集团旗下诸多核心业务（如卜蜂莲花超市、正大制药、正大食品等）都在境内外资本市场上市，家族作为大股东严格遵守上市公司治理规范，尊重少数股东权益。在信息披露、利润分配等方面，“正大系”企业坚持公开透明，以正直诚信为底线，维护家族的百年信誉。",
           "related_node_ids": [
-            "company:cp-group"
+            "company:cp-group",
+            "company:lotus"
           ]
         },
         {
@@ -42812,7 +42579,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "除了财富，贝氏在清代还逐步跻身“士绅”行列，成为当地的文化世家。据族谱和地方志记载，贝家人才辈出，科举屡有斩获。例如，贝氏第六代、七代中都有人考中秀才、贡生，步入仕途或成为乡绅。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "tool:cultural-family-lineage"
+          ]
         },
         {
           "id": "pei-family-p-022",
@@ -43512,7 +43281,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "其中最显著的做法，就是在婚姻上倾向选择门当户对的文化世家，以嫁娶联姻的方式增强家族的人脉和后代素质。与当今一些人择偶重视金钱地位不同，贝家长辈深谙“联姻择佳偶，有利育英才”的道理。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "tool:cultural-family-lineage"
+          ]
         },
         {
           "id": "pei-family-p-092",
@@ -46609,7 +46380,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "进入近十余年，荣家的事业版图虽不再高调，却在悄然重组。以隆源企业控股为核心平台，家族重新布局地产、资源及股权投资等领域，保持稳健的资本运作节奏。荣智健退居幕后后，由次子荣明棣接掌家族企业要务，出任隆源企业控股董事总经理，并担任香港无锡商会会长。他频繁往返沪港、锡港之间，推动生物医药、科创及产业园区合作，延续家族“实业报国”的传统。",
           "related_node_ids": [
-            "person:rong-zhijian"
+            "person:rong-zhijian",
+            "tool:industrial-patriotism"
           ]
         },
         {
@@ -57320,8 +57092,7 @@ window.ARTICLE_DATA = {
           "text": "然而，家族企业最引人瞩目的还是汽车领域的纵横捭阖。2016年，阿涅利家族决定将法拉利品牌从集团中分拆上市，既保持对这一传奇跑车制造商的控制权，又释放其市场价值。约翰出任法拉利董事长，以延续祖父辈对赛车运动和汽车性能的极致追求。2020年代伊始，全球汽车业掀起电动化与兼并浪潮。约翰高瞻远瞩，积极寻求让FCA再上一个台阶。2021年，他推动FCA与法国标致雪铁龙集团（PSA）合并，组建了全球第四大汽车制造集团——Stellantis。这家新巨头旗下拥有14个汽车品牌，业务遍及130多个国家。约翰·埃尔坎出任集团董事长，继续执掌方向盘。",
           "related_node_ids": [
             "family:agnelli-family",
-            "person:john-elkann",
-            "company:stellantis"
+            "person:john-elkann"
           ]
         },
         {
@@ -57493,8 +57264,7 @@ window.ARTICLE_DATA = {
           "text": "进入21世纪，约翰·埃尔坎将这套架构进一步升级，把IFI和IFIL合并为Exor，并迁册至荷兰，利用当地的基金会制度强化控制。时至今日，阿涅利家族仅凭不到15%的经济权益，就稳稳掌控着市值数百亿欧元的Stellantis集团。",
           "related_node_ids": [
             "family:agnelli-family",
-            "person:john-elkann",
-            "company:stellantis"
+            "person:john-elkann"
           ]
         },
         {
@@ -57866,8 +57636,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "但历史从不许诺任何人永恒。今天，当电动汽车的浪潮席卷全球，当Stellantis的标识取代了那个曾让意大利人热泪盈眶的FIAT红底白字，我们不得不追问：阿涅利家族的下一个一百年将走向何方？第六代、第七代的年轻人们，是否还能在祖辈的遗产中找到前行的方向？",
           "related_node_ids": [
-            "family:agnelli-family",
-            "company:stellantis"
+            "family:agnelli-family"
           ]
         },
         {
@@ -58314,7 +58083,8 @@ window.ARTICLE_DATA = {
           "text": "包玉刚看着众人神情，心中稍安。他又宣布了最后一项决定：由女婿们共同成立一个“家族办公室”，负责整个家族的战略投资和财富管理事务，由四女婿中的郑维健牵头负责。这样一来，尽管四房产业各自独立运营，但仍有一个平台统筹重大投资、应对风险并处理家族公共事务。“这笔财富是老天赐给我们包家的，我们要用好它、守好它，不仅为自己，也为社会。”包玉刚意味深长地说。他特别嘱咐长女包陪庆，将来每年以家族基金的名义拨出一笔资金，继续支持教育慈善事业，就像他本人一直所做的那样。",
           "related_node_ids": [
             "person:yue-kong-pao",
-            "person:zheng-weijian"
+            "person:zheng-weijian",
+            "tool:family-office"
           ]
         },
         {
@@ -59457,7 +59227,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "> 2003年，从环球航运到 BW 集团的战略跃迁",
           "related_node_ids": [
-            "company:world-wide-shipping"
+            "company:world-wide-shipping",
+            "company:bw-group"
           ]
         },
         {
@@ -59494,7 +59265,8 @@ window.ARTICLE_DATA = {
           "text": "在此期间，第三代核心人物苏文骏发挥了关键作用。作为牛津大学和哈佛商学院的高材生，苏文骏在加入家族企业前曾任职于高盛。他主导了集团的现代化转型与后续的一系列资本运作，并没有停留在祖辈的功劳簿上，而是敏锐地捕捉能源转型的机遇。在他的推动下，BW 集团并未止步于传统航运，而是进一步向海上油气生产、浮式天然气基础设施以及新能源领域拓展，成功将祖父包玉刚奠定的“海上帝国”迭代为一家多元化的现代海事能源集团。",
           "related_node_ids": [
             "person:yue-kong-pao",
-            "person:andreas-sohmen-pao"
+            "person:andreas-sohmen-pao",
+            "company:bw-group"
           ]
         },
         {
@@ -60361,9 +60133,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "6.BW Group. \"History of BW Group: From World-Wide Shipping to Global Maritime Leader.\" BW Group Official Website, accessed January 2026.",
-          "related_node_ids": [
-            "company:bw-group"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "pao-family-p-202",
@@ -60399,9 +60169,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "10.”BW Group announces the passing of former chairman Dr Helmut Sohmen.\" BW Group Press Release, October 27, 2025.",
-          "related_node_ids": [
-            "company:bw-group"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "pao-family-p-206",
@@ -68208,8 +67976,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "2004年，25岁的汤马斯以观察员身份列席乐高集团董事会。他不参与投票，不发表意见，只是坐在角落里听和看。2007年，他正式成为董事会成员，开始参与决策讨论。2016年，他出任乐高基金会董事会主席，第一次独立领导一个重要的机构。2020年，他成为乐高集团董事会主席。2023年5月，他接任家族控股公司KIRKBI的董事会主席。这一时间点恰好是基耶尔德加入乐高集团管理层50周年的纪念日，父子俩在同一天完成了交接。",
           "related_node_ids": [
-            "company:lego-group",
-            "company:kirkbi"
+            "company:lego-group"
           ]
         },
         {
@@ -68228,9 +67995,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "汤马斯在就任演讲中如此表述：“家族对乐高品牌和KIRKBI业务的积极所有权，贯穿了我们家族数代人的历程。在乐高品牌正吸引着比以往更多人群参与的这个时代，能够在第四代延续家族的所有权传统，我深感荣幸。”",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-252",
@@ -68293,9 +68058,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "索菲·基尔克·克里斯蒂安森，1976年出生，曾持有KIRKBI 25%的股权。但她的热情不在商业，而在自然保护。2023年11月，索菲以约9.3亿美元的价格将其持有的大部分股份出售回KIRKBI，转而将资金投入生态保护事业。她名下拥有丹麦的大片土地，以及苏格兰高地的斯特拉科伦庄园。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-259",
@@ -68304,9 +68067,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "在很多家族企业中，某个成员希望套现退出往往引发激烈的内部冲突，甚至导致企业被迫上市或出售。但克里斯蒂安森家族的治理架构为这种情况预设了健康的通道：家族成员可以将股份回售给KIRKBI，获得合理的流动性，同时不影响整体控制权结构和企业的长期战略方向。索菲的选择表明，家族的凝聚力可以容纳个人道路的差异。她没有”背叛”家族使命，而是以另一种方式表达了对世界的责任感。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-260",
@@ -68315,9 +68076,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "阿格尼特·基尔克·克里斯蒂安森，是家族中另一位活跃成员。她是一名奥运会级别的盛装舞步骑手，同时也是奥胡斯注意力缺陷与多动障碍中心的创始人。在治理层面，阿格尼特担任KIRKBI和乐高基金会的副主席，持有25%的股权。她证明了一个重要的治理原则：家族成员可以拥有各自独立的人生追求，同时在治理层面发挥实质性的作用。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-261",
@@ -68426,8 +68185,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "克里斯蒂安森家族不上市、不分散，四代人坚守在只有7500人的比隆小镇。家族通过KIRKBI控股公司持有乐高集团75%的股权，乐高基金会持有25%。",
           "related_node_ids": [
-            "company:lego-group",
-            "company:kirkbi"
+            "company:lego-group"
           ]
         },
         {
@@ -68466,9 +68224,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "KIRKBI：远超玩具的商业帝国",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-277",
@@ -68477,9 +68233,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "KIRKBI A/S成立于1995年4月1日，是克里斯蒂安森家族的私人控股和投资公司。它承担三项核心使命：保护和运用乐高品牌、追求长期负责任的投资、支持家族成员履行其所有者角色。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-278",
@@ -68488,9 +68242,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "到2024年，KIRKBI已远远超越了一个玩具公司控股壳的角色。它的税前利润达到230亿丹麦克朗，金融投资组合总值790亿丹麦克朗，纳税59亿丹麦克朗。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-279",
@@ -68500,8 +68252,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "除了持有乐高集团75%的股权，KIRKBI还拥有庞大的多元化投资组合：持有默林娱乐集团47.5%的股权（默林于2019年以76亿美元被私有化）；持有教育科技公司BrainPop和游戏公司Epic Games的股份；持有丹麦急救服务公司Falck 27.9%的股权、瑞典地板技术公司Välinge 48.6%的股权；投资了海上风力发电场和太阳能项目；在哥本哈根、伦敦、慕尼黑和汉堡拥有超过30万平方米的商业地产。",
           "related_node_ids": [
-            "company:lego-group",
-            "company:kirkbi"
+            "company:lego-group"
           ]
         },
         {
@@ -68512,8 +68263,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这组数字揭示了一个重要事实：克里斯蒂安森家族的财富远远超越了乐高集团本身。通过KIRKBI的多元化投资，家族建立了独立于玩具产业周期的财务缓冲。即便乐高集团再次遭遇严重困境，家族也不会被迫在压力下出售企业。",
           "related_node_ids": [
-            "company:lego-group",
-            "company:kirkbi"
+            "company:lego-group"
           ]
         },
         {
@@ -68524,8 +68274,7 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "这个多元化战略的智慧在2003至2004年的危机中得到了最直接的验证。当乐高集团每天烧掉100万美元时，正是KIRKBI的非玩具资产为家族提供了继续持有并拯救企业的底气。如果家族的全部身家都押在乐高集团上，2004年的故事很可能是被迫出售给某个私募基金，而非从容引入克努德斯托普。2003至2004年危机的另一个深远教训是：家族从此将所有权与日常管理权彻底分离。家族成员担任治理者和战略守护者的角色，将运营管理交给职业经理人。乐高集团在那之后再也没有任何一位家族成员出任过行政管理职位。这种战略纵深和清晰的角色定位，是家族保持长期独立性的物质与制度基础。",
           "related_node_ids": [
-            "company:lego-group",
-            "company:kirkbi"
+            "company:lego-group"
           ]
         },
         {
@@ -68625,9 +68374,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "其二，财务稳定性使外部融资不必要。KIRKBI的多元化投资组合提供了充足的资本支撑，乐高不需要通过公开市场筹集资金。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-293",
@@ -68672,9 +68419,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "乐高和宜家有许多表面上的相似之处：都是北欧帝国，都在经济困难时期创立（乐高1932年，宜家1943年），都强调品质与平价的结合，都保持严格的隐私，都使用基金会架构。但关键差异在于控制权结构：乐高通过KIRKBI保持了75%的家族控制权，而宜家的架构明确将坎普拉德家族限制在少数董事会席位。乐高在2004年果断引入外部CEO，而宜家的家族领导期持续更长。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-298",
@@ -69016,9 +68761,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "你是克里斯蒂安森家族的第五代成员，刚刚从”乐高学校”的培养计划中毕业，正式进入KIRKBI董事会担任观察员。你的姓氏连着全球最受尊敬的玩具品牌，这份遗产既是特权，也是重负。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-336",
@@ -69200,9 +68943,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "一位堂兄弟提出，家族应该效仿索菲当年的做法，允许更多成员将股权回售给KIRKBI。他的理由是——并非所有人都适合或愿意做”积极所有者”，与其让一群不感兴趣的人勉强坐在董事会上，不如让想离开的人体面退出，让真正有热情的人集中精力。",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-356",
@@ -69211,9 +68952,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "另一位堂姐妹强烈反对。她认为，一旦开了这个口子，家族的凝聚力将迅速瓦解——“今天走一个，明天走两个，最后KIRKBI变成一个人的独角戏，和上市公司还有什么区别？”",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-357",
@@ -69575,9 +69314,7 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "4.KIRKBI A/S, 《KIRKBI Annual Report 2023》, KIRKBI A/S",
-          "related_node_ids": [
-            "company:kirkbi"
-          ]
+          "related_node_ids": []
         },
         {
           "id": "lego-p-397",
@@ -98670,7 +98407,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "盛宣怀临终前立了一份遗嘱，把家产分成两半。一半给子孙分掉，另一半成立“愚斋义庄”。愚斋是盛宣怀的号。义庄的设计是：仿照范氏义庄的“族产共有”模式，加上西方信托基金的法律设计，由专人管理，永续运转，用以救济盛氏族人。这是中国近代最大的家族信托基金。",
           "related_node_ids": [
-            "company:fan-yizhuang"
+            "company:fan-yizhuang",
+            "tool:family-trust"
           ]
         },
         {
@@ -98779,7 +98517,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "愚斋义庄缺的就是这道护符。盛宣怀有功业，但他的功业是商业的、洋务的，不是儒家道德的。一个家族信托基金没有道德底色，就守不住。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "tool:family-trust"
+          ]
         },
         {
           "id": "fan-yizhuang-p-569",
@@ -99044,7 +98784,9 @@ window.ARTICLE_DATA = {
           "kind": "heading",
           "level": 3,
           "text": "7.7 余响进入家族信托",
-          "related_node_ids": []
+          "related_node_ids": [
+            "tool:family-trust"
+          ]
         },
         {
           "id": "fan-yizhuang-p-595",
@@ -99084,7 +98826,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "义庄的实体不在了，但它设想的“家族信托”以另一种形态在重新生长。这是一种延迟九百年的回响。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "tool:family-trust"
+          ]
         },
         {
           "id": "fan-yizhuang-p-599",
@@ -99745,7 +99489,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "罗斯柴尔德家族 1810 年前后立“诫子书”，要求五个儿子永不分家，伦敦、巴黎、维也纳、那不勒斯、法兰克福五个分行共同协作。这与范氏义庄“族产共有”的精神高度相似，差别是罗斯柴尔德靠商业网络，范氏靠土地租金。玛氏家族（Mars）1911 年创立糖果业，五代未上市，家族信托严格控制股权。这与范氏义庄“代不分田”的精神相似，差别是玛氏的家族信托是法律意义上的信托，范氏义庄是文化意义上的“准信托”。福特家族 1956 年上市但通过双层股权保留控制权。博世家族 1964 年把公司 92% 的股份转入罗伯特·博世基金会，家族只保留 7% 红利权、没有投票权，与范氏义庄的“族产共有”模式在功能上几乎完全相同。",
           "related_node_ids": [
-            "company:fan-yizhuang"
+            "company:fan-yizhuang",
+            "tool:family-trust"
           ]
         },
         {
@@ -99787,7 +99532,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "设想你已经积累了一笔可观的财富，想为子孙留下一份永续的家族基业。按今天通行的做法，你会找私人银行、家族办公室、法律事务所。他们会给你设计一份方案：把财产装入信托，设立家族宪章，建立家族委员会，培养下一代接班人，设立慈善基金会做品牌建设。这套方案技术上无可挑剔。",
           "related_node_ids": [
-            "concept:family-constitution"
+            "concept:family-constitution",
+            "tool:family-constitution"
           ]
         },
         {
@@ -99819,7 +99565,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "今天的家族方案，多数仍然保留了“设立人保留控制权”。家族信托的受益人是子孙，但受托人是设立人指定的人，设立人对受托人仍有强大的影响力。这一保留的代价，是受益人、受托人、设立人之间的张力一直存在。盛宣怀的愚斋义庄二十年崩溃，就是这种张力爆发的典型结果。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "tool:family-trust"
+          ]
         },
         {
           "id": "fan-yizhuang-p-671",
@@ -101273,7 +101021,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "把这份 1812 年的遗嘱，和本系列第 31 期写过的范氏义庄《义庄规矩》放在一起读，会读出一种意味深长的对照。这是东西方两个伟大家族，给后代立下的两份“家族宪章”。",
           "related_node_ids": [
-            "concept:family-constitution"
+            "concept:family-constitution",
+            "tool:family-constitution"
           ]
         },
         {
@@ -102674,7 +102423,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "2023 年，故事翻开了出人意料的一页。家族控股实体以每股四十八欧元发起收购，要把罗斯柴尔德公司从巴黎证券交易所私有化退市，交易估值约三十七亿欧元。2023 年 10 月 11 日，强制退市完成，罗斯柴尔德公司正式从公开市场摘牌，结束了它的上市平台在巴黎逾一个半世纪的公开交易历史。退市的理由很朴素：集团的业务不再需要靠公开市场融资，私有化更利于专注长期，而不必应付资本市场对短期业绩的催逼。一个一向以长期眼光行事的家族，最终选择离开那个要求它每个季度交账的舞台。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:rothschild-and-co"
+          ]
         },
         {
           "id": "rothschild-p-225",
@@ -102701,7 +102452,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "第一条是罗斯柴尔德公司，戴维和亚历山大这一支，做全球并购顾问和财富管理，2023 年私有化，整个集团约四千二百名员工，其中全球顾问业务约一千六百名银行家，遍布近五十个国家，2025 年被《欧洲货币》评为“全球最佳独立顾问银行”。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:rothschild-and-co"
+          ]
         },
         {
           "id": "rothschild-p-228",
@@ -102710,7 +102463,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "第二条是埃德蒙·德·罗斯柴尔德集团，总部在瑞士日内瓦，由法国分支的小埃德蒙 1953 年创立，是一家私人银行与资产管理机构，与前一家完全独立，两家在 2018 年专门签过协议厘清品牌边界。它的当家人本杰明 2021 年去世，年仅五十七岁，遗孀阿丽亚娜·德·罗斯柴尔德接掌集团，成为第一位执掌罗斯柴尔德品牌金融机构的女性，也是第一位没有罗斯柴尔德血脉的掌门人。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "company:edmond-de-rothschild-group"
+          ]
         },
         {
           "id": "rothschild-p-229",
@@ -102776,7 +102531,8 @@ window.ARTICLE_DATA = {
           "level": null,
           "text": "真实的情况，与神话恰好相反。罗斯柴尔德家族传到今天，已是第七、八代，子孙散布欧美多国，根本不存在一个统一管理的家族财富池。近年被正式认定为亿万富翁的，只有 2021 年去世的本杰明一人。三家机构里，罗斯柴尔德公司退市时估值约三十七亿欧元，RIT 资本净资产约四十亿英镑，规模与沃尔顿、科赫这些当代顶级富豪家族相比，早已不在一个量级。这个家族财富的真正形态，是分散、是缩水、是高度的家族内部多元化。不是传说里那个掌控全球的隐秘资本。",
           "related_node_ids": [
-            "family:rothschild-family"
+            "family:rothschild-family",
+            "company:rothschild-and-co"
           ]
         },
         {

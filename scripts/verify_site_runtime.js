@@ -23,6 +23,7 @@ function element(name) {
     value: "",
     innerHTML: "",
     textContent: "",
+    style: {},
     setAttribute() {},
     scrollIntoView(options) {
       scrolls.push({ name, options });
@@ -106,7 +107,8 @@ for (const edge of window.KNOWLEDGE_DATA.edges) {
   assert(nodeIds.has(edge.target), `edge target missing from nodes: ${edge.target}`);
 }
 assert(content().includes("atlas-layout"), "initial view should render story map home");
-assert(graph().includes("graph-summary"), "initial graph should render overview summary");
+const graphSection = () => elements.get("#graphSection") || { style: {} };
+assert(graphSection().style.display === "none", "overview graph is retired: graph section should be hidden on load");
 
 clickDataset("[data-topic]", { topic: "rules" });
 
@@ -115,6 +117,7 @@ assert(content().includes("topic-brief"), "topic entry should render a topic det
 
 clickDataset("[data-view]", { view: "people" });
 
+assert(graphSection().style.display === "", "graph section should reappear for the person network");
 assert(graph().includes("graph-person-network"), "person graph should render person-network mode");
 assert(graphMode().includes("人物直连关系"), "person graph mode label should describe direct person relationships");
 assert(viewTitle() === "人物图谱", "person page should have its own page title");
@@ -136,14 +139,31 @@ assert(content().includes("故事索引"), "story list should render a story-spe
 
 clickDataset("[data-view]", { view: "methods" });
 
-assert(!graph().includes("graph-person-network"), "knowledge graph button should leave person-network mode");
+assert(graphSection().style.display === "none", "methods view should not show the overview graph");
 assert(viewTitle() === "方法论", "methods page should have its own page title");
 assert(!viewSubtitle().includes("家训、宪章与制度化信任"), "methods page should not inherit a previous topic subtitle");
 assert(content().includes("方法论索引"), "methods page should render a method-specific directory");
 assert(!scrolls.some((item) => item.name === "#graphSection"), "top navigation should not rely on graph-section scrolling");
 
+clickDataset("[data-view]", { view: "matrix" });
+
+assert(viewTitle() === "对照矩阵", "matrix view should have its own page title");
+assert(content().includes("matrix-table"), "matrix view should render the family-by-concept table");
+assert(content().includes("matrix-cell"), "matrix view should render evidence cells");
+
+clickDataset("[data-matrix-cell]", { matrixCell: "family:tata-family|concept:steward-ownership" });
+
+assert(content().includes("matrix-evidence-head"), "clicking a matrix cell should open the evidence panel");
+assert(fakeLocation.hash === "#/matrix/family:tata-family/concept:steward-ownership", `matrix cell should deep-link (got ${fakeLocation.hash})`);
+
+fakeLocation.hash = "#/matrix";
+assert(viewTitle() === "对照矩阵", "matrix hash should open matrix view");
+
+clickDataset("[data-id]", { id: "person:jrd-tata" });
+assert(graphSection().style.display === "", "selecting a node should reveal its local ego network");
+
 // hash routing: user actions write the hash, hash changes drive the state
-assert(fakeLocation.hash === "#/methods", `view change should update the hash (got ${fakeLocation.hash})`);
+assert(fakeLocation.hash === "#/node/person:jrd-tata", `node selection should update the hash (got ${fakeLocation.hash})`);
 
 clickDataset("[data-id]", { id: "story:tata" });
 assert(fakeLocation.hash === "#/node/story:tata", `node selection should update the hash (got ${fakeLocation.hash})`);

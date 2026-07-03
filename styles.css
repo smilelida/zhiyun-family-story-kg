@@ -1500,3 +1500,208 @@ button {
     min-width: 860px;
   }
 }
+
+.article-divider {
+  border: none;
+  border-top: 1px solid var(--line);
+  margin: 26px 0 26px 56px;
+  max-width: 220px;
+}
+
+/* ---------- family × concept matrix ---------- */
+
+.matrix-panel .directory-note {
+  color: var(--muted);
+  margin: 6px 0 14px;
+}
+
+.matrix-scroll {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--paper);
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.matrix-table {
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+.matrix-table th,
+.matrix-table td {
+  padding: 2px;
+  text-align: center;
+}
+
+.matrix-table thead th {
+  position: sticky;
+  top: 0;
+  background: var(--paper);
+  z-index: 2;
+  vertical-align: bottom;
+  padding-bottom: 8px;
+}
+
+.matrix-table thead th.matrix-corner {
+  z-index: 3;
+  text-align: left;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.matrix-table tbody th {
+  position: sticky;
+  left: 0;
+  background: var(--paper);
+  z-index: 1;
+  text-align: left;
+  white-space: nowrap;
+  padding: 4px 12px 4px 10px;
+  border-right: 1px solid var(--line);
+}
+
+.matrix-col {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  border: none;
+  background: none;
+  font: inherit;
+  font-size: 11px;
+  color: var(--ink-soft);
+  cursor: pointer;
+  padding: 2px 0;
+  max-height: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.matrix-col:hover { color: var(--green); }
+
+.matrix-row {
+  border: none;
+  background: none;
+  font: inherit;
+  font-weight: 600;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 0;
+}
+
+.matrix-row:hover { color: var(--green); }
+
+.matrix-cell {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 26px;
+  border: none;
+  border-radius: 6px;
+  font-size: 11px;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+}
+
+.matrix-cell-0 { background: var(--paper-soft); cursor: default; }
+.matrix-cell-1 { background: #dcebe4; color: #23453a; }
+.matrix-cell-2 { background: #a9d0bf; color: #143128; }
+.matrix-cell-3 { background: #5fa48c; color: #f4f9f6; }
+.matrix-cell-4 { background: var(--green-dark); color: var(--cream); }
+
+.matrix-cell-active {
+  outline: 2px solid var(--gold);
+  outline-offset: 1px;
+}
+
+.matrix-evidence {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--paper-soft);
+  padding: 14px 16px;
+  margin-bottom: 14px;
+}
+
+.matrix-evidence-empty p { color: var(--muted); margin: 0; }
+
+.matrix-evidence-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.matrix-evidence-head h4 { font-size: 16px; }
+.matrix-evidence-head span { color: var(--muted); font-size: 12px; white-space: nowrap; }
+
+.matrix-segment-list {
+  list-style: none;
+  margin: 10px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.matrix-segment-list li {
+  border-top: 1px solid var(--line);
+  padding-top: 8px;
+}
+
+.matrix-segment-list p {
+  margin: 4px 0 0;
+  color: var(--ink-soft);
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+/* ---------- full-text paragraph hits ---------- */
+
+.paragraph-hit-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.paragraph-hit-list li {
+  border-top: 1px solid var(--line);
+  padding-top: 10px;
+}
+
+.paragraph-hit-list p {
+  margin: 4px 0 0;
+  color: var(--ink-soft);
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.paragraph-hit-list mark {
+  background: var(--cream);
+  color: var(--green-dark);
+  padding: 0 2px;
+  border-radius: 3px;
+}
+
+/* ---------- compact sidebar filters on small screens ---------- */
+
+@media (max-width: 720px) {
+  .topic-filters,
+  .type-filters {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 8px;
+    padding-bottom: 6px;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .topic-filters button,
+  .type-filters button {
+    flex: 0 0 auto;
+    white-space: nowrap;
+  }
+}
