@@ -3,7 +3,12 @@ const fs = require("fs");
 const path = require("path");
 const assert = require("assert");
 
-const root = path.resolve(__dirname, "..");
+const repoRoot = path.resolve(__dirname, "..");
+// Works from both layouts: the publish repo (files at root) and the
+// master knowledge base (files under site/).
+const root = fs.existsSync(path.join(repoRoot, "index.html"))
+  ? repoRoot
+  : path.join(repoRoot, "site");
 const html = fs.readFileSync(path.join(root, "index.html"), "utf8");
 const knowledge = fs.readFileSync(path.join(root, "data/knowledge.js"), "utf8");
 const articles = fs.readFileSync(path.join(root, "data/articles.js"), "utf8");
@@ -67,9 +72,19 @@ function clickDataset(selector, dataset) {
 assert(html.includes("执允·家族故事知识图谱"), "published page should use the public site title");
 assert(!html.includes("data-graph-overview"), "top navigation should not expose knowledge graph as a pseudo page");
 assert(!html.includes('data-scroll-target="#graphSection"'), "top navigation should not jump to the embedded graph module");
-assert(window.KNOWLEDGE_DATA.nodes.length === 695, "published knowledge data should include all nodes");
-assert(window.KNOWLEDGE_DATA.edges.length === 2843, "published knowledge data should include person relationship layer");
-assert(window.ARTICLE_DATA.articles.length === 32, "published article data should include all 32 stories");
+const nodeIds = new Set(window.KNOWLEDGE_DATA.nodes.map((node) => node.id));
+const storyNodeCount = window.KNOWLEDGE_DATA.nodes.filter((node) => node.type === "story").length;
+assert(window.KNOWLEDGE_DATA.nodes.length >= 695, "published knowledge data should include all nodes");
+assert(window.KNOWLEDGE_DATA.edges.length >= 2843, "published knowledge data should include person relationship layer");
+assert(storyNodeCount >= 32, "published knowledge data should keep every existing story");
+assert(
+  window.ARTICLE_DATA.articles.length === storyNodeCount,
+  `every story node should ship with its article (stories: ${storyNodeCount}, articles: ${window.ARTICLE_DATA.articles.length})`,
+);
+for (const edge of window.KNOWLEDGE_DATA.edges) {
+  assert(nodeIds.has(edge.source), `edge source missing from nodes: ${edge.source}`);
+  assert(nodeIds.has(edge.target), `edge target missing from nodes: ${edge.target}`);
+}
 assert(content().includes("atlas-layout"), "initial view should render story map home");
 assert(graph().includes("graph-summary"), "initial graph should render overview summary");
 

@@ -34,9 +34,16 @@
 
 ## 更新流程
 
-主项目仍是：
+主项目（唯一源头）：
 
 `/Users/richard/Library/CloudStorage/SynologyDrive-backup/云盘/codex/02_研究与写作/家族传承与治理知识库`
 
-主项目更新后，重新生成站点数据，再把 `site/` 同步到本发布仓库。
+**不要直接改本仓库**。所有修改在主项目里做，然后一条命令完成构建、校验、同步和发布：
+
+```bash
+cd 主项目目录
+scripts/publish_site.sh --push "提交说明"
+```
+
+新增一期故事的完整流程见主项目 `docs/更新流程.md`（文章入库 → 策展 spec → add_story.py → publish_site.sh）。
 

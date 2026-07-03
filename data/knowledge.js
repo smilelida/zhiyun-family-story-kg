@@ -1,6 +1,164 @@
 window.KNOWLEDGE_DATA = {
-  "generated_at": "2026-06-06",
+  "generated_at": "2026-07-03",
   "nodes": [
+    {
+      "id": "story:dassler",
+      "type": "story",
+      "title": "低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场",
+      "summary": "达斯勒的核心治理主线：两个鞋匠兄弟创造了阿迪达斯和彪马，却把一场 1943 年防空洞里的误会 熬成三代世仇。第二代里唯一有能力掌控帝国的霍斯特把一切绑在自己身上，五十一岁病逝后无人能接； 鲁道夫用偏心遗嘱折磨儿子，救下长子继承权的反而是一份没人在意的旧公司章程。 四个女儿在恐慌中以约一半估值卖掉阿迪达斯，银行把另一支请出彪马。 这个反面样本演全了家族企业的四道旧伤：没有写好的约定、强人身后的空椅子、 没有拆掉的引线、只传手艺不传规矩的教育。",
+      "path": "knowledge/stories/dassler.md",
+      "frontmatter": {
+        "id": "story:dassler",
+        "type": "story",
+        "title": "低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场",
+        "series_no": 34,
+        "families": [
+          "family:dassler-family"
+        ],
+        "regions": [
+          "德国",
+          "黑措根奥拉赫"
+        ],
+        "industries": [
+          "运动用品",
+          "制鞋",
+          "体育营销"
+        ],
+        "core_questions": [
+          "一份 1929 年的合伙协议，为什么挡不住 1948 年的分家和此后三代内斗？",
+          "强人把公司、关系和秘密都绑在自己身上，身后会发生什么？",
+          "家族没能为自己立规矩时，市场会怎样处置这个家族？"
+        ],
+        "concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow",
+          "concept:third-generation-risk",
+          "concept:information-opacity",
+          "concept:brake-mechanism"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "family_governance_signature": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+        "risk_profile": "私人恩怨渗入公司底色、强人集权且无接班安排、遗嘱替代治理、家族成员凭血缘任职、 没有任何冲突处理机制、恐慌之下被迫贱卖退出。",
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "story:tata",
+      "type": "story",
+      "title": "一杯牛奶与一座帝国：塔塔家族的一百五十八年",
+      "summary": "塔塔的核心治理主线：1918 年和 1932 年两份无嗣兄弟的遗嘱，把塔塔之子约八成股权送进慈善信托， 契约写明珠宝可卖、股份永不变现。此后每一代交接的都是未完成的事业而非可分的财产， 掌门从家族成员逐步过渡到外姓职业经理人，姓氏在 1998 年被折算成品牌费合同。 2016 年董事会罢免米斯特里和 2025 年信托内战证明，这套结构堵住了家族企业的传统死法， 也把冲突转移到了受托人层面：契约锁得住股份，锁不住对契约的解释权。",
+      "path": "knowledge/stories/tata.md",
+      "frontmatter": {
+        "id": "story:tata",
+        "type": "story",
+        "title": "一杯牛奶与一座帝国：塔塔家族的一百五十八年",
+        "series_no": 33,
+        "families": [
+          "family:tata-family"
+        ],
+        "regions": [
+          "印度",
+          "孟买"
+        ],
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ],
+        "core_questions": [
+          "一个家族在不持股、无血嗣的条件下，靠什么维持一个半世纪的控制与体面？",
+          "慈善信托控股堵住了分家和败家子，又制造了哪些新难题？",
+          "声誉怎样从家族默契变成有价格、有罚则的合同？"
+        ],
+        "concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance",
+          "concept:mission-locked-ownership",
+          "concept:professionalization",
+          "concept:succession-contingency",
+          "concept:institutionalized-trust"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "family_governance_signature": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+        "risk_profile": "信托契约对受托人遴选、利益冲突和分歧裁决留白，少数股东退出无解， 强人身后信托内战，政商距离在国有化与监管周期中反复承压。",
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
     {
       "id": "story:rothschild",
       "type": "story",
@@ -4024,6 +4182,81 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "family:tata-family",
+      "type": "family",
+      "title": "塔塔家族",
+      "summary": "帕西移民后裔，1868 年由詹姆谢特吉在孟买创业起家。家族先后经历七任掌门，其中四任无子女， 血脉两次靠领养和跨国婚姻续上。1918 年与 1932 年，两位无嗣的兄弟先后把名下股份捐入慈善信托， 形成塔塔之子约 66% 股权由信托持有的结构，家族个人持股合计不到 3%。 塔塔传承的不是财产，而是未完成的义务清单和一套择人标准。",
+      "path": "knowledge/families/tata-family.md",
+      "frontmatter": {
+        "id": "family:tata-family",
+        "type": "family",
+        "title": "塔塔家族",
+        "regions": [
+          "印度",
+          "孟买"
+        ],
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance",
+          "concept:mission-locked-ownership",
+          "concept:professionalization",
+          "concept:succession-contingency",
+          "concept:institutionalized-trust"
+        ],
+        "source_stories": [
+          "story:tata"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_signature": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+        "risk_profile": "信托契约对受托人遴选、利益冲突和分歧裁决留白，少数股东退出无解， 强人身后信托内战，政商距离在国有化与监管周期中反复承压。",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "family:ambani-family",
       "type": "family",
       "title": "安巴尼家族",
@@ -5007,6 +5240,75 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "family:dassler-family",
+      "type": "family",
+      "title": "达斯勒家族",
+      "summary": "巴伐利亚小镇黑措根奥拉赫的鞋匠家族。兄弟二人 1920 年代在母亲的洗衣棚里创业， 1948 年反目分家，一支做成阿迪达斯，一支做成彪马，恩怨把整座小镇劈成两半。 家族把做鞋的手艺和经营关系的本事传了三代，唯独没有传下共处、分权和传承的规矩。 鲁道夫一支 1989 年被银行卖出彪马，阿迪一支 1990 年半价卖光阿迪达斯， 2018 年最后一名家族成员从阿迪达斯退休，姓氏只剩鞋上的印字。",
+      "path": "knowledge/families/dassler-family.md",
+      "frontmatter": {
+        "id": "family:dassler-family",
+        "type": "family",
+        "title": "达斯勒家族",
+        "regions": [
+          "德国",
+          "黑措根奥拉赫"
+        ],
+        "industries": [
+          "运动用品",
+          "制鞋",
+          "体育营销"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow",
+          "concept:third-generation-risk",
+          "concept:information-opacity",
+          "concept:brake-mechanism"
+        ],
+        "source_stories": [
+          "story:dassler"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_signature": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+        "risk_profile": "私人恩怨渗入公司底色、强人集权且无接班安排、遗嘱替代治理、家族成员凭血缘任职、 没有任何冲突处理机制、恐慌之下被迫贱卖退出。",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "family:disney-family",
       "type": "family",
       "title": "迪斯尼家族",
@@ -5308,6 +5610,32 @@ window.KNOWLEDGE_DATA = {
           "story:kikkoman"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "person:jrd-tata",
+      "type": "person",
+      "title": "JRD·塔塔",
+      "summary": "塔塔第四任掌门（1904-1993），法国母亲所生，印度第一张飞行执照持有人，塔塔航空创办人。 1938 年三十四岁出任董事长，在任五十三年，把集团从 14 家公司带到 95 家。 他用人格魅力代替股权运转集团，给诸侯全部自由，代价是 1983 年发现塔塔之子在塔塔汽车持股仅约 3%。 个人几乎无恒产，租住一栋平房约五十年，股份捐入信托。",
+      "path": "knowledge/people/jrd-tata.md",
+      "frontmatter": {
+        "id": "person:jrd-tata",
+        "type": "person",
+        "title": "JRD·塔塔",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -5807,6 +6135,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:kaethe-dassler",
+      "type": "person",
+      "title": "凯特·达斯勒",
+      "summary": "阿迪之妻（1917-1984），制鞋世家马茨家的女儿，阿迪最重要的对外臂膀。 1978 年按遗嘱继承公司控制权，把四个女儿全部拉进管理层， 重大决策在别墅露台的咖啡桌上做出，妹妹每天花两小时拆阅公司所有来信。 她拒绝市场研究的理由是货都卖到断货了。这套咖啡桌治理让世界第一的公司 停在小作坊的治理水平，也给耐克留出了整个 1980 年代。",
+      "path": "knowledge/people/kaethe-dassler.md",
+      "frontmatter": {
+        "id": "person:kaethe-dassler",
+        "type": "person",
+        "title": "凯特·达斯勒",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:catherine-de-medici",
       "type": "person",
       "title": "凯瑟琳·德·美第奇",
@@ -6244,6 +6598,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:dorabji-tata",
+      "type": "person",
+      "title": "多拉布吉·塔塔",
+      "summary": "詹姆谢特吉长子（1859-1932），塔塔第二任掌门。1907 年靠八千名印度人三周认购建成塔塔钢铁， 1924 年发不出工资时把全部个人财产连同妻子的朱比利钻石抵押给银行换贷款。 1932 年签署信托契约，把名下一切捐入多拉布吉信托，写下那条不对称条款： 受托人可以卖地、卖股票、卖钻石，唯独不得动塔塔之子的股份。这一行字是今天塔塔结构的法律源头。无子女。",
+      "path": "knowledge/people/dorabji-tata.md",
+      "frontmatter": {
+        "id": "person:dorabji-tata",
+        "type": "person",
+        "title": "多拉布吉·塔塔",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:david-rockefeller",
       "type": "person",
       "title": "大卫·洛克菲勒",
@@ -6372,6 +6752,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:ratan-tata-senior",
+      "type": "person",
+      "title": "小拉坦·塔塔",
+      "summary": "詹姆谢特吉次子（1871-1918），住在伦敦的审美家。1909 到 1913 年分五笔匿名资助了 南非时期甘地的非暴力抵抗运动。1918 年去世，遗嘱把近八成财产导入公益， 1919 年拉坦·塔塔爵士信托成立，本金八百万卢比。塔塔模式不是预先画好的图纸， 是他和哥哥两份无嗣遗嘱恰好拼成的结构。",
+      "path": "knowledge/people/ratan-tata-senior.md",
+      "frontmatter": {
+        "id": "person:ratan-tata-senior",
+        "type": "person",
+        "title": "小拉坦·塔塔",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:john-d-rockefeller-jr",
       "type": "person",
       "title": "小约翰·D·洛克菲勒",
@@ -6478,6 +6884,32 @@ window.KNOWLEDGE_DATA = {
           "story:mars"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "person:frank-dassler",
+      "type": "person",
+      "title": "弗兰克·达斯勒",
+      "summary": "阿明长子、鲁道夫之孙。1987 年与弟弟一起被银行要求离开彪马。 2004 年跨过奥拉赫河出任阿迪达斯法务主管，打破了彪马继承人不进阿迪达斯的镇上禁忌， 但身份是雇员而非所有者。2018 年 1 月退休，是达斯勒家族在两家公司任职的最后一人。 从那天起，达斯勒这个姓与所有权、治理和这个家族本身再无关系。",
+      "path": "knowledge/people/frank-dassler.md",
+      "frontmatter": {
+        "id": "person:frank-dassler",
+        "type": "person",
+        "title": "弗兰克·达斯勒",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -6669,6 +7101,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:ratan-tata",
+      "type": "person",
+      "title": "拉丹·塔塔",
+      "summary": "塔塔第五任掌门（1937-2024），孤儿院立嗣者纳瓦尔之子，由祖母抚养成人。 康奈尔建筑学毕业，从车间学徒干起，接手时被舆论判定为错误人选。 在任二十一年完成削藩、品牌费合同、交叉持股增持和三大跨国收购，把集团收入从约 40 亿美元带到超 1000 亿。 终身未婚，个人持股 0.83%，遗产按遗嘱归入公益载体。2016 年他主导罢免继任者米斯特里， 笼子的设计者最终也住进了笼子。",
+      "path": "knowledge/people/ratan-tata.md",
+      "frontmatter": {
+        "id": "person:ratan-tata",
+        "type": "person",
+        "title": "拉丹·塔塔",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:stephen-badger",
       "type": "person",
       "title": "斯蒂芬·巴杰",
@@ -6804,6 +7262,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:gerd-dassler",
+      "type": "person",
+      "title": "格尔德·达斯勒",
+      "summary": "鲁道夫幼子，父亲偏爱的孩子，遗嘱中彪马的指定继承人，按章程实际只持四成有限合伙份额。 后来在公司财务危机中被哥哥阿明解雇，上一代兄弟反目在这一代重演。 退休后留在黑措根奥拉赫，住在与哥哥痛苦分产时分得的房子里， 承认家族纷争至今还让他做噩梦。",
+      "path": "knowledge/people/gerd-dassler.md",
+      "frontmatter": {
+        "id": "person:gerd-dassler",
+        "type": "person",
+        "title": "格尔德·达斯勒",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:angela-leong",
       "type": "person",
       "title": "梁安琪",
@@ -6825,6 +7309,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-trust"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:meherbai-tata",
+      "type": "person",
+      "title": "梅赫尔拜·塔塔",
+      "summary": "多拉布吉之妻（1879-1931），孟买妇女理事会创办人之一，公开反对童婚与深闺制。 1924 年危机中她的全部珠宝进了抵押清单，包括 245 克拉的朱比利钻石。 1931 年死于白血病后，丈夫以她的名义设立全球最早的白血病研究基金之一和印度女性留学基金。 那颗钻石 1937 年售出，款项化成了塔塔纪念医院和塔塔基础研究院。",
+      "path": "knowledge/people/meherbai-tata.md",
+      "frontmatter": {
+        "id": "person:meherbai-tata",
+        "type": "person",
+        "title": "梅赫尔拜·塔塔",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -7886,6 +8396,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:cyrus-mistry",
+      "type": "person",
+      "title": "西鲁斯·米斯特里",
+      "summary": "塔塔第六任掌门（1968-2022），最大单一股东帕隆吉家族之子，塔塔历史上唯一背后站着股权的董事长。 2012 年接任，2016 年 10 月 24 日在一场未列入议程的董事会动议中被罢免，五年诉讼打到最高法院， 罢免合法性被终审确认，但 18.37% 股份的退出作价至今无解。2022 年 9 月死于车祸。 他的经历证明：所有权与经营权分离若不彻底，比根本不分离更麻烦。",
+      "path": "knowledge/people/cyrus-mistry.md",
+      "frontmatter": {
+        "id": "person:cyrus-mistry",
+        "type": "person",
+        "title": "西鲁斯·米斯特里",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:james-mayer-rothschild",
       "type": "person",
       "title": "詹姆斯·迈尔·罗斯柴尔德",
@@ -7907,6 +8443,32 @@ window.KNOWLEDGE_DATA = {
           "concept:credit-capital"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:jamsetji-tata",
+      "type": "person",
+      "title": "詹姆谢特吉·塔塔",
+      "summary": "塔塔集团创始人（1839-1904），帕西祭司家族第一代弃教从商者之子。1868 年以两万一千卢比创业， 建皇后纺织厂时把养老金、工伤赔偿做在宗主国立法之前。生前立下钢厂、水电、研究院、酒店四个梦， 死时只落地一个半。1898 年划出约一半身家创办研究型学府，留给儿子的遗言是： 如果不能把它做得更大，至少守住它。塔塔式传承从他开始，交出去的是任务清单，不是财产。",
+      "path": "knowledge/people/jamsetji-tata.md",
+      "frontmatter": {
+        "id": "person:jamsetji-tata",
+        "type": "person",
+        "title": "詹姆谢特吉·塔塔",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -7963,6 +8525,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:noel-tata",
+      "type": "person",
+      "title": "诺埃尔·塔塔",
+      "summary": "拉丹同父异母的弟弟（1957 年生），纳瓦尔与西蒙娜之子，妻子阿露是帕隆吉家族现任掌门的妹妹。 操盘过塔塔零售业务的增长，2024 年 10 月拉丹去世四十八小时内被受托人全票推选为塔塔信托主席。 随后信托内部裂成两个阵营，受托人以微弱票差互相否决，2025 年惊动内政部长出面调停。 他执掌的是塔塔结构中真正的权力顶点，也是最脆弱的一环。",
+      "path": "knowledge/people/noel-tata.md",
+      "frontmatter": {
+        "id": "person:noel-tata",
+        "type": "person",
+        "title": "诺埃尔·塔塔",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:dhanin-chearavanont",
       "type": "person",
       "title": "谢国民",
@@ -8010,6 +8598,32 @@ window.KNOWLEDGE_DATA = {
           "concept:related-diversification"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:bernard-tapie",
+      "type": "person",
+      "title": "贝尔纳·塔皮",
+      "summary": "法国商人、电视名人、国会议员（1943-2021），1990 年以约四亿四千万马克买下阿迪达斯八成股份， 价格不到外界估值一半，且全部靠两年内到期的银行贷款。他把公司当作个人舞台， 入阁四十八天后辞职，资金链断裂，1993 年在国有银行里昂信贷的暗箱安排下转卖给路易-德雷福斯， 引发法国国家级丑闻。家族失去控制权后，公司沦为政客、银行和投机者之间的金融玩具。",
+      "path": "knowledge/people/bernard-tapie.md",
+      "frontmatter": {
+        "id": "person:bernard-tapie",
+        "type": "person",
+        "title": "贝尔纳·塔皮",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -8317,6 +8931,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:natarajan-chandrasekaran",
+      "type": "person",
+      "title": "钱德拉塞卡兰",
+      "summary": "塔塔第七任掌门（1963 年生），泰米尔纳德邦农家子弟，1987 年以实习生身份加入 TCS，此后未换过东家。 2017 年出任塔塔之子董事长，是一百五十年里第一位既不姓塔塔也非帕西人的掌门。 任内集团上市公司总市值从约 8.6 万亿卢比增至约 30 万亿，2021 年买回国有化六十八年的印度航空。 一股没有反而安稳，塔塔用他验证了管理者无恒产的隐性前提。",
+      "path": "knowledge/people/natarajan-chandrasekaran.md",
+      "frontmatter": {
+        "id": "person:natarajan-chandrasekaran",
+        "type": "person",
+        "title": "钱德拉塞卡兰",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:axel-dumas",
       "type": "person",
       "title": "阿克塞尔·迪马",
@@ -8395,6 +9035,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:armin-dassler",
+      "type": "person",
+      "title": "阿明·达斯勒",
+      "summary": "鲁道夫长子（1929-1990），彪马第二代掌门。被父亲的遗嘱剥夺继承权后， 靠一份从未修改的公司章程翻盘，以普通合伙人身份持有彪马六成股份。 巨星押注策略签下贝利、马拉多纳和贝克尔，也签出了拖垮公司的天价合同。 大权独揽、全凭冲动决策，与美国分销商翻脸、把两百万双鞋塞进折扣渠道， 1987 年被德意志银行告知你失去了你的公司，1990 年在失去彪马的抑郁中病逝。",
+      "path": "knowledge/people/armin-dassler.md",
+      "frontmatter": {
+        "id": "person:armin-dassler",
+        "type": "person",
+        "title": "阿明·达斯勒",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:adi-dassler",
+      "type": "person",
+      "title": "阿迪·达斯勒",
+      "summary": "阿迪达斯创始人（1900-1978），达斯勒家老三。一战后在母亲废弃的洗衣棚里用军用头盔皮革做鞋， 寡言的工匠，一生注册近七百项专利和工业产权，1936 年柏林奥运会让欧文斯穿上自家钉鞋， 1954 年的旋入式鞋钉帮西德队雨中夺冠。能为一个运动员亲手做几小时的鞋， 却至死没和哥哥和解，也没为家族写下一条像样的规则。葬在与兄长遥遥相对的墓园另一角。",
+      "path": "knowledge/people/adi-dassler.md",
+      "frontmatter": {
+        "id": "person:adi-dassler",
+        "type": "person",
+        "title": "阿迪·达斯勒",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:jacques-de-saussure",
       "type": "person",
       "title": "雅克·德索绪尔",
@@ -8440,6 +9132,32 @@ window.KNOWLEDGE_DATA = {
           "concept:professionalization"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:horst-dassler",
+      "type": "person",
+      "title": "霍斯特·达斯勒",
+      "summary": "阿迪独子（1936-1987），被称作现代体育营销之父。在法国阿尔萨斯自立门户， 瞒着家族用离岸控股搭起平行帝国，给每个体育官员建档案， 扶植阿维兰热和萨马兰奇登顶国际足联和国际奥委会，1982 年创办 ISL 垄断世界杯和奥运营销权。 1984 年用 ISL 股份换四个姐姐退出管理层，1985 年接掌阿迪达斯，1987 年五十一岁死于癌症。 他把权力、关系、秘密全装在自己一个人脑子里，死前两天还在病床上给全世界写信， 却没花一分力气培养接班人。他一死，帝国立刻解体。",
+      "path": "knowledge/people/horst-dassler.md",
+      "frontmatter": {
+        "id": "person:horst-dassler",
+        "type": "person",
+        "title": "霍斯特·达斯勒",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -8516,6 +9234,32 @@ window.KNOWLEDGE_DATA = {
           "concept:patient-long-termism"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:rudolf-dassler",
+      "type": "person",
+      "title": "鲁道夫·达斯勒",
+      "summary": "彪马创始人（1898-1974），达斯勒家老二，天生的销售，被形容像只开屏的孔雀。 1948 年与弟弟分家后创立彪马。一辈子偏爱幼子、公开打压长子阿明， 临终前反复修改遗嘱把彪马交给幼子，把长子完全排除在外， 死后这份遗嘱被一纸从未修改的公司章程推翻。父子裂痕与兄弟裂痕一样深，只是换了一对人。",
+      "path": "knowledge/people/rudolf-dassler.md",
+      "frontmatter": {
+        "id": "person:rudolf-dassler",
+        "type": "person",
+        "title": "鲁道夫·达斯勒",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -8756,6 +9500,37 @@ window.KNOWLEDGE_DATA = {
         "industries": [
           "家居",
           "零售"
+        ]
+      }
+    },
+    {
+      "id": "company:isl",
+      "type": "company",
+      "title": "ISL 国际体育与休闲公司",
+      "summary": "霍斯特 1982 年与日本电通在卢塞恩合资成立，垄断世界杯和奥运会的转播与全球营销权。 霍斯特用它的母公司股份换取姐姐们退出阿迪达斯管理层，身后成为子女与姑姑们对簿公堂的战场。 2001 年破产，曝出向国际足联官员行贿一亿三千八百万瑞郎， 贿赂线一直牵连到 2015 年国际足联大丑闻。体育商业化的开山公司，也是它的原罪标本。",
+      "path": "knowledge/companies/isl.md",
+      "frontmatter": {
+        "id": "company:isl",
+        "type": "company",
+        "title": "ISL 国际体育与休闲公司",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "运动用品",
+          "制鞋",
+          "体育营销"
         ]
       }
     },
@@ -9516,6 +10291,38 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:air-india",
+      "type": "company",
+      "title": "印度航空",
+      "summary": "前身是 JRD 1932 年创办的塔塔航空。1953 年被尼赫鲁政府国有化，政府转身请 JRD 出任董事长， 他分文不取管了二十五年，1978 年被撤职时是从电台广播里知道的。 2021 年 10 月塔塔之子以 1800 亿卢比中标私有化，八十三岁的拉丹发文：欢迎回家。 一来一回六十八年，是塔塔政商距离感最完整的一个标本。",
+      "path": "knowledge/companies/air-india.md",
+      "frontmatter": {
+        "id": "company:air-india",
+        "type": "company",
+        "title": "印度航空",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ]
+      }
+    },
+    {
       "id": "company:formosa-plastics",
       "type": "company",
       "title": "台塑集团",
@@ -9603,6 +10410,166 @@ window.KNOWLEDGE_DATA = {
           "story:zhou-dafu"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "company:tata-sons",
+      "type": "company",
+      "title": "塔塔之子",
+      "summary": "塔塔集团顶层控股公司，1917 年改组为控股架构。约 66% 股权由慈善信托持有， 帕隆吉家族持 18.37%，家族个人合计不到 3%。2014 年章程修正案赋予信托提名董事集体否决权， 2016 年罢免米斯特里的全部法律武器都藏在这份章程里。印度央行 2022 年将其列入必须上市名单， 公司以清偿债务、注销牌照应对，宁可拆杠杆也不交出股权结构。",
+      "path": "knowledge/companies/tata-sons.md",
+      "frontmatter": {
+        "id": "company:tata-sons",
+        "type": "company",
+        "title": "塔塔之子",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ]
+      }
+    },
+    {
+      "id": "company:tata-trusts",
+      "type": "company",
+      "title": "塔塔信托",
+      "summary": "以 1919 年拉坦·塔塔爵士信托和 1932 年多拉布吉·塔塔爵士信托为主体的信托群， 合计持有塔塔之子约 66% 股份，受益人栏写着不分地域、国籍或信仰。 印度后来立法禁止慈善信托持有公司股份，塔塔靠 1973 年祖父条款豁免，此结构今日已不可复制。 2024 年拉丹去世后受托人分裂成两个阵营，信托这种所有者不会死、不会卖、不会散，连吵架都是永生的。",
+      "path": "knowledge/companies/tata-trusts.md",
+      "frontmatter": {
+        "id": "company:tata-trusts",
+        "type": "company",
+        "title": "塔塔信托",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ]
+      }
+    },
+    {
+      "id": "company:tcs",
+      "type": "company",
+      "title": "塔塔咨询服务公司",
+      "summary": "1968 年作为塔塔之子的一个部门成立，因执照制年代印度国内无人敢用计算机，被逼成出口导向。 2004 年上市募资 11.7 亿美元，为增持交叉持股提供了弹药。 如今是全球最大 IT 服务企业之一，年营收超三百亿美元，贡献塔塔之子绝大部分股息。 整座帝国的现金心脏，是从一道政策夹缝里意外长出来的。",
+      "path": "knowledge/companies/tcs.md",
+      "frontmatter": {
+        "id": "company:tcs",
+        "type": "company",
+        "title": "塔塔咨询服务公司",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ]
+      }
+    },
+    {
+      "id": "company:tata-motors",
+      "type": "company",
+      "title": "塔塔汽车",
+      "summary": "1998 年推出印度第一款自主研发轿车 Indica，2008 年以 23 亿美元从福特手中买下捷豹路虎， 金融危机中巨亏自救后，捷豹路虎成为利润主力。同年推出十万卢比的 Nano， 因产能、起火事件和最便宜标签的心理反噬于 2019 年停产。 一家公司里同时装着塔塔最成功和最失败的两次豪赌。",
+      "path": "knowledge/companies/tata-motors.md",
+      "frontmatter": {
+        "id": "company:tata-motors",
+        "type": "company",
+        "title": "塔塔汽车",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ]
+      }
+    },
+    {
+      "id": "company:tata-steel",
+      "type": "company",
+      "title": "塔塔钢铁",
+      "summary": "1907 年注册，塔塔家第一次把姓氏写进公司名，建设资本全部来自约八千名印度人认购。 1924 年发薪危机中公司没有裁退一名工人，此后十三年里十二年股东没有分红。 1928 年大罢工调解签约后再无罢工。2007 年以 121 亿美元收购四倍于己的康力斯， 成为后来被称作来自地狱的交易的高杠杆包袱。",
+      "path": "knowledge/companies/tata-steel.md",
+      "frontmatter": {
+        "id": "company:tata-steel",
+        "type": "company",
+        "title": "塔塔钢铁",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
+        ]
       }
     },
     {
@@ -9720,6 +10687,37 @@ window.KNOWLEDGE_DATA = {
         "industries": [
           "奢侈品",
           "时尚"
+        ]
+      }
+    },
+    {
+      "id": "company:puma",
+      "type": "company",
+      "title": "彪马",
+      "summary": "鲁道夫·达斯勒 1948 年创立，先注册 Ruda 后改名 Puma。 1974 年遗嘱战争后由阿明执掌，巨星策略成也贝克尔败也贝克尔， 1989 年德意志银行把家族股份卖给科萨·利伯曼，家族出局。 1993 年三十岁的蔡茨用运动时尚战略起死回生，2007 年 PPR 以近七十一亿美元估值收购， 2026 年安踏拟以约十五亿欧元接手皮诺家族所持 29% 股份，交易里没有一个达斯勒。",
+      "path": "knowledge/companies/puma.md",
+      "frontmatter": {
+        "id": "company:puma",
+        "type": "company",
+        "title": "彪马",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "运动用品",
+          "制鞋",
+          "体育营销"
         ]
       }
     },
@@ -9939,6 +10937,38 @@ window.KNOWLEDGE_DATA = {
           "洋务",
           "实业",
           "金融"
+        ]
+      }
+    },
+    {
+      "id": "company:taj-hotels",
+      "type": "company",
+      "title": "泰姬酒店",
+      "summary": "1903 年詹姆谢特吉在孟买建成，全亚洲第一批电梯的现代化酒店。招聘专去小城镇找尊重长辈的孩子， 培训十八个月，授权现场为客人做主。2008 年 11 月 26 日恐怖袭击中员工无人擅离职守， 总机全员留守逐间提醒客人，多名员工殉职。哈佛商学院的结论是连高管都解释不了这些员工的行为， 拉丹的解释是那是一百三十年家长式对价攒下的亲族感。",
+      "path": "knowledge/companies/taj-hotels.md",
+      "frontmatter": {
+        "id": "company:taj-hotels",
+        "type": "company",
+        "title": "泰姬酒店",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "钢铁",
+          "IT 服务",
+          "汽车",
+          "综合集团"
         ]
       }
     },
@@ -10463,6 +11493,37 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:dassler-brothers-shoe-factory",
+      "type": "company",
+      "title": "达斯勒兄弟运动鞋厂",
+      "summary": "1924 年 7 月 1 日兄弟俩在黑措根奥拉赫注册的原点公司，弟弟做鞋、哥哥卖鞋。 1929 年签过界定权利义务的合伙协议，却从没写谁来拍板、配偶能否介入、闹翻了怎么散伙。 1936 年柏林奥运会达到声誉顶点，1948 年在兄弟反目中解体， 资产、员工甚至母亲都分了边，唯独没分出一套处理冲突的章法。",
+      "path": "knowledge/companies/dassler-brothers-shoe-factory.md",
+      "frontmatter": {
+        "id": "company:dassler-brothers-shoe-factory",
+        "type": "company",
+        "title": "达斯勒兄弟运动鞋厂",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "运动用品",
+          "制鞋",
+          "体育营销"
+        ]
+      }
+    },
+    {
       "id": "company:kuok-group",
       "type": "company",
       "title": "郭氏集团",
@@ -10581,6 +11642,37 @@ window.KNOWLEDGE_DATA = {
         "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
+      }
+    },
+    {
+      "id": "company:adidas",
+      "type": "company",
+      "title": "阿迪达斯",
+      "summary": "阿迪·达斯勒 1949 年正式注册的品牌，三道杠源自加固鞋帮的实用条纹。 阿迪死后由凯特和子女以咖啡桌方式治理，1980 年代被耐克和锐步超越。 1990 年四姐妹以约一半估值卖出，历经塔皮闹剧后 1995 年上市，家族持股归零。 此后由一代代职业经理人经营，2023 年因侃爷事件录得 1992 年以来首次年度亏损， 现任 CEO 古尔登来自死对头彪马。",
+      "path": "knowledge/companies/adidas.md",
+      "frontmatter": {
+        "id": "company:adidas",
+        "type": "company",
+        "title": "阿迪达斯",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "运动用品",
+          "制鞋",
+          "体育营销"
+        ]
       }
     },
     {
@@ -11007,10 +12099,12 @@ window.KNOWLEDGE_DATA = {
         "type": "tool",
         "title": "Family Exit From Brand",
         "source_stories": [
-          "story:gucci"
+          "story:gucci",
+          "story:dassler"
         ],
         "families": [
-          "family:gucci-family"
+          "family:gucci-family",
+          "family:dassler-family"
         ],
         "related_concepts": [
           "concept:family-conflict-as-innovation",
@@ -11864,6 +12958,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:asymmetric-trust-clause",
+      "type": "tool",
+      "title": "不对称信托条款",
+      "summary": "多拉布吉 1932 年契约的核心设计：受托人可以出售土地、股票、珠宝，唯独不得动塔塔之子股份。 财富全部可变现，控制权永不变现。它同时堵住家族企业最常见的死法：没有可分的遗产就没有分家， 管理权不依附血缘就没有败家子掌舵。局限：锁得住股份，锁不住解释权， 对受托人层面的冲突需要另配裁决机制。范氏义庄的义田不可分割条款是它的九百年前同构版本。",
+      "path": "knowledge/tools/asymmetric-trust-clause.md",
+      "frontmatter": {
+        "id": "tool:asymmetric-trust-clause",
+        "type": "tool",
+        "title": "不对称信托条款",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:lego-system-of-play",
       "type": "tool",
       "title": "乐高玩法系统",
@@ -11881,6 +13001,84 @@ window.KNOWLEDGE_DATA = {
           "concept:reinvestment-discipline"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:cross-holding-defense",
+      "type": "tool",
+      "title": "交叉持股防御",
+      "summary": "1983 年斯瓦拉杰·保罗突袭收购暴露塔塔之子在核心公司持股仅约 3% 的裸奔状态。 拉丹的对策：2004 年 TCS 上市募资反手增持，把塔塔之子在各运营公司的持股拉上 26% 否决线， 再让运营公司反向持股塔塔之子，织成外人无从下嘴的交叉持股网。 适用于家族控股比例被历史稀释的集团。代价：资本效率让位于控制权安全。",
+      "path": "knowledge/tools/cross-holding-defense.md",
+      "frontmatter": {
+        "id": "tool:cross-holding-defense",
+        "type": "tool",
+        "title": "交叉持股防御",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:charter-over-will",
+      "type": "tool",
+      "title": "公司章程高于遗嘱",
+      "summary": "解决的问题：任性遗嘱对企业继承的破坏。机制：德国法下有限合伙企业的公司章程效力高于个人遗嘱， 彪马那份从未修改的章程规定阿明是持六成份额的普通合伙人，直接挡住了父亲的偏心遗嘱。 启示：把继承安排写进公司层面的章程和股东协议，比写进个人遗嘱更能抵御临终的情绪化改写。 反讽在于这份章程并非精心设计，只是恰好存在。规则的价值，要到它缺席或在场的那一刻才被看清。",
+      "path": "knowledge/tools/charter-over-will.md",
+      "frontmatter": {
+        "id": "tool:charter-over-will",
+        "type": "tool",
+        "title": "公司章程高于遗嘱",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:exit-and-split-protocol",
+      "type": "tool",
+      "title": "分家与退出章法",
+      "summary": "达斯勒家的反面示范：1929 年的合伙协议分了利润和分工，却没写谁来拍板、配偶能否介入、 闹翻了怎么体面散伙。1948 年分家于是只能分资产不能分恩怨，冲突传了三代。 可拿走的做法：在顺境中预先写下分歧处理程序、退出定价机制和竞业边界， 让散伙有价格、有程序、有期限。对照案例：龟甲万八家的家族宪章、何鸿燊家族 2011 年和解协议。",
+      "path": "knowledge/tools/exit-and-split-protocol.md",
+      "frontmatter": {
+        "id": "tool:exit-and-split-protocol",
+        "type": "tool",
+        "title": "分家与退出章法",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -11947,6 +13145,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-consensus"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:brand-fee-contract",
+      "type": "tool",
+      "title": "品牌费与行为准则合同",
+      "summary": "1998 年起，凡使用塔塔名号的公司每年按营收缴纳 0.1% 至 0.25% 的品牌费， 同时必须签署塔塔行为准则。一百三十年的家族声誉第一次从口头默契变成有价格、有罚则的合同。 适用于多元化集团里姓氏被稀释使用的场景。代价：当年被股东骂作抽血， 需要掌门人扛住短期骂名。后来成为印度公司治理模板。",
+      "path": "knowledge/tools/brand-fee-contract.md",
+      "frontmatter": {
+        "id": "tool:brand-fee-contract",
+        "type": "tool",
+        "title": "品牌费与行为准则合同",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -12060,6 +13284,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:charitable-trust-holding",
+      "type": "tool",
+      "title": "慈善信托控股",
+      "summary": "解决的问题：分家、败家子和控制权稀释。做法：家族把控股权捐入慈善信托，受益人指向公共事业， 管理权与血缘脱钩。适用前提：法律允许信托持股（印度 1973 年后已关闸，塔塔靠祖父条款豁免）， 且家族接受财富不可变现。失败模式：契约若不写受托人遴选、利益冲突回避和分歧裁决， 平静年代的弹性会在冲突年代变成武器，塔塔 2025 年信托内战即是。 案例：塔塔（第 33 期）、博世（基金会持股）、宜家（第 18 期）。",
+      "path": "knowledge/tools/charitable-trust-holding.md",
+      "frontmatter": {
+        "id": "tool:charitable-trust-holding",
+        "type": "tool",
+        "title": "慈善信托控股",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:anti-fraud-motto",
       "type": "tool",
       "title": "戒欺",
@@ -12148,6 +13398,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:apprentice-crucible-succession",
+      "type": "tool",
+      "title": "烂摊子练手的接班人考验",
+      "summary": "塔塔的择人标准：无薪学徒进门，车间铲石灰石起步，接手真实的亏损业务证明自己。 拉丹接的前两个岗位都是烂摊子，钱德拉塞卡兰从实习生做到掌门。 逻辑与塔塔慈善的我给得起但我宁愿借同构：白给的东西不养人。 反例是米斯特里，他带着 18.37% 股权空降，最有产的掌门引爆了最大的危机。",
+      "path": "knowledge/tools/apprentice-crucible-succession.md",
+      "frontmatter": {
+        "id": "tool:apprentice-crucible-succession",
+        "type": "tool",
+        "title": "烂摊子练手的接班人考验",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:mars-five-principles",
       "type": "tool",
       "title": "玛氏五大原则",
@@ -12196,6 +13472,32 @@ window.KNOWLEDGE_DATA = {
           "concept:steward-ownership"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:athlete-sponsorship-system",
+      "type": "tool",
+      "title": "运动员绑定与赞助体系",
+      "summary": "从阿迪给欧文斯送鞋、1954 年给西德队上旋入式鞋钉，到霍斯特给官员建档案、 用 ISL 垄断赛事营销权，达斯勒家把抓住有影响力的人做成了产业级机器。 它创造了现代体育营销，也埋下两种风险：关系资产集中在个人身上无法传承（霍斯特之死）， 押注单一巨星的合同能把公司拖下水（贝克尔条款）。 影响力营销的祖师爷案例，也是它的风险教科书。",
+      "path": "knowledge/tools/athlete-sponsorship-system.md",
+      "frontmatter": {
+        "id": "tool:athlete-sponsorship-system",
+        "type": "tool",
+        "title": "运动员绑定与赞助体系",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -13516,6 +14818,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:bern-world-cup-1954",
+      "type": "event",
+      "title": "伯尔尼奇迹（1954）",
+      "summary": "1954 年世界杯决赛，雨中的伯尔尼，阿迪的旋入式鞋钉让西德队在泥地里三比二逆转匈牙利夺冠。 战败国的第一次世界性胜利让三道杠封神，也让免费给运动员送鞋的绑定模式成为行业标准。 体育营销的现代史从这双鞋钉开始。",
+      "path": "knowledge/events/bern-world-cup-1954.md",
+      "frontmatter": {
+        "id": "event:bern-world-cup-1954",
+        "type": "event",
+        "title": "伯尔尼奇迹（1954）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:dassler-split-1948",
+      "type": "event",
+      "title": "兄弟分家（1948）",
+      "summary": "1943 年防空洞里一句被听岔的话点燃积怨，1946 年去纳粹化审查中兄弟相互指证， 1948 年正式分家：机器、专利、员工、连母亲都分了边。 分得清每一台机器，却没为人和人闹翻了怎么办立下半句章法。 奥拉赫河从此成了液体的边界，小镇得名低头看鞋的城市。",
+      "path": "knowledge/events/dassler-split-1948.md",
+      "frontmatter": {
+        "id": "event:dassler-split-1948",
+        "type": "event",
+        "title": "兄弟分家（1948）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:wheelock-acquisition-1985",
       "type": "event",
       "title": "包氏家族收购会德丰",
@@ -13758,6 +15112,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:air-india-return-2021",
+      "type": "event",
+      "title": "印度航空回归（2021）",
+      "summary": "2021 年 10 月塔塔之子以 1800 亿卢比中标印度航空私有化，距它被国有化整整六十八年。 中标当晚八十三岁的拉丹发文：欢迎回家，印度航空。 买回它的不是塔塔家的人，是农家出身的职业经理人钱德拉塞卡兰。",
+      "path": "knowledge/events/air-india-return-2021.md",
+      "frontmatter": {
+        "id": "event:air-india-return-2021",
+        "type": "event",
+        "title": "印度航空回归（2021）",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:air-india-nationalization-1953",
+      "type": "event",
+      "title": "印度航空国有化（1953）",
+      "summary": "尼赫鲁政府将九家航空公司收归国有，JRD 得知时决策已成事实。 政府请他继续出任董事长，他接受且二十五年分文不取。 塔塔对政权的态度浓缩在这件事里：可以被拿走，不可以被需要感拿走。",
+      "path": "knowledge/events/air-india-nationalization-1953.md",
+      "frontmatter": {
+        "id": "event:air-india-nationalization-1953",
+        "type": "event",
+        "title": "印度航空国有化（1953）",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:tang-sentencing-2006",
       "type": "event",
       "title": "唐万新获刑",
@@ -13808,6 +15214,84 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:tata-trusts-infighting-2025",
+      "type": "event",
+      "title": "塔塔信托内战（2025）",
+      "summary": "拉丹去世后，受托人会议接连以微弱票差互相否决连任，拉丹密友梅利·米斯特里一方与诺埃尔一方反复拉锯， 2025 年 10 月内政部长约见双方要求关起门解决。2016 年塔塔用来指控米斯特里的信任赤字一词， 2025 年轮到信托内部互相指控。契约锁住了股份，锁不住对契约的解释权。",
+      "path": "knowledge/events/tata-trusts-infighting-2025.md",
+      "frontmatter": {
+        "id": "event:tata-trusts-infighting-2025",
+        "type": "event",
+        "title": "塔塔信托内战（2025）",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:tata-steel-founded-1907",
+      "type": "event",
+      "title": "塔塔钢铁三周筹资（1907）",
+      "summary": "伦敦融资失败后赶上国货运动沸点，1907 年 8 月塔塔钢铁在孟买注册， 三周内一百六十三万英镑建设资本全部由约八千名印度人认购，没有一分英国资本。 一家公司的股本第一次变成了民族运动的载体。",
+      "path": "knowledge/events/tata-steel-founded-1907.md",
+      "frontmatter": {
+        "id": "event:tata-steel-founded-1907",
+        "type": "event",
+        "title": "塔塔钢铁三周筹资（1907）",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:dorabji-trust-deed-1932",
+      "type": "event",
+      "title": "多拉布吉信托契约签署（1932）",
+      "summary": "1932 年 3 月 11 日，七十二岁的多拉布吉把名下一切捐入信托：塔塔之子全部持股、地产、 亡妻的二十一件珠宝。契约写明资金使用不分地域、国籍或信仰， 并留下天才条款：珠宝可卖，股份永不得动。与 1919 年拉坦信托合计， 两大信托从此持有塔塔之子约八成股权。签字后两个多月他去世，无子女。",
+      "path": "knowledge/events/dorabji-trust-deed-1932.md",
+      "frontmatter": {
+        "id": "event:dorabji-trust-deed-1932",
+        "type": "event",
+        "title": "多拉布吉信托契约签署（1932）",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:walworth-plant-opening-1973",
       "type": "event",
       "title": "威斯康星沃尔沃思工厂开幕",
@@ -13830,6 +15314,58 @@ window.KNOWLEDGE_DATA = {
           "segment:kikkoman-001"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "event:taj-attack-2008",
+      "type": "event",
+      "title": "孟买泰姬酒店恐袭（2008）",
+      "summary": "2008 年 11 月 26 日，武装分子袭击泰姬玛哈宫殿酒店，围困约六十小时，店内三十一人遇难， 包括十余名掩护客人撤离的员工。总经理在妻儿罹难后回到指挥位置三天未离开。 拉丹此后走访全部遇难员工家庭，补偿按假如他活到退休日全额发放。 员工用命兑付的，是这个家族五代人从 1886 年公积金开始攒下的信用。",
+      "path": "knowledge/events/taj-attack-2008.md",
+      "frontmatter": {
+        "id": "event:taj-attack-2008",
+        "type": "event",
+        "title": "孟买泰姬酒店恐袭（2008）",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:dassler-family-final-exit-2018",
+      "type": "event",
+      "title": "家族彻底退场（2018）",
+      "summary": "2018 年 1 月，阿明长子弗兰克·达斯勒从阿迪达斯法务岗位退休， 他是达斯勒家族在两家公司任职的最后一人。1995 年阿迪达斯上市时家族持股已经归零， 至此姓氏与所有权、席位、治理全部脱钩，只剩印在鞋上的两个字。",
+      "path": "knowledge/events/dassler-family-final-exit-2018.md",
+      "frontmatter": {
+        "id": "event:dassler-family-final-exit-2018",
+        "type": "event",
+        "title": "家族彻底退场（2018）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -13937,6 +15473,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:puma-family-exit-1989",
+      "type": "event",
+      "title": "彪马家族股份被售（1989）",
+      "summary": "贝克尔天价合同和美国市场溃败拖垮财务，1987 年德意志银行因贷款接管股份， 对阿明说出你失去了你的公司，两个儿子也被要求离开。 1989 年 5 月银行把家族所持 72% 股份卖给科萨·利伯曼，估值约四千三百五十万美元， 继承人们最终只分到两千万出头马克。鲁道夫一支就此出局。",
+      "path": "knowledge/events/puma-family-exit-1989.md",
+      "frontmatter": {
+        "id": "event:puma-family-exit-1989",
+        "type": "event",
+        "title": "彪马家族股份被售（1989）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:puma-will-war-1974",
+      "type": "event",
+      "title": "彪马遗嘱战争（1974-1975）",
+      "summary": "鲁道夫临终遗嘱把彪马交给幼子格尔德，长子阿明被完全排除。 1975 年律师发现按德国法，有限合伙的公司章程效力高于个人遗嘱， 而彪马章程从未修改，阿明本就是持六成份额的普通合伙人。 一个从不立规矩的家族，最关键的一次转危为安，靠的是一份被忽视却碰巧存在的旧章程。",
+      "path": "knowledge/events/puma-will-war-1974.md",
+      "frontmatter": {
+        "id": "event:puma-will-war-1974",
+        "type": "event",
+        "title": "彪马遗嘱战争（1974-1975）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:delong-collapse-2004",
       "type": "event",
       "title": "德隆危机爆发",
@@ -14039,6 +15627,32 @@ window.KNOWLEDGE_DATA = {
         ],
         "date": "1815",
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:berlin-olympics-1936",
+      "type": "event",
+      "title": "柏林奥运欧文斯穿达斯勒钉鞋（1936）",
+      "summary": "1936 年柏林奥运会，杰西·欧文斯穿着达斯勒兄弟厂的钉鞋夺得四枚金牌。 纳粹德国的政治风口里，一家小镇鞋厂靠押注运动员本人完成了全球扬名， 抓住一个有影响力的人就能撬动一整片市场的甜头，从此写进家族本能。",
+      "path": "knowledge/events/berlin-olympics-1936.md",
+      "frontmatter": {
+        "id": "event:berlin-olympics-1936",
+        "type": "event",
+        "title": "柏林奥运欧文斯穿达斯勒钉鞋（1936）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -14472,6 +16086,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:mistry-ouster-2016",
+      "type": "event",
+      "title": "米斯特里罢免（2016）",
+      "summary": "2016 年 10 月 24 日，罢免动议未列入议程，开会前五分钟米斯特里被告知辞职或被免。 六票赞成通过后，董事会当场豁免了拉丹自己 1992 年设立的七十五岁退休线，任命他为临时董事长。 五年诉讼后最高法院把法律问题全部判给塔塔，但 18.37% 股份的分手作价至今无解。 家族信托动用章程罢免大股东家的董事长，这场政变正是从塔塔模式里长出来的。",
+      "path": "knowledge/events/mistry-ouster-2016.md",
+      "frontmatter": {
+        "id": "event:mistry-ouster-2016",
+        "type": "event",
+        "title": "米斯特里罢免（2016）",
+        "source_stories": [
+          "story:tata"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "related_concepts": [
+          "concept:steward-ownership",
+          "concept:foundation-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:john-elkann-succession-2004",
       "type": "event",
       "title": "约翰·埃尔坎接过家族守门角色",
@@ -14843,6 +16483,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:dassler-factory-founded-1924",
+      "type": "event",
+      "title": "达斯勒兄弟鞋厂注册（1924）",
+      "summary": "1924 年 7 月 1 日，凡尔赛条约后的萧条德国，兄弟俩正式注册达斯勒兄弟运动鞋厂， 主打钉鞋和足球鞋。技术与销售的分工落在两个性格相反的人身上， 头十几年这个组合天衣无缝。",
+      "path": "knowledge/events/dassler-factory-founded-1924.md",
+      "frontmatter": {
+        "id": "event:dassler-factory-founded-1924",
+        "type": "event",
+        "title": "达斯勒兄弟鞋厂注册（1924）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:rothschild-will-1812",
       "type": "event",
       "title": "迈尔·罗斯柴尔德遗嘱",
@@ -14971,6 +16637,32 @@ window.KNOWLEDGE_DATA = {
           "segment:delong-007"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "event:adidas-family-exit-1990",
+      "type": "event",
+      "title": "阿迪达斯四姐妹出售（1990）",
+      "summary": "霍斯特死后姑侄内战、公司巨亏，被吓坏的四姐妹急于套现。 1990 年 7 月 4 日以约四亿四千万马克把八成股份卖给塔皮，只拿到外界估值的一半， 签约前最后一个请求是确认以后还能用八折买阿迪达斯的鞋。 一个统治世界体育装备六十年的家族，退场时惦记的是一张购物折扣卡。",
+      "path": "knowledge/events/adidas-family-exit-1990.md",
+      "frontmatter": {
+        "id": "event:adidas-family-exit-1990",
+        "type": "event",
+        "title": "阿迪达斯四姐妹出售（1990）",
+        "source_stories": [
+          "story:dassler"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "related_concepts": [
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap",
+          "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -15863,6 +17555,95 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:dassler-002",
+      "type": "segment",
+      "title": "2.2 柏林奥运的那双鞋 / 2.3 阿迪的工匠脾气",
+      "summary": "1936 年 8 月，柏林奥运会开幕。这是希特勒精心准备的一场种族优越论的展演，阿迪却在这场展演里下了一步与之相悖的棋。他通过已经当上纳粹田径队教练的老友魏茨尔，确保许多德国运动员会穿他的钉鞋，但他最想拿下的，是全场最受瞩目的那个人，杰西·欧文斯（Jesse Owens），一个阿拉巴马摘棉花工的黑人儿子。 按达斯勒家族自己的讲述，阿迪找到了这位美国运动员，怯生生地掏出自己的钉鞋，靠着比划和模仿，直到欧文斯同意试穿。这个寡言到只能靠手势促成合作的场景，是这个家族最爱讲的创业传奇之一。它有多少是真的，后世已难考证，连阿迪达斯集团自己的官方说法都用\"相传\"来措辞，是否本人到场、有没有付钱、说了什么话，都没有一手档案佐证。可以确证的只有一件事，而这件事已经足够：欧文斯在柏林一口气夺下四枚金牌，他脚上穿的，是一双两侧各有两道皮革条纹的深色达斯勒钉鞋。 跳远赛场上的一幕，把这件事的反讽推到了顶点。欧文斯的对手是德国选手卡尔·朗（Carl Ludwig \"Luz\" Long），一个金发碧眼、几乎可以直接登上雅利安优越论海报的人。朗倾尽全力跳出 7.87 米，追平了欧文斯刚创下的奥运纪录，希特勒在看台上喜形于色。但欧文斯最后一跳，沉默专注地...",
+      "path": "knowledge/segments/dassler-002.md",
+      "frontmatter": {
+        "id": "segment:dassler-002",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "2.2 柏林奥运的那双鞋 / 2.3 阿迪的工匠脾气",
+        "order": 2,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "2.2 柏林奥运的那双鞋 / 2.3 阿迪的工匠脾气",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:family-consensus",
+          "concept:family-conflict-as-innovation"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:medici-002",
       "type": "segment",
       "title": "2.2 领先时代五百年的组织创新 / 2.3 教皇的银行家",
@@ -15896,6 +17677,103 @@ window.KNOWLEDGE_DATA = {
           "company:medici-bank"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:tata-002",
+      "type": "segment",
+      "title": "2.3 一半身家 / 2.4 泰姬酒店",
+      "summary": "1892 年，他设立 J.N. 塔塔捐赠基金，每年选送印度学生赴英深造，机制是贷而不赠，他的原话是：我给得起，但我宁愿借。1898 年，他又做了一件让自家人都反对的事：划出年净收入十二万五千卢比、约占名下财产一半的资产，创办一所研究型学府。有人提议命名“塔塔大学”，他当场拒绝，理由极其务实：顶着他的名字，就不会再有人捐钱了。 最先反对的是自家人，一部分帕西人公开抱怨，这笔大钱竟然流出了本社区。1899 年，他在专访里说出了这个家族最重要的一段话：我们中间有一种很常见的慈善，缝缝补补式的慈善，给衣不蔽体者穿衣，给饥者饭食。我绝不贬低这种高贵的精神。但真正推动一个民族前进的，与其说是扶住它最弱小的成员，不如说是把最优秀、最有天分的人托举起来，使他们为国家做出最大的贡献。 然而政府的阻力却拖得很久。1899 年元旦，刚上任两天的印度总督寇松接见科学院筹备代表团，连发疑问：印度学生付得起高薪教授的学费吗，这些高级人才毕业后有职位安置吗。随后政府另派专家复核，把预算砍小，把选址改来改去，迈索尔土邦原本承诺的每年十万卢比补贴缩水到三万。他不撤回捐赠，只在采访里说了一句：寇松勋爵初来乍到，没有理由气馁。拉锯打了六年，到他死，研究院一砖未动...",
+      "path": "knowledge/segments/tata-002.md",
+      "frontmatter": {
+        "id": "segment:tata-002",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "2.3 一半身家 / 2.4 泰姬酒店",
+        "order": 2,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "2.3 一半身家 / 2.4 泰姬酒店",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -16221,6 +18099,192 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:tata-003",
+      "type": "segment",
+      "title": "3.4 孤儿院里的男孩与法国儿媳 / 4.1 塞纳河边的童年",
+      "summary": "到 1932 年，一个尖锐的事实摆在桌面上：詹姆谢特吉的两个儿子都没有子女，他这一支的直系传人断了。这个家族的延续，靠的是两件在当时帕西社会都不体面的事。 第一件是收养。纳瓦尔·塔塔，远支族人之子，四岁丧父，和哥哥被送进孟买的帕西孤儿院。小拉坦死后无人执礼，家庭会议想起了孤儿院里的远亲孩子。多拉布吉见到十三四岁的纳瓦尔，一眼就喜欢，引见给小拉坦的遗孀纳瓦杰拜，由她收养，立为塔塔家的嗣子，纳瓦尔从此接上了詹姆谢特吉这一脉。他后来形容那次命运转折：就像仙女挥了一下魔杖。而他的儿子，就是序章里那位躺在国旗下、从未出现在任何富豪榜上的拉丹·塔塔。 第二件是跨国婚姻。1902 年，四十六岁的堂弟 R.D. 在巴黎娶了法国姑娘苏珊·布里埃（Suzanne Brière），帕西社区一片哗然。多拉布吉写信骂这桩婚事“在印度不止是错误，简直是罪行”；创始人詹姆谢特吉却回信祝福。苏珊入帕西教门那天，长老们集体缺席抵制，站在她身后撑场的是多拉布吉的妻子梅赫尔拜，还悄悄教她应付圣水仪式：装作啜饮就行，别真喝。这位法国儿媳 1904 年生下的次子，就是 JRD。1926 年 R.D. 在法国猝逝，遗产清查的结果是资不抵债。二十二岁的 JRD 卖掉父亲...",
+      "path": "knowledge/segments/tata-003.md",
+      "frontmatter": {
+        "id": "segment:tata-003",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "3.4 孤儿院里的男孩与法国儿媳 / 4.1 塞纳河边的童年",
+        "order": 3,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "3.4 孤儿院里的男孩与法国儿媳 / 4.1 塞纳河边的童年",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:dassler-003",
+      "type": "segment",
+      "title": "3.5 小镇开始低头 / 4.1 被鲁道夫赶走的教练",
+      "summary": "分家把整座小镇撕成两半。奥拉赫河成了泾渭分明的分界线，一岸是鲁道夫的支持者，一岸是阿迪的。黑措根奥拉赫从此成了\"人们总是低头看的城市\"，开口说话之前，先得看清对方穿的是哪家的鞋。 这场分家最深的教训，藏在它最不起眼的地方。两兄弟分得清每一台机器、每一项专利、每一栋房子，却从未有过一份能处理分歧的契约。1924 年他们凭性情互补搭起公司，靠的是血缘和默契，从没写下过任何一条规则：谁拥有多少，谁拍板，妻子能不能介入，闹翻了怎么散伙。家族企业研究里有一个朴素的判断，第一代合伙人之间的治理空白，是这个家族最早、也最致命的结构性风险。达斯勒兄弟的合伙，二十四年里全靠两个人的脾气维系，脾气一变，公司就只能用最原始的方式拆开，用一条河、两家厂、把员工和亲人一个个分边来解决。 把这一幕放进同时代的家族企业里看，差别格外刺眼。后来被奉为德国家族治理范本的博世（Bosch），创始人罗伯特·博世在 1942 年去世前，留下一套把所有权和表决权分离的精巧安排，让公司能超长期地存在下去。达斯勒兄弟比博世晚辈，手里同样是世界级的事业，那份 1929 年的合伙协议却始终没有长成一套能在血缘失灵时兜底的治理。他们留给下一代的，不是一套制度，是一条河和一桩传...",
+      "path": "knowledge/segments/dassler-003.md",
+      "frontmatter": {
+        "id": "segment:dassler-003",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "3.5 小镇开始低头 / 4.1 被鲁道夫赶走的教练",
+        "order": 3,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "3.5 小镇开始低头 / 4.1 被鲁道夫赶走的教练",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:hu-xueyan-004",
       "type": "segment",
       "title": "4.2 庞大基业与接班人断层 / 4.3 系于一人的星形人脉网",
@@ -16361,6 +18425,192 @@ window.KNOWLEDGE_DATA = {
           "event:pazzi-conspiracy-1478"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:tata-004",
+      "type": "segment",
+      "title": "5.1 塔塔宫里的孤独男孩 / 5.2 IBM 打字机上的简历",
+      "summary": "拉丹·塔塔 1937 年生于孟买。十岁那年父母离婚，在 1948 年的印度这是丑闻。父亲纳瓦尔后来另娶瑞士姑娘西蒙娜，生下同父异母的弟弟诺埃尔，也就是日后执掌信托的那一位。拉丹和亲弟弟吉米则由祖母纳瓦杰拜接进塔塔宫抚养，她是小拉坦爵士的遗孀、塔塔之子历史上第一位女性董事。学校里的男孩们没完没了地拿他父母的事做文章，祖母教给他们的应对只有一条：不惜一切代价保持尊严，宁可走开，不去缠斗。他与父亲的关系，可以用三次冲突概括：他想学小提琴，父亲坚持钢琴；想去美国上大学，父亲坚持英国；想当建筑师，父亲坚持工程师。三次都是祖母出面，站在孙子一边。“要不是祖母，我根本到不了康奈尔。” 康奈尔七年，他前两年顺从父命读机械工程，然后转进建筑学院。1962 年毕业后在洛杉矶有了工作、有了车、谈了第一场认真的恋爱，“那段日子棒极了”。然后祖母病重，他回了印度，约定女友随后跟来。但由于女方父母不赞同，这段感情就散了。他后来算过账：我有四次走到结婚边缘，每次都退缩了。终身未婚。 回国时他兜里揣着 IBM 的工作邀约。JRD 听说后不悦，让他交一份简历。他在 IBM 的办公室里，用 IBM 的电动打字机打出了自己的简历。十五天后，他被派往贾姆谢德布尔，...",
+      "path": "knowledge/segments/tata-004.md",
+      "frontmatter": {
+        "id": "segment:tata-004",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "5.1 塔塔宫里的孤独男孩 / 5.2 IBM 打字机上的简历",
+        "order": 4,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "5.1 塔塔宫里的孤独男孩 / 5.2 IBM 打字机上的简历",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:family-consensus",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:dassler-004",
+      "type": "segment",
+      "title": "5.2 生意就是关系 / 5.3 厕所隔间里的信封",
+      "summary": "到 1960 年代末，\"流放\"还不到十年，霍斯特已经把那家\"发臭的工厂\"变成了火力强劲的生产基地。他在阿尔萨斯山里的兰德斯海姆（Landersheim）选中一座原本是狩猎小屋的客栈，翻修扩建，配上办公楼、网球场、足球场。纸面上，法国公司只是个要听命于德国总部的子公司，可在霍斯特手里，兰德斯海姆和它那家客栈，成了阿迪达斯真正的神经中枢。 霍斯特的工作方式近乎疯魔。他几乎不需要睡眠，半夜给下属打电话，张口就是\"你没睡吧？\"一位下属的美国女友被夜半电话激怒，抓起听筒怒吼：\"霍斯特，你在干扰我的性生活。\"他的招待客栈有一手\"旋转晚宴\"的奇招：三组客人分在三个房间，他轮流过去陪每组喝酒、吃前菜、用甜点，让每一组都觉得自己跟霍斯特共进了晚餐。在阿尔萨斯，人们叫他\"老板\"。 他把一套生意哲学说得明明白白。当下属抱怨签了约的球队球员上场穿别家鞋时，霍斯特厉声反问：\"你跟他们一起进过更衣室吗？你知道他们老婆的名字吗？你事先跟他们吃过午饭吗？那你还指望什么？\"他的格言是：\"生意就是关系。\"到他这里，做生意靠的是把每一个有用的人都伺候到位的本事。他给每个联系人建一份详细档案，记下对方家人的姓名年龄、衣服尺码、好恶、上次谈了什么、送过什么礼。他手下...",
+      "path": "knowledge/segments/dassler-004.md",
+      "frontmatter": {
+        "id": "segment:dassler-004",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "5.2 生意就是关系 / 5.3 厕所隔间里的信封",
+        "order": 4,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "5.2 生意就是关系 / 5.3 厕所隔间里的信封",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -16507,6 +18757,103 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:tata-005",
+      "type": "segment",
+      "title": "6.2 蛇吞鲨 / 6.3 一拉克的承诺",
+      "summary": "手里有了底气，拉丹开始向外看。2000 年，塔塔茶叶以 2.71 亿英镑收购体量接近自己三倍的英国泰特莱，一家印度公司买下了给大英帝国供茶的公司。 更大的赌注紧随其后。2006 年 10 月，塔塔钢铁向英荷钢铁巨头康力斯发出收购要约，初始报价 455 便士一股，约 76 亿美元。巴西钢铁商 CSN 半路杀入竞拍，两家在伦敦拍了八个小时，塔塔以 608 便士一股胜出，总价 121 亿美元，比最初报价高出近 60%。塔塔钢铁世界第五十六，康力斯世界第九，小鱼吞下了四倍于己的鲨鱼。孟买股市次日把塔塔钢铁砸跌 10.7%。拉丹的回应：将来有人回头看，会说我们做对了。 将来真的来了，只是答案和拉丹想的不一样。2008 年雷曼倒闭，两笔收购同时陷入冰封。捷豹路虎这边，塔塔汽车以 23 亿美元从福特手中买下两个英国品牌，豪车市场冻结，塔塔汽车巨亏自救；然后市场回暖，中国买家进场，捷豹路虎几年内成了塔塔汽车利润的绝对主力。 康力斯这边，欧洲钢需求持续萎缩，累计减写约 20 亿英镑，英国长材业务最后以 1 英镑象征价出售，财经媒体给这桩交易起的绰号是“来自地狱的交易”。捷豹路虎买的是品牌和技术，周期一过就回血；康力斯买的是产能和成本曲线，周期...",
+      "path": "knowledge/segments/tata-005.md",
+      "frontmatter": {
+        "id": "segment:tata-005",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "6.2 蛇吞鲨 / 6.3 一拉克的承诺",
+        "order": 5,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "6.2 蛇吞鲨 / 6.3 一拉克的承诺",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:hu-xueyan-006",
       "type": "segment",
       "title": "6.3 主动降级与向均值回归 / 6.4 跨越周期的济世招牌",
@@ -16544,6 +18891,95 @@ window.KNOWLEDGE_DATA = {
           "event:huqingyutang-heritage-2006"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:dassler-005",
+      "type": "segment",
+      "title": "6.3 把彪马押在巨星身上 / 6.4 贝克尔合同的代价",
+      "summary": "阿明很清楚，论财力，彪马永远拼不过阿迪达斯。霍斯特满世界撒三道杠，他只能反其道而行，把赌注集中押在少数几个国际化、有魅力、能上头条的巨星身上。 这套打法一度漂亮。彪马签下了率纽约喷气机队夺超级碗的乔·纳马斯（Joe Namath），签下了纽约尼克斯的明星后卫沃尔特·弗雷泽（Walt Frazier），两人拿的是同样的条款：每年两万五千美元，外加每卖一双签名鞋两毛五分版税。弗雷泽那双蓝麂皮的\"彪马克莱德\"，整个 1970 年代卖出超过一百万双，从球场走上了街头，让彪马第一次踏进时尚领域。加上世界杯上的贝利，阿明的\"巨星策略\"在 70 年代撑起了彪马的国际声誉。 阿明在拉丁美洲的收获最大。靠巴西的人脉，他签下了 1978 年世界杯阿根廷队的大部分球员，其中包括一个还是少年、合同需要父亲代签的迭戈·马拉多纳（Diego Maradona）。这位日后的球王日益任性，到慕尼黑参加体育用品展时，要带上约二十口人的全家，订下一长排相邻套房。把赌注押在巨星身上，赌赢时风光无限，可一旦巨星的脾气和身价跟着膨胀，账单就再也收不住了。这套逻辑的甜与险，阿明很快会在一个网球少年身上尝到极致。 但同一套打法，也藏着同一种危险：押注集中，决策全凭一人的...",
+      "path": "knowledge/segments/dassler-005.md",
+      "frontmatter": {
+        "id": "segment:dassler-005",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "6.3 把彪马押在巨星身上 / 6.4 贝克尔合同的代价",
+        "order": 5,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "6.3 把彪马押在巨星身上 / 6.4 贝克尔合同的代价",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -16609,6 +19045,192 @@ window.KNOWLEDGE_DATA = {
           "tool:family-rules-and-frugality"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:tata-006",
+      "type": "segment",
+      "title": "7.3 五页信与十二月围剿 / 7.4 三回合",
+      "summary": "次日，米斯特里向董事会发出五页机密信件，随即泄露见报。信里有两枚炸弹。第一枚是数字：对集团问题业务的现实评估“可能导致累计 1.18 万亿卢比的减写”，约合 180 亿美元，点名五大问题资产，欧洲钢铁、塔塔电信、电厂、酒店海外资产、乘用车业务。第二枚是指控：拉丹持续干预，架空董事长。塔塔的回应同样不留情面，给出的罢免理由是董事会对他“不断扩大的信任赤字”。 十二月，围剿开始。塔塔之子发函各上市公司召开股东特别大会罢免米斯特里的董事职务，TCS 打头阵，毕竟塔塔之子持有它七成股份。米斯特里抢在战车碾到之前辞去全部董事职务，声明说要把这场战役“转移到一个法治与公平得到维护的更大平台”。次日，米斯特里家族的两家投资公司以“压迫与管理不善”为由，把塔塔之子和拉丹·塔塔告上国家公司法法庭。 2018 年，公司法法庭驳回米斯特里方全部诉请。2019 年 12 月，上诉法庭翻盘，判罢免“非法”，恢复米斯特里的执行董事长职务。2021 年 3 月，最高法院 282 页终审判决把法律问题全部判给塔塔：罢免董事长本身不构成压迫，公司不欠任何人一把椅子；章程条款全部有效——米斯特里家族 1965 年入股时就明知并接受这些条款，拿着它的好处时没有喊...",
+      "path": "knowledge/segments/tata-006.md",
+      "frontmatter": {
+        "id": "segment:tata-006",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "7.3 五页信与十二月围剿 / 7.4 三回合",
+        "order": 6,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "7.3 五页信与十二月围剿 / 7.4 三回合",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:dassler-006",
+      "type": "segment",
+      "title": "7.4 买来和平的礼物 / 7.5 病床上的最后一封信",
+      "summary": "1984 年，病重的凯特想把出走的儿子召回家族中枢，让霍斯特正式接掌阿迪达斯。霍斯特为此付出了一个日后看来代价高昂的筹码。 为了换取四个姐姐退出公司的日常管理，霍斯特给了每个姐姐一份\"礼物\"：ISL 控股母公司各百分之十六的股份。ISL 起初由他和电通各持一半，两年后他说服电通让他拿到百分之五十一的多数股权，放进这家控股公司。如今他自己只留百分之三十六，三个姐姐一旦联手，就能否决他。霍斯特的律师震惊地说：\"这对我来说很难理解，他给了姐姐们一份非常贵重的礼物。\" 这份礼物，是一颗定时炸弹。它当下买来了家族的和平，让霍斯特顺利掌权；却在他身后，变成子女和姑姑们围绕 ISL 控制权死战的引信。一个为了平息家族矛盾而做出的让步，几年后会撕开一道更大的口子。1984 年 12 月 19 日，法律安排敲定。十二天后，1984 年 12 月 31 日，凯特·达斯勒在医院去世，享年六十七岁，验尸结论是心脏衰竭，也有人说是心碎。她最后的日子是在奥地利一处公寓里独自度过的，女儿们意识到她病重派飞机去接，已经太晚。 接掌大权后，霍斯特只来得及全力经营了两年。 1986 年，他瞒着所有人溜去纽约看医生，被告知左眼后方的癌细胞需要手术。瞒病的一个理由...",
+      "path": "knowledge/segments/dassler-006.md",
+      "frontmatter": {
+        "id": "segment:dassler-006",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "7.4 买来和平的礼物 / 7.5 病床上的最后一封信",
+        "order": 6,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "7.4 买来和平的礼物 / 7.5 病床上的最后一封信",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -16757,6 +19379,103 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:tata-007",
+      "type": "segment",
+      "title": "8.4 二〇二六年六月十二日 / 9.1 笼子的设计者住进笼子",
+      "summary": "写作本文的这一天，孟买大宅照常开董事会。正式议程是审议年报与分红，会上还顺带看了印度航空等亏损业务。钱德拉的任期、上市与否、SP 的退出、慈善专员的调查、梅利的申诉，五件大事，董事会一项都没拍板。 从经营层面看，集团仍处在少有的强势期：营收超 1800 亿美元，百万员工照常上班，晶圆厂在打地基，新一代 iPhone 在金奈下线。真正不稳定的，是集团顶端那张过去总有人能压住分歧的椅子。詹姆谢特吉的曾曾孙辈不再持股，多拉布吉的契约正被法庭和慈善专员逐条重新解读，拉丹没有留下子女，只留下一条狗、一份遗嘱和一组互相指控的受托人。这个家族曾经把难题都交给制度去回答，现在制度自己成了难题。 塔塔治理结构的演变只有四步，每一步都是对上一场危机的回应，又给下一场危机留了门。 第一步是 1918 和 1932 年的两份遗嘱，把约八成股权送进慈善信托；多拉布吉契约里那条不对称条款值得再读一遍：受托人可以卖掉朱比利钻石，但永远不得动塔塔之子的股份。财富全部可以变现，控制权永不变现。这一条同时堵住了家族企业最常见的几种“死法”：没有可分的遗产就没有分家，管理权不依附血缘就没有败家子掌舵。一百五十八年里，这个家族没有爆发过一场家族成员之间的遗产争夺，...",
+      "path": "knowledge/segments/tata-007.md",
+      "frontmatter": {
+        "id": "segment:tata-007",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "8.4 二〇二六年六月十二日 / 9.1 笼子的设计者住进笼子",
+        "order": 7,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "8.4 二〇二六年六月十二日 / 9.1 笼子的设计者住进笼子",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:fan-yizhuang-008",
       "type": "segment",
       "title": "8.4 祖宗均同 / 8.5 家声也是资产",
@@ -16819,6 +19538,95 @@ window.KNOWLEDGE_DATA = {
           "tool:family-rules-and-frugality"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:dassler-007",
+      "type": "segment",
+      "title": "8.5 河两岸都换了主人 / 9.1 一份没有写好的约定",
+      "summary": "Smit 的书写到 2008 年。此后近二十年的故事，把\"家族出局\"这件事推向了一个连她也难以预料的结局。 阿迪达斯换了一茬又一茬职业经理人。海纳干到 2016 年，交棒给来自汉高的卡斯珀·罗思德（Kasper Rørsted）。2022 年，公司撞上一场自找的灾难：与说唱明星侃爷（Kanye West）合作的 Yeezy 联名线本是最赚钱的业务之一，却因侃爷在社交媒体发表反犹言论，在 2022 年 10 月被迫终止，仓库里积压着约十三亿美元的滞销库存。终止合作拖累阿迪达斯第四季度陷入亏损；公司真正的全年亏损出现在 2023 年，归属股东净亏约七千五百万欧元，是它自 1992 年以来仅见的全年亏损。2023 年初接任的，是比约恩·古尔登（Bjørn Gulden）。这次接班本身就是百年世仇里最戏剧的一幕：古尔登此前是彪马的 CEO，他从奥拉赫河南岸的彪马，直接走到了北岸的阿迪达斯，去给死对头掌舵。他把 Yeezy 库存分批卖掉、不予销毁，划出约两亿六千万欧元捐给反歧视组织，到 2024 年底全部清空。2024 年阿迪达斯营收回到二百三十六亿八千万欧元，归属股东净利润恢复到约七亿六千四百万欧元，但市值仍只有耐克的约四分之一。连...",
+      "path": "knowledge/segments/dassler-007.md",
+      "frontmatter": {
+        "id": "segment:dassler-007",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "8.5 河两岸都换了主人 / 9.1 一份没有写好的约定",
+        "order": 7,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "8.5 河两岸都换了主人 / 9.1 一份没有写好的约定",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -19146,6 +21954,95 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:dassler-001",
+      "type": "segment",
+      "title": "序章 一条河、两座坟、一双被打量的鞋 / 1.1 织布工的尽头",
+      "summary": "德国巴伐利亚北部有一座小镇，叫黑措根奥拉赫（Herzogenaurach）。一条不宽的奥拉赫河（Aurach）从镇中穿过。今天去看，河的北岸是阿迪达斯（Adidas）的全球总部，取名\"世界体育之家\"；河的南岸是彪马（Puma）的总部。两家公司隔水相望，步行二十分钟可达。阿迪达斯长期是仅次于耐克（Nike）的全球第二大运动品牌，彪马也稳居世界头部。很难再找到第二个两万多人的小镇，同时供养着两个这样量级的对手。 这件事的起点，是一对亲兄弟。哥哥叫鲁道夫·达斯勒（Rudolf Dassler），生于 1898 年；弟弟叫阿道夫·达斯勒（Adolf Dassler），生于 1900 年，家里人和后来全世界都叫他阿迪（Adi）。1920 年前后，两人在母亲一间废弃的洗衣棚里开始做鞋。1924 年，兄弟俩正式注册了\"达斯勒兄弟运动鞋厂\"。再后来，他们反目，1948 年分家，一个做了阿迪达斯，一个做了彪马。 镇上的公墓不大。鲁道夫 1974 年下葬，阿迪 1978 年下葬，两座坟被安排在墓园斜对角的两端，几乎是这块地能拉开的最远距离。两个共用过一间卧室、一张工作台、一家公司的兄弟，死后被葬得尽可能地远。 分家把整座小镇也劈成了两半。奥拉赫...",
+      "path": "knowledge/segments/dassler-001.md",
+      "frontmatter": {
+        "id": "segment:dassler-001",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "序章 一条河、两座坟、一双被打量的鞋 / 1.1 织布工的尽头",
+        "order": 1,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "序章 一条河、两座坟、一双被打量的鞋 / 1.1 织布工的尽头",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:fan-yizhuang-001",
       "type": "segment",
       "title": "序章 天平山下的一笺纸 / 1.1 失去范姓的孩子",
@@ -19247,6 +22144,103 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:tata-001",
+      "type": "segment",
+      "title": "序章 没有继承人的送别 / 1.1 满到杯口的牛奶",
+      "summary": "2024 年 10 月 10 日上午，孟买南城国家表演艺术中心的草坪上，一具覆盖着印度国旗的遗体停放在那里，从清晨起排队瞻仰的人流就没有断过，马哈拉施特拉邦全邦哀悼一天。人流里，工作人员牵来一条流浪狗果阿（Goa），几年前死者在果阿邦把它捡回家，用获救的地名给它命名。它被牵到灵前，与主人道别。 来吊唁的人里，亚洲首富穆克什·安巴尼鞠了躬，亚洲第二富高塔姆·阿达尼发文致哀。而躺在国旗下的拉丹·塔塔（Ratan Tata），从未出现在任何一份富豪榜上。钱不在他名下。 他身后的塔塔集团，2024-25 财年营收超过 1，800 亿美元，雇员一百多万，二十六家上市公司合计市值据公开报道估计约 3，280 亿美元，业务遍及一百多个国家。印度人用塔塔的盐做饭，开塔塔的车，住塔塔的酒店，连印度产的 iPhone 也有一部分出自塔塔的工厂。但这座帝国的顶层控股公司塔塔之子（Tata Sons），约 66% 的股份不属于任何自然人，属于一组慈善信托：1919 年的拉坦·塔塔爵士信托，1932 年的多拉布吉·塔塔爵士信托，以及它们的十几个姊妹信托。家族成员的个人持股合计不到 3%，拉丹本人那一份是 0.83%。他名下遗产估值约 4.5 亿美元，...",
+      "path": "knowledge/segments/tata-001.md",
+      "frontmatter": {
+        "id": "segment:tata-001",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "序章 没有继承人的送别 / 1.1 满到杯口的牛奶",
+        "order": 1,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "序章 没有继承人的送别 / 1.1 满到杯口的牛奶",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:stanley-ho-004",
       "type": "segment",
       "title": "当然，这些指控在家族内外引起轩然大波，但何鸿燊从未公开回应",
@@ -19345,6 +22339,192 @@ window.KNOWLEDGE_DATA = {
           "tool:holding-company-stewardship"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:tata-008",
+      "type": "segment",
+      "title": "思想实验 / 参考文献",
+      "summary": "把你放回那个上午。你是七十二岁的多拉布吉·塔塔，孟买，律师楼。九个月前妻子死于白血病，你们没有孩子。桌上摊着一份信托契约，附件清单你逐行核过：塔塔之子的全部股份，地产，亡妻留下的二十一件珠宝，包括那颗朱比利钻石。签了字，塔塔家从此不再拥有塔塔。 你在契约里写下那条不对称条款：受托人可以卖地、卖股票、卖钻石，唯独不得动塔塔之子的股份。可你见过人心在钱边上的样子。一百年后的受托人，会不会拿着这条款互相罢免？会不会有政府的官员举着监管的图章重新解释它？要不要留一个修改的活口？留了，怕被野心家撬开；不留，怕它变成勒死后人的枷锁。你打算怎么给一份要管一百年的契约上锁，又在哪里留一道只有善意才打得开的缝？ 现在把场景换成你自己。你的家族或公司里，有没有一笔你宁可永远锁住、也不愿看它被分掉的资产？如果今天让你起草一份要运行一百年的章程，你会把哪一条写死，又会在哪一条留白？ 多拉布吉签了字。九十三年后，2026 年 5 月，慈善专员一纸暂缓令送到孟买大宅，受托人们围着他那份契约的解释权对簿公堂；同一个星期，贾姆谢德布尔照常出钢，泰姬酒店照常迎客，他以妻子之名设立的医院照常把四分之三的床位留给付不起钱的病人。他锁住的东西，一样都没有丢；他没能...",
+      "path": "knowledge/segments/tata-008.md",
+      "frontmatter": {
+        "id": "segment:tata-008",
+        "type": "segment",
+        "story": "story:tata",
+        "title": "思想实验 / 参考文献",
+        "order": 8,
+        "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+        "source_heading": "思想实验 / 参考文献",
+        "entities": [
+          "family:tata-family",
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata",
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india",
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025",
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "families": [
+          "family:tata-family"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:family-consensus",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:jamsetji-tata",
+          "person:dorabji-tata",
+          "person:ratan-tata-senior",
+          "person:meherbai-tata",
+          "person:jrd-tata",
+          "person:ratan-tata",
+          "person:cyrus-mistry",
+          "person:natarajan-chandrasekaran",
+          "person:noel-tata"
+        ],
+        "key_companies": [
+          "company:tata-sons",
+          "company:tata-trusts",
+          "company:tata-steel",
+          "company:tcs",
+          "company:tata-motors",
+          "company:taj-hotels",
+          "company:air-india"
+        ],
+        "key_events": [
+          "event:tata-steel-founded-1907",
+          "event:dorabji-trust-deed-1932",
+          "event:air-india-nationalization-1953",
+          "event:taj-attack-2008",
+          "event:mistry-ouster-2016",
+          "event:air-india-return-2021",
+          "event:tata-trusts-infighting-2025"
+        ],
+        "tools": [
+          "tool:charitable-trust-holding",
+          "tool:asymmetric-trust-clause",
+          "tool:brand-fee-contract",
+          "tool:apprentice-crucible-succession",
+          "tool:cross-holding-defense"
+        ],
+        "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:dassler-008",
+      "type": "segment",
+      "title": "思想实验：你会为家族写下哪条规矩 / 参考文献",
+      "summary": "请你回到 1948 年 4 月的黑措根奥拉赫。你是阿道夫·达斯勒，四十七岁。你和哥哥鲁道夫的分家终于谈完了，桌上摊着一份资产清单：火车站旁的大厂归你，维尔茨堡街的小厂归他，机器、专利、连那栋别墅，都已经一项项分清。员工们正在自己选边，技术工跟你，销售员跟他。你母亲选了他那边，你姐姐选了你这边。你年近五十，手里有技术却没了销售队伍，得从头再来。 笔还在你手里。除了分割资产，你其实还能写下点别的东西，一份给后人立的规矩。可是这一刻，有三个问题挡在你面前。 第一个问题是情感上的。哥哥刚在去纳粹化审查里指证过你，你也指证过他；你们的母亲跟了他。你心里清楚，你和他这辈子是和不了了。那么，你还有没有心力，去为你们各自的孩子写一条规则，逼着下一代继续打交道？还是干脆一刀两断，让两家从此老死不相往来？你怎么选？ 第二个问题是利益上的。你快五十岁了，销售队伍全跟了哥哥，公司能不能活下去都两说。你是把眼下宝贵的精力全砸在重启生意、活下来上面，还是分出一部分，去做一件短期看毫无回报、要很多年后才显出价值的事，给一家还没站稳的公司立治理规矩？在生存和立规之间，你押哪一头？ 第三个问题是长远的。你看着自己的儿子霍斯特，看着哥哥的儿子阿明、格尔德，你隐...",
+      "path": "knowledge/segments/dassler-008.md",
+      "frontmatter": {
+        "id": "segment:dassler-008",
+        "type": "segment",
+        "story": "story:dassler",
+        "title": "思想实验：你会为家族写下哪条规矩 / 参考文献",
+        "order": 8,
+        "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+        "source_heading": "思想实验：你会为家族写下哪条规矩 / 参考文献",
+        "entities": [
+          "family:dassler-family",
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie",
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl",
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018",
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "families": [
+          "family:dassler-family"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:family-consensus",
+          "concept:family-conflict-as-innovation"
+        ],
+        "key_people": [
+          "person:adi-dassler",
+          "person:rudolf-dassler",
+          "person:kaethe-dassler",
+          "person:horst-dassler",
+          "person:armin-dassler",
+          "person:gerd-dassler",
+          "person:frank-dassler",
+          "person:bernard-tapie"
+        ],
+        "key_companies": [
+          "company:adidas",
+          "company:puma",
+          "company:dassler-brothers-shoe-factory",
+          "company:isl"
+        ],
+        "key_events": [
+          "event:dassler-factory-founded-1924",
+          "event:berlin-olympics-1936",
+          "event:dassler-split-1948",
+          "event:bern-world-cup-1954",
+          "event:puma-will-war-1974",
+          "event:puma-family-exit-1989",
+          "event:adidas-family-exit-1990",
+          "event:dassler-family-final-exit-2018"
+        ],
+        "tools": [
+          "tool:charter-over-will",
+          "tool:exit-and-split-protocol",
+          "tool:athlete-sponsorship-system",
+          "tool:family-exit-from-brand"
+        ],
+        "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -58384,6 +61564,3973 @@ window.KNOWLEDGE_DATA = {
       "reviewed": false,
       "curation_stage": "person_relationships_v1",
       "source_story": "story:zhou-dafu"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-001",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-002",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-003",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "concept:family-consensus",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-004",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-005",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-006",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-007",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "concept:family-consensus",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:tata-008",
+      "target": "tool:charitable-trust-holding",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "family:tata-family",
+      "type": "mentions",
+      "label": "讲述家族",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "concept:philanthropy-as-governance",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "concept:professionalization",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:jamsetji-tata",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jamsetji-tata",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:dorabji-tata",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:dorabji-tata",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:ratan-tata-senior",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:ratan-tata-senior",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:meherbai-tata",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:meherbai-tata",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:jrd-tata",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jrd-tata",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:ratan-tata",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:ratan-tata",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:cyrus-mistry",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cyrus-mistry",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:natarajan-chandrasekaran",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:natarajan-chandrasekaran",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "person:noel-tata",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:noel-tata",
+      "target": "family:tata-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "company:tata-sons",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-sons",
+      "target": "family:tata-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "company:tata-trusts",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-trusts",
+      "target": "family:tata-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "company:tata-steel",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-steel",
+      "target": "family:tata-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "company:tcs",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tcs",
+      "target": "family:tata-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "company:tata-motors",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-motors",
+      "target": "family:tata-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "company:taj-hotels",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:taj-hotels",
+      "target": "family:tata-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "company:air-india",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:air-india",
+      "target": "family:tata-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "event:tata-steel-founded-1907",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "event:dorabji-trust-deed-1932",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "event:air-india-nationalization-1953",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "event:taj-attack-2008",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "event:mistry-ouster-2016",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "event:air-india-return-2021",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "event:tata-trusts-infighting-2025",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "tool:charitable-trust-holding",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "tool:asymmetric-trust-clause",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "tool:brand-fee-contract",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "tool:apprentice-crucible-succession",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:tata",
+      "target": "tool:cross-holding-defense",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jamsetji-tata",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jamsetji-tata",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:dorabji-tata",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:dorabji-tata",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:ratan-tata-senior",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:ratan-tata-senior",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:meherbai-tata",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:meherbai-tata",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jrd-tata",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jrd-tata",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:ratan-tata",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:ratan-tata",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cyrus-mistry",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cyrus-mistry",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:natarajan-chandrasekaran",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:natarajan-chandrasekaran",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:noel-tata",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:noel-tata",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-sons",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-sons",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-trusts",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-trusts",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-steel",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-steel",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tcs",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tcs",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-motors",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:tata-motors",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:taj-hotels",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:taj-hotels",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:air-india",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:air-india",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:tata-steel-founded-1907",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:tata-steel-founded-1907",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dorabji-trust-deed-1932",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dorabji-trust-deed-1932",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:air-india-nationalization-1953",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:air-india-nationalization-1953",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:taj-attack-2008",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:taj-attack-2008",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:mistry-ouster-2016",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:mistry-ouster-2016",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:air-india-return-2021",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:air-india-return-2021",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:tata-trusts-infighting-2025",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:tata-trusts-infighting-2025",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:charitable-trust-holding",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:charitable-trust-holding",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:asymmetric-trust-clause",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:asymmetric-trust-clause",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:brand-fee-contract",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:brand-fee-contract",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:apprentice-crucible-succession",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:apprentice-crucible-succession",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:cross-holding-defense",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:cross-holding-defense",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制与体面，也把治理难题从后代滥用财富换成了受托人滥用控制权。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jamsetji-tata",
+      "target": "person:dorabji-tata",
+      "type": "parent_child",
+      "label": "父子传承",
+      "evidence": "多拉布吉承接父亲的钢厂、水电、研究院任务清单，逐项兑现。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "person:jamsetji-tata",
+      "target": "person:ratan-tata-senior",
+      "type": "parent_child",
+      "label": "父子关系",
+      "evidence": "小拉坦是詹姆谢特吉次子，遗嘱把近八成财产导入公益。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "person:dorabji-tata",
+      "target": "person:meherbai-tata",
+      "type": "spouse",
+      "label": "夫妻关系",
+      "evidence": "梅赫尔拜的珠宝在 1924 年危机中全部进入抵押清单，她身后丈夫以她之名设立两个信托。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "person:jrd-tata",
+      "target": "person:ratan-tata",
+      "type": "successor",
+      "label": "选任接班",
+      "evidence": "1991 年 JRD 在董事会提名拉丹接任董事长，交班于执照制废除前夜。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "person:ratan-tata",
+      "target": "person:cyrus-mistry",
+      "type": "successor",
+      "label": "遴选接班",
+      "evidence": "2011 年五人遴选委员会选中最大单一股东家的米斯特里，一年后接班。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "person:ratan-tata",
+      "target": "person:cyrus-mistry",
+      "type": "conflict",
+      "label": "罢免冲突",
+      "evidence": "2016 年拉丹主导的信托力量罢免米斯特里，引发五年诉讼与至今无解的股权死结。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "person:ratan-tata",
+      "target": "person:natarajan-chandrasekaran",
+      "type": "professional_delegate",
+      "label": "职业经理人接掌",
+      "evidence": "2017 年农家出身的钱德拉塞卡兰出任塔塔之子董事长，一股没有反而安稳。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "person:noel-tata",
+      "target": "person:ratan-tata",
+      "type": "sibling",
+      "label": "同父异母兄弟",
+      "evidence": "诺埃尔是拉丹同父异母的弟弟，2024 年接掌塔塔信托主席。",
+      "source_file": "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:tata"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-001",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "concept:family-consensus",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-002",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-003",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-004",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-005",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-006",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-007",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "concept:family-consensus",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:dassler-008",
+      "target": "tool:charter-over-will",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "family:dassler-family",
+      "type": "mentions",
+      "label": "讲述家族",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "concept:founder-shadow",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "concept:information-opacity",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "concept:brake-mechanism",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:adi-dassler",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:adi-dassler",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:rudolf-dassler",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:rudolf-dassler",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:kaethe-dassler",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:kaethe-dassler",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:horst-dassler",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:horst-dassler",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:armin-dassler",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:armin-dassler",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:gerd-dassler",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:gerd-dassler",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:frank-dassler",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:frank-dassler",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "person:bernard-tapie",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:bernard-tapie",
+      "target": "family:dassler-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "company:adidas",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:adidas",
+      "target": "family:dassler-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "company:puma",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:puma",
+      "target": "family:dassler-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "company:dassler-brothers-shoe-factory",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:dassler-brothers-shoe-factory",
+      "target": "family:dassler-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "company:isl",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:isl",
+      "target": "family:dassler-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:dassler-factory-founded-1924",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:berlin-olympics-1936",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:dassler-split-1948",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:bern-world-cup-1954",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:puma-will-war-1974",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:puma-family-exit-1989",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:adidas-family-exit-1990",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "event:dassler-family-final-exit-2018",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "tool:charter-over-will",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "tool:exit-and-split-protocol",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "tool:athlete-sponsorship-system",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:dassler",
+      "target": "tool:family-exit-from-brand",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:adi-dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:adi-dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:rudolf-dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:rudolf-dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:kaethe-dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:kaethe-dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:horst-dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:horst-dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:armin-dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:armin-dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:gerd-dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:gerd-dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:frank-dassler",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:frank-dassler",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:bernard-tapie",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:bernard-tapie",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:adidas",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:adidas",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:puma",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:puma",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:dassler-brothers-shoe-factory",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:dassler-brothers-shoe-factory",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:isl",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:isl",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dassler-factory-founded-1924",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dassler-factory-founded-1924",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:berlin-olympics-1936",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:berlin-olympics-1936",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dassler-split-1948",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dassler-split-1948",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:bern-world-cup-1954",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:bern-world-cup-1954",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:puma-will-war-1974",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:puma-will-war-1974",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:puma-family-exit-1989",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:puma-family-exit-1989",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:adidas-family-exit-1990",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:adidas-family-exit-1990",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dassler-family-final-exit-2018",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:dassler-family-final-exit-2018",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:charter-over-will",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:charter-over-will",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:exit-and-split-protocol",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:exit-and-split-protocol",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:athlete-sponsorship-system",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:athlete-sponsorship-system",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 1990 年相继把彪马和阿迪达斯的控制权全部输光， 品牌被外人救活，家族被市场请走。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:adi-dassler",
+      "target": "person:rudolf-dassler",
+      "type": "sibling",
+      "label": "兄弟共创",
+      "evidence": "弟弟做鞋哥哥卖鞋，1924 年共同注册达斯勒兄弟鞋厂，头十几年组合天衣无缝。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:adi-dassler",
+      "target": "person:rudolf-dassler",
+      "type": "conflict",
+      "label": "兄弟反目",
+      "evidence": "1943 年防空洞误会与 1946 年审查互证后彻底决裂，1948 年分家，至死未和解，坟墓分踞墓园两端。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:adi-dassler",
+      "target": "person:kaethe-dassler",
+      "type": "spouse",
+      "label": "夫妻搭档",
+      "evidence": "凯特是阿迪最重要的对外臂膀，阿迪死后按遗嘱继承公司控制权。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:adi-dassler",
+      "target": "person:horst-dassler",
+      "type": "parent_child",
+      "label": "父子传承",
+      "evidence": "霍斯特是阿迪独子，少年被送去父亲读过的制鞋学校，后成为第二代唯一有能力掌控帝国的人。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:kaethe-dassler",
+      "target": "person:horst-dassler",
+      "type": "parent_child",
+      "label": "母子召回",
+      "evidence": "1984 年病重的凯特把出走法国的儿子召回接掌阿迪达斯，代价是给姐姐们的 ISL 股份礼物。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:rudolf-dassler",
+      "target": "person:armin-dassler",
+      "type": "parent_child",
+      "label": "父子偏心",
+      "evidence": "鲁道夫一生打压长子，临终遗嘱把他完全排除，阿明靠公司章程才保住继承权。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:rudolf-dassler",
+      "target": "person:gerd-dassler",
+      "type": "parent_child",
+      "label": "偏爱幼子",
+      "evidence": "鲁道夫偏爱格尔德，遗嘱把彪马所有权交给他，按章程实际只持四成。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:armin-dassler",
+      "target": "person:gerd-dassler",
+      "type": "sibling",
+      "label": "兄弟相残",
+      "evidence": "救法国子公司的财务危机时，阿明被迫把亲弟弟格尔德从管理层赶出，重演父辈反目。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.82,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:horst-dassler",
+      "target": "person:armin-dassler",
+      "type": "conflict",
+      "label": "堂兄弟战争",
+      "evidence": "两人把父辈的战争又打了一遍，霍斯特死前几周还在记者会上公开羞辱堂弟。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
+    },
+    {
+      "source": "person:armin-dassler",
+      "target": "person:frank-dassler",
+      "type": "parent_child",
+      "label": "父子关系",
+      "evidence": "弗兰克与弟弟 1987 年随父亲一起被银行逐出彪马，后跨河成为阿迪达斯雇员。",
+      "source_file": "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:dassler"
     }
   ]
 };

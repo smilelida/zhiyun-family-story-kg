@@ -1,5 +1,5 @@
 window.ARTICLE_DATA = {
-  "generated_at": "2026-06-06",
+  "generated_at": "2026-07-03",
   "articles": [
     {
       "story_id": "story:bosch",
@@ -103282,6 +103282,5337 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "Ivan Lansberg, Succeeding Generations: Realizing the Dream of Families in Business, Boston: Harvard Business School Press, 1999。",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "story:tata",
+      "title": "一杯牛奶与一座帝国：塔塔家族的一百五十八年",
+      "series_no": 33,
+      "source_files": [
+        "文章/一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）.md"
+      ],
+      "related_node_ids": [
+        "family:tata-family",
+        "person:jamsetji-tata",
+        "person:dorabji-tata",
+        "person:ratan-tata-senior",
+        "person:meherbai-tata",
+        "person:jrd-tata",
+        "person:ratan-tata",
+        "person:cyrus-mistry",
+        "person:natarajan-chandrasekaran",
+        "person:noel-tata",
+        "company:tata-sons",
+        "company:tata-trusts",
+        "company:tata-steel",
+        "company:tcs",
+        "company:tata-motors",
+        "company:taj-hotels",
+        "company:air-india",
+        "event:tata-steel-founded-1907",
+        "event:dorabji-trust-deed-1932",
+        "event:air-india-nationalization-1953",
+        "event:taj-attack-2008",
+        "event:mistry-ouster-2016",
+        "event:air-india-return-2021",
+        "event:tata-trusts-infighting-2025",
+        "concept:steward-ownership",
+        "concept:foundation-ownership",
+        "concept:philanthropy-as-governance",
+        "concept:mission-locked-ownership",
+        "concept:professionalization",
+        "concept:succession-contingency",
+        "concept:institutionalized-trust",
+        "tool:charitable-trust-holding",
+        "tool:asymmetric-trust-clause",
+        "tool:brand-fee-contract",
+        "tool:apprentice-crucible-succession",
+        "tool:cross-holding-defense"
+      ],
+      "toc": [
+        {
+          "id": "tata-p-001",
+          "level": 1,
+          "title": "一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）"
+        },
+        {
+          "id": "tata-p-002",
+          "level": 2,
+          "title": "序章 没有继承人的送别"
+        },
+        {
+          "id": "tata-p-012",
+          "level": 2,
+          "title": "第一章 祭司的儿子"
+        },
+        {
+          "id": "tata-p-013",
+          "level": 3,
+          "title": "1.1 满到杯口的牛奶"
+        },
+        {
+          "id": "tata-p-018",
+          "level": 3,
+          "title": "1.2 香港的鸦片与伦敦的废纸"
+        },
+        {
+          "id": "tata-p-024",
+          "level": 3,
+          "title": "1.3 把土填进去，把金子挖出来"
+        },
+        {
+          "id": "tata-p-031",
+          "level": 2,
+          "title": "第二章 四个梦"
+        },
+        {
+          "id": "tata-p-032",
+          "level": 3,
+          "title": "2.1 总督来来去去"
+        },
+        {
+          "id": "tata-p-036",
+          "level": 3,
+          "title": "2.2 蓝底船旗上的三个词"
+        },
+        {
+          "id": "tata-p-041",
+          "level": 3,
+          "title": "2.3 一半身家"
+        },
+        {
+          "id": "tata-p-045",
+          "level": 3,
+          "title": "2.4 泰姬酒店"
+        },
+        {
+          "id": "tata-p-047",
+          "level": 3,
+          "title": "2.5 一张任务清单"
+        },
+        {
+          "id": "tata-p-051",
+          "level": 2,
+          "title": "第三章 钻石与契约"
+        },
+        {
+          "id": "tata-p-052",
+          "level": 3,
+          "title": "3.1 三周与八千人"
+        },
+        {
+          "id": "tata-p-056",
+          "level": 3,
+          "title": "3.2 发不出工资的那个月"
+        },
+        {
+          "id": "tata-p-060",
+          "level": 3,
+          "title": "3.3 签字的那一天"
+        },
+        {
+          "id": "tata-p-065",
+          "level": 3,
+          "title": "3.4 孤儿院里的男孩与法国儿媳"
+        },
+        {
+          "id": "tata-p-070",
+          "level": 2,
+          "title": "第四章 法国少年与五十三年"
+        },
+        {
+          "id": "tata-p-071",
+          "level": 3,
+          "title": "4.1 塞纳河边的童年"
+        },
+        {
+          "id": "tata-p-074",
+          "level": 3,
+          "title": "4.2 朱胡滩涂上的二十五公斤邮件"
+        },
+        {
+          "id": "tata-p-077",
+          "level": 3,
+          "title": "4.3 利润是个脏字"
+        },
+        {
+          "id": "tata-p-081",
+          "level": 3,
+          "title": "4.4 诸侯与人事部"
+        },
+        {
+          "id": "tata-p-085",
+          "level": 3,
+          "title": "4.5 一九九一年的告别"
+        },
+        {
+          "id": "tata-p-088",
+          "level": 2,
+          "title": "第五章 学徒与削藩"
+        },
+        {
+          "id": "tata-p-089",
+          "level": 3,
+          "title": "5.1 塔塔宫里的孤独男孩"
+        },
+        {
+          "id": "tata-p-091",
+          "level": 3,
+          "title": "5.2 IBM 打字机上的简历"
+        },
+        {
+          "id": "tata-p-094",
+          "level": 3,
+          "title": "5.3 两个烂摊子"
+        },
+        {
+          "id": "tata-p-097",
+          "level": 3,
+          "title": "5.4 六年逐一请退"
+        },
+        {
+          "id": "tata-p-101",
+          "level": 3,
+          "title": "5.5 把姓氏变成合同"
+        },
+        {
+          "id": "tata-p-105",
+          "level": 2,
+          "title": "第六章 远征与代价"
+        },
+        {
+          "id": "tata-p-106",
+          "level": 3,
+          "title": "6.1 底特律的九十分钟"
+        },
+        {
+          "id": "tata-p-110",
+          "level": 3,
+          "title": "6.2 蛇吞鲨"
+        },
+        {
+          "id": "tata-p-116",
+          "level": 3,
+          "title": "6.3 一拉克的承诺"
+        },
+        {
+          "id": "tata-p-120",
+          "level": 3,
+          "title": "6.4 燃烧的穹顶"
+        },
+        {
+          "id": "tata-p-125",
+          "level": 3,
+          "title": "6.5 不行贿的代价"
+        },
+        {
+          "id": "tata-p-129",
+          "level": 2,
+          "title": "第七章 罢免与法庭"
+        },
+        {
+          "id": "tata-p-130",
+          "level": 3,
+          "title": "7.1 笼子与跛脚鸭"
+        },
+        {
+          "id": "tata-p-134",
+          "level": 3,
+          "title": "7.2 十月二十四日下午两点"
+        },
+        {
+          "id": "tata-p-138",
+          "level": 3,
+          "title": "7.3 五页信与十二月围剿"
+        },
+        {
+          "id": "tata-p-141",
+          "level": 3,
+          "title": "7.4 三回合"
+        },
+        {
+          "id": "tata-p-144",
+          "level": 3,
+          "title": "7.5 六十八天"
+        },
+        {
+          "id": "tata-p-147",
+          "level": 2,
+          "title": "第八章 空位与悬念"
+        },
+        {
+          "id": "tata-p-148",
+          "level": 3,
+          "title": "8.1 农家子弟与回家的航班"
+        },
+        {
+          "id": "tata-p-152",
+          "level": 3,
+          "title": "8.2 最后的岁月与一份遗嘱"
+        },
+        {
+          "id": "tata-p-155",
+          "level": 3,
+          "title": "8.3 信托的内战"
+        },
+        {
+          "id": "tata-p-159",
+          "level": 3,
+          "title": "8.4 二〇二六年六月十二日"
+        },
+        {
+          "id": "tata-p-162",
+          "level": 2,
+          "title": "第九章 一百五十八年的账本"
+        },
+        {
+          "id": "tata-p-163",
+          "level": 3,
+          "title": "9.1 笼子的设计者住进笼子"
+        },
+        {
+          "id": "tata-p-171",
+          "level": 3,
+          "title": "9.2 先传义务，后传姓氏"
+        },
+        {
+          "id": "tata-p-176",
+          "level": 3,
+          "title": "9.3 一杯牛奶的距离"
+        },
+        {
+          "id": "tata-p-179",
+          "level": 3,
+          "title": "9.4 不可复制的部分"
+        },
+        {
+          "id": "tata-p-183",
+          "level": 2,
+          "title": "结语 糖在奶里"
+        },
+        {
+          "id": "tata-p-190",
+          "level": 2,
+          "title": "思想实验"
+        },
+        {
+          "id": "tata-p-195",
+          "level": 2,
+          "title": "参考文献"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "tata-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "一杯牛奶与一座帝国：塔塔家族的一百五十八年（执允“家族·故事”系列第 33 期）",
+          "related_node_ids": [
+            "family:tata-family"
+          ]
+        },
+        {
+          "id": "tata-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "序章 没有继承人的送别",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2024 年 10 月 10 日上午，孟买南城国家表演艺术中心的草坪上，一具覆盖着印度国旗的遗体停放在那里，从清晨起排队瞻仰的人流就没有断过，马哈拉施特拉邦全邦哀悼一天。人流里，工作人员牵来一条流浪狗果阿（Goa），几年前死者在果阿邦把它捡回家，用获救的地名给它命名。它被牵到灵前，与主人道别。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "来吊唁的人里，亚洲首富穆克什·安巴尼鞠了躬，亚洲第二富高塔姆·阿达尼发文致哀。而躺在国旗下的拉丹·塔塔（Ratan Tata），从未出现在任何一份富豪榜上。钱不在他名下。",
+          "related_node_ids": [
+            "person:ratan-tata"
+          ]
+        },
+        {
+          "id": "tata-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他身后的塔塔集团，2024-25 财年营收超过 1，800 亿美元，雇员一百多万，二十六家上市公司合计市值据公开报道估计约 3，280 亿美元，业务遍及一百多个国家。印度人用塔塔的盐做饭，开塔塔的车，住塔塔的酒店，连印度产的 iPhone 也有一部分出自塔塔的工厂。但这座帝国的顶层控股公司塔塔之子（Tata Sons），约 66% 的股份不属于任何自然人，属于一组慈善信托：1919 年的拉坦·塔塔爵士信托，1932 年的多拉布吉·塔塔爵士信托，以及它们的十几个姊妹信托。家族成员的个人持股合计不到 3%，拉丹本人那一份是 0.83%。他名下遗产估值约 4.5 亿美元，绝大部分按遗嘱归入两家公益基金会。真正写进遗嘱的私人牵挂，是给爱犬蒂托（Tito）留的一笔 120 万卢比照护基金，按季度发放，由厨师执行。",
+          "related_node_ids": [
+            "person:dorabji-tata",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "全印度最大的商业帝国，每年利润的大头顺着股权结构往上走，最后流进医院、实验室、奖学金和村庄供水工程，而不是某个家族的口袋。这不是临时起意，它已经连续运转了一百多年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从 1868 年创业算起，集团有过七任掌门。第二任多拉布吉无子女，他的弟弟小拉坦无子女，第四任 JRD 无子女，第五任拉丹和弟弟吉米终身未婚。家族血脉两次靠非常规方式续上：一次靠领养，1918 年小拉坦去世后，遗孀从帕西孤儿院立嗣了一个十三四岁的远亲男孩，那男孩后来成了拉丹的父亲；一次靠同父异母的弟弟诺埃尔，他如今执掌着那组信托。一个几乎不生产继承人的家族传了六代，一个家族几乎不持股的集团活了一百五十八年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们这个家族故事系列写过很多把财富锁进血缘的家族。罗斯柴尔德用内部通婚和五兄弟合伙契约，把金钱锁在家族内部两百年；安巴尼用 50% 的控股权，把印度市值最大的公司攥在一家三代手里。塔塔走的是反方向：把股权送出去，继承人时有时无，连“塔塔”这个姓氏都允许外姓人执掌。按家族企业教科书的全部标准，它早该散了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "它没散。2008 年它一口气吞下捷豹路虎，2021 年把六十八年前被国有化的印度航空买了回来。2016 年，董事会用一场突然袭击罢免了自己的董事长，打了五年官司；2025 年，连那组慈善信托的内部都裂成两个阵营，惊动内政部长出面调停。",
+          "related_node_ids": [
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "所以这一期要回答的不是“塔塔为什么伟大”，而是：一个家族，靠什么在不持股、无血嗣的条件下维持了一个半世纪的控制与体面？",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回答这些，要回到比 1868 年的孟买还早一千年的地方。那是一个流传至今的传说：一群波斯难民的船靠了岸，当地的国王端出一只满到杯口的牛奶碗。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第一章 祭司的儿子",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.1 满到杯口的牛奶",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公元八世纪前后，一群琐罗亚斯德教徒为躲避改宗，从波斯渡海到印度西海岸的古吉拉特。当地的印度教土王不想收留，命人端来一只盛满到杯口的牛奶碗，意思是“我的王国已经满了”。难民中的祭司往奶里加了一撮糖，糖溶进去，奶没有溢出来。意思是：我们不占你的地方，只让你的生活更甜。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个“糖入牛奶”的场景，其实不见于帕西人最早的成文史诗，是后世口口相传添上去的。但一个族群选择用哪个版本的故事定义自己，本身就是史料。此后一千年，这群被称为帕西人的移民严守约定：说当地话，穿当地衣，不传教，不通婚，把信仰留在自家火庙里，把全部智慧用在让宿主社会受益的事情上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔塔家就出自这个族群最核心的圈层。在古吉拉特小城纳夫萨里，塔塔家的名字在帕西祭司名册上连续登录超过二十五代。“塔塔”这个姓，按官方传记作者哈里斯的考证，大约是十四代前某位先祖的绰号，意思是“急性子”。哈里斯补了一句：他的后代承认，塔塔家的人确实脾气急。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "打破苦修传统的人叫努塞尔万吉·塔塔（Nusserwanji Tata），1822 年生，家境寒微。镇上的相士从一群孩子里挑出他说：这孩子会远行，会发财，会盖一座七层的楼。伙伴们大笑。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.2 香港的鸦片与伦敦的废纸",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "努塞尔万吉是二十五代人里第一个弃祭司从商的。他随父迁到孟买学徒，1839 年，独子詹姆谢特吉（Jamsetji Tata）出生。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一桶金来自军需：1868 年，纳皮尔将军远征阿比西尼亚，努塞尔万吉联合几家商人拿下整整一年的军需合同，供应驮具、水桶、毯子、口粮，他的精明体现在细节上，比如用废弃的煤油桶替代昂贵木桶给骡队驮水。承包商们分得四百万卢比，他就此收手，真的在孟买堡区买下大宅加盖到第七层。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "军需、鸦片、棉花，这是 19 世纪孟买商人的标准发家路径，帕西人尤其熟练。1859 年，二十岁的詹姆谢特吉被父亲派往香港开分号，主营棉花和鸦片，回程的船装茶叶、丝绸和中国黄金。后世爱讲一个版本：他在中国目睹鸦片之害，劝父亲改做棉花。但相关档案不支持这种顿悟。1893 年，他本人为自家航运线揽货，写给代理人的目标货载里清清楚楚列着“约两千箱鸦片”。塔塔的早期资本，并不比同时代孟买商人的更干净，连塔塔官方授权的企业史都不讳言。这个家族后来的特殊性，体现在钱的去向。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1864 年底，他带着一叠棉花汇票赴英设代理处。前脚刚到，1865 年美国内战结束，美棉重返市场，靠战时棉荒撑起来的孟买金融市场雪崩，汇票成了废纸，商号最大的靠山破产。二十五岁的詹姆谢特吉孤身在伦敦，向债权人逐家陈述商号的处境。他讲得如此干练而坦率，债权方反而任命他做自家商行的清算人。父亲在孟买卖掉那座七层楼，连同私产还清全部债务，父子俩苦干三年重建信用，然后等来了远征阿比西尼亚（今埃塞俄比亚）的军需合同。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场危机给家族留下两样东西：一是把谨慎铸成了此后的家规；二是验证了一件朴素的事，在信用市场上，按时还钱的名声本身就是资产。多年以后，塔塔集团在历次危机里宁可抵押家产也不拖欠工资和债务，源头都在 1864 年的伦敦。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.3 把土填进去，把金子挖出来",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1868 年，二十九岁的詹姆谢特吉用阿比西尼亚合同分得的利润独立创业，本金两万一千卢比，这一年被定为塔塔集团的创始年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当时全印度都默认棉纺业就该长在孟买这座“印度棉都”，他却把厂址选在五百英里外的内陆城市那格浦尔，理由是一张清单：原料产区的中心，铁路终点站，邻近煤矿，方圆数百里最大的集市，地价便宜。当地一位银行家拒绝认购，讥讽他这是“把金子埋进土里”。多年后这位银行家公开改口：塔塔先生不是把金子埋进土里，他是把土填进去，把金子挖出来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1877 年 1 月 1 日，维多利亚女王正式加冕印度女皇的同一天，工厂开工，他给厂子起名“皇后纺织厂”。把开工的日子定在女王加冕这天，是一个殖民地商人能做的最精明的政治表态。1883 年，他赌上一项连发明地美国都还没敢大规模商用的新技术，环锭纺：常规转速六千转，皇后厂开到九千五，产量近乎翻倍，英国最好的纺机厂商起初根本不信他报的数据。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "皇后厂真正值得写进历史的，另有几行字。1886 年，它设立养老与抚恤基金，哈里斯称之为“印度纺织厂中的首创”：抚恤致残者，给殉职者家属发抚恤金，职员与工人自愿缴存公积金，公司付息加码。1895 年开始支付工伤赔偿。可以做个对照：英国的《工人赔偿法》1897 年才通过，印度的同名法律要等到 1923 年，《雇员公积金法》更要等到 1952 年。一家内陆棉纺厂，把福利做在了宗主国立法的前面。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是一套工程，不是善心。当时印度工厂日均缺勤 15% 到 20%，皇后厂的工人队伍平均十八个月整个换一遍血。詹姆谢特吉的对策是把工厂变成一个工人愿意留下的地方：印度第一家认真做通风和空气加湿的车间，发工资的学徒制，每年近千名盛装工人上台领金银怀表和全勤奖章。把财富押在当权者身上的商人历史上并不少见，结局也大多相似，人走茶凉。詹姆谢特吉走的是另一条路：让自己被尽可能多的人需要。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "糖入牛奶的传说讲的是怎么进门。这个祭司家庭用两代人回答的是下一个问题：进了门之后，凭什么留下来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第二章 四个梦",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.1 总督来来去去",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "詹姆谢特吉一生有四个梦：一座研究院，一家酒店，一座水电站，一座钢厂。落地最难的是钢铁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1882 年，他偶然读到德国地质专家的一份勘察报告，里面有一座“铁山”，但报告断了所有人的念想，附近的煤炼不了铁。四十三岁的棉纺厂主不肯认这个结论，亲自去看，把当地的煤送往英国做炼焦试验。他撞上的真正的墙是政府：申请矿权附带一条运矿支线，政府不肯放手铁路，计划搁浅。那个年代殖民当局对私人资本的态度，前总督一句话说尽：我知道私人企业是什么意思，就是抢政府的钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这一搁就是十七年。1900 年，印度事务大臣在伦敦当面劝他重启钢铁计划。六十一岁的詹姆谢特吉说了一段后来被反复引用的话：“他比当年老了二十岁，那时他还有雄心要在世上闯出路来；如今上帝给他的已经绰绰有余，他没有任何理由再干下去，除了对印度福祉的牵挂。”对方说，有寇松总督支持，你还怕什么。他答：总督来来去去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.2 蓝底船旗上的三个词",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "钢铁梦搁浅的那些年，他打了两场几乎全输的仗。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一场对手是航运同盟。半岛东方轮船公司联合两家欧洲船商，把孟买到远东的棉货运费抬得极高。1893 年，五十四岁的他亲赴东京谈定联营，回程经伦敦租下英船，开出腰斩的运价。他给这条航线起名“塔塔线”，设计了船旗：蓝底，金圈，绣上琐罗亚斯德教的三个词，善思，善言，善行。对手的反击没有任何体面：运价砍到一卢比半，甚至开出免费运棉的条件；要求货主要领回扣，先签一份“未曾使用塔塔线”的声明。日本棉商守约用他的船，孟买的棉厂主们却一家家撤单倒戈。一年后他认赔离场，损失超过十万卢比。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二场仗是和自己打的。1886 年他注册斯瓦德希纺织公司，厂名就是宣言，斯瓦德希意为国货：用印度棉纺细纱，和英国货正面竞争。他买下一家被同行称为凶宅的烂厂，二十四小时内本可转手净赚二十万卢比，却按原价卖给新公司，分文不取，还顺手废掉了全行业旱涝保收的代理佣金制。他说，把大笔钱白送给除了一纸契约别无资格的人，简直是不义。然后是惩罚般的两年，年亏七万五千卢比，股价跌到面值四分之一。但是三年后斯瓦德希的细纱在中国市场卖出最高价。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此后一百年，那面蓝底船旗上的三个词（善思，善言，善行）反复出现在这个家族最冒险的决定里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.3 一半身家",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1892 年，他设立 J.N. 塔塔捐赠基金，每年选送印度学生赴英深造，机制是贷而不赠，他的原话是：我给得起，但我宁愿借。1898 年，他又做了一件让自家人都反对的事：划出年净收入十二万五千卢比、约占名下财产一半的资产，创办一所研究型学府。有人提议命名“塔塔大学”，他当场拒绝，理由极其务实：顶着他的名字，就不会再有人捐钱了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最先反对的是自家人，一部分帕西人公开抱怨，这笔大钱竟然流出了本社区。1899 年，他在专访里说出了这个家族最重要的一段话：我们中间有一种很常见的慈善，缝缝补补式的慈善，给衣不蔽体者穿衣，给饥者饭食。我绝不贬低这种高贵的精神。但真正推动一个民族前进的，与其说是扶住它最弱小的成员，不如说是把最优秀、最有天分的人托举起来，使他们为国家做出最大的贡献。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然而政府的阻力却拖得很久。1899 年元旦，刚上任两天的印度总督寇松接见科学院筹备代表团，连发疑问：印度学生付得起高薪教授的学费吗，这些高级人才毕业后有职位安置吗。随后政府另派专家复核，把预算砍小，把选址改来改去，迈索尔土邦原本承诺的每年十万卢比补贴缩水到三万。他不撤回捐赠，只在采访里说了一句：寇松勋爵初来乍到，没有理由气馁。拉锯打了六年，到他死，研究院一砖未动。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.4 泰姬酒店",
+          "related_node_ids": [
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "tata-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同一时期他做的另一件事带着同样的脾气。1898 年，因为有人随口说孟买没有像样的酒店，他在阿波罗码头的填海地上奠基建泰姬玛哈酒店，二百五十万卢比股本自己认购。后世流传他因帕西人身份被白人酒店拒之门外、发愿报复的版本，同时代的记载里查无实据。比起复仇故事，真实动机平淡得多：一座现代化的酒店是城市进步的必要条件，没有别的资本家肯冒险，他便认为这是自己的义务。1903 年 12 月酒店开业，全亚洲第一批电梯、电力洗衣房一应俱全，当晚客人只有十七位。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.5 一张任务清单",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的身体在加速垮掉。1904 年初，医生命他去德国疗养。五月，病势陡转，他在半昏迷里反复喊：多拉布吉在哪儿？长子多拉布吉赶到。留给家族的最后一句话，是对远房堂弟、商行合伙人 R.D. 塔塔说的：如果你不能把它做得更大，至少守住它。不要让事情滑落。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1904 年 5 月 19 日清晨，他在睡眠中去世。此时，钢厂还没有一根桩，科学院没有一间教室，水电站没有一座坝。四个梦想落地了一个半：一所酒店，和半个奖学金基金。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接下来发生的事，比他生前的成就更能说明这个家族的成色。长子多拉布吉、次子小拉坦在法律上不受任何约束，遗嘱没有强制条款，捐赠承诺尽可以打折执行。他们半点不打折扣。1907 年塔塔钢铁注册，1912 年出钢；1909 年研究院授产令签署，1911 年首批学生走进班加罗尔校园；1910 年水电公司成立，1915 年电流送进孟买。把一半身家捐给一所学校，比巴菲特和盖茨发起“捐赠誓言”早了一百一十二年；而比承诺更难的部分，是死后由后人替你兑现。詹姆谢特吉留给儿子的不只是一笔遗产，是一张任务清单。这个家族的传承，从第一次交接班起分的就不是财产，是未完成的奉献。",
+          "related_node_ids": [
+            "company:tata-steel"
+          ]
+        },
+        {
+          "id": "tata-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第三章 钻石与契约",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.1 三周与八千人",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个梦里面，钢铁最难。詹姆谢特吉生前没能推进的这件事，长子多拉布吉从伦敦金融城开始。结局是空手而归：英方投资人要求的控制权大到“明显流露出把塔塔公司一脚踢开的意图”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回国时机却意外地好。1905 年孟加拉分治激起的“斯瓦德希”国货运动正在沸点上，全印度都渴望投资属于印度人的企业。1907 年 8 月 26 日，塔塔钢铁公司在孟买注册，这是塔塔家第一次把自己的姓氏写进公司名。三周之后，建设所需的全部资本一百六十三万英镑（约合八百万美元）筹足，全部来自约八千名印度人，人均认购约三千卢比——当时一个普通工人三十年的工资。没有一分英国资本。英国人的态度浓缩在铁路委员会一位总专员的话里：塔塔家要按英国标准造钢轨？他们造出来多少磅，我就把多少磅吃下去。",
+          "related_node_ids": [
+            "company:tata-steel"
+          ]
+        },
+        {
+          "id": "tata-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "找矿的过程像一部寻宝小说。土法炼铁人指着一座三百英尺高的山，勘探师攀上去，惊觉脚步在脚下铿然作响，他正走在一座几乎是纯铁的山上，化验含铁 67.5%，逼近理论极限。1908 年丛林中的萨克奇村打下第一根定桩，1912 年第一锭钢轧出。一战四年，这家工厂向战场供应了约一千五百英里钢轨。1919 年，总督宣布：此地将不再叫萨克奇，而将与其奠基人之名合一。萨克奇从此叫贾姆谢德布尔，那座詹姆谢特吉生前画下街道、公园和三种宗教用地的城市，建成在他死后，命名在他死后十五年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.2 发不出工资的那个月",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "凯歌只唱到 1923 年。战后通缩、激进扩建吞掉的现金、英国钢的低价倾销，加上关东大地震砸掉了最大的出口市场日本，几股绳同时勒紧。1924 年 11 月，塔塔钢铁厂没有足够的钱给工人发工资。",
+          "related_node_ids": [
+            "company:tata-steel"
+          ]
+        },
+        {
+          "id": "tata-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公司需要约两千万卢比。六十五岁的多拉布吉做了印度商业史上被讲述最多的一个动作：把全部个人财产抵押给帝国银行，换取一千万卢比贷款。同期另一笔救命钱来自金融家 F.E. 丁肖，借出两千万卢比，对价是塔塔之子让渡部分利润分成。两笔钱拼起来，填上了发工资的缺口。抵押清单里有妻子梅赫尔拜的全部珠宝，最显眼的一件叫“朱比利钻石”，245.35 克拉，体量约为英王王冠上那颗光之山的两倍，1900 年他花十万英镑（约合当时五十万美元）从巴黎世博会买来。丁肖的债权后来转成了塔塔之子 12.5% 的股权，他 1936 年去世后，这笔股权被建筑承包商沙普尔吉·帕隆吉家族买走。九十二年后那场董事会政变的全部股权远因，就埋在这笔救命钱里。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "危机最深的年月里，公司没有裁退一名工人，工资一天没有迟发；代价由股东承担，此后十三年里有十二年，普通股股东没拿到一分钱股息。1924 年，印度立法议会通过《钢铁工业保护法》，钢铁成为印度历史上第一个获立法保护的产业。1925 年甘地到访贾姆谢德布尔，对两万听众说：我一向被迫站在看似反对资本的一边，但我此来也是作为资本家的朋友，塔塔家的朋友。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.3 签字的那一天",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那颗钻石的女主人值得一提。梅赫尔拜·巴巴，迈索尔教育总督学之女，穿着帕西纱丽在网球场上赢过六十多项奖，是孟买妇女理事会的创办人之一，公开反对童婚与深闺制。1931 年她死于白血病，五十一岁。九个多月后，多拉布吉以她的名义设立两个至今仍在运转的信托：一个资助白血病研究，是全球最早的同类基金之一；一个资助印度年轻女性出国深造。一个男人对亡妻的纪念，落成了两个信托。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1932 年 3 月 11 日，七十二岁的多拉布吉签署信托契约，把名下的一切捐入新设立的多拉布吉·塔塔爵士信托：塔塔之子的全部持股，地产，亡妻遗下的二十一件珠宝，包括朱比利钻石，总值约一千万卢比。契约写明，信托资金的使用“不分地域、国籍或信仰”。",
+          "related_node_ids": [
+            "person:dorabji-tata",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "契约里真正的天才条款在另一处：受托人有权出售他的土地、股票、证券和珠宝，包括那颗传奇的钻石，但不得动用他名下的塔塔之子股份。珠宝可卖，控股权永存。这一行字，是今天那个“慈善信托控股 66%”结构的法律源头。钻石 1937 年经卡地亚售出，款项滚进信托，化成了塔塔社会科学院、塔塔纪念医院（四分之三以上的床位留给付不起钱的病人）和塔塔基础研究院。签字之后两个多月，多拉布吉在德国去世，葬进英国布鲁克伍德公墓妻子身边。无子女。",
+          "related_node_ids": [
+            "company:tata-sons",
+            "tool:charitable-trust-holding"
+          ]
+        },
+        {
+          "id": "tata-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的弟弟小拉坦走得更早，路数如出一辙。这位住在伦敦的审美家，1909 到 1913 年分五笔共十二万五千卢比，隔着印度洋供养了南非一个律师的非暴力抵抗运动，那个律师叫甘地。小拉坦 1918 年死于英格兰，四十七岁，无子女。他的遗嘱把近八成财产导入公益，1919 年拉坦·塔塔爵士信托成立，本金八百万卢比，当时新德里整座总督府的造价也不过一千万出头。1932 年之后，两大信托合计持有塔塔之子约八成股权。所谓“塔塔模式”，不是哪一代人预先画好的图纸，是 1918 年和 1932 年两个没有子嗣的兄弟留下的遗产，恰好拼成了这个结构。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.4 孤儿院里的男孩与法国儿媳",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1932 年，一个尖锐的事实摆在桌面上：詹姆谢特吉的两个儿子都没有子女，他这一支的直系传人断了。这个家族的延续，靠的是两件在当时帕西社会都不体面的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一件是收养。纳瓦尔·塔塔，远支族人之子，四岁丧父，和哥哥被送进孟买的帕西孤儿院。小拉坦死后无人执礼，家庭会议想起了孤儿院里的远亲孩子。多拉布吉见到十三四岁的纳瓦尔，一眼就喜欢，引见给小拉坦的遗孀纳瓦杰拜，由她收养，立为塔塔家的嗣子，纳瓦尔从此接上了詹姆谢特吉这一脉。他后来形容那次命运转折：就像仙女挥了一下魔杖。而他的儿子，就是序章里那位躺在国旗下、从未出现在任何富豪榜上的拉丹·塔塔。",
+          "related_node_ids": [
+            "person:ratan-tata"
+          ]
+        },
+        {
+          "id": "tata-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二件是跨国婚姻。1902 年，四十六岁的堂弟 R.D. 在巴黎娶了法国姑娘苏珊·布里埃（Suzanne Brière），帕西社区一片哗然。多拉布吉写信骂这桩婚事“在印度不止是错误，简直是罪行”；创始人詹姆谢特吉却回信祝福。苏珊入帕西教门那天，长老们集体缺席抵制，站在她身后撑场的是多拉布吉的妻子梅赫尔拜，还悄悄教她应付圣水仪式：装作啜饮就行，别真喝。这位法国儿媳 1904 年生下的次子，就是 JRD。1926 年 R.D. 在法国猝逝，遗产清查的结果是资不抵债。二十二岁的 JRD 卖掉父亲的宅子和度假屋，宣布“每一卢比都会还清”，带着弟妹搬进自家泰姬酒店的客房，还把继承来的、足以让他个人成为第二大股东的股份，主动与姐弟妹四人均分。",
+          "related_node_ids": [
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "tata-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹 1049 年在苏州立义庄，规矩是义田不可分割、不可变卖；八百八十三年后，孟买的帕西人写下同构的条款：珠宝可卖，股份永存。两个相隔半个地球的家族，在同一个直觉上相遇：财富可以被花掉，但不可以被分掉。差别在受益人栏：范氏锁住的是族产，受益人是范姓子孙；塔塔锁住的是控股权，受益人栏写着“不分地域、国籍或信仰”。同一道锁，锁住的东西一样，放出来的人不一样。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第四章 法国少年与五十三年",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.1 塞纳河边的童年",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四任掌门的故事开始得离印度很远。1904 年 7 月，就在詹姆谢特吉去世两个月后，巴黎一户人家添了个男孩，父亲是塔塔商行合伙人 R.D. 塔塔，母亲苏珊是地道的法国人，婚后皈依拜火教，1905 年成了第一位在印度驾驶汽车的女性。这个后来叫 JRD 的男孩，童年在巴黎、孟买、横滨之间迁徙，母语是法语。少年时他在法国海滨看试飞员降落，十五岁坐了一次飞机，从此认定自己要飞。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "厄运排着队来。1923 年母亲死于肺结核；他想去剑桥读工程，父亲说不，1925 年底把他召回孟买，以无薪学徒身份坐在董事彼得森办公桌的末端。没读成剑桥这件事，他遗憾了一辈子。1926 年父亲去世，二十二岁的 JRD 进入塔塔之子董事会。1929 年，印度航空俱乐部签发本土第一张飞行执照，编号一号，持照人 JRD·塔塔。",
+          "related_node_ids": [
+            "person:jrd-tata",
+            "company:tata-sons",
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.2 朱胡滩涂上的二十五公斤邮件",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1932 年 10 月 15 日清晨，JRD 驾驶一架单引擎“猫蛾”，载着二十五公斤贴了航空邮票的信件，从卡拉奇起飞，下午降落在孟买朱胡的滩涂上。塔塔航空就此开张，全部机队是两架小飞机。首年飞行二十五万七千公里，准点率 100%。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1938 年，第一位非塔塔家族的掌门萨克拉特瓦拉去世——他是帕西人，但与塔塔家没有血缘关系。特别董事会一致推选三十四岁的 JRD 出任塔塔之子董事长，会议桌边坐着一圈比他年长资深得多的爵士。有人问他凭什么是你，他答：大概，因为我肯下苦功。他后来承认自己并不想要这个位置，却在这把椅子上坐了五十三年，至今是世界大型企业史上最长的掌门任期之一。1948 年印度航空国际公司首航伦敦，这是独立印度第一家公私合营企业，塔塔主动让出未来控股权。JRD 的管理带着法国人的挑剔：每半个月乘一次自家航班，落地后给管理层发详尽的“蓝色便笺”，小到日内瓦上机的茶和咖啡颜色无法区分，副驾驶报告地速，他掏出计算尺自己重算一遍。",
+          "related_node_ids": [
+            "family:tata-family",
+            "company:tata-sons",
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.3 利润是个脏字",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1953 年，尼赫鲁政府决定将全部九家航空公司收归国有。JRD 得知消息时，决策本身已是既成事实。政府转身请他出任国有化后的印度航空董事长，他接受了，此后二十五年分文不取。他与尼赫鲁的友谊维持了一生，两个人说的却从来不是同一件事。他当面说：贾瓦哈拉尔，我说的是公营部门必须盈利。尼赫鲁回答：永远别跟我提利润这个词，它是个脏字。1986 年他对记者说出那句压了几十年的话：独立以来，没有一任总理来问过我一句，杰，你怎么看？",
+          "related_node_ids": [
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "执照制年代的账目是这样的：1960 年塔塔造出轿车样车，申请生产许可被拒，轿车梦推迟了三十多年；1970 年代初最高档所得税率推到 93.5%，加上财富税，有效边际税率接近 98%。1978 年，德赛政府把他从印度航空董事长的位子上撤下，他是从继任者的来信和当晚的电台广播里知道的，十天前他刚见过总理，对方只字未提。在贾姆谢德布尔的晚宴上有人问他感受，他说：就像你最心爱的孩子被人夺走。",
+          "related_node_ids": [
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1938 年他接手时集团有 14 家公司，1991 年卸任时 95 家，营业额从约 1.7 亿卢比增至约 1，000 亿卢比。这串数字的另一面是：增长大半来自防御性的多元化，集团在国民经济中的相对份额几十年原地踏步。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.4 诸侯与人事部",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "JRD 的治理风格，他自己定义过：涉及多人时，我绝对是个共识主义者。他不发号施令，开董事会爱问的问题是“印度需要什么”。这套风格养出了一批传奇，也养出了一个隐患。塔塔钢铁的鲁西·莫迪、塔塔化工的达巴里·塞斯、泰姬酒店的克尔卡，这些人把自己执掌的企业当成封地经营，JRD 给予全部自由。劳资关系上，塔塔钢铁自 1928 年大罢工调解签约之后，再无一次罢工。1943 年，JRD 在病床上写了份备忘录：如果我们有五万台机器，我们会配专门团队；可对三万个人，我们似乎默认他们会自己照顾自己。印度第一个企业人事部由此设立。",
+          "related_node_ids": [
+            "company:tata-steel",
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "tata-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1974 年，一张明信片寄到他桌上。印度科学院的女研究生苏达·穆尔蒂看到塔塔汽车招聘广告末尾写着“女性勿投”，愤而质问。十天内她收到面试电报，路费公司出，成为塔塔汽车第一位车间女工程师。八年后她离职随丈夫创业，JRD 的临别赠言是：成功之后，必须回馈社会。她丈夫创办的公司叫 Infosys，后来成了印度第二大 IT 服务公司。",
+          "related_node_ids": [
+            "company:tata-motors"
+          ]
+        },
+        {
+          "id": "tata-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1968 年，塔塔咨询服务公司（TCS）作为塔塔之子的一个部门成立。当时印度官民普遍相信计算机抢人饭碗，TCS 从第一天起被逼成出口导向。1973 年它拿到第一单出口合同：三万美元，十二名工程师把一套美国医院会计系统改写到小型机上。没有人想到，这个为了规避执照制才长出来的小部门，五十年后会成为整个帝国的现金心脏。",
+          "related_node_ids": [
+            "company:tata-sons",
+            "company:tcs"
+          ]
+        },
+        {
+          "id": "tata-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.5 一九九一年的告别",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "JRD 自己的财产清单短得不像一个掌门。他把个人持有的塔塔股份捐出设立信托，在孟买租住一栋平房约五十年，从未置产。1991 年 3 月 25 日，八十六岁的他在董事会上提名五十三岁的拉丹·塔塔接任董事长。四个月后，拉奥政府废除执照制，印度经济自由化开闸。他把集团交在了旧时代的最后一刻。1992 年在员工集会上，他留下那句墓志铭式的话：有经济学家预言下个世纪印度将成为经济超级大国。我不想要印度成为经济超级大国，我想要印度成为一个幸福的国家。1993 年他在日内瓦去世，按遗愿葬在巴黎拉雪兹神父公墓的家族墓室，离他出生的城市几公里。",
+          "related_node_ids": [
+            "person:ratan-tata"
+          ]
+        },
+        {
+          "id": "tata-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "JRD 用人格魅力代替股权运转了这个联邦半个世纪。代价在 1983 年现形：斯瓦拉杰·保罗突袭收购两家印度公司股票时，塔塔之子在塔塔汽车的持股只有约 3%，JRD 惊出一身冷汗：下一个被收购的可能就是我。他统治了五十三年，却没把这份魅力变成股权。收拾这个摊子的任务，留给了一个被全印度舆论判定“不行”的接班人。",
+          "related_node_ids": [
+            "company:tata-sons",
+            "company:tata-motors"
+          ]
+        },
+        {
+          "id": "tata-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第五章 学徒与削藩",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.1 塔塔宫里的孤独男孩",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拉丹·塔塔 1937 年生于孟买。十岁那年父母离婚，在 1948 年的印度这是丑闻。父亲纳瓦尔后来另娶瑞士姑娘西蒙娜，生下同父异母的弟弟诺埃尔，也就是日后执掌信托的那一位。拉丹和亲弟弟吉米则由祖母纳瓦杰拜接进塔塔宫抚养，她是小拉坦爵士的遗孀、塔塔之子历史上第一位女性董事。学校里的男孩们没完没了地拿他父母的事做文章，祖母教给他们的应对只有一条：不惜一切代价保持尊严，宁可走开，不去缠斗。他与父亲的关系，可以用三次冲突概括：他想学小提琴，父亲坚持钢琴；想去美国上大学，父亲坚持英国；想当建筑师，父亲坚持工程师。三次都是祖母出面，站在孙子一边。“要不是祖母，我根本到不了康奈尔。”",
+          "related_node_ids": [
+            "person:ratan-tata",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.2 IBM 打字机上的简历",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "康奈尔七年，他前两年顺从父命读机械工程，然后转进建筑学院。1962 年毕业后在洛杉矶有了工作、有了车、谈了第一场认真的恋爱，“那段日子棒极了”。然后祖母病重，他回了印度，约定女友随后跟来。但由于女方父母不赞同，这段感情就散了。他后来算过账：我有四次走到结婚边缘，每次都退缩了。终身未婚。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回国时他兜里揣着 IBM 的工作邀约。JRD 听说后不悦，让他交一份简历。他在 IBM 的办公室里，用 IBM 的电动打字机打出了自己的简历。十五天后，他被派往贾姆谢德布尔，在塔塔汽车和塔塔钢铁的车间当学徒：推煤车，铲石灰石，在高炉边打下手，一干六年。一个康奈尔建筑学毕业生，就这样从炉渣堆里开始了塔塔生涯。",
+          "related_node_ids": [
+            "company:tata-steel",
+            "company:tata-motors"
+          ]
+        },
+        {
+          "id": "tata-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.3 两个烂摊子",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "集团给这位“家族成员”的前两个正式岗位都是烂摊子。1971 年他接手亏损的国家无线电与电子公司（NELCO），四年扭亏，然后紧急状态和罢工又把它打沉。1977 年他被派去救皇后纺织厂，那是 1877 年詹姆谢特吉起家的祖业。他申请 500 万卢比更新设备被集团拒绝，厂子拖到 1986 年关门。他终生坚持认为：只要有那 500 万，厂子救得活。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两次失败跟了他二十年。1981 年 JRD 任命他为塔塔工业董事长时，老臣们的背后讥讽：他连 NELCO 和皇后厂都没救活。1983 年他执笔《塔塔战略规划》，主张集团进军电信、信息技术，并把塔塔之子在各运营公司的持股拉到 26% 的否决权线。JRD 喜欢前半部分，后半部分被束之高阁。没人想到这份文件会是他后来二十年的施工图。1991 年初 JRD 因心脏问题住院，出院后对他说：发生在我身上的事让我想明白了，我该退了。我已决定由你接替我。拉丹自己后来自嘲：JRD 被扣上裙带主义的帽子，我被贴上“错误人选”的标签。而他的应对是从小练熟的那一招：保持有尊严的沉默，专心证明自己。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.4 六年逐一请退",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他接手的与其说是一家公司，不如说是一个邦联。授权传记作者拉拉的说法是：头三四年都耗在与诸侯的缠斗上。他先动制度，不动人。1992 年，塔塔之子出台董事退休年龄政策：执行董事六十五岁，非执行董事七十五岁。名义上是现代治理，实际对准的是三位过了线的老臣。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而其中莫迪之战最激烈。这位在塔塔钢铁干了五十三年的老帅公开把拉丹一代叫作“小丑”，1993 年董事会免去他全部职务。克尔卡的结局最严厉，1997 年这位泰姬酒店帝国的缔造者因外汇违规被逐。斗争“喧闹、恶毒、完全摊在公众面前”，违背了这家低调商号的全部传统。",
+          "related_node_ids": [
+            "company:tata-steel",
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "tata-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "JRD 1993 年 11 月去世，削藩最激烈的回合发生在老人死后。他活着时，既是拉丹最大的保护伞，也是诸侯们最后的护身符。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.5 把姓氏变成合同",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "清完人，拉丹开始重写这个集团的架构方式。1998 年底，塔塔之子与第一家公司签下品牌使用协议：凡使用“Tata”名号的公司，每年按营收缴纳 0.1% 至 0.25% 的品牌费，同时必须签署《塔塔行为准则》。在此之前，塔塔的伦理传统全靠口口相传。股东们当年骂这是抽血，多年后它成了印度公司治理的模板。这是一个安静的里程碑：一百三十年的家族声誉，第一次从默契变成了合同，姓氏第一次有了价格表和违约条款。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "钱的问题用减法解决。他给集团定下纪律：做不进行业前三的业务，退出。塔塔历史上第一次把“祖产”卖给外人，骂声一路跟随，他坚持往前，因为账算得清楚：1997 至 2001 财年集团净利润暴跌 85%，不砍枝蔓，主干不保。2004 年 TCS 上市，募资 11.7 亿美元，是当时印度史上最大 IPO。这笔钱反手砸进增持，把塔塔之子在各运营公司的持股拉上 26% 否决线，再让运营公司反向持股塔塔之子，织成外人无从下嘴的交叉持股网。1983 年那份被束之高阁的战略规划，等了二十一年，由作者本人逐条执行完毕。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "只有一个对手他没能稀释。1990 年代中期塔塔之子配股，他盘算“孟买大宅的幽灵”帕隆吉·米斯特里拿不出 6 亿卢比认购款，结果对方如数认购，持股增至 18.37%。这步没走成的棋，将在二十年后会以谁都没料到的方式回到棋盘中央。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第六章 远征与代价",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.1 底特律的九十分钟",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1998 年底，印度第一款完全自主研发的轿车塔塔 Indica 上市，上市一周订单超过十一万五千辆，随后质量问题爆发，2000- 2001 财年塔塔汽车创下当时印度公司史上最大年度亏损。低谷里发生了那次著名的底特律之行。1999 年，塔塔团队飞赴福特总部商谈出售刚出生的乘用车业务，据随行高管回忆，福特方面说买下你们的轿车业务算是帮你们一个忙。九年后的 2008 年，金融危机中的福特反过来出售捷豹路虎，角色互换。",
+          "related_node_ids": [
+            "company:tata-motors"
+          ]
+        },
+        {
+          "id": "tata-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不过拉丹去世后，比尔·福特专门声明，他此生只与塔塔先生见过一面，是一次温暖友好的会面。两个版本未必矛盾：1999 年说重话的可能是福特的谈判团队而非福特本人。羞辱或许没有那么戏剧化，但 1999 年的窘迫和 2008 年的反转都是真的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最终塔塔没有卖。2001 年，公司免费为四万五千辆已售 Indica 更换零部件，修正版口碑翻身。同一年，塔塔财务公司爆出高管挪用资金、挤兑在即，拉丹的处置顺序是先公开承认问题，再动用集团资金向储户足额兑付，最后起诉自己人。账算得很直白：一家财务公司的窟窿有底，塔塔这块招牌的信用经不起一次挤兑。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.2 蛇吞鲨",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "手里有了底气，拉丹开始向外看。2000 年，塔塔茶叶以 2.71 亿英镑收购体量接近自己三倍的英国泰特莱，一家印度公司买下了给大英帝国供茶的公司。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更大的赌注紧随其后。2006 年 10 月，塔塔钢铁向英荷钢铁巨头康力斯发出收购要约，初始报价 455 便士一股，约 76 亿美元。巴西钢铁商 CSN 半路杀入竞拍，两家在伦敦拍了八个小时，塔塔以 608 便士一股胜出，总价 121 亿美元，比最初报价高出近 60%。塔塔钢铁世界第五十六，康力斯世界第九，小鱼吞下了四倍于己的鲨鱼。孟买股市次日把塔塔钢铁砸跌 10.7%。拉丹的回应：将来有人回头看，会说我们做对了。",
+          "related_node_ids": [
+            "company:tata-steel"
+          ]
+        },
+        {
+          "id": "tata-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "将来真的来了，只是答案和拉丹想的不一样。2008 年雷曼倒闭，两笔收购同时陷入冰封。捷豹路虎这边，塔塔汽车以 23 亿美元从福特手中买下两个英国品牌，豪车市场冻结，塔塔汽车巨亏自救；然后市场回暖，中国买家进场，捷豹路虎几年内成了塔塔汽车利润的绝对主力。",
+          "related_node_ids": [
+            "company:tata-motors"
+          ]
+        },
+        {
+          "id": "tata-p-114",
+          "index": 114,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "康力斯这边，欧洲钢需求持续萎缩，累计减写约 20 亿英镑，英国长材业务最后以 1 英镑象征价出售，财经媒体给这桩交易起的绰号是“来自地狱的交易”。捷豹路虎买的是品牌和技术，周期一过就回血；康力斯买的是产能和成本曲线，周期一过只剩固定成本。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-115",
+          "index": 115,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "泰特莱、康力斯、捷豹路虎，三笔收购都发生在 2000 到 2008 年间，都是印度公司买下前宗主国的品牌和工厂。2016 年那位被罢免的继任者清算旧账时，账单上的第一行就是康力斯。一百年前那面蓝底船旗上的三个词“善思、善言、善行”反复出现在这个家族最冒险的决定里，不是利润测算，是一种对“印度需要什么”的执念。它带来额外的韧性，也带来额外的成本。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-116",
+          "index": 116,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.3 一拉克的承诺",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-117",
+          "index": 117,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "起念是他反复讲过的一个画面：雨夜湿滑的路上，一家四五口挤在一辆小摩托上，孩子夹在父母中间。他对媒体说希望做一辆一拉克（十万卢比，约合两千五百美元）的车，报纸把它当承诺登了出来。2008 年 1 月，新德里车展，七十岁的拉丹亲自把白色 Nano 开上舞台，宣布出厂价就是十万卢比，然后说：承诺就是承诺。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-118",
+          "index": 118,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "随后的剧情却走向了另一个方向。西孟加拉邦建厂的征地激起农民抗议，2008 年 10 月，拉丹宣布撤出，留下那句话：我说过，如果有人拿枪顶住我的头，他要么开枪，要么把枪拿开，因为我的头不会动。当天，古吉拉特邦首席部长莫迪给他发了一条只有一个词的短信：欢迎之至。新厂在古吉拉特 14 个月建成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-119",
+          "index": 119,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Nano 本身没能兑现它的神话。产能跟不上，又接连发生起火事件，“全球最便宜的汽车”这个标签从骄傲变成了诅咒。2018 年其中一个月份全月产量只有一辆，次年停产。拉丹的复盘相当坦白：它被公众称作最便宜的车，遗憾的是，我们自己也这么叫。一个把价格当卖点的产品，恰好踩中了最脆弱的心理——买得起摩托的人，不愿意被邻居看作“只买得起最便宜汽车的人”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-120",
+          "index": 120,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.4 燃烧的穹顶",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-121",
+          "index": 121,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2008 年 11 月 26 日晚，十名武装分子袭击孟买，其中四人先后进入詹姆谢特吉 1903 年建的泰姬玛哈宫殿酒店。围困持续约六十小时，酒店内三十一人遇难，其中有十名或十一名员工，当晚店内有住客与用餐者一千二三百人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-122",
+          "index": 122,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当晚在店的员工，无人擅离职守。日餐厅的资深侍应托马斯·瓦尔盖塞，五十三岁，三十年工龄，指挥员工用身体围成人墙护住客人，再经旋梯先撤客人后撤员工，自己坚持最后一个走，在旋梯底部被枪手击毙。电话总机离枪手只有几步，接线员全员留守，逐间客房打电话提醒客人锁门伏低，有人撤出大楼后又返回坐回总机。厨房团队用身体掩护客人从后通道撤离，七人殉职。酒店总经理坎（Karambir Kang）的妻子和两个幼子被困在六楼套房，午夜火起，无人生还；他在楼下指挥疏散，确认家人不可能活着之后，回到指挥位置，三天没有离开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-123",
+          "index": 123,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "哈佛商学院教授九个月后赴印做案例，结论开头一句话：连高管都解释不了这些员工的行为。他能找到的制度性答案是：泰姬招聘不看名校成绩，专去小城镇找“尊重长辈、乐于助人”的孩子；培训十八个月，比行业惯例多一半，受训者被授权现场为客人做主；考核以客人的赞赏为先，而非销售额。拉丹自己的解释是：在印度，雇主与雇员之间有一种家长式的对价，我认为那造就了一种亲族感。这句话背后站着一百三十年的铺垫，从 1886 年皇后厂的公积金，到贾姆谢德布尔的八小时工作制。11 月 26 日那一夜，员工们用命兑付的，是这个家族五代人攒下的信用。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-124",
+          "index": 124,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "袭击当晚，七十一岁的拉丹赶到现场，此后三天三夜站在警戒线外，看着穹顶燃烧。事后他亲自走访全部遇难与重伤员工的家庭，补偿方案被印度业界称为史上最厚：遇难员工的遗属按“假如他活到退休日”全额发放工资，子女教育全球范围全包，全家终身医疗，贷款一笔勾销。围困结束仅两周，塔楼部分重开，拉丹在仪式上只说了一句：我们可以被打伤，但不能被打倒。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-125",
+          "index": 125,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.5 不行贿的代价",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-126",
+          "index": 126,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2010 年，2G 电信牌照腐败案中，拉丹与公关说客的私人通话录音泄露，他向最高法院递交隐私权诉状，又在电视上连用几次“香蕉共和国”形容这个国家的制度水位。他重提一桩旧事：当年有人劝他给某位部长一亿五千万卢比换一纸航空合资批文，他的原话是，我不想在睡前知道，自己是靠行贿办起的航空公司。这家航空公司最终没办成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-127",
+          "index": 127,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拉丹按规矩走流程选接班人。2010 年塔塔之子成立五人遴选委员会，呼声最高的内部人选是他同父异母的弟弟诺埃尔。委员之一、最大单一股东帕隆吉家的小儿子西鲁斯·米斯特里，先是被委员会劝为候选人，再退出委员会参选。2011 年 11 月，结果公布：四十三岁的米斯特里出任副董事长，一年后接班。",
+          "related_node_ids": [
+            "person:cyrus-mistry",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-128",
+          "index": 128,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2012 年 12 月 28 日，他七十五岁生日当天卸任。1991 年接手时集团收入约 40 亿美元，交班时超过 1，000 亿，近六成来自海外。他对自己的盖棺定论说得很早：如果世人以为塔塔的成功系于拉丹·塔塔一身，那恰恰是我的失败。",
+          "related_node_ids": [
+            "person:ratan-tata"
+          ]
+        },
+        {
+          "id": "tata-p-129",
+          "index": 129,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第七章 罢免与法庭",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-130",
+          "index": 130,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.1 笼子与跛脚鸭",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-131",
+          "index": 131,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要理解 2016 年的“政变”，得先理解米斯特里家那 18.37% 是怎么来的。1924 年借出救命钱的金融家丁肖 1936 年去世，建筑承包商帕隆吉买下他的公司，连带着塔塔之子 12.5% 的股份，此后几笔交易把它喂大，1996 年配股后定格在 18.37%。两家还结了亲：帕隆吉的女儿阿露嫁给了诺埃尔·塔塔。所以 2011 年遴选委员会选中西鲁斯·米斯特里时，故事看起来圆满：最大单一股东家的小儿子，温和低调，数据导向，接受任命时得到过“放手去干的完全自由”的保证。",
+          "related_node_ids": [
+            "person:cyrus-mistry",
+            "person:noel-tata",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-132",
+          "index": 132,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "自由的边界很快显形。2014 年，塔塔之子股东特别大会通过一揽子章程修正案，三条合起来读就是：两大信托联合提名三分之一的董事，任何决议须获信托提名董事的多数赞成，集团一切大事信托都可以说不。而信托的主席，是退休的拉丹·塔塔。米斯特里方后来在法庭上描述这套机制的日常：信托提名董事会在董事会进行中离场，向拉丹请示后再回来表态。",
+          "related_node_ids": [
+            "person:ratan-tata",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-133",
+          "index": 133,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "具体的引爆点积累了四年。纳米车年亏损峰值达一百亿卢比，米斯特里想关，“仅仅出于情感原因”关不掉；塔塔电信与日本 DoCoMo 的合资破裂，伦敦仲裁裁决塔塔赔付 11.7 亿美元，信托认为他在玷污“塔塔说话算数”的百年信用；两个航空合资项目是拉丹在他上任前谈成的，他形容自己面对的是“既成事实”。一边是认为自己在给烂账止血的董事长，一边是认为家业正被外人否定的老人。米斯特里给自己的处境下的定义，后来成了印度商业史的名词：跛脚鸭董事长。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-134",
+          "index": 134,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.2 十月二十四日下午两点",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-135",
+          "index": 135,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2016 年 10 月 24 日，孟买大宅，董事会定于下午两点开会，议程是例行的季度业绩。罢免不在议程上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-136",
+          "index": 136,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "下午一点五十五分，拉丹·塔塔与信托提名董事、哈佛商学院院长诺利亚走进米斯特里的办公室，给出一道选择题：辞职，或者在董事会上面对罢免动议。拉丹说了一句：很抱歉事情走到了这一步。两人离开后，米斯特里给妻子发了条短信：我要被解雇了。",
+          "related_node_ids": [
+            "person:ratan-tata"
+          ]
+        },
+        {
+          "id": "tata-p-137",
+          "index": 137,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两点整，会议开始，拉丹以“观察者”身份列席。诺利亚宣布塔塔信托要求审议一项动议。米斯特里当场抗辩动议非法、通知不足，对面回答已取得法律意见。米斯特里点名请拉丹表态，拉丹只说了一句：此刻，我只是个观察者。表决：六票赞成，两票弃权，被罢免者本人反对。随后同样的票型几分钟内连续通过一串决议：罢免米斯特里，豁免董事七十五岁退休年龄限制，任命拉丹为临时董事长。那条 1992 年为削藩而设的退休年龄线，在需要老人回归的那个下午被当场豁免。整场会议约六十分钟。",
+          "related_node_ids": [
+            "company:tata-trusts"
+          ]
+        },
+        {
+          "id": "tata-p-138",
+          "index": 138,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.3 五页信与十二月围剿",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-139",
+          "index": 139,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "次日，米斯特里向董事会发出五页机密信件，随即泄露见报。信里有两枚炸弹。第一枚是数字：对集团问题业务的现实评估“可能导致累计 1.18 万亿卢比的减写”，约合 180 亿美元，点名五大问题资产，欧洲钢铁、塔塔电信、电厂、酒店海外资产、乘用车业务。第二枚是指控：拉丹持续干预，架空董事长。塔塔的回应同样不留情面，给出的罢免理由是董事会对他“不断扩大的信任赤字”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-140",
+          "index": 140,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十二月，围剿开始。塔塔之子发函各上市公司召开股东特别大会罢免米斯特里的董事职务，TCS 打头阵，毕竟塔塔之子持有它七成股份。米斯特里抢在战车碾到之前辞去全部董事职务，声明说要把这场战役“转移到一个法治与公平得到维护的更大平台”。次日，米斯特里家族的两家投资公司以“压迫与管理不善”为由，把塔塔之子和拉丹·塔塔告上国家公司法法庭。",
+          "related_node_ids": [
+            "person:ratan-tata",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-141",
+          "index": 141,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.4 三回合",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-142",
+          "index": 142,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2018 年，公司法法庭驳回米斯特里方全部诉请。2019 年 12 月，上诉法庭翻盘，判罢免“非法”，恢复米斯特里的执行董事长职务。2021 年 3 月，最高法院 282 页终审判决把法律问题全部判给塔塔：罢免董事长本身不构成压迫，公司不欠任何人一把椅子；章程条款全部有效——米斯特里家族 1965 年入股时就明知并接受这些条款，拿着它的好处时没有喊过压迫。判决书还写了一句：泄露那封五页信的行为，像一个人因为没拿到自以为应得的东西，就放火烧自己的房子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-143",
+          "index": 143,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "唯一没有裁决的是真正的死结：分手的价格。SP 集团主张 18.37% 价值 1.75 万亿卢比，塔塔方说至多值八千亿，相差一倍有余。法院说，分手与作价，请双方自行解决。这道题至今没有解开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-144",
+          "index": 144,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.5 六十八天",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-145",
+          "index": 145,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2022 年 6 月 28 日，“孟买大宅的幽灵”帕隆吉·米斯特里在家中去世，九十三岁。六十八天后，9 月 4 日，西鲁斯·米斯特里乘坐的奔驰在国道上撞上分隔墩，他坐在后排，没系安全带，当场死亡，五十四岁。157 年的 SP 集团在一个夏天里连失两代掌门，股权死结原封不动传给了下一代。",
+          "related_node_ids": [
+            "person:cyrus-mistry"
+          ]
+        },
+        {
+          "id": "tata-p-146",
+          "index": 146,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "通常家族企业出事，是家里人闹，职业经理人遭殃。塔塔这一次反过来了：家族信托动用章程，罢免了大股东家的董事长。拉丹不持股，名义上只是个“观察者”，只能把个人意志装进信托的章程条款里开火。信托控股的麻烦也在这里：所有权属于一个不能死、不能卖、不能分红的慈善法人，出了事没有“用脚投票”这条路，只能打官司。塔塔把位置交给了外部人，但没给够授权，翻脸时也没有事先写好的分手规则。五年诉讼和一个至今无解的股权死结，就是这笔账。米斯特里之战不在塔塔模式之外，它正是从塔塔模式里长出来的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-147",
+          "index": 147,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第八章 空位与悬念",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-148",
+          "index": 148,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.1 农家子弟与回家的航班",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-149",
+          "index": 149,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接替米斯特里的人，是塔塔一百五十年历史上第一位既不姓塔塔、也不是帕西人的掌门。纳塔拉扬·钱德拉塞卡兰，1963 年生于泰米尔纳德邦一个农民家庭，1987 年以实习生身份进入 TCS，此后没换过东家。拉丹选的第一个继承人是地产豪门之子，持有 18.37%；第二个是农家子弟，一股没有。第一个带来了股权，带不来服从；第二个一无所有，反而安安稳稳干了九年。",
+          "related_node_ids": [
+            "person:natarajan-chandrasekaran"
+          ]
+        },
+        {
+          "id": "tata-p-150",
+          "index": 150,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "业绩不需要修饰。2017 年他接手时集团上市公司总市值约 8.6 万亿卢比，2024 年约 30 万亿。半导体、iPhone 代工、新能源车，每条新赛道都压上了百亿美元级的筹码。米斯特里当年点名的五大问题资产，多数被钱德拉以米斯特里主张过的方式处置掉了，只是执行者换了人。最有戏剧性的一笔在 2021 年 10 月：塔塔之子以 1，800 亿卢比中标印度航空私有化，距 1953 年它被国有化整整六十八年。中标当晚，八十三岁的拉丹发了一条推文：“欢迎回家，印度航空！”那架被政府从 JRD 手里拿走、又请他无偿照看了二十五年的飞机，由一个农家出身的职业经理人买了回来。",
+          "related_node_ids": [
+            "company:tata-sons",
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-151",
+          "index": 151,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回家的故事也有沉重的一页。2025 年 6 月 12 日，印度航空 AI171 航班在艾哈迈达巴德起飞三十二秒后坠毁，据初步通报，机上 242 人中 241 人遇难，地面又有 19 人死亡。买回这个名字花了六十八年，扛起它的代价在三十二秒里显现。",
+          "related_node_ids": [
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-152",
+          "index": 152,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.2 最后的岁月与一份遗嘱",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-153",
+          "index": 153,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拉丹的晚年活成了印度的国民祖父。他用个人资金投了几十家创业公司，八十四岁那年还和一个二十多岁的助理合伙创办了陪伴老人的公司。2024 年 10 月 9 日深夜，他在孟买去世，八十六岁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-154",
+          "index": 154,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那份遗嘱把他在意的人和事按份额写了下来。遗产经估算约 380 亿卢比，最大一项就是那 0.83%、共 3，368 股的塔塔之子股份，按遗嘱归入他生前设立的两家公益载体。德国牧羊犬蒂托得到一笔 120 万卢比的照护基金，由他多年的厨师照料；管家、司机的借款一笔勾销；助理的康奈尔学费贷款全免。弟弟吉米，终身未婚，分得朱胡海滨宅产权的一半。2025 年 12 月，九十五岁的继母西蒙娜·塔塔去世。这一辈人，至此全部退场。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-155",
+          "index": 155,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.3 信托的内战",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-156",
+          "index": 156,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拉丹去世四十八小时内，各信托受托人全票推选诺埃尔·塔塔出任塔塔信托主席。六十七岁的诺埃尔是拉丹同父异母的弟弟，纳瓦尔与西蒙娜之子，操盘过零售公司的传奇增长，媒体形容他“克制、轻声细语、习惯幕后”。他的三个子女此前已进入外围小信托，舆论解读为在为下一代铺路。一层姻亲关系给棋局又添了意味：诺埃尔的妻子阿露，正是 SP 集团现任掌门的亲妹妹。",
+          "related_node_ids": [
+            "person:noel-tata",
+            "company:tata-trusts"
+          ]
+        },
+        {
+          "id": "tata-p-157",
+          "index": 157,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "和解没有来，接踵而至的是内战。受托人会议接连以微弱票差互相否决连任，拉丹生前的密友与遗嘱执行人梅利·米斯特里领衔的一方，与诺埃尔一方反复拉锯。2025 年 10 月，内政部长在新德里官邸约见诺埃尔、钱德拉等人，财政部长在座，政府话说得直白：塔塔是 1800 亿美元的国之重器，请把分歧关起门来解决。媒体复盘时翻出了一个旧词：信任赤字。2016 年塔塔用它指控米斯特里，2025 年轮到信托内部互相指控。一周后梅利辞去受托人职务，声明里写自己将继续“在一切时候捍卫拉丹·塔塔在集团中的利益”。拉丹的挚友以捍卫拉丹的名义，对抗着拉丹的弟弟。每个人都声称自己才是死者遗志的正版。",
+          "related_node_ids": [
+            "person:ratan-tata"
+          ]
+        },
+        {
+          "id": "tata-p-158",
+          "index": 158,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "悬在所有争吵之上的，是两把更大的剑。一把叫上市：印度央行 2022 年把塔塔之子列入必须上市的名单，塔塔之子的对策是清偿两千多亿卢比债务、申请注销牌照，宁可拆掉杠杆也不交出股权结构。一把叫 SP 集团的债：这家持有塔塔之子 18.37% 的家族，账上压着五六千亿卢比债务，质押的正是塔塔股份，纸面上价值三万亿卢比的股份，因为章程的转让限制，一个子儿都套不出来。2025 年，两家掌门自 2016 年决裂以来第一次坐下来谈退出，谈判随即被信托按住。门开了一条缝，又合上了。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-159",
+          "index": 159,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.4 二〇二六年六月十二日",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-160",
+          "index": 160,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写作本文的这一天，孟买大宅照常开董事会。正式议程是审议年报与分红，会上还顺带看了印度航空等亏损业务。钱德拉的任期、上市与否、SP 的退出、慈善专员的调查、梅利的申诉，五件大事，董事会一项都没拍板。",
+          "related_node_ids": [
+            "company:air-india"
+          ]
+        },
+        {
+          "id": "tata-p-161",
+          "index": 161,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从经营层面看，集团仍处在少有的强势期：营收超 1800 亿美元，百万员工照常上班，晶圆厂在打地基，新一代 iPhone 在金奈下线。真正不稳定的，是集团顶端那张过去总有人能压住分歧的椅子。詹姆谢特吉的曾曾孙辈不再持股，多拉布吉的契约正被法庭和慈善专员逐条重新解读，拉丹没有留下子女，只留下一条狗、一份遗嘱和一组互相指控的受托人。这个家族曾经把难题都交给制度去回答，现在制度自己成了难题。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-162",
+          "index": 162,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第九章 一百五十八年的账本",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-163",
+          "index": 163,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.1 笼子的设计者住进笼子",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-164",
+          "index": 164,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔塔治理结构的演变只有四步，每一步都是对上一场危机的回应，又给下一场危机留了门。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-165",
+          "index": 165,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一步是 1918 和 1932 年的两份遗嘱，把约八成股权送进慈善信托；多拉布吉契约里那条不对称条款值得再读一遍：受托人可以卖掉朱比利钻石，但永远不得动塔塔之子的股份。财富全部可以变现，控制权永不变现。这一条同时堵住了家族企业最常见的几种“死法”：没有可分的遗产就没有分家，管理权不依附血缘就没有败家子掌舵。一百五十八年里，这个家族没有爆发过一场家族成员之间的遗产争夺，在印度豪门里是孤例。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-166",
+          "index": 166,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二步是 JRD 用人格魅力代替股权运转集团，代价在 1983 年现形。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-167",
+          "index": 167,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三步是拉丹的削藩与增持，把人情逐项置换成制度。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-168",
+          "index": 168,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四步最隐蔽：2014 年的章程修正案让信托提名董事握住集体否决权。两年后那个下午，这些武器全部开火，目标是坐在董事长位置上的那个人。拉丹用退休年龄线请走过莫迪；他亲手把信托提名董事的否决权写进章程，2025 年之后，轮到他弟弟在同一套规则里被否决、被慈善专员要求推迟会议。笼子的设计者住进了笼子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-169",
+          "index": 169,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这间笼子确实更持久，2016 年后诉讼打了五年，集团经营并未失速；但火并没有熄，因为信托这种所有者不会死、不会卖、不会散，连吵架都是永生的。多拉布吉的契约锁住了股份，锁不住对契约的解释权。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-170",
+          "index": 170,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1932 年的契约写明了宗旨，没有写受托人怎么遴选、利益冲突怎么回避、重大分歧由谁裁决。这些空白在平静年代是弹性，在冲突年代就成了武器——2016 年信托用章程条款罢免了米斯特里，2025 年受托人们用同一套条款互相否决。信托控股没有消灭家族企业的老问题，只是把“后代会不会滥用财富”换成了“受托人会不会滥用控制权”。前者靠私德，后者只能靠制度，而制度恰恰对这一层写得最不清晰。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-171",
+          "index": 171,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.2 先传义务，后传姓氏",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-172",
+          "index": 172,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族的传承清单上有一样东西从第一代起就缺席：财产。1904 年病床边的遗言是一张任务清单，钢厂、水电、科学院，外加一句“如果不能做得更大，至少守住它”。此后每一代的交接都重复这个结构：交出去的总是没做完的事，不是可以坐享的钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-173",
+          "index": 173,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "血缘的供给反而一直处在断流边缘，家系两次靠领养和那桩被骂作“罪行”的法国婚姻续脉。如果用血统纯度衡量，塔塔早就不算一个家族了；它真正传递的载体只有两样，一个被合同化的姓氏，和一套被反复验证的择人标准，无薪学徒、车间铲石灰、烂摊子练手。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-174",
+          "index": 174,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这家人对继承人的做法，和他们对慈善的做法（我给得起，但我宁愿借）是一回事：白给的东西不养人。同样的逻辑也用在家族之外，泰姬酒店从小城镇招“尊重长辈”的孩子，培训十八个月，授权他们现场做主。这些投入平时看是成本，2008 年 11 月 26 日那一夜才看出它换来了什么。忠诚没法在需要它的那天临时去买，1886 年皇后厂的公积金、1924 年押出去的那颗钻石，要等到 2008 年泰姬的楼梯口才一次结清，中间隔了八十多年。",
+          "related_node_ids": [
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "tata-p-175",
+          "index": 175,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "唯一的反例最值得看。七任掌门中六位都符合“管理者无恒产”的隐性前提，唯一的例外是米斯特里，他背后站着 18.37% 的家族股权。2011 年选他，本意是把所有权与经营权重新焊在一起，结果恰恰是这位最有产的掌门引爆了最大的危机。他可以被罢免，但他的股份罢免不掉。这就是那个至今无解的死结的由来。分离若不彻底，比根本不分离更麻烦。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-176",
+          "index": 176,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.3 一杯牛奶的距离",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-177",
+          "index": 177,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔塔与权力的关系，是这份账本里最不好算的一页。检索一百五十八年的记录，能找到他们给帝国的庆典命名工厂，给南非的甘地五笔汇款，给独立后的国家让出航空公司还白管二十五年，也能找到 2025 年内政部长官邸里那场调停。但找不到的东西更说明问题：没有塔塔家的人入阁从政，没有竞选献金丑闻，没有靠某一届政府发的财，也没有跟着某一届政府“陪葬”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-178",
+          "index": 178,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这套距离感有它的族群源代码。一个五万人的少数族群，既够不着多数派政治，也输不起任何一次站队，唯一的活法是糖入牛奶：让每一任统治者都觉得有用，让每一任统治者都不觉得威胁。对照是现成的：胡雪岩把身家押给左宗棠，人亡政息；安巴尼把政商关系做成核心资产，富可敌国但每一届政府都是它的风险敞口。塔塔的选择是把自己活成谁上台都拆不起的公共设施，医院、学校、钢厂、航空，拆塔塔等于拆国家的一角。1953 年尼赫鲁可以收走航空公司，但他得请 JRD 继续管；2025 年信托内战，政府第一反应是把双方叫到内政部长家里劝和。对这个家族来说，被需要比被保护管用得多。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-179",
+          "index": 179,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.4 不可复制的部分",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-180",
+          "index": 180,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把塔塔捧为万能模板之前，得先把它的运气和账单摊开。运气有三样。第一是法律的窗口期：印度后来立法原则上禁止慈善信托再持有公司股份，只为 1973 年 6 月之前已构成信托本金的股份设了一道“祖父条款”，塔塔几家主信托正是靠这条豁免把股份留了下来，今天的印度企业家想复制这个结构，法律上已经做不到。第二是无嗣的意外：连续几代没有子女，把“传给谁”的难题降格成“托给谁”；多子多福的家族抄这套作业，第一代就会被继承人摁着改章程。第三是 TCS（塔塔咨询服务公司）。1968 年它作为塔塔之子的一个部门成立，因为执照制年代印度国内没人敢用计算机，被逼成出口导向。这个被迫长出来的 IT 服务公司，如今是全球最大的 IT 服务企业之一，年营收超过三百亿美元，贡献塔塔之子绝大部分股息。整座帝国的现金心脏，是从一道政策夹缝里意外长出来的；没有 TCS 的供血，那组慈善信托的规模根本撑不到今天。",
+          "related_node_ids": [
+            "company:tata-sons",
+            "company:tcs"
+          ]
+        },
+        {
+          "id": "tata-p-181",
+          "index": 181,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "代价同样具体。1924 年后十三年里十二年没有分红，康力斯的溢价与纳米的清零都由公众股东承担——“塔塔不行贿”是真的，“塔塔不亏钱”没人承诺过。SP 集团持有价值三万亿卢比的股份，因为章程的转让限制套不出一分钱，逼到借高利贷续命，“控制权永不变现”护住了信托，也锁死了少数股东。贾姆谢德布尔的劳资和平，换一个角度就是用远高于行业标准的福利换来了一个从不挑战管理层的工会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-182",
+          "index": 182,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔塔的经验里，有三条不需要帕西血统、也不需要一百五十八年就能借鉴：传承可以是一份未完成的义务清单，不必是一笔可分的资产；声誉可以折算成有价格、有罚则的合同，不只是祖先的光环；接班人可以用一个真实的烂摊子去试，不必靠一纸文凭。最后一条塔塔自己也没躲过。2016 年那个下午写得最清楚：你亲手设的每一道关卡，迟早会卡住你自己，或你最亲的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-183",
+          "index": 183,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "结语 糖在奶里",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-184",
+          "index": 184,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到 2024 年 10 月 10 日那个下午。沃利火葬场的帕西祈祷持续了四十五分钟，然后电炉的门合上。没有子女捧灵，没有继承人守在门口接受吊唁，首席哀悼者的位置上站着同父异母的弟弟、几个外甥女，和一条狗。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-185",
+          "index": 185,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按所有教科书的定义，这应该是一个家族的终章：血脉到此为止，财产早已不在自家名下，连公司都由外姓人执掌了快十年。但第二天清晨，贾姆谢德布尔的高炉照常出钢，那是 1907 年八千个印度人三周凑出来的厂；孟买的泰姬酒店照常开门，门童的培训手册还是十八个月那一套；班加罗尔的印度科学院照常上课，校园正中那座塑像的铭文，第一行刻着“孟买帕西公民”。一个把自己花到只剩名字的家族，留下的东西反而最多。",
+          "related_node_ids": [
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "tata-p-186",
+          "index": 186,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个系列写过用通婚和契约把财富锁进血缘的罗斯柴尔德，写过靠基金会持股守住公司的博世，写过用一千亩义田养活宗族九百年的范仲淹。塔塔像是把这三道题合成了一道，然后给出一个更激进的解：范氏义庄的受益人是范姓子孙，塔塔信托的受益人栏写着“不分地域、国籍或信仰”；博世家族至今保有协议里的位置，塔塔家族连位置都交给了章程。",
+          "related_node_ids": [
+            "family:tata-family",
+            "company:tata-trusts"
+          ]
+        },
+        {
+          "id": "tata-p-187",
+          "index": 187,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在写过的这些家族里，它把“家族”两个字稀释得最彻底，活得也最大。它把家族企业的第一问从“谁来拥有”换成了“谁来受托”。但多拉布吉的契约只回答了前半截——股份送出去了，谁来管？受托人。后半截他没来得及写：受托人出了分歧，谁来裁？善意在的时候，契约的空白是弹性；善意消失的时候，空白就是武器。拥有可以靠继承，受托必须一代一代重新被证明——而受托的规则本身，同样需要被受托。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-188",
+          "index": 188,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "它当然没有抵达完美。2026 年 6 月的此刻，受托人们的申诉书还压在慈善专员的案头，钱德拉的任期没有答案，那道“分手作价”的死结进入第十年。多拉布吉的契约锁住了股份，锁不住对契约的解释权。下一个十年，这个结构要回答的问题比过去一百年更难：当最后几个姓塔塔的人也退场之后，一组互不相让的受托人，还能不能算这座帝国的“家”？",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-189",
+          "index": 189,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个问题的答案，藏在那个一千年前的传说里。一群难民对国王许诺：我们不占你的地方，只让你的生活更甜。一百五十八年里，这个家族把股份化进了信托，把姓氏化进了合同，把子嗣化进了一所所学校和医院，最后连葬礼都化进了这座城市的电炉。今天再看那只满到杯口的碗：糖不见了，奶是甜的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-190",
+          "index": 190,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "思想实验",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-191",
+          "index": 191,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把你放回那个上午。你是七十二岁的多拉布吉·塔塔，孟买，律师楼。九个月前妻子死于白血病，你们没有孩子。桌上摊着一份信托契约，附件清单你逐行核过：塔塔之子的全部股份，地产，亡妻留下的二十一件珠宝，包括那颗朱比利钻石。签了字，塔塔家从此不再拥有塔塔。",
+          "related_node_ids": [
+            "person:dorabji-tata",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-192",
+          "index": 192,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你在契约里写下那条不对称条款：受托人可以卖地、卖股票、卖钻石，唯独不得动塔塔之子的股份。可你见过人心在钱边上的样子。一百年后的受托人，会不会拿着这条款互相罢免？会不会有政府的官员举着监管的图章重新解释它？要不要留一个修改的活口？留了，怕被野心家撬开；不留，怕它变成勒死后人的枷锁。你打算怎么给一份要管一百年的契约上锁，又在哪里留一道只有善意才打得开的缝？",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "tata-p-193",
+          "index": 193,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "现在把场景换成你自己。你的家族或公司里，有没有一笔你宁可永远锁住、也不愿看它被分掉的资产？如果今天让你起草一份要运行一百年的章程，你会把哪一条写死，又会在哪一条留白？",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-194",
+          "index": 194,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "多拉布吉签了字。九十三年后，2026 年 5 月，慈善专员一纸暂缓令送到孟买大宅，受托人们围着他那份契约的解释权对簿公堂；同一个星期，贾姆谢德布尔照常出钢，泰姬酒店照常迎客，他以妻子之名设立的医院照常把四分之三的床位留给付不起钱的病人。他锁住的东西，一样都没有丢；他没能锁住的，只有人心。",
+          "related_node_ids": [
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "tata-p-195",
+          "index": 195,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "参考文献",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-196",
+          "index": 196,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "1. F. R. Harris, *Jamsetji Nusserwanji Tata: A Chronicle of His Life*, London: Oxford University Press, 1925。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-197",
+          "index": 197,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "2. Tata Central Archives, Pune: Sir Ratanji Tata’s Will, 20 March 1913, with Codicil dated 29 February 1916, File no. 178/RJT/PERS/LEG/WILL/1; Deed of Sir Dorabji Tata Trust, 11 March 1932, File no. 177/DTT/DEED/AGR/1932。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-198",
+          "index": 198,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "3. Mircea Raianu, *Tata: The Global Corporation That Built Indian Capitalism*, Cambridge, MA: Harvard University Press, 2021。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-199",
+          "index": 199,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "4. Girish Kuber, *The Tatas: How a Family Built a Business and a Nation*, translated by Vikrant Pande, Noida: HarperCollins India, 2019。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-200",
+          "index": 200,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "5. R. M. Lala, *Beyond the Last Blue Mountain: A Life of J.R.D. Tata*, New Delhi: Penguin Books India, first published 1992, revised edition 1993。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-201",
+          "index": 201,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "6. Thomas Mathew, *Ratan Tata: A Life*, Noida: HarperCollins Publishers India, 2024。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-202",
+          "index": 202,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "7. 张敏秋：《印度塔塔集团：新兴市场中的成功典范》，北京：清华大学出版社，2008。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-203",
+          "index": 203,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "8. 摩根·威策尔：《塔塔：一个百年企业的品牌进化》，阮天悦译，北京：电子工业出版社，2012。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-204",
+          "index": 204,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "9. Rohit Deshpandé and Anjali Raina, “The Ordinary Heroes of the Taj”, *Harvard Business Review*, December 2011。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-205",
+          "index": 205,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "10. Cyrus P. Mistry, Letter to the Directors of Tata Sons Ltd., 25 October 2016, full text reproduced by Reuters, 27 October 2016。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-206",
+          "index": 206,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "11. Supreme Court of India, *Tata Consultancy Services Limited v. Cyrus Investments Pvt. Ltd. and Ors.*, Civil Appeal Nos. 440 to 441 of 2020 with connected appeals, Judgment, 26 March 2021。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-207",
+          "index": 207,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "12. Deepali Gupta, *Tata vs Mistry: The Battle for India’s Greatest Business Empire*, New Delhi: Juggernaut, 2019。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-208",
+          "index": 208,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "13. Steen Thomsen, “Trust Ownership of the Tata Group”, Copenhagen Business School Working Paper, SSRN, 22 December 2011, DOI: 10.2139/ssrn.1976958。",
+          "related_node_ids": []
+        },
+        {
+          "id": "tata-p-209",
+          "index": 209,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "14. Tata Group, “Our Timeline: The Complete Story”; Tata Sons, “Tata Sons”; Tata Trusts, “About Tata Trusts”; Tata Trusts, “About Sir Ratan Tata”; Tata Trusts, “About Sir Dorabji Tata”, official websites, accessed 17 June 2026。",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "story:dassler",
+      "title": "低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场",
+      "series_no": 34,
+      "source_files": [
+        "文章/低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）.md"
+      ],
+      "related_node_ids": [
+        "family:dassler-family",
+        "person:adi-dassler",
+        "person:rudolf-dassler",
+        "person:kaethe-dassler",
+        "person:horst-dassler",
+        "person:armin-dassler",
+        "person:gerd-dassler",
+        "person:frank-dassler",
+        "person:bernard-tapie",
+        "company:adidas",
+        "company:puma",
+        "company:dassler-brothers-shoe-factory",
+        "company:isl",
+        "event:dassler-factory-founded-1924",
+        "event:berlin-olympics-1936",
+        "event:dassler-split-1948",
+        "event:bern-world-cup-1954",
+        "event:puma-will-war-1974",
+        "event:puma-family-exit-1989",
+        "event:adidas-family-exit-1990",
+        "event:dassler-family-final-exit-2018",
+        "concept:family-conflict-as-innovation",
+        "concept:succession-planning-gap",
+        "concept:founder-shadow",
+        "concept:third-generation-risk",
+        "concept:information-opacity",
+        "concept:brake-mechanism",
+        "tool:charter-over-will",
+        "tool:exit-and-split-protocol",
+        "tool:athlete-sponsorship-system",
+        "tool:family-exit-from-brand"
+      ],
+      "toc": [
+        {
+          "id": "dassler-p-001",
+          "level": 1,
+          "title": "低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）"
+        },
+        {
+          "id": "dassler-p-002",
+          "level": 2,
+          "title": "序章 一条河、两座坟、一双被打量的鞋"
+        },
+        {
+          "id": "dassler-p-014",
+          "level": 2,
+          "title": "第一章 洗衣棚里的起点"
+        },
+        {
+          "id": "dassler-p-015",
+          "level": 3,
+          "title": "1.1 织布工的尽头"
+        },
+        {
+          "id": "dassler-p-018",
+          "level": 3,
+          "title": "1.2 自行车带动的切皮机"
+        },
+        {
+          "id": "dassler-p-022",
+          "level": 3,
+          "title": "1.3 弟弟做鞋，哥哥卖鞋"
+        },
+        {
+          "id": "dassler-p-027",
+          "level": 3,
+          "title": "1.4 两位妻子进场"
+        },
+        {
+          "id": "dassler-p-036",
+          "level": 2,
+          "title": "第二章 欧文斯脚上的两道杠"
+        },
+        {
+          "id": "dassler-p-037",
+          "level": 3,
+          "title": "2.1 政治风口里的鞋厂"
+        },
+        {
+          "id": "dassler-p-042",
+          "level": 3,
+          "title": "2.2 柏林奥运的那双鞋"
+        },
+        {
+          "id": "dassler-p-047",
+          "level": 3,
+          "title": "2.3 阿迪的工匠脾气"
+        },
+        {
+          "id": "dassler-p-054",
+          "level": 2,
+          "title": "第三章 防空洞里那句话"
+        },
+        {
+          "id": "dassler-p-055",
+          "level": 3,
+          "title": "3.1 太挤的一栋楼"
+        },
+        {
+          "id": "dassler-p-060",
+          "level": 3,
+          "title": "3.2 一句被听错的话"
+        },
+        {
+          "id": "dassler-p-064",
+          "level": 3,
+          "title": "3.3 审查桌前的兄弟"
+        },
+        {
+          "id": "dassler-p-072",
+          "level": 3,
+          "title": "3.4 三道杠与跃豹诞生"
+        },
+        {
+          "id": "dassler-p-077",
+          "level": 3,
+          "title": "3.5 小镇开始低头"
+        },
+        {
+          "id": "dassler-p-081",
+          "level": 2,
+          "title": "第四章 伯尔尼的泥地"
+        },
+        {
+          "id": "dassler-p-082",
+          "level": 3,
+          "title": "4.1 被鲁道夫赶走的教练"
+        },
+        {
+          "id": "dassler-p-086",
+          "level": 3,
+          "title": "4.2 雨落下来，鞋钉拧上去"
+        },
+        {
+          "id": "dassler-p-091",
+          "level": 3,
+          "title": "4.3 厨房、握手和糊涂账"
+        },
+        {
+          "id": "dassler-p-096",
+          "level": 3,
+          "title": "4.4 第一双免费的鞋"
+        },
+        {
+          "id": "dassler-p-103",
+          "level": 2,
+          "title": "第五章 阿尔萨斯的儿子"
+        },
+        {
+          "id": "dassler-p-104",
+          "level": 3,
+          "title": "5.1 被送过边境"
+        },
+        {
+          "id": "dassler-p-108",
+          "level": 3,
+          "title": "5.2 生意就是关系"
+        },
+        {
+          "id": "dassler-p-113",
+          "level": 3,
+          "title": "5.3 厕所隔间里的信封"
+        },
+        {
+          "id": "dassler-p-120",
+          "level": 3,
+          "title": "5.4 贝利跪下系鞋带"
+        },
+        {
+          "id": "dassler-p-125",
+          "level": 3,
+          "title": "5.5 球星越来越贵"
+        },
+        {
+          "id": "dassler-p-131",
+          "level": 2,
+          "title": "第六章 彪马的遗嘱战争"
+        },
+        {
+          "id": "dassler-p-132",
+          "level": 3,
+          "title": "6.1 临终前改过的遗嘱"
+        },
+        {
+          "id": "dassler-p-136",
+          "level": 3,
+          "title": "6.2 一纸章程挡住一纸遗嘱"
+        },
+        {
+          "id": "dassler-p-141",
+          "level": 3,
+          "title": "6.3 把彪马押在巨星身上"
+        },
+        {
+          "id": "dassler-p-146",
+          "level": 3,
+          "title": "6.4 贝克尔合同的代价"
+        },
+        {
+          "id": "dassler-p-150",
+          "level": 3,
+          "title": "6.5 你失去了公司"
+        },
+        {
+          "id": "dassler-p-155",
+          "level": 2,
+          "title": "第七章 体育世界的隐形皇帝"
+        },
+        {
+          "id": "dassler-p-156",
+          "level": 3,
+          "title": "7.1 别墅露台上的咖啡桌"
+        },
+        {
+          "id": "dassler-p-161",
+          "level": 3,
+          "title": "7.2 藏在家族外面的公司"
+        },
+        {
+          "id": "dassler-p-166",
+          "level": 3,
+          "title": "7.3 送鞋送到权力深处"
+        },
+        {
+          "id": "dassler-p-172",
+          "level": 3,
+          "title": "7.4 买来和平的礼物"
+        },
+        {
+          "id": "dassler-p-176",
+          "level": 3,
+          "title": "7.5 病床上的最后一封信"
+        },
+        {
+          "id": "dassler-p-181",
+          "level": 2,
+          "title": "第八章 家族退场的那张合同"
+        },
+        {
+          "id": "dassler-p-182",
+          "level": 3,
+          "title": "8.1 群龙无首"
+        },
+        {
+          "id": "dassler-p-187",
+          "level": 3,
+          "title": "8.2 最后一个请求"
+        },
+        {
+          "id": "dassler-p-195",
+          "level": 3,
+          "title": "8.3 塔皮登场"
+        },
+        {
+          "id": "dassler-p-201",
+          "level": 3,
+          "title": "8.4 外人救回两家公司"
+        },
+        {
+          "id": "dassler-p-209",
+          "level": 3,
+          "title": "8.5 河两岸都换了主人"
+        },
+        {
+          "id": "dassler-p-215",
+          "level": 2,
+          "title": "第九章 留给后人的四道旧伤"
+        },
+        {
+          "id": "dassler-p-217",
+          "level": 3,
+          "title": "9.1 一份没有写好的约定"
+        },
+        {
+          "id": "dassler-p-223",
+          "level": 3,
+          "title": "9.2 强人身后的空椅子"
+        },
+        {
+          "id": "dassler-p-228",
+          "level": 3,
+          "title": "9.3 没有拆掉的引线"
+        },
+        {
+          "id": "dassler-p-234",
+          "level": 3,
+          "title": "9.4 鞋艺传下了，规矩没传下"
+        },
+        {
+          "id": "dassler-p-240",
+          "level": 2,
+          "title": "结语 河还在流"
+        },
+        {
+          "id": "dassler-p-246",
+          "level": 2,
+          "title": "思想实验：你会为家族写下哪条规矩"
+        },
+        {
+          "id": "dassler-p-254",
+          "level": 2,
+          "title": "参考文献"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "dassler-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场（执允“家族·故事”系列第 34 期）",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "序章 一条河、两座坟、一双被打量的鞋",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "德国巴伐利亚北部有一座小镇，叫黑措根奥拉赫（Herzogenaurach）。一条不宽的奥拉赫河（Aurach）从镇中穿过。今天去看，河的北岸是阿迪达斯（Adidas）的全球总部，取名\"世界体育之家\"；河的南岸是彪马（Puma）的总部。两家公司隔水相望，步行二十分钟可达。阿迪达斯长期是仅次于耐克（Nike）的全球第二大运动品牌，彪马也稳居世界头部。很难再找到第二个两万多人的小镇，同时供养着两个这样量级的对手。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这件事的起点，是一对亲兄弟。哥哥叫鲁道夫·达斯勒（Rudolf Dassler），生于 1898 年；弟弟叫阿道夫·达斯勒（Adolf Dassler），生于 1900 年，家里人和后来全世界都叫他阿迪（Adi）。1920 年前后，两人在母亲一间废弃的洗衣棚里开始做鞋。1924 年，兄弟俩正式注册了\"达斯勒兄弟运动鞋厂\"。再后来，他们反目，1948 年分家，一个做了阿迪达斯，一个做了彪马。",
+          "related_node_ids": [
+            "person:rudolf-dassler",
+            "company:adidas",
+            "company:puma",
+            "company:dassler-brothers-shoe-factory"
+          ]
+        },
+        {
+          "id": "dassler-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "镇上的公墓不大。鲁道夫 1974 年下葬，阿迪 1978 年下葬，两座坟被安排在墓园斜对角的两端，几乎是这块地能拉开的最远距离。两个共用过一间卧室、一张工作台、一家公司的兄弟，死后被葬得尽可能地远。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分家把整座小镇也劈成了两半。奥拉赫河成了一道\"液体的边界\"：一岸的人穿阿迪达斯，一岸的人穿彪马，两边的员工不通婚、不去同一家酒馆、不在同一家面包店买面包。镇上的人养成一个习惯，跟陌生人搭话之前，先低头看一眼对方脚上穿的是哪家的鞋，再决定要不要开口。黑措根奥拉赫因此得了个绰号，叫\"低头看鞋的城市\"。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是一个关于创造的故事。两个出身寒微的鞋匠之子，从一战的废墟里捡军用头盔的皮革做鞋底，几十年后把\"三道杠\"和彪马那只腾跃的美洲狮送上了奥运会的领奖台、世界杯的决赛场、纽约的街头。他们几乎以一己之力发明了现代体育用品产业，发明了用钱绑定运动员的玩法，甚至发明了操纵国际体育政治的整套手段。阿迪一生注册了将近七百项专利、商标和各国工业产权；他的独子霍斯特（Horst Dassler）被后世称作\"现代体育营销之父\"，把一双鞋的生意做成了能左右国际足联和国际奥委会选举的隐形权力。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这也是一个关于失去的故事。一个更值得家族企业反复咀嚼的事实是：缔造了这两大品牌的达斯勒家族，今天与这两家公司没有任何关系。他们手里的股份是零，董事会里的席位也是零。鲁道夫这一支在 1989 年卖光了彪马，阿迪这一支在 1990 年卖光了阿迪达斯。1995 年阿迪达斯上市时，家族持股已经归零。最后一个还在公司里上班的家族成员，是鲁道夫的孙子弗兰克·达斯勒（Frank Dassler），他 2018 年 1 月从阿迪达斯退休。从那一天起，达斯勒这个姓，只剩下被印在鞋上的两个字。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "person:frank-dassler",
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "时间快进到 2026 年 1 月。中国的安踏体育与皮诺（Pinault）家族的投资公司阿尔特弥斯（Artémis）签订协议，拟以约十五亿欧元现金收购彪马百分之二十九点零六的股份；交易若完成，安踏将取代持股最多的皮诺家族，成为彪马最大股东。也就是说，到这部家族史写下的此刻，连曾长期持有彪马的那个法国豪门，也在准备退出，而把品牌从一个外人传给另一个外人的整场交易里，创立它的那个家族，连一个名字都不在场。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "值得在一开始就说清楚的是，达斯勒家族的失败，不是能力的失败，也不是事业的失败。论做产品，阿迪是同代最顶尖的工匠；论搞营销，霍斯特是开宗立派的天才；论市场，两个品牌至今稳居世界第二、第三。如果把\"成功\"定义为把生意做大，这个家族成功得无以复加。他们丢掉的，恰恰是那个生意之外、却比生意更难的东西，对一个家族的掌控。正因为他们在商业上如此能干，控制权的整盘输光才更值得追问。这是一群天才在自己最不擅长的那个维度上输得一败涂地的故事。才华和生意都不是问题，问题出在一个家族如何安放权力、亲情和规则。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个家族，缔造了两个世界级品牌，最后两个都没能留住。这是本文要追问的核心：这究竟是怎么发生的？",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更准确地说，有四件事值得一层层理清。第一是治理：这家公司的所有权和决策权，是怎么安排的，又是怎么失灵的？第二是传承：从第一代到第二代再到第三代，权力和能力是怎么交下去的，断在了哪里？第三是关系：兄弟、妯娌、堂兄弟、姑侄之间的恩怨，如何从家务事渗进了公司的日常运转？第四是教育：达斯勒家把什么传给了下一代，又没能把什么传下去？",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这四件事，在达斯勒家族身上彼此缠绕，互为因果。它们共同构成一个反面样本：品牌可以做到世界第一，控制权却可以在一两代人之间输得干干净净。要理解这是怎么发生的，得回到那间洗衣棚。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第一章 洗衣棚里的起点",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.1 织布工的尽头",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "黑措根奥拉赫到十九世纪末还是个\"忙碌的磨坊镇\"，雇着几百名织布工和染工。达斯勒家是镇上一长串织布工里的最后一代。克里斯托夫·达斯勒（Christoph Dassler）本该接着织布，工业革命却把这门手艺淘汰了，他只好转行做鞋，是个不起眼的拖鞋匠。这是这个家族的第一个隐喻：一门被时代淘汰的旧手艺，逼出了一门新手艺。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家里收入微薄。克里斯托夫坐在屋里学那套\"繁琐的缝制工艺\"，妻子葆琳娜（Pauline Dassler）就在自家屋后开了一间洗衣坊补贴家用，女儿玛丽（Marie）帮她打下手。洗好的衣物，由三个儿子，老大弗里茨（Fritz）、老二鲁道夫、老三阿迪，分头送到镇上各家各户。镇上的人因此叫他们\"洗衣男孩\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.2 自行车带动的切皮机",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪从小就跟体育有缘。二十世纪初他还在上学时，\"体育\"这个词在德国几乎还不存在，但这个最小的儿子把空闲时间全用来自己发明游戏：削木棍当标枪，挑重石头当铅球，拉着镇上铁匠的儿子弗里茨·策莱因（Fritz Zehlein）绕着中世纪小镇外的森林和草地长跑。手艺和运动这两样东西，从童年起就在他身上拧成了一股。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1914 年 8 月一战爆发，年长的弗里茨和鲁道夫先后被征召，本以为几个月就能回家，结果在弗兰德斯的烂泥战壕里待了四年。快打完时，十七岁、当面包学徒的阿迪也被送上前线。三兄弟都活着回了家，回到黑措根奥拉赫，发现母亲的洗衣坊已经空了，战后人人困顿，没几个人付得起洗衣钱，葆琳娜把生意停了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪很快下定决心：在这间空着的洗衣棚里，做自己的鞋。他花了很多天搜遍乡间，捡退兵丢下的军用物资，军用头盔和面包袋上的皮革可以裁下来做鞋底，破降落伞和军用背包用来做拖鞋。没有电，他就把切皮机装在一个自行车架上，让朋友踩踏带动皮带转。最早的几双钉鞋，\"那些致命的钉子\"，由铁匠的儿子策莱因打好，再一颗颗钉穿鞋底。一家日后改变了世界运动鞋面貌的公司，就是从用废铜烂铁拼出来的工具开始的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.3 弟弟做鞋，哥哥卖鞋",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1923 年，鲁道夫加入了弟弟的作坊。这是达斯勒家族第一次出现那个后来反复出现的结构：技术和销售的分工，落在两个性格相反的人身上。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪寡言、内向，享受待在弥漫着皮革和胶水气味的工坊里的每一刻，鞋怎么做得更好，几乎是他全部的兴趣。鲁道夫大嗓门、爱出风头，被人形容\"有点像只开屏的孔雀\"，天生适合在外面跑销售、谈订单。一个人埋头把鞋做出来，一个人把鞋卖出去。在创业的头十几年，这个组合天衣无缝。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "创业的时机其实糟透了。凡尔赛条约严苛，战胜国拿走了德国大部分资源，几百万人失业、挨饿。就在这样的背景下，1924 年 7 月 1 日，兄弟俩正式推出了\"达斯勒兄弟运动鞋厂\"。他们靠给体育俱乐部寄报价单接订单，主打钉鞋和足球鞋。最早的产品笨重，带皮革鞋钉，脚趾和脚踝包着厚厚的保护，看上去和它们的英国前辈没太大区别。",
+          "related_node_ids": [
+            "company:dassler-brothers-shoe-factory"
+          ]
+        },
+        {
+          "id": "dassler-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "让这家小厂第一次跳出地方格局的，是一个叫约瑟夫·魏茨尔（Josef Waitzer）的人。他是德国奥运田径队的教练，听说黑措根奥拉赫有人做钉鞋，专门从慕尼黑骑摩托车赶来看。一次偶然的造访变成了数小时的长谈，从此他的摩托车成了达斯勒厂的常客，实际上做了兄弟俩的顾问，跟阿迪结成密友，两人一起跑步、一起琢磨鞋子。这是达斯勒家族第一次尝到一个甜头：抓住一个有影响力的人，就能撬动一整片市场。这个甜头，他们的儿子和孙子后来会一次次重尝。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.4 两位妻子进场",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "进了一间空鞋厂几年后，兄弟俩在厂房旁边盖起了自家的三层大宅，镇上人叫它\"别墅\"。顶层留给达斯勒父母，鲁道夫一家住中间一层，阿迪住底层。两家人挤在一栋楼里，物理上的过度亲密，日后成了一切冲突的温床。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个儿媳的性格，又是一对鲜明的反差。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "鲁道夫的妻子叫弗里德尔（Friedl Strasser），两人 1928 年 5 月结婚。她出身天主教家庭，勤劳、保守、隐忍，迅速适应了主妇角色，深得公婆喜爱，被看作模范儿媳，连丈夫\"臭名昭著\"的拈花惹草和粗率脾气都能容忍。彪马的员工后来叫她\"彪马妈妈\"。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪的妻子叫凯特（Käthe Martz），1934 年 3 月嫁给阿迪。她的来历本身就是一段手艺的传承。阿迪 1930 年代初到莱茵河畔的皮尔马森斯（Pirmasens），进了当地一所颇有声望的制鞋专科学校深造，导师之一是知名的鞋楦制造商弗朗茨·马茨（Franz Martz）。阿迪频繁登门，老师默许了这个学生和自己女儿凯特的关系。换句话说，阿迪的制鞋技艺，一半来自这所学校，一半来自岳父的鞋楦工坊；而他娶回家的，是这门手艺世家的女儿。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "凯特和弗里德尔截然不同。她自信、直率、爱掌权、爱在众人面前显出存在感。她也无怨地伺候丈夫，每天凌晨四点起床煎香肠，耐心看他练跳跃，周末为他的足球赛打包三明治。但她那种强势，在多疑、有些粗硬的弗兰肯地方家族里显得格格不入。家族传记作者赫尔曼·乌特曼（Hermann Utermann）后来写道，她为人认真，却习惯了故乡那种轻松的相处方式，弗兰肯人在她看来生硬、难以交谈。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这段不适，被凯特的硬脾气放大，演成她与家族其他成员一次次的摩擦。鲁道夫渐渐认定，这个弟媳对自己怀着敌意，是一个故意要破坏兄弟亲密、想把他从公司里挤出去的\"闯入者\"。多年以后，鲁道夫在给美国生意伙伴的一封信里，把兄弟反目的账，算到了凯特头上：",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\"从 1924 到 1933 年，我和弟弟的关系堪称理想。后来他年轻的妻子开始插手生意，尽管她才十六岁、毫无经验，于是战争开始了。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这句话是理解达斯勒兄弟反目的第一份一手证词。它把时间线钉在了 1933 年，把导火索指向了凯特。但它也暴露了一件更深的事：达斯勒兄弟缺的，从来不是一纸合同。1929 年，他们就谈定过一份界定双方权利义务的合伙协议。真正没人写下的，是另一类规则，家眷能不能插手生意、兄弟意见相左时谁来拍板、闹翻了又该怎么体面散伙。当互补还在，这种空白看不出问题；一旦互补变成互疑，它就成了一道随时会塌的裂缝。这道裂缝，会一直裂到两个孙辈手里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第二章 欧文斯脚上的两道杠",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.1 政治风口里的鞋厂",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1926 年，公司扩张，搬出了那间洗衣棚，迁到奥拉赫河对岸一座更大的厂房。这条把厂子和家连起来的小河，二十多年后会变成把兄弟和小镇劈开的那道边界。当时谁也没多想。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "让达斯勒厂真正起飞的，是一段不光彩的历史。1933 年希特勒上台三个月后，1933 年 5 月 1 日，鲁道夫和阿道夫登记加入了纳粹党（据家族编年史，长兄弗里茨也在同期入党）。对一家运动鞋厂来说，纳粹主义是\"一剂强效兴奋剂\"。希特勒把体育看作培养纪律、同志情谊和宣传的工具，更是锻造\"由运动健儿组成的军队\"的手段。他在《我的奋斗》里写：\"给这个民族六百万体魄无瑕、浸透了狂热爱国主义的身体......\"。德国对运动鞋的需求随之暴涨，达斯勒厂多次扩建，在维尔茨堡街（Würzburger Strasse）又收购了第二家工厂。这个地址要记住，它后来是鲁道夫分到的那家小厂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "横向看，这一代欧洲工业家族里，靠政治风口起家的不止达斯勒一家。但达斯勒的特别之处在于，兄弟二人对这剂兴奋剂的反应并不一样。鲁道夫高调地表达对政府政策的赞同，阿迪则通常守着普通匠人那点本分的体面。后来在去纳粹化审查中，这点态度差异会变成兄弟相互指证的弹药。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "柏林奥运后的几年，是达斯勒厂的黄金期，员工数从 1934 到 1938 年间翻了一倍到八十人。但希特勒的优先级转向战场后，工厂受制于严苛管制，产量大幅削减。1942 年，因严重缺人，阿迪不得不申请了五名俄国战俘来完成制鞋指标。到 1943 年 10 月，戈培尔号召的\"总体战\"禁止了文化和体育活动，运动鞋不再被需要，工厂被勒令停产，设备转去制造坦克和火箭筒的部件。一家做跑鞋足球鞋的厂，被战争拧成了一家军工配件厂，几年下来损失约十万帝国马克。把体育的荣光和战争的阴影叠在同一座厂房里，这就是达斯勒兄弟那一代德国实业家共同的底色，也是他们日后要在审查桌上反复算清的旧账。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.2 柏林奥运的那双鞋",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1936 年 8 月，柏林奥运会开幕。这是希特勒精心准备的一场种族优越论的展演，阿迪却在这场展演里下了一步与之相悖的棋。他通过已经当上纳粹田径队教练的老友魏茨尔，确保许多德国运动员会穿他的钉鞋，但他最想拿下的，是全场最受瞩目的那个人，杰西·欧文斯（Jesse Owens），一个阿拉巴马摘棉花工的黑人儿子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按达斯勒家族自己的讲述，阿迪找到了这位美国运动员，怯生生地掏出自己的钉鞋，靠着比划和模仿，直到欧文斯同意试穿。这个寡言到只能靠手势促成合作的场景，是这个家族最爱讲的创业传奇之一。它有多少是真的，后世已难考证，连阿迪达斯集团自己的官方说法都用\"相传\"来措辞，是否本人到场、有没有付钱、说了什么话，都没有一手档案佐证。可以确证的只有一件事，而这件事已经足够：欧文斯在柏林一口气夺下四枚金牌，他脚上穿的，是一双两侧各有两道皮革条纹的深色达斯勒钉鞋。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "跳远赛场上的一幕，把这件事的反讽推到了顶点。欧文斯的对手是德国选手卡尔·朗（Carl Ludwig \"Luz\" Long），一个金发碧眼、几乎可以直接登上雅利安优越论海报的人。朗倾尽全力跳出 7.87 米，追平了欧文斯刚创下的奥运纪录，希特勒在看台上喜形于色。但欧文斯最后一跳，沉默专注地站了两分钟，全速冲向起跳板，以 8.06 米摧毁了纪录。让希特勒难堪的是，卡尔·朗第一个冲上去拥抱、祝贺这个黑人胜者。希特勒被指在欧文斯夺冠后故意离场冷落他，可这没能阻止欧文斯又拿下两金。一个种族优越论的盛典，被一个穿着德国小镇鞋厂钉鞋的黑人运动员，和一个不顾元首脸色拥抱他的德国对手，撕开了一道口子。而达斯勒的鞋，恰好在这道口子的正中央。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那两道条纹，日后会变成阿迪达斯的三道杠。坐在欢腾人群里的阿迪，难掩骄傲和激动。\"欧文斯一举\"奠定达斯勒在世界顶尖运动员中的声誉。此后各国运动员和教练到德国比赛，都顺道拐去黑措根奥拉赫，看看欧文斯穿过的鞋。一家德国小镇鞋厂，第一次被推到了国际舞台上。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.3 阿迪的工匠脾气",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪是个什么样的匠人，从几个细节能看出来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他给自己在公司里的称呼是\"老板\"（Der Chef），却把所有对外的业务关系都交给妻子凯特，自己最自在的是伏在桌上画技术图纸。他唯一不能容忍的是马虎和无知。他的长期私人助理霍斯特·维德曼（Horst Widmann）回忆，要是阿迪觉得谁不够格，哪怕只是拿鞋的姿势不对，这个倒霉蛋就得走人；谁要是在会上为说话而说话，一样没好下场，阿迪没时间应付这种人。他是个夜里干活的发明家，办公室里满是皮条、橡胶样品和写满字的小纸条，早上拿着夜里的涂鸦四处分发，这就是他组织生意的方式。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "匠人也付出过匠人的代价。1940 年代末，他用一台锋利的切皮冲床时忘了它常会反弹，机器干净利落地切掉了他左手的食指。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪对\"鞋以外的事\"近乎本能地排斥。多年以后有人问起他的身份，他耸耸肩答\"我是园丁\"。当儿子提议进军泳装，他暴怒：\"泳装，绝不！你彻底疯了。绝不能挂阿迪达斯的牌子！\"他给跳高运动员迪克·福斯贝里（Dick Fosbury）亲手做过一双两只颜色不同的钉鞋，福斯贝里穿着它在 1968 年墨西哥城跳过 2.24 米夺冠。福斯贝里后来说：",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\"这个德国鞋匠竟然为我一个人花上好几个小时做钉鞋，简直不可思议。我感激得不得了，绝不会想着收钱去穿它们。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把这句话记住。几年之后，达斯勒家送鞋的方式，会从\"花几个小时为你做一双\"，变成\"在厕所隔间下面塞给你一个装满钞票的信封\"。同一个家族，同一双鞋，两代人，两种逻辑。这中间发生了什么，是这个故事的关键转折。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第三章 防空洞里那句话",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.1 太挤的一栋楼",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要理解两兄弟为什么反目，得先看他们住在哪里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那栋叫\"别墅\"的三层楼，住着达斯勒父母、两对天天拌嘴的夫妻和五个孩子，显得越来越挤。已经出嫁、却仍在公司上班的姐姐玛丽，大部分时间和阿迪、凯特待在一起。墙太薄，挡不住父母们盛怒的争吵传进孩子耳朵。阿迪和凯特把最大的两个孩子，霍斯特和英格（Inge），送去了寄宿学校。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "冲突里有一桩，日后被反复提起。鲁道夫力图把自己立成公司的领袖，当姐姐玛丽请求在厂里安排自己的两个儿子时，鲁道夫干脆地回绝了，理由是公司里家族麻烦已经够多。鲁道夫的小姨子贝蒂·施特拉瑟（Betti Strasser）回忆，他可以\"刻薄、狠到难以置信\"。玛丽的这两个儿子，后来都没能从战场上回来。她为此终生不原谅鲁道夫，分家时坚定地站到了阿迪一边。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪的做法相反。他在整个纳粹时期一直雇着镇上知名的反法西斯者雅各布·普洛纳（Jakob Ploner）；员工汉斯·岑格（Hans Zenger）被逐出希特勒青年团、上头命令解雇他，阿迪始终不照办。岑格说：\"是阿迪·达斯勒保住了我。他知道，要是达斯勒兄弟厂解雇我，我多半会被送上前线。\"当长兄弗里茨要把一个女工送去当前线高炮助手时，阿迪又一次在自己厂里给她腾出位置，把她安全地留到了战争结束。一个反复用\"雇佣\"来保护弱者的人，和一个连姐姐的儿子都不肯收的人，性格的底色已经分明。",
+          "related_node_ids": [
+            "person:adi-dassler"
+          ]
+        },
+        {
+          "id": "dassler-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.2 一句被听错的话",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把兄弟之间那点裂痕炸开的，据说是一句被听岔了的话。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1943 年的一个夜里，盟军轰炸机飞临头顶，鲁道夫带着儿子阿明、妻子弗里德尔和小姨子贝蒂躲进家族防空洞。凯特和阿迪随后进来，阿迪厉声丢出一句：\"又是这帮该死的杂种。\"贝蒂清楚阿迪骂的是天上的轰炸机，鲁道夫却愤怒地跳起来，认定这话是冲自己一家来的。贝蒂后来回忆：\"根本没法说服鲁道夫，让他相信那句话不是针对他的。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个防空洞的场景，是达斯勒家族世仇流传最广的版本。它有一个问题：那句话的原话，在二手转述里漂移得厉害，有人记成\"该死的杂种\"，有人记成\"猪狗\"，版本对不上。更冷静的史料梳理会发现，英文维基百科关于达斯勒兄弟世仇的主词条，根本没把防空洞列为可考的核心，它列出的两条主因，一是妯娌不和，二是鲁道夫怀疑被弟弟告了密。换句话说，防空洞那句话更像一个符号，把多年积累的猜忌浓缩成了一个可讲述的瞬间。真正的裂痕，是慢慢裂开的，不是一夜之间。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.3 审查桌前的兄弟",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "战争给了这道裂痕第二次、也是更致命的一次撕扯。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1943 年初希特勒号召全民总动员。阿迪因工厂职务被认定\"不可或缺\"，1941 年那次征召很快获释；鲁道夫却被征去萨克森的一个团，又被调往波兰罗兹附近的海关部门。鲁道夫认定这是弟弟和凯特合谋把他支走的\"无法忍受的不公\"。他在某封信里说：\"1941 年我弟弟应征入伍、当了兵。他妻子想方设法让我放下前嫌，我这才把弟弟从部队弄出来、放回工厂。作为回报，1943 年轮到我，二十四小时内就被征去参军，而且我听说，这事我还得感谢我弟弟和他那些党内朋友。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "战争的最后几天，把这个家族的命运压缩进了几个昼夜。1945 年 4 月初，父亲克里斯托夫因心力衰竭去世，享年八十岁，一个卑微的拖鞋匠。家族短暂团聚为他送葬，葬礼次日，盖世太保把刚逃回家的鲁道夫抓走，关进纽伦堡的监狱。四月中旬，美军坦克逼近黑措根奥拉赫。镇上的纳粹号召起义保卫小镇，结果敷衍可笑：六十来个人离镇西进迎战美军，几英里后一半人钻进沟渠消失，剩下的不到一天就折返。1945 年 4 月 16 日凌晨，美军入城。几辆坦克停在达斯勒工厂门前，正盘算炸掉这座据信藏着党卫军军官的建筑。这时一个年轻女子从厂里走出来，二十七岁的凯特·达斯勒迎着士兵走过去，恳求他们别毁掉工厂，解释里面的人只想做运动鞋。工厂保住了，那栋别墅也保住了，部分原因是别墅显然是镇上最舒服的房子之一，美军正需要一个落脚处。一个在审讯桌上据理力争、又在坦克炮口下挺身而出的女人，是阿迪最宝贵的武器，也是鲁道夫眼里那个搅乱一切的\"闯入者\"。同一个凯特，在两兄弟眼中是两个完全不同的人。",
+          "related_node_ids": [
+            "person:kaethe-dassler"
+          ]
+        },
+        {
+          "id": "dassler-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "仇恨在战后的去纳粹化审查里彻底坐实。1945 年 7 月鲁道夫落入美军之手，被怀疑曾为臭名昭著的情报机构保安处（SD）工作。美军军官的调查报告里有一段冷冰冰的记录：\"据其妻在本处的供述，他确实在那里工作过。据其兄阿道夫·达斯勒在本处的供述，达斯勒确实在那里工作过。\"连凯特和阿迪，都在审讯中证实了鲁道夫为盖世太保系统工作过。这是兄弟相互指证的铁证。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "刀也朝另一个方向砍。轮到阿迪受审时，刚获释的鲁道夫趁机抹黑弟弟，向委员会声称工厂生产坦克部件完全是阿道夫一手组织，自己毫不知情、本会坚决反对。这个谎言激怒了凯特，她在 1946 年 11 月 11 日写下书面证词反击：\"鲁道夫·达斯勒进一步指控我丈夫告发了他。我证明这不属实。我丈夫尽了一切努力为他兄弟开脱。\"她还反指，工厂内外发表纳粹演说的，其实是鲁道夫本人。",
+          "related_node_ids": [
+            "person:rudolf-dassler"
+          ]
+        },
+        {
+          "id": "dassler-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪的审判结果反复了几轮。1946 年 7 月 13 日第一次被列为\"积极协助者\"（Belasteter），这对他是毁灭性的，意味着要被逐出鞋厂。镇长办公室和前镇长都为他作证：\"跟他两个兄弟不同，达斯勒在社区里受人尊重，也跟他兄弟不同，他随时愿意帮任何人。\"一个自称当地共产党长期成员的证人说了一句最贴切的话：\"据我对他的了解，体育是对他唯一算得上政治的政治。他不懂政治那套政治。\"7 月 30 日改判为较轻的\"次要协助者\"，罚款三万帝国马克、缓刑两年。直到 11 月底才终于定为\"随大流者\"（Mitläufer），等于实质平反。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场审查真正的后果，是把两兄弟之间还剩的那点情分也一并烧光了，罚金反倒是小事。鲁道夫坚信自己是被弟媳的\"恶意告发\"送进牢里的。他后来写道：\"1945 年 5 月 1 日我徒步回到家时，我弟弟和他妻子很不愉快地吃了一惊。他们没想到我会回来。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.4 三道杠与跃豹诞生",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同住一栋楼变得无法忍受，两兄弟决定分家。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "资产的分割，是这个家族治理史上第一份正式的\"协议\"，可它分的是地盘，不是规则。鲁道夫收拾行李，带着妻子和两个儿子搬到奥拉赫河对岸，接管了维尔茨堡街那家小厂；阿迪保留火车站附近的大厂和那栋别墅。从设备到专利，其余资产被两人煞费苦心地逐项掰开。员工被允许自选阵营，不出意外，销售人员大多跟了鲁道夫，技术人员站到阿迪一边。连母亲和姐姐都各选了一边：姐姐玛丽因儿子的事站阿迪，母亲葆琳娜跟了鲁道夫，由他们照料到她去世。1948 年 4 月，分家正式完成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接下来是取名。阿迪先想注册\"Addas\"，因为撞上一家德国童鞋公司的名字被驳回，于是他把自己的名（Adi）和姓（Das-sler）缩在一起，成了\"Adidas\"。这个名字没有任何浪漫的来历，就是名加姓。鲁道夫也照做，先注册了\"Ruda\"（Ru-dolf 加 Da-ssler），被嫌不雅、笨拙，改成了更利落的\"Puma\"，一只方头、扑食状的美洲狮跃过字母 D，这个商标 1948 年 10 月注册。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三道杠的来历同样朴素得近乎扫兴。分家后阿迪召集凯特和小姨子看样品，看着员工脚穿两侧带白色条纹的深色皮鞋在厂里跑动。条纹本来是鞋匠用来加固鞋帮的，长期与鞋面同色、看不出来，连专家都难从照片上分辨某双钉鞋是谁家的。阿迪想到，把条纹漆成白色，鞋就能在远处一眼认出。两道杠因为旧公司用过被弃掉，四道杠显得太杂，三道杠是个绝佳的折中。1949 年 8 月 18 日，公司以\"阿道夫·达斯勒阿迪达斯鞋厂\"的全名正式登记，阿迪达斯把这一天当作自己的生日；带三道杠的足球鞋也在同年注册。一个日后价值连城的商标，诞生时的全部考量，只是\"怎么让鞋在照片上看得清\"。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.5 小镇开始低头",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分家把整座小镇撕成两半。奥拉赫河成了泾渭分明的分界线，一岸是鲁道夫的支持者，一岸是阿迪的。黑措根奥拉赫从此成了\"人们总是低头看的城市\"，开口说话之前，先得看清对方穿的是哪家的鞋。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场分家最深的教训，藏在它最不起眼的地方。两兄弟分得清每一台机器、每一项专利、每一栋房子，却从未有过一份能处理分歧的契约。1924 年他们凭性情互补搭起公司，靠的是血缘和默契，从没写下过任何一条规则：谁拥有多少，谁拍板，妻子能不能介入，闹翻了怎么散伙。家族企业研究里有一个朴素的判断，第一代合伙人之间的治理空白，是这个家族最早、也最致命的结构性风险。达斯勒兄弟的合伙，二十四年里全靠两个人的脾气维系，脾气一变，公司就只能用最原始的方式拆开，用一条河、两家厂、把员工和亲人一个个分边来解决。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把这一幕放进同时代的家族企业里看，差别格外刺眼。后来被奉为德国家族治理范本的博世（Bosch），创始人罗伯特·博世在 1942 年去世前，留下一套把所有权和表决权分离的精巧安排，让公司能超长期地存在下去。达斯勒兄弟比博世晚辈，手里同样是世界级的事业，那份 1929 年的合伙协议却始终没有长成一套能在血缘失灵时兜底的治理。他们留给下一代的，不是一套制度，是一条河和一桩传了三代的恨。规则的缺席，会像遗传病一样，一代一代传下去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第四章 伯尔尼的泥地",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.1 被鲁道夫赶走的教练",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分家之初，两兄弟都半身不遂。鲁道夫拿到了销售队伍却没什么可卖，阿迪能快速复产却几乎没有销售力量。年近五十的阿迪，得从头再来一遍。把他从头救起来的，是一个鲁道夫亲手送掉的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "德国足球国家队的主教练叫塞普·赫尔贝格（Sepp Herberger），矮个、一脸皱纹，原本和达斯勒兄弟合作，这层关系还是鲁道夫建立的。但鲁道夫自负，觉得赫尔贝格对他不够恭敬，据说对他撂下一句：\"你是个小国王。你要是不合我们的意，我们换个人就行。\"这是鲁道夫一生中最具破坏性的失言之一。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "被顶撞之后，赫尔贝格转向了沉默寡言的阿迪。两个寡言的人结成了\"安静的一对\"，一句短话加一个点头就能彼此领会。阿迪带着工具箱，谦逊地坐在国家队身边，随时把球鞋调到每个球员恰到好处，这里拧颗螺丝，那里加点衬垫。这层关系，很快就要在世界舞台上给阿迪一份天大的回报。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.2 雨落下来，鞋钉拧上去",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1954 年世界杯在邻国瑞士举行。战后被禁赛多年的西德队获准重新参赛，决赛对手是匈牙利的\"强大马扎尔人\"，由费伦茨·普斯卡什（Ferenc Puskás）领衔，四年半未尝国际败绩，预选赛曾以 8 比 3 血洗西德。几乎没人看好德国。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪的袖子里藏着一手。他给赫尔贝格透露了一手当时还少见的技术，可换鞋钉，能拧上拧下、长短可调，干燥时用短钉，场地变泥时换长钉，增加湿滑表面上的抓地。1954 年 7 月 4 日决赛当天，阿迪和赫尔贝格在俯瞰湖面的酒店阳台上望天盼雨，因为德国队在泥地里反而踢得更好。早上还是万里无云，球员出发去球场时，天落下了稳定的第一滴雨。眼看伯尔尼的球场被浇透，赫尔贝格下了指令：\"阿迪，把钉子拧上！\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "上半场德国意外地和匈牙利 2 比 2 打平。终场前六分钟，场地已成烂泥，球落到埃森前锋赫尔穆特·拉恩（Helmut Rahn）脚下。德国电台解说员失声尖叫：\"拉恩应该来一脚远射，拉恩射门。进了，进了，进了！\"随后是错愕的沉默，又一声呐喊：\"终场前五分钟，德国三比二领先！说我疯了吧，说我发狂了吧！\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "精疲力竭的球员把赫尔贝格扛上肩，赫尔贝格拉着阿迪，坚持让这个制鞋匠也进了夺冠合影。河对岸的鲁道夫，在瑞士被彻底晾在一边。可换鞋钉到底是谁的发明，本身就是两家说不清的旧账：彪马官方日后宣称，早在 1952 年的 SUPER ATOM 球鞋上，鲁道夫就与赫尔贝格合作做出了\"世界第一双可拧鞋钉球鞋\"；阿迪达斯官方则把这项技术的高光记在 1954 年伯尔尼的雨地里。发明权各执一词，但有一点没有争议：把这手技术用到全世界都盯着的那个舞台、并借德国队夺冠把它放大成神话的，是阿迪。这场被称作\"伯尔尼奇迹\"的胜利，被誉为联邦德国非官方的重生时刻。阿迪达斯突然被各国订单轰炸，三道杠就此确立了对手再也追不上的国际领先。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.3 厨房、握手和糊涂账",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "伯尔尼之后，两家公司沿着创始人的性格，长成了两副模样。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪这边，他埋头做鞋、注册专利，把对外的一切交给凯特。凯特是阿迪最宝贵的武器。1953 年生下第五个孩子西格丽德（Sigrid）后她仍紧盯业务，用强势的性格和外交魅力弥补丈夫的内向，把来取鞋、来闲聊的客人、运动员、零售商一个个领进厨房，桌上立刻摆好热菜。早期那些影响深远的合作，几乎都是这样以人情和握手谈成的。1955 年，密歇根一个开五金店的人西米恩·迪特里希（Simeon Dietrich），替一位需要钉鞋的教练朋友上门跑腿，离开别墅时，竟带走了在全美独家分销三道杠产品的权利，成交靠的是一次握手，事后补的书面合同只有两段。差不多同时，一个移居加拿大的德国人恳求凯特寄阿迪达斯足球鞋去加拿大卖，最初只有三双，他靠拿下一支橄榄球队的代言慢慢做了起来。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这种靠人情和握手谈成的生意，在创业年代是阿迪达斯的魅力所在，温暖、灵活、快。可它也埋着一个结构性的隐患：一切都系于个人关系，没有制度、没有规范、没有白纸黑字的章法。几十年后，当职业经理人接手这家公司，去清理达斯勒家族签下的两百多份国际许可时，会发现其中不少混乱到\"只可能是前任在烂醉状态下签的\"。一家公司早年靠人情立身，晚年就要为没有制度还债。达斯勒家族在产品上从不含糊，在规则上却始终是一笔糊涂账，这一点，从凯特厨房的热菜，到那些握手合同，早已注定。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "鲁道夫那边，他管公司更张扬，带着洪亮的笑声闯进会议，喜欢跟工人家长式地闲聊，甚至坐下分一份盒饭。但他情绪说变就变，前一分钟欢呼、下一分钟怒吼。前彪马生产经理彼得·扬森（Peter Janssen）说：\"有时候我们出错，是因为鲁道夫没有真正的企业家心态。他常常过分节俭，又格外厌恶风险。每次需要买升级设备，说服他对我都是一场苦战。\"一个把对外关系托付给能干妻子的内向匠人，和一个既抠门又厌险、事事亲自拍板的张扬老板，两家公司的治理风格，从一开始就走向了不同的方向。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.4 第一双免费的鞋",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "真正把达斯勒家族带进一个新世界的，是阿迪的独子霍斯特。而他的登场，是从一桩\"暗算堂弟\"的小动作开始的。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1956 年，二十岁的霍斯特被父母派去墨尔本奥运会卖钉鞋，带着几套夏装和一家当地零售商的地址。到了才发现，自家的阿迪达斯钉鞋和一批彪马货一起卡在码头。霍斯特用一种日后会反复出现的精明解决了问题：他恳请知名运动员写信给海关，说奥运需要这些阿迪达斯鞋，同时设法让彪马那批货继续滞留在码头。这是这个家族第二代第一次出手暗算对岸的堂弟，往后还有无数次。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但霍斯特在墨尔本干的真正改变历史的事，是另一件。他找到当地体育用品店主，提出一个闻所未闻的主意：不卖鞋，而是免费把阿迪达斯钉鞋发给运动员。在那个\"钱还是脏字\"的国际田径界，没人这么干过。霍斯特说服店主，没有比一群运动员穿着三道杠冲过终点线更好的广告了。整支整支的代表队来挑鞋，墨尔本奥运超过七十枚奖牌由穿三道杠的人夺得，短跑手鲍比·莫罗（Bobby Morrow）一人夺三金、上了《生活》杂志封面。零售商的订单随之暴涨。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "堂弟阿明那边则在手忙脚乱地安抚运动员，因为部分彪马钉鞋开了胶、散了架。一位在场记者说：\"这对彪马是奇耻大辱。钉鞋一只只开胶，可怜的胖阿明满场跑着去捡。\"",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特这一手的精明，在于它钻了\"业余规则\"的空子。当时国际奥委会主席艾弗里·布伦戴奇（Avery Brundage）近乎狂热地捍卫运动员不得收钱的业余原则，因为铁腕苛刻得了个绰号叫\"奴役艾弗里\"。免费送鞋恰好卡在规则的缝里，鞋可以算\"技术装备\"，不算报酬。霍斯特赌的就是这一点。在加州，几个叫塞文的兄弟把蓝袋鼠皮、带三道白杠的阿迪达斯钉鞋堆在北好莱坞的车库里，开车跑遍各大学推广，一个兄弟说：\"这既是天赐，也是麻烦。运动员一直穿黑钉鞋，我们却带来了蓝袋鼠皮加三道白杠。\"一双醒目到能在照片上一眼认出的鞋，加上一套钻规则空子的免费派发，墨尔本就是这两样东西第一次合体。多年以后，当国际体育被金钱彻底浸透时，回头看会发现，浸透的起点，正是这一批本该最\"业余\"的免费钉鞋。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "墨尔本是一道分水岭，分开的是达斯勒家族两代人的两种逻辑。父亲阿迪那一代的内核是\"鞋好运动员就穿\"，产品自己说服人；儿子霍斯特这一代的内核是\"我把鞋免费送到你脚上，再让全世界看见你穿它\"，影响力取代了产品。墨尔本还给霍斯特留下一批无可匹敌的感恩人脉，许多当年拿了免费鞋的运动员，日后成了体育组织的高管。一双鞋撬动一个人，一个人撬动一片市场，祖父辈在魏茨尔教练身上尝到的那点甜头，到孙辈手里，要被锻造成一台机器。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第五章 阿尔萨斯的儿子",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.1 被送过边境",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "墨尔本归来后，霍斯特变得焦躁。他继承了父亲的干劲，也继承了母亲那股固执、硬脑筋，缠着父母要更多权限，跟强势的凯特之间的争吵越来越激烈。火上浇油的是一桩婚事：霍斯特爱上了一个叫莫妮卡（Monika）的姑娘，她是有天赋的体操运动员，曾在当地马戏团表演高空秋千，更要命的是她是新教徒，而达斯勒家是天主教徒。父母看不上这个儿媳人选。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪和凯特想出一个两全的办法：把这个鲁莽的儿子送离黑措根奥拉赫，又不让家族企业失去这个有才干的继承人。办法是让他去掌管一家独立的工厂，既拉开距离，又算一种接班的历练。选址在法国边境对面的阿尔萨斯，离家四个多小时车程，当地制鞋业陷入困境，有的是急着脱手的破厂。霍斯特乐享独立，住进工厂楼上的公寓，莫妮卡不顾那片灰暗环境前去与他同住，两人在当地低调办了婚礼。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要说明的是，\"流放\"这个词是后世的渲染。父子失和、把儿子打发走，这层动机缺乏权威史料的坐实，更稳妥的说法是，父母既想给这个不安分的长子一个去处，也想给阿迪达斯的增长找个出口。但无论动机如何，结果是确定的：被送到几百公里外的霍斯特，把一家不起眼的子公司，变成了整个阿迪达斯帝国真正的心脏。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.2 生意就是关系",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1960 年代末，\"流放\"还不到十年，霍斯特已经把那家\"发臭的工厂\"变成了火力强劲的生产基地。他在阿尔萨斯山里的兰德斯海姆（Landersheim）选中一座原本是狩猎小屋的客栈，翻修扩建，配上办公楼、网球场、足球场。纸面上，法国公司只是个要听命于德国总部的子公司，可在霍斯特手里，兰德斯海姆和它那家客栈，成了阿迪达斯真正的神经中枢。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特的工作方式近乎疯魔。他几乎不需要睡眠，半夜给下属打电话，张口就是\"你没睡吧？\"一位下属的美国女友被夜半电话激怒，抓起听筒怒吼：\"霍斯特，你在干扰我的性生活。\"他的招待客栈有一手\"旋转晚宴\"的奇招：三组客人分在三个房间，他轮流过去陪每组喝酒、吃前菜、用甜点，让每一组都觉得自己跟霍斯特共进了晚餐。在阿尔萨斯，人们叫他\"老板\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他把一套生意哲学说得明明白白。当下属抱怨签了约的球队球员上场穿别家鞋时，霍斯特厉声反问：\"你跟他们一起进过更衣室吗？你知道他们老婆的名字吗？你事先跟他们吃过午饭吗？那你还指望什么？\"他的格言是：\"生意就是关系。\"到他这里，做生意靠的是把每一个有用的人都伺候到位的本事。他给每个联系人建一份详细档案，记下对方家人的姓名年龄、衣服尺码、好恶、上次谈了什么、送过什么礼。他手下的人都被训练得随时记笔记。这套关系的机器，很快就要从绑定运动员，升级到操纵整个国际体育的官员。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特在法国造出的，还不只是关系，也有产品。1969 年，阿迪达斯法国推出全皮鞋面、带怪异\"贝壳头\"和人字纹外底的篮球鞋\"超级巨星\"（Superstar），上市不到四年，约百分之八十五的美国职业篮球运动员改穿了它，几乎把帆布面的匡威挤出了篮球场。1971 年，一双白色全皮网球鞋以网球明星斯坦·史密斯（Stan Smith）的名字命名上市，销量爆炸，从球场蔓延到学生的牛仔裤搭配，成了几十年里最畅销的球鞋之一。斯坦·史密斯本人有一句无奈的话：\"我第一次输给一个穿着我自己名字的鞋的人时，真的很恼火。\"这些在阿尔萨斯被造出来的鞋，比德国总部的产品更便宜、交货更可靠，抢走了大量美国订单。霍斯特要求手下伪造数字，掩盖法国出口增长远快于德国这件事，他的一个经理回忆：\"霍斯特要我们掩饰，因为他一直怕父母会暴跳如雷。\"一个被打发到边境对面的儿子，已经在产品和市场两条线上，悄悄盖过了父母坐镇的总部。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.3 厕所隔间里的信封",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-114",
+          "index": 114,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两代人之间那道逻辑的鸿沟，在 1960 年代的奥运赛场上一次次现形。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-115",
+          "index": 115,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1960 年罗马，德国短跑手阿明·哈里（Armin Hary）第一个公然把阿迪达斯和彪马的竞争变成生意。他穿着彪马跑出 100 米冠军，据说是被一个装着约一万德国马克的厚信封驱动的；几分钟后，他却换上阿迪达斯出现在领奖台上，想两头收钱。阿迪厌恶至极，从此禁止哈里再踏上自己这岸。彪马的人给他起了个绰号，叫\"两边吃的家伙\"。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-116",
+          "index": 116,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1964 年东京，行贿的手法已经像间谍片。美国 200 米冠军亨利·卡尔（Henry Carr）后来描述：",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-117",
+          "index": 117,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\"我记得，就像詹姆斯·邦德或者悬疑片里那样。在东京，一个鞋商走进厕所，在隔间下面留下一个信封，我随后进那个隔间。你拿到的信封里，是五块十块的钞票凑成的六七百、甚至几千美元。你会觉得自己发了财。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-118",
+          "index": 118,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1968 年墨西哥城，两个堂兄弟之间的争夺彻底撕破了脸。霍斯特三年前就买通了奥运村的独家售鞋权，阿迪达斯鞋可以长驱直入，彪马的德产鞋却每双要被课重税。阿明急了，想了个歪招：把彪马的货伪装成免税的阿迪达斯货，企图混过海关。结果被当场查获，整柜扣下。阿明本人半夜被制服人员闯进酒店房间审讯数小时，最后被勒令离境。他的妻子伊雷娜回忆，她把一个装钱的信封塞进手袋，打车从酒店赶去机场，交给彪马的人去找对的人行贿，\"花了我们好几千美元，才从海关仓库弄出区区五十双鞋\"。彪马的美国代理人阿特·辛伯格（Art Simburg）更惨------抱着一袋彪马鞋走在奥运村，被两个便衣警察架走、关了五天，靠白宫和国务院出面才捞出来。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-119",
+          "index": 119,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最刺眼的一幕发生在领奖台上。200 米冠军汤米·史密斯（Tommie Smith）和铜牌得主约翰·卡洛斯（John Carlos）在美国国歌声中低头、举起戴黑手套的拳头，留下了黑人民权运动最具标志性的画面。少有人注意的细节是，史密斯走向领奖台时，特意带了一只彪马钉鞋，整齐地摆在台上。一个抗议体育界把黑人运动员当\"表演的牲口\"的庄严时刻，同时也是一次精心安排的产品露出。墨西哥城撒出去的大把美元，让业余规则的拥护者震怒，有人提议，要根除腐败，就该把整个达斯勒家族流放到西伯利亚去。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-120",
+          "index": 120,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.4 贝利跪下系鞋带",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-121",
+          "index": 121,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把堂兄弟之间最后一点和平也撕碎的，是一个叫贝利（Pelé）的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-122",
+          "index": 122,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1970 年世界杯前几个月，霍斯特和阿明做了一件罕见的事：两人直接达成一项协议，谁都不去碰贝利。因为一场争夺贝利的竞价战，会引发一场\"谁都负担不起的金钱爆炸\"。这就是后来人称的\"贝利条款\"。这是阿迪达斯和彪马唯一一次正式约定互不争抢一个球星，本身就说明，第二代已经清楚自己亲手点燃的这场军备竞赛有多烧钱。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-123",
+          "index": 123,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但彪马一方的德国记者汉斯·亨宁森（Hans Henningsen）觉得这局面荒唐透顶，决意撕毁密约。他给贝利开价：墨西哥世界杯两万五千美元，此后四年再付十万美元，外加以贝利名义售出的彪马鞋百分之十的版税。对阿明，这诱惑无法抗拒，明知堂兄会暴怒仍然接下。两人亲赴桑托斯送现金，亲眼看着贝利把几千美元扔进保险箱。营销的奇招随后上演：一场淘汰赛开球前，贝利请裁判稍等，跪下慢慢系鞋带，他脚上那双彪马鞋的特写，在全球数百万台电视屏幕上停留了好几秒。贝利助巴西再夺世界杯，彪马以他名义推出的\"King\"和\"黑珍珠\"球鞋，靠这一条仅四年的合同，拿下了往后数十年的订单。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-124",
+          "index": 124,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后果是霍斯特勃然大怒。亨宁森离开墨西哥前被卡在一场尴尬的会面里，一边是难堪的阿明，一边是暴怒的霍斯特，旁边还坐着三个显然不是来友好聊天的壮汉。从那以后，达斯勒堂兄弟之间所有的和平协议，全部作废。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-125",
+          "index": 125,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.5 球星越来越贵",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-126",
+          "index": 126,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "和平协议作废之后，两家为球星砸下的钱，开始失控。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-127",
+          "index": 127,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "荷兰球星约翰·克鲁伊夫（Johan Cruijff）的合同，被两家来回撕扯。1972 年，霍斯特给克鲁伊夫开出五年一百二十万荷兰盾的报价，对方的岳父兼经纪人四天后就把合同副本送到彪马的格尔德桌上逼其加价。格尔德写信\"亲爱的霍斯特\"，指控他唆使克鲁伊夫违约；霍斯特回信\"亲爱的格尔德\"，理直气壮地说，既然彪马在墨西哥已经撕毁了贝利条款，他就不必再守任何非正式规则。1974 年世界杯，荷兰队穿阿迪达斯，唯独克鲁伊夫因彪马合同获得豁免，折中的办法是他球衣袖子上只印两道杠，而非三道。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-128",
+          "index": 128,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "给德国队队长贝肯鲍尔（Franz Beckenbauer）的钱，更是大到让凯特抗议。这位绰号\"足球皇帝\"的球星，从以他名字命名的球鞋、球衣、球裤里抽成，光\"贝肯鲍尔短裤\"就卖出数百万条。当经纪人再开口要钱时，据阿迪的私人助理透露，阿迪达斯被迫安排了至少两笔大额的桌下付款才留住贝肯鲍尔，而助理特意不让阿迪知道这件事，因为\"他什么都不想知道\"。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-129",
+          "index": 129,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最能说明阿迪心境的，是 1974 年世界杯前的一幕。德国球员通过贝肯鲍尔向足协索要每人至少十万马克的穿鞋奖金，整夜讨价还价；赛前几天，他们还威胁要用黑漆涂掉鞋上的三道杠，除非拿到钱。阿迪厌恶到收拾行李、谁也劝不回。德国队最终夺冠，可对阿迪来说，这场决赛标志着那段把他推上足球霸主之位的私人关系的终结。一个靠手艺和真心赢得运动员的老人，再也认不出自己亲手开创的这门生意了。钱，把它变成了另一样东西。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-130",
+          "index": 130,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "上一代的仇恨，就这样原封不动地传给了下一代。阿迪和鲁道夫至死不曾和解，他们的儿子霍斯特和侄子阿明，把同一场战争又打了一遍，只是手段从做鞋的工艺，换成了塞信封、买通海关、操纵规则。家族企业研究里有一个反复出现的现象：第一代的情感创伤如果没有被处理，会作为一种未言明的脚本，传递给第二代，让后人无意识地重演前人的冲突。达斯勒家族把这个现象演到了极致。两个孩子从小就无需大人教，便知道不该和河对岸的堂兄弟来往，各守一岸。他们继承的不只是工厂和姓氏，还有一整套\"对岸是敌人\"的本能。这套本能，会一直传到第三代，传到那场把两家公司都卖光的清算里。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-131",
+          "index": 131,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第六章 彪马的遗嘱战争",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-132",
+          "index": 132,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.1 临终前改过的遗嘱",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-133",
+          "index": 133,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1974 年，鲁道夫已经是个易怒的老人，行为越来越反复，不断责骂长子，反复修改遗嘱。那年晚些时候，家人才知道他得了肺癌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-134",
+          "index": 134,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "兄弟二人到死也没有真正和解，却在最后几年有过一点微妙的松动。在阿迪的私人助理维德曼的安排下，两人于 1970 年代初在纽伦堡的大酒店和法兰克福机场秘密见过四次，长谈过，多数家人和员工都不知情。鲁道夫病危时，临终的牧师打电话到别墅，阿迪拒绝过河去和兄弟做最后的拥抱，但托人传达了宽恕。1974 年 10 月 27 日，鲁道夫去世。阿迪发了一份措辞冷峭的声明：\"出于怜悯，阿道夫·达斯勒一家不对鲁道夫·达斯勒之死发表评论。\"话虽如此，他和凯特仍派出长女英格去参加了葬礼。",
+          "related_node_ids": [
+            "person:rudolf-dassler"
+          ]
+        },
+        {
+          "id": "dassler-p-135",
+          "index": 135,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "几天后宣读遗嘱，结论惊人。鲁道夫把彪马的所有权交给了幼子格尔德（Gerd），把长子阿明完全排除在外。这并非一时糊涂。鲁道夫一辈子偏爱小儿子，公开贬低长子，制造两个儿子之间不健康的竞争，连母亲弗里德尔都为此崩溃。阿明的姨母回忆，鲁道夫想要一个有运动天赋、绝顶聪明的孩子，于是不断打压阿明，常常当众如此。阿明从小恳求父亲准他离开去学电子，鲁道夫不准。1961 年，又一次激烈争吵后，阿明摔下行李，出走萨尔茨堡自立门户。父子的协议冷酷得近乎绝情：阿明拿到一笔钱去奥地利买厂、覆盖当地市场，但此后完全自生自灭，父亲固执地拒绝为他向奥地利的银行提供任何担保。伊雷娜的话很直白：\"那老头子可真是处处为难我们。\"1964 年阿明第二次结婚，鲁道夫宁可不打断自己的年度假期也不出席，回信说不会为他们的婚礼中断假期。父子之间的裂痕，和兄弟之间的裂痕一样深，只是换了一对人。阿明的妻子伊雷娜说，遗嘱宣读后，\"我丈夫被击垮了\"。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-136",
+          "index": 136,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.2 一纸章程挡住一纸遗嘱",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-137",
+          "index": 137,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把阿明从绝境里救出来的，是一条法律技术。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-138",
+          "index": 138,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1975 年 1 月，阿明夫妇去见杜塞尔多夫一位律师。律师拿出一份联邦最高法院的判例，告诉他\"你完全不用担心\"：根据德国法，有限合伙企业的公司章程效力高于个人遗嘱。而彪马这家有限合伙的章程从未被修改，按章程，阿明本就是承担无限责任的普通合伙人，持有彪马百分之六十的股份；格尔德是有限合伙人，持百分之四十，外加家族其余财产。一纸遗嘱想推翻的东西，被一纸章程改变了。伊雷娜回忆：\"那就是故事的结局。\"",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-139",
+          "index": 139,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是达斯勒家族治理史上一个意味深长的反讽。整个家族最缺的就是规则，可偏偏是一份被忽视、却恰好存在的公司章程，在关键时刻挡住了一份任性的遗嘱，保住了长子的继承权。如果连这份章程都没有，彪马的命运会更早地脱离阿明之手。一份谁都没在意的旧章程，在最要命的时刻替阿明挡了一刀。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-140",
+          "index": 140,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夺回控制权的阿明，从此可以不受父亲干扰地经营公司。接下来约十年，彪马的销售额翻了五倍。但有一个代价被一笔带过：救法国子公司的财务危机时，阿明被迫把自己的亲弟弟格尔德从管理层赶了出去。伊雷娜的原话是：\"救法国业务让整个公司财务吃紧，我丈夫基本上是被迫解雇了自己的亲弟弟。\"上一代兄弟反目，这一代又添一桩兄弟相残。这个家族的内耗，像一种代代复发的病。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-141",
+          "index": 141,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.3 把彪马押在巨星身上",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-142",
+          "index": 142,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿明很清楚，论财力，彪马永远拼不过阿迪达斯。霍斯特满世界撒三道杠，他只能反其道而行，把赌注集中押在少数几个国际化、有魅力、能上头条的巨星身上。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-143",
+          "index": 143,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这套打法一度漂亮。彪马签下了率纽约喷气机队夺超级碗的乔·纳马斯（Joe Namath），签下了纽约尼克斯的明星后卫沃尔特·弗雷泽（Walt Frazier），两人拿的是同样的条款：每年两万五千美元，外加每卖一双签名鞋两毛五分版税。弗雷泽那双蓝麂皮的\"彪马克莱德\"，整个 1970 年代卖出超过一百万双，从球场走上了街头，让彪马第一次踏进时尚领域。加上世界杯上的贝利，阿明的\"巨星策略\"在 70 年代撑起了彪马的国际声誉。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-144",
+          "index": 144,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿明在拉丁美洲的收获最大。靠巴西的人脉，他签下了 1978 年世界杯阿根廷队的大部分球员，其中包括一个还是少年、合同需要父亲代签的迭戈·马拉多纳（Diego Maradona）。这位日后的球王日益任性，到慕尼黑参加体育用品展时，要带上约二十口人的全家，订下一长排相邻套房。把赌注押在巨星身上，赌赢时风光无限，可一旦巨星的脾气和身价跟着膨胀，账单就再也收不住了。这套逻辑的甜与险，阿明很快会在一个网球少年身上尝到极致。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-145",
+          "index": 145,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但同一套打法，也藏着同一种危险：押注集中，决策全凭一人的冲动，对了是神来之笔，错了是灭顶之灾。阿明在美国市场连犯大错。1979 年，他一怒之下和美国分销商贝孔塔（Beconta）单方面解约，没有任何平稳过渡，弟弟格尔德都看不下去：\"我哥跟他们说翻脸就翻脸，造成的混乱根本没必要。从那以后，美国市场对彪马就是一团糟。\"1983 年，为了在两个月内冲销量、增加应收账款，阿明急电美国负责人，要求把两百万双鞋塞进 Kmart 旗下的折扣鞋渠道。结果品牌形象一落千丈，全美最有影响力的零售商富乐客（Foot Locker）决定停售彪马，理由很简单：既然这牌子在 Kmart 卖，他们就不想让它出现在自己货架上。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-146",
+          "index": 146,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.4 贝克尔合同的代价",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-147",
+          "index": 147,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把彪马彻底拖垮的，是一个网球少年。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-148",
+          "index": 148,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1984 年，在阿迪达斯拒绝之后，彪马听从罗马尼亚人扬·蒂里亚克（Ion Tiriac）的劝说，为当时默默无闻的鲍里斯·贝克尔（Boris Becker）付了三十万德国马克签下鞋约。回报惊人：1985 年 7 月，十七岁的贝克尔夺得温网冠军，球鞋上的彪马标志清晰可见。1986 年 7 月，他卫冕温网仅几天后，彪马在法兰克福交易所上市，这次发行干脆被称作\"贝克尔行情\"。股价从发行价一百三十马克一路飙到一千四百多马克。这是五十六岁的阿明一生中最高光的时刻。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-149",
+          "index": 149,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "高光转瞬即逝。彪马被蒂里亚克在 1986 年谈下的天价合同套牢：贝克尔未来五年每年至少拿五百万美元，外加贝克尔系列的销售提成。可贝克尔随后状态下滑，从德国偶像变成\"傲慢的小子\"，移居摩纳哥逃税避兵役，激起全国愤怒。零售商说：\"要是贝克尔的产品上面没有他的名字，会卖得好得多。\"一份曾经点石成金的合同，变成了永久的尴尬和越滚越大的负债。这正是\"巨星策略\"的另一面：一个人能把公司抬上天，也能把公司拖下水，而彪马把全部身家押在了太少的几个人身上。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-150",
+          "index": 150,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.5 你失去了公司",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-151",
+          "index": 151,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "财务崩盘来得又快又狠。1987 年 1 月，阿明和格尔德通过私人次级贷款向公司注入六千二百万德国马克，仍按不住股东的不安。当年三月，距离自己死亡只剩几周的霍斯特，还在布达佩斯的记者会上公开羞辱堂弟，说彪马是在找一个需要高额避税亏损的买家，斥之为\"一桩彻头彻尾的银行丑闻\"。堂兄弟之间的刻毒，到死方休。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-152",
+          "index": 152,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "因为之前那笔贷款，达斯勒家在彪马的股份实际上已经落进了银行手里。1987 年 9 月，阿明从德意志银行开完会回到家，瘫在沙发上：银行准备把他从公司里除名，撂下一句\"你失去了你的公司\"。他的两个儿子弗兰克和约尔格也被银行要求收拾东西走人，理由是\"我们仅仅因为是阿明的儿子就拿薪水，这不可接受\"。1989 年 5 月，德意志银行把达斯勒家持有的彪马百分之七十二股份卖给了日本许可商合并而来的科萨·利伯曼（Cosa Liebermann），估值约四千三百五十万美元。彪马的达斯勒继承人们在彼此之间，最终只分到了两千万出头德国马克。鲁道夫这一支，就这样在 1989 年退出了自己亲手创立的公司。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-153",
+          "index": 153,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿明没能熬过这场清算。失去公司后他日益抑郁，肝病查出来其实是癌症，迅速转移到骨头。1990 年 10 月 14 日，阿明·达斯勒去世，享年六十一岁。虽然夺命的是癌症，家人却坚信他是被失去公司这件事彻底击垮的。遗孀伊雷娜的话很短：\"这么说吧，他没有抵抗。\"",
+          "related_node_ids": [
+            "person:armin-dassler"
+          ]
+        },
+        {
+          "id": "dassler-p-154",
+          "index": 154,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把鲁道夫这一支的崩塌拆开看，是三重失败叠在一起。传承上，鲁道夫到死都在用偏心和遗嘱折磨儿子，把本该平稳的交接变成一场遗嘱官司。治理上，阿明大权独揽、全凭冲动，没有任何机制能在他犯错时拉住他，于是解约、折扣店、天价合同，一个错误接一个错误。关系上，他被迫解雇亲弟弟，重演了父辈的相残。三样东西没有一样有制度兜底，全靠一个人的脾气和运气在撑。运气一断，整支血脉就和公司一起出局了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-155",
+          "index": 155,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第七章 体育世界的隐形皇帝",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-156",
+          "index": 156,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.1 别墅露台上的咖啡桌",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-157",
+          "index": 157,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1978 年 8 月 18 日，凯特发现阿迪中风，几乎不动地躺在床上，送进重症监护室。五个子女守了近三周。1978 年 9 月 6 日，阿道夫·达斯勒因心脏衰竭去世，离七十八岁生日还差不到两个月，享年七十七岁。葬礼按他的遗愿低调举行，家人在公开时间前一小时把他下葬，墓在公墓一角，与四年前下葬的兄弟鲁道夫遥遥相对。这时的阿迪达斯，仅在德国就雇着近三千人，在十七个国家有工厂，每天产出约十八万双鞋，在一百四十四个国家销售。阿迪一生注册了将近七百项专利、商标和工业产权。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-158",
+          "index": 158,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按阿迪的遗嘱，公司控制权由凯特继承。凯特坚持把所有孩子拉进管理层，四个女儿各管一摊：长女英格管德国体育推广，次女卡琳管市场，三女布丽吉特辅佐弟弟霍斯特处理东欧关系，幼女西格丽德短暂主管纺织。女婿们参与非正式的家庭会议，其中英格的丈夫阿尔夫·本特（Alf Bente）影响力最大。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-159",
+          "index": 159,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这套治理，说是公司治理，其实更像家务安排。重大决策常常是在别墅露台上、凯特和妹妹、女儿们喝咖啡闲聊时做出的。最离谱的一道控权仪式，是凯特的妹妹玛丽安每天花两个多小时，拆阅每一封寄到阿迪达斯的信，不管收件人写的是哪位经理，按自己的意思分发。专业经理被晾在一边。国际营销经理曾惊讶地发现，阿迪达斯从没做过品牌广告，只在杂志上登枯燥的产品广告，对岸的耐克却在用机智抢眼的广告抢市场。他提议做一次市场研究，凯特手写一张便条回绝：\"货都卖到 1982 年断货了，做什么市场研究。\"",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-160",
+          "index": 160,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把这套\"咖啡桌治理\"和同时代的对手放在一起，差距是结构性的。耐克在 1970 年代就把品牌、设计、营销交给专业团队，靠斯沃什标志和广告攻城略地；阿迪达斯却把决策权锁在一张别墅的露台桌上，由一群凭血缘而非能力坐上位置的家族成员把持。许多员工私下觉得，这些家族成员若经一场正常的面试，根本到不了那个位置。一家世界第一的公司，治理水平却停在了一家镇上小作坊的层次。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-161",
+          "index": 161,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.2 藏在家族外面的公司",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-162",
+          "index": 162,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "就在父母还在世时，霍斯特已经在家族体外，悄悄建起了一个庞大的平行帝国。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-163",
+          "index": 163,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他靠一系列隐秘的手法控制了一连串公司。法国的乐卡克（Le Coq Sportif），他通过科西嘉裔投资人安德烈·盖尔菲（André Guelfi）拿到：在家族眼里阿迪达斯法国只占乐卡克百分之四十九，但盖尔菲把自己份额里的百分之二私下划给霍斯特个人，又给他随时收购剩余股份的期权，于是霍斯特一个人实际控制了这家公司。此外还有泳装品牌阿瑞娜（Arena）、美国的 Pony，全部归拢在瑞士的萨拉根（Sarragan）控股公司名下，由一个绰号\"提包人\"的会计让-马里·韦伯（Jean-Marie Weber）负责把账目对总部搅浑。韦伯有一句名言：\"在这样一团乱麻里，连猫都找不到自己的崽。\"盖尔菲则说得更狂：\"在我们俩之间，我们成了世界的主人。\"",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-164",
+          "index": 164,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个盖尔菲是个传奇而可疑的角色。他在摩洛哥长大，从银行勤杂工干起，靠追讨坏账发迹，投资渔船得了个绰号叫\"沙丁鱼德德\"，一场地震毁了他的渔业，他又在毛里塔尼亚东山再起，后来因涉嫌行贿被毛里塔尼亚政府和摩洛哥王室通缉，逃到瑞士，洛桑的豪宅紧挨着国际奥委会总部。法国法官后来形容他是\"商业寄生虫\"\"老土匪\"\"按公里造假账单的人\"。凯特那句\"一个在跟黑帮打交道\"，指的就是这个人。一个朴素的鞋匠家族，第二代掌门人却在和这样的人合伙，在世界各地搭建瞒着家人的离岸帝国。从洗衣棚到离岸控股，达斯勒家族这两代人之间的距离，已经远得母亲都认不出儿子在做什么了。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-165",
+          "index": 165,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1982 年，这个帝国败露了。盖尔菲和霍斯特闹翻后，带着文件跑到黑措根奥拉赫，把一切和盘托出。凯特震惊地发现，这个迷人的法国人多年来资助她\"叛逆的儿子\"，花数百万搭起了一个谁也想不到规模的副业，而搭建它的资源，是霍斯特从阿迪达斯一点点转移出去的。凯特暴怒。她曾对老员工抱怨自己两个最棘手的家人：\"一个在跟黑帮打交道，另一个该去戒酒所。\"前者指盖尔菲，后者指酗酒的女婿阿尔夫·本特。一个母亲对家族生意的失望，浓缩在这一句话里。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-166",
+          "index": 166,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.3 送鞋送到权力深处",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-167",
+          "index": 167,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特真正的过人之处，是把祖父辈\"抓住一个有影响力的人\"的甜头，升级成了操纵整个国际体育的机器。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-168",
+          "index": 168,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他给每个体育官员建详细档案，用送鞋、付钱、人情把他们一个个绑住。这套关系网在 1974 年迎来一次决定性的收割。那年六月，世界杯前三周，国际足联在法兰克福改选主席，在位的是英国人斯坦利·劳斯（Stanley Rous），挑战者是巴西人若昂·阿维兰热（João Havelange），后者走访了八十六个国家拉票，常带着贝利同行。霍斯特原以为欧洲会赢，投票前夜，他的南斯拉夫朋友点破玄机：非洲各国足协早已许诺支持阿维兰热。霍斯特当场倒戈，拿到阿维兰热的房间号去示好。次日阿维兰热以六十八票对五十二票当选。会后两人达成交易：阿维兰热为霍斯特敞开国际足球的大门，霍斯特帮他筹钱兑现昂贵的竞选承诺。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-169",
+          "index": 169,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从这一步起，霍斯特一手把体育商业化推向产业级。他把瑞士人塞普·布拉特（Sepp Blatter）安插进国际足联，先逐走原秘书长，再把布拉特一路捧上去。同事们说，霍斯特公开把布拉特当\"傀儡\"，\"布拉特看达斯勒就像看上帝，他心知没有达斯勒就拿不到这个职位\"。在国际奥委会一侧，霍斯特 1973 年就和西班牙人胡安·安东尼奥·萨马兰奇（Juan Antonio Samaranch）在巴塞罗那定下终生默契：霍斯特帮萨马兰奇当上奥委会主席，萨马兰奇为他大开方便之门。1980 年 7 月 16 日，萨马兰奇击败德国候选人登顶。1982 年，霍斯特与日本广告巨头电通合资，在卢塞恩成立了 ISL（国际体育与休闲公司），垄断世界杯和奥运会的电视转播与全球营销权。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-170",
+          "index": 170,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这台关系机器伸出的触角，远得惊人。在巴黎旺多姆广场上，霍斯特的助手提着鼓鼓的钱包，看苏联代表团把最精致的珠宝店扫荡一空。在东德，元首昂纳克亲自签下一份\"极权式\"协议，让三道杠成为东德国际运动员的标志，每年的代价约七十万德国马克。在非洲，布基纳法索的总统要走一集装箱阿迪达斯足球运进宫殿，几年后他遇刺身亡，叛军在总统府地窖里搜出了三千个阿迪达斯球。霍斯特过铁幕必带反窃听设备，进酒店房间先扫描再开行李；在莫斯科，他干脆和一位苏联奥委会委员游到一个大暖水池的中央，才敢开口谈事。他在兰德斯海姆那家米其林星级的招待客栈，酒窖里藏酒多达三万瓶，没被请去那里吃过饭的人，在这个圈子里\"什么都不是\"。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-171",
+          "index": 171,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条链条，是达斯勒家族商业逻辑的终极变形。祖父靠手艺让运动员自愿穿鞋，父亲靠产品赢得声誉，到霍斯特这里，鞋成了行贿的载体，运动员成了筹码，连国际足联和奥委会的主席宝座，都成了可以经营的资产。这套机器埋下的雷，在霍斯特死后十几年才引爆：ISL 在 2001 年破产，曝出向国际足联官员行贿一亿三千八百万瑞郎的丑闻，阿维兰热和女婿一人就收了四千一百万瑞郎；这条贿赂线，一直牵连到 2015 年震动世界的国际足联大丑闻。霍斯特没有活着看到这一切，但这一切的源头，是他在兰德斯海姆那家客栈里一笔笔记下的人情。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-172",
+          "index": 172,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.4 买来和平的礼物",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-173",
+          "index": 173,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1984 年，病重的凯特想把出走的儿子召回家族中枢，让霍斯特正式接掌阿迪达斯。霍斯特为此付出了一个日后看来代价高昂的筹码。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-174",
+          "index": 174,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为了换取四个姐姐退出公司的日常管理，霍斯特给了每个姐姐一份\"礼物\"：ISL 控股母公司各百分之十六的股份。ISL 起初由他和电通各持一半，两年后他说服电通让他拿到百分之五十一的多数股权，放进这家控股公司。如今他自己只留百分之三十六，三个姐姐一旦联手，就能否决他。霍斯特的律师震惊地说：\"这对我来说很难理解，他给了姐姐们一份非常贵重的礼物。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-175",
+          "index": 175,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这份礼物，是一颗定时炸弹。它当下买来了家族的和平，让霍斯特顺利掌权；却在他身后，变成子女和姑姑们围绕 ISL 控制权死战的引信。一个为了平息家族矛盾而做出的让步，几年后会撕开一道更大的口子。1984 年 12 月 19 日，法律安排敲定。十二天后，1984 年 12 月 31 日，凯特·达斯勒在医院去世，享年六十七岁，验尸结论是心脏衰竭，也有人说是心碎。她最后的日子是在奥地利一处公寓里独自度过的，女儿们意识到她病重派飞机去接，已经太晚。",
+          "related_node_ids": [
+            "person:kaethe-dassler"
+          ]
+        },
+        {
+          "id": "dassler-p-176",
+          "index": 176,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.5 病床上的最后一封信",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-177",
+          "index": 177,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接掌大权后，霍斯特只来得及全力经营了两年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-178",
+          "index": 178,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1986 年，他瞒着所有人溜去纽约看医生，被告知左眼后方的癌细胞需要手术。瞒病的一个理由近乎偏执：他不想让堂弟阿明知道，他真的相信阿明派了间谍到处跟踪他。1987 年 3 月底，他在给董事会的六页备忘录里还在淡化病情：\"不幸的是，我的病会比原先预计的拖得久一点。为了不让这些肠胃问题变成慢性，我得再休息、节食两个月。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-179",
+          "index": 179,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1987 年 4 月 9 日，霍斯特·达斯勒去世，刚过五十一岁生日不到一个月。德国的几千名员工第二天上班才得知董事长的死讯。法国兰德斯海姆的反应更激烈，人们在走廊里哀号，有人瘫在办公室里哭了几个小时。最能说明这个人的，是一个细节：他死前两天还在病床上亲笔给世界各地的人写信。一位收到信的网球经纪人震惊地问：\"他到底在干嘛，躺在床上给全世界写信？\"葬礼上，国际奥委会主席萨马兰奇、国际足联的布拉特、阿维兰热并肩走在遗孀和两个孩子身后。一个被讣告称作\"体育界最有权势的人\"，就这样在五十一岁上戛然谢幕。",
+          "related_node_ids": [
+            "person:horst-dassler"
+          ]
+        },
+        {
+          "id": "dassler-p-180",
+          "index": 180,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特是这个家族第二代里唯一有能力、有手腕掌控整个帝国的人。他的悲剧，也正是家族企业最经典的一种悲剧：一个能力超群的强人，把所有的权力、关系、秘密都集中在自己一个人身上，建起一座只有他自己看得懂的迷宫，却没有花一分力气去培养一个能接手的人。他的两个孩子年轻、毫无经营经验，他们很少有时间见到这位工作狂父亲。强人把公司当成自己身体的延伸，公司就会随着他的身体一起垮掉。横向看，同样是德国家族企业，博世早早用基金会和信托把公司和个人切割开，确保任何一个人的离世都动摇不了根基；霍斯特恰恰相反，他把阿迪达斯帝国和自己的生命绑成了一体。他一死，这个绑得太紧的帝国，立刻开始解体。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-181",
+          "index": 181,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第八章 家族退场的那张合同",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-182",
+          "index": 182,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.1 群龙无首",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-183",
+          "index": 183,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特一死，阿迪达斯立刻显出了它真实的虚弱。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-184",
+          "index": 184,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接掌权力的，是三十八岁的瑞士经理人雷内·亚吉（René Jaggi）。他用一句话形容自己：\"想想鲨鱼，它是唯一不能静止的鱼，否则就会沉下去。我就是鲨鱼那种人。\"他请麦肯锡进场，理清了霍斯特那套\"章鱼式\"的结构，账目触目惊心：美国业务自 1986 年买断分销商以来，每年至少亏三千万美元；到 1988 年，公司债务已经追平了它的资本，若按别国会计准则把所有亏损子公司并进来，债务接近资本的四倍。曾经几乎无债、利润滚滚的阿迪达斯，几年间就被掏空了。1987 到 1992 年，全球员工从约一万一千人几乎砍半到六千四百人。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-185",
+          "index": 185,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更致命的，是家族内部的撕扯。霍斯特的两个孩子苏珊娜（Suzanne）和小阿迪，与父亲一样各继承了公司百分之二十的股份和董事会席位，但四个姑姑不接受他们插手。苏珊娜后来控诉：\"她们什么都没放过。我父亲死后四十八小时，她们就到我们卢塞恩的门口，逼我们签继承文件。\"德国一方似乎想抹去一切与霍斯特相关的痕迹，员工不再被允许说出他的名字，公司手册不再提他的生平。苏珊娜说：\"但她们杀不死他，我们会继续捍卫他的过去。\"姑姑和侄甥为了 ISL 的控制权、为了一笔卖给零售巨头麦德龙的股权期权打上法庭，把霍斯特用来换取掌权的那份\"昂贵礼物\"，变成了家族最后的战场。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-186",
+          "index": 186,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1989 年底，外部的清算和内部的内战同时到了顶点。锐步（Reebok）的销售额刚过十八亿美元，成为全球最大的体育用品公司，耐克紧随其后超过十七亿，阿迪达斯被挤到第三，以微弱差距落在耐克身后。一个被达斯勒家族统治了六十多年、曾经定义了整个行业的品牌，输给了两个美国后来者。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-187",
+          "index": 187,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.2 最后一个请求",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-188",
+          "index": 188,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "被吓坏的四姐妹下定决心：退出。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-189",
+          "index": 189,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她们眼看着堂兄弟那一支被银行用\"一点小钱\"赶出彪马，惊慌之下认定，要趁阿迪达斯还没严重受损时套现离场。当时的独立董事、一位西门子高管反对仓促出售，说\"崩塌的速度很吓人，但没有理性的理由非卖不可\"。姐妹们听不进去。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-190",
+          "index": 190,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "连退场，她们都退得仓皇。1989 年夏天，几个阿迪达斯经理秘密赶到苏黎世，与瑞士咖啡糖果巨头克劳斯·雅各布斯（Klaus Jacobs）谈妥了一笔满足姐妹全部条件的收购，回程的路上开香槟庆祝，自以为\"救了公司\"。可下周一去征求家族首肯时，姐妹们却变了卦：雅各布斯刚把自家公司卖给了美国烟草商，她们不信他会守护阿迪达斯的传承。一笔谈成的、卖给体面买家的交易，就这样黄了。紧接着，一个\"凭空冒出来\"的求购者出现了。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-191",
+          "index": 191,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "买家是个荒诞的人选，叫贝尔纳·塔皮（Bernard Tapie），法国商人，靠收购濒死公司翻盘成名，黄金时段电视节目主持人，1989 年刚当选社会党国会议员，私人游艇停在马赛。对极保守、一心想把父母遗产交到可靠之手的姐妹们来说，塔皮爱出风头、屡屡违约背信，简直像她们弟弟当年打交道的那种角色。但律师和决策者力挺：阿迪达斯需要一个强人，塔皮的魅力对品牌无价，他不还价、承诺注资、有法国政府背书，最关键的是，没有别的报价。",
+          "related_node_ids": [
+            "person:bernard-tapie",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-192",
+          "index": 192,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1990 年 7 月 4 日上午，在达姆施塔特一家公司的会议室里，达斯勒姐妹交出了父亲的遗产。签约前，监事会主席把中间人拉到一边，低声转达姐妹们\"最后一个请求\"。那与价格或条款无关：股东们希望确认，她们以后仍能凭员工折扣，在公司商店里用八折买阿迪达斯产品。中间人简直不敢相信自己的耳朵。一个统治了世界体育装备六十年的家族，在退场的最后一刻，惦记的是一张八折购物卡。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-193",
+          "index": 193,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三天后，1990 年 7 月 7 日，罗马。在国际足联主席阿维兰热召集的世界杯决赛前记者会上，塔皮登台，西装翻领别着阿迪达斯的三叶草。\"除了我孩子的出生，这是我一生中最美好的一天！\"他声称阿迪达斯结合了他最痴迷的三样东西：体育、商业、政治，承诺\"十年内不卖阿迪达斯，一百年内不卖，永远不卖\"。次日，穿着阿迪达斯的西德队以一比零击败阿根廷夺冠，制胜点球由布雷默罚入，马拉多纳的眼泪落在他的彪马鞋上。这一幕像一个隐喻：两个达斯勒家族的品牌还在世界之巅厮杀，缔造它们的家族却已双双离场。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-194",
+          "index": 194,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "至于价格，姐妹们卖得有多贱，外界估算阿迪达斯及其品牌至少值八到十亿德国马克。她们实际以约四亿四千万德国马克交出了百分之八十的股份，把\"三道杠\"的估值压到了五亿五千万左右，只拿到外界估值的一半。塔皮自己都得意地说，买价\"低得离谱\"。而这四亿四千万，塔皮一分钱自有资金都没有，全靠银行贷款，且全部要在两年内偿还。这笔安排，很快会要了他的命。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-195",
+          "index": 195,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.3 塔皮登场",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-196",
+          "index": 196,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔皮的阿迪达斯之梦，撑了不到两年。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-197",
+          "index": 197,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他从一开始就把这家公司当成了自己的玩具和舞台。他想从巴黎的办公室遥控阿迪达斯，不愿落户\"沉睡的黑措根奥拉赫\"；他嫌阿迪达斯的代言人不够时尚，公开嘲讽签约的网球明星\"到底有谁想看起来像这个人\"；收购后几小时就想把三分之一利润拿去做慈善，还动过把运动装备空投给海湾战争中的伊拉克、既做公关又清库存的念头。他的信条是：\"一天没上媒体，就是浪费的一天。\"管理层顶着他干，财务总监接连拒绝他一连串要求，被他叫作\"说不先生\"，塔皮抱怨：\"我感觉自己买了辆法拉利，司机却不肯载我。\"一个统治世界体育装备六十年的德国家族企业，落进了一个把它当真人秀道具的法国名人手里。这本身就是家族失去控制权后最荒诞的注脚。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-198",
+          "index": 198,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1992 年 4 月，他入阁当上城市事务部长，按规定必须放弃可能利益冲突的生意，首当其冲就是阿迪达斯。可他的部长只当了四十八天，就因一桩与阿迪达斯无关的旧案被起诉而辞职。资金的窟窿同时爆开：第一笔五亿法郎贷款到期，金库却是空的。一场预定卖给英国彭特兰集团（Pentland）的交易，在三个月的尽职调查后于 1992 年 10 月戏剧性流产，把公司推到连十月工资都快发不出的边缘。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-199",
+          "index": 199,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最后接盘的，是法国银行贸易王朝的继承人罗伯特·路易-德雷福斯（Robert Louis-Dreyfus）。1993 年 2 月 11 日，交易敲定，阿迪达斯估值定在二十亿八千五百万法郎。但这桩交易的真相，几年后才被揭穿，揭穿后掀起了一场国家级丑闻。路易-德雷福斯一伙几乎没掏真金白银，只投了一千万法郎，大部分股权靠国有的里昂信贷银行近乎无息的贷款买入，银行承担几乎全部风险，却把大部分收益让给了买家。更糟的是，里昂信贷背着自己的客户塔皮，私下与路易-德雷福斯另签一份协议，把公司的潜在估值定在四十四亿法郎，是卖给塔皮时口径的两倍。算上几只离岸傀儡基金，里昂信贷直接或间接控制了约百分之七十七的载体公司，等于一家国有银行在议会选举前夕，出手搭救了一名政府部长。右翼政客要求紧急调查，称这桩交易体现了正在侵蚀法国的\"腐烂、癌症、坏疽\"。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-200",
+          "index": 200,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "达斯勒家族缔造的这家公司，在离开家族之手后的头三年里，被当成了一件在政客、银行、投机者之间倒来倒去的金融玩具。家族留下的，是一个世界级的品牌；而接手这个品牌的人，几乎没有一个真正在乎做鞋。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-201",
+          "index": 201,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.4 外人救回两家公司",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-202",
+          "index": 202,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "吊诡的是，把两家公司从死亡线上拉回来的，恰恰是把家族赶出去之后的外人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-203",
+          "index": 203,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "路易-德雷福斯和搭档图雷斯一接手，就立刻掌控公司、不容软弱。他们关掉法国工厂，理清达斯勒签下的两百多份混乱许可（图雷斯说，有些协议\"只可能是我们的前任在烂醉状态下签的\"），请来前耐克高管罗布·斯特拉瑟（Rob Strasser）重建美国业务。斯特拉瑟把阿迪达斯美国设在俄勒冈波特兰，与耐克隔河对峙，复刻了黑措根奥拉赫的分裂格局，又复活了经典复古鞋，让三道杠重新出现在麦当娜和名模脚上。他的战斗哲学是一句话：\"我们唯一能赢的方式，就是抱着失败者心态。\"美国销售额从两亿一千五百万美元跳到年底近三亿，一位行业观察者说，这是耐克\"很久以来第一次回头看身后\"。斯特拉瑟没能看到后面的故事。1993 年 10 月，在阿尔卑斯的一场销售会上他胸口剧痛，被直升机送往慕尼黑，次日清晨被发现倒在病房地上，\"他的心脏炸裂了\"，年仅四十六岁。一个把阿迪达斯从美国废墟里拉起来的人，干了不到一年就猝然倒下，而他的姓里没有\"达斯勒\"三个字。1995 年 11 月 17 日，阿迪达斯在法兰克福交易所上市，收购作价是八亿美元，上市估值飙到二十二亿。霍斯特子女手里最后那点股份，在上市前已被清空。从这一刻起，达斯勒家族在阿迪达斯的股权，彻底归零。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-204",
+          "index": 204,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来接掌阿迪达斯、把它做大三倍的，是巴伐利亚一个屠夫的儿子赫伯特·海纳（Herbert Hainer），一个职业经理人。他有一句朴素的管理信条：\"最好的管理者不是点子多的人，而是能挑出一两个点子并完美执行的人。\"这句话，恰好是对达斯勒家族那套\"咖啡桌治理\"最干脆的否定。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-205",
+          "index": 205,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "河对岸的彪马，重生的剧本几乎一模一样。1993 年 6 月，三十岁、学医出身、通晓六种语言的约亨·蔡茨（Jochen Zeitz）出任 CEO，是当时德国上市公司里最年轻的掌门之一。他丢下一句\"不会有任何神圣不可碰的东西\"，像对岸的路易-德雷福斯一样裁员、重组、砍掉亏损业务，不到两年就让濒死的彪马恢复盈利。1996 年，彪马的美国销售额只剩两千五百万美元、市场份额仅百分之一，但消费者调查里仍有约百分之七十的人记得这个牌子。蔡茨抓住的就是这点品牌余温，发明了一门他称为\"运动时尚\"的新生意，把彪马的运动传统和高级时尚混在一起，请塞雷娜·威廉姆斯代言，避开与阿迪、耐克的正面硬碰。他甚至从一桩看似惨败的合同里赚到了大钱。彪马曾以重金签下 NBA 新星文斯·卡特（Vince Carter），卡特成名后想毁约改穿别牌，仲裁庭最终裁定他赔偿彪马近一千九百万美元，并禁止他三年内代言任何竞争对手。一份被对方蓄意破坏的合同，反而成了彪马美国史上最赚钱的交易。这种四两拨千斤的灵巧，恰是当年那个抠门厌险、连买台新机器都要被反复说服的鲁道夫，从未拥有过的。他执掌彪马的头十年，公司股价涨了超过十六倍。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-206",
+          "index": 206,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两家公司证明了同一件事：救活它们的，是无情的职业纪律，而非家族血缘。这件事，对达斯勒家族而言，近乎一种残酷的反讽。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-207",
+          "index": 207,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "姓氏的最后两点残影，也在这一时期定格。2004 年 6 月，鲁道夫的孙子、阿明的长子弗兰克·达斯勒，出任阿迪达斯的法务主管。这桩任命轰动了小城，因为他打破了那条荒唐的禁忌：彪马的继承人，竟然过河进了阿迪达斯。老彪马员工愤称阿明会在坟里翻身。但这位弗兰克，是一个跨河来上班的雇员，而非任何意义上的所有者。家族的\"治理\"早已不存在，只剩这一点象征。两年后的 2006 年 10 月，霍斯特的儿子小阿迪因癌症去世，年仅四十三岁，和父亲一样英年早逝。他生前办过一家叫 AdiOne 的小鞋厂，再没能掀起任何波澜。",
+          "related_node_ids": [
+            "person:frank-dassler",
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-208",
+          "index": 208,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2007 年 4 月，法国奢侈品集团 PPR 收购彪马，把它的估值定在近七十一亿美元，而这家公司在 1990 年代初曾被宣告几乎一文不值。两年前的 2005 年 8 月，阿迪达斯以约三十八亿美元收购了锐步，去合力对抗耐克。Barbara Smit 在 2008 年为这本书收尾时写道，行业整合进了几个数十亿美元的多品牌集团，\"正如霍斯特·达斯勒三十年前所设想\"。讽刺的是，把家族公司带到这一步的，是把家族赶出局之后的那些外人。她的全书最后一句话，留给了那对早已长眠的兄弟：\"阿迪和鲁道夫·达斯勒做梦也想不到这一切。\"",
+          "related_node_ids": [
+            "person:rudolf-dassler",
+            "person:horst-dassler",
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-209",
+          "index": 209,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.5 河两岸都换了主人",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-210",
+          "index": 210,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Smit 的书写到 2008 年。此后近二十年的故事，把\"家族出局\"这件事推向了一个连她也难以预料的结局。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-211",
+          "index": 211,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪达斯换了一茬又一茬职业经理人。海纳干到 2016 年，交棒给来自汉高的卡斯珀·罗思德（Kasper Rørsted）。2022 年，公司撞上一场自找的灾难：与说唱明星侃爷（Kanye West）合作的 Yeezy 联名线本是最赚钱的业务之一，却因侃爷在社交媒体发表反犹言论，在 2022 年 10 月被迫终止，仓库里积压着约十三亿美元的滞销库存。终止合作拖累阿迪达斯第四季度陷入亏损；公司真正的全年亏损出现在 2023 年，归属股东净亏约七千五百万欧元，是它自 1992 年以来仅见的全年亏损。2023 年初接任的，是比约恩·古尔登（Bjørn Gulden）。这次接班本身就是百年世仇里最戏剧的一幕：古尔登此前是彪马的 CEO，他从奥拉赫河南岸的彪马，直接走到了北岸的阿迪达斯，去给死对头掌舵。他把 Yeezy 库存分批卖掉、不予销毁，划出约两亿六千万欧元捐给反歧视组织，到 2024 年底全部清空。2024 年阿迪达斯营收回到二百三十六亿八千万欧元，归属股东净利润恢复到约七亿六千四百万欧元，但市值仍只有耐克的约四分之一。连当年豪掷三十八亿美元买下、想用来夹击耐克的锐步，也在 2021 年被以约二十四亿美元亏本甩卖给一家品牌管理公司。海纳、罗思德、古尔登，一个接一个的职业经理人，把这家公司管成了一台精密的资本机器，盈亏、收购、剥离，全凭财报和股价说话。曾经那张别墅露台上的咖啡桌，早已换成了法兰克福交易所的行情屏。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-212",
+          "index": 212,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "彪马这边，皮诺家族也在准备离场。2018 年，开云集团把彪马大部分股份分拆，约百分之二十九转入皮诺家族的家族办公室阿尔特弥斯（Artémis）持有。古尔登 2022 年\"投敌\"后，彪马换了两任 CEO，2025 年上任的阿瑟·赫尔德同样来自阿迪达斯，他把 2025 年定义为\"重置之年\"，主导裁员、收窄产品线。这一年彪马业绩持续下滑，股价累计跌去约一半。2026 年 1 月，中国的安踏体育宣布与阿尔特弥斯签约，拟以约十五亿欧元收购其持有的百分之二十九点零六彪马股份，交易尚待监管审批与交割；安踏同时声明，目前无意发起全面收购要约。交易若完成，安踏将成为彪马单一最大股东。一个由法国奢侈品家族持股最多的德国品牌，最大股东即将换成中国的体育巨头，而整场交易里，创立它的达斯勒家族连一个名字都不在场。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-213",
+          "index": 213,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族退场的最后一个动作，发生在 2018 年 1 月。弗兰克·达斯勒从阿迪达斯退休。他是达斯勒家族在这两家公司里任职的最后一个人。从那一天起，\"达斯勒\"这个姓，只剩下被印在两家公司鞋上的两个字，与所有权、与治理、与这个家族本身，再无任何关系。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "person:frank-dassler",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-214",
+          "index": 214,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而那场延续了六十多年的世仇，早在 2009 年就以一种近乎温柔的方式落了幕。那一年的世界和平日，在彪马 CEO 蔡茨的倡议下，阿迪达斯和彪马的员工第一次在黑措根奥拉赫同场踢了一场球。两位 CEO 亲自上阵，阿迪达斯的海纳踢中场，彪马的蔡茨守门，约七百名两家员工混编成队。当年那条把小镇劈成两半的奥拉赫河边，黑队以七比五赢了白队。两个创始人至死不曾和解的恩怨，到头来由一群与达斯勒家族毫无血缘的职业经理人和普通员工，用一场友谊赛轻轻放下。和解终于来了，只是达斯勒家族已经不在场上。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-215",
+          "index": 215,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第九章 留给后人的四道旧伤",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-216",
+          "index": 216,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个家族缔造了两个世界级品牌，却在一到两代人之间把它们全部输光。这件事如果只当成一个戏剧性的悲剧来读，就浪费了它。它更像一份反向的教材，把家族企业最容易出问题的四个地方，一个不落地演了一遍。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-217",
+          "index": 217,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.1 一份没有写好的约定",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-218",
+          "index": 218,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把达斯勒家族所有的崩塌往前追，会追到 1948 年那场分家。两兄弟分得清每一台机器、每一项专利、连员工和母亲都分了边，却从没为\"人和人闹翻了怎么办\"立下半句章法。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-219",
+          "index": 219,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这并非全无契约。1929 年，阿迪和鲁道夫就签过一份界定双方权利义务的合伙协议，分利润、定分工，写得清清楚楚。可它从没写进谁来拍板、配偶能否介入、闹翻了怎么体面散伙，而这几条，恰恰是后来把这个家族和两家公司一一拖垮的地方。白纸黑字的契约他们不缺，缺的是肯把那些\"万一\"提前写下来的远见。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-220",
+          "index": 220,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "整个故事里最大的反讽，恰恰藏在规则这件事上。达斯勒家族唯一一次被规则救了，是 1975 年阿明靠彪马那份从未被修改的公司章程，挡住了父亲一纸偏心的遗嘱，保住了继承权。这份章程不是谁精心设计的，它只是恰好存在。一个习惯于不立规矩的家族，最关键的一次转危为安，靠的竟是一份被忽视、却碰巧还在的旧章程。规则的价值，往往要到它缺席或在场的那一刻，才被人看清。",
+          "related_node_ids": [
+            "family:dassler-family",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-221",
+          "index": 221,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把达斯勒放进同时代的德国家族企业里，差距是结构性的。罗伯特·博世在 1942 年去世前，留下一套把所有权和表决权分离的安排，让公司能不受资本市场短期压力地长期存在；大洋彼岸的玛氏（Mars）家族，靠\"永不上市加家族信托\"把表决权焊在家族手里几代人。这两家都为家族控制权挖了一条法律的护城河。达斯勒兄弟手里同样是世界级的事业，那份 1929 年的合伙协议却始终没有长成一套能处理冲突、约束配偶、安排退出与传承的家族治理。他们把品牌做到了世界第一，给家族留下的护城河，却是一道从未挖过的空壕。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-222",
+          "index": 222,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "今天的家族办公室里，这套护城河早已有了成熟的工具：用家族信托或控股架构把所有权和表决权分开，让任何一个成员的离世或冲动，都动摇不了公司的根基。这并不高深。达斯勒兄弟当年就算没有这些工具，立一份合伙协议、定一条分家的章法，也并不需要等到一百年后。中国人讲\"富不过三代\"，讲的其实是同一件事：能挣下家业的本事，和能守住家业的规矩，是两种完全不同的能力。达斯勒家族把前一种修炼到了极致，对后一种却从没动过心思。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-223",
+          "index": 223,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.2 强人身后的空椅子",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-224",
+          "index": 224,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特死前两天，还躺在病床上给世界各地的人亲笔写信。这个画面，是这个家族传承失败最精确的注脚。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-225",
+          "index": 225,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特是第二代里唯一有能力掌控整个帝国的人。他把所有的权力、关系、秘密，都集中在自己一个人身上，ISL、乐卡克、那些瞒着家人的离岸控股、那一本本记着官员人情的档案，全装在他一个人脑子里，没有第二个人理得清。可他在一件事上花的力气是零：培养一个能接手的人。他的两个孩子很少见到这位工作狂父亲，年轻、毫无经营经验。他一死，这个绑在他一个人身上的帝国，立刻开始坍塌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-226",
+          "index": 226,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "鲁道夫那一支的传承，败法不同，结局一样。鲁道夫到死都在用偏心和遗嘱折磨长子，把本该平稳的交接变成一场遗嘱官司；阿明侥幸翻盘后大权独揽，全凭冲动决策，没有任何机制能在他犯错时拉住他。一支毁于强人没有继承人，一支毁于父亲不肯放手又所托非人。两条路看着相反，通向的是同一个终点：当公司被绑在某一个人身上，这个人的离去或失误，就是整个家族的终局。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-227",
+          "index": 227,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这里藏着家族传承最容易被误解的一点。很多家族以为传承就是把股权交到下一代名下，把名字写进遗嘱。可达斯勒的故事说明，股权和名分是最容易传的，难传的是经营的能力和共处的规则。霍斯特把股权留给了子女，却没留给他们驾驭这摊家业的本事；鲁道夫把彪马写进了遗嘱，写下的却是一场让兄弟相残的纷争。传下去的是一堆资产和官司，接不住的是真正让公司活下去的东西。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-228",
+          "index": 228,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.3 没有拆掉的引线",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-229",
+          "index": 229,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "黑措根奥拉赫的公墓里，阿迪和鲁道夫的坟分踞两头。两个共用过一间卧室、一张工作台、一家公司的兄弟，连死后都要隔开整座墓园。这段距离，是这个家族关系的全部隐喻。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-230",
+          "index": 230,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "达斯勒家族最独特、也最致命的地方，是它把一场私人恩怨，熬成了整个家族和公司的底色。兄弟反目本是家务事，可在这个家族里，它被一代代往下传，还越传越大。1943 年防空洞里那句被听岔的话，1946 年兄弟在去纳粹化审查里相互指证，到 1948 年分家，恩怨已经从两个人扩散到整座小镇，奥拉赫河成了\"低头看鞋\"的边界。下一代没有解开它，反而接着打：霍斯特和阿明把父辈的战争又打了一遍，从墨西哥城扣押集装箱，到贝利条款的撕毁，手段更狠。再下一代，霍斯特的子女和四个姑姑为了遗产和控制权对簿公堂，把家族最后一点元气也耗在了内斗上。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-231",
+          "index": 231,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条恨意的引线，从来没有人去拆。前面已经看到，这套\"对岸是敌人\"的本能怎样从父辈传到堂兄弟、再传到姑侄。真正值得追问的是，它为什么能一传三代而不衰。答案藏在一个细节里：达斯勒家族始终把冲突当成私事，而私事是没有程序的。一桩生意上的分歧，到了这个家族手里，立刻升级成人格上的背叛、需要全镇站队的战争。一个把内斗当常态的家族，再大的事业也经不起这样的反复失血。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-232",
+          "index": 232,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更要命的是，这个家族从没建过任何能处理冲突的机制。冲突不被处理，就只会累积、发酵、传代。两家互相安插眼线，霍斯特过铁幕要带反窃听设备，阿明的小儿子少年时摆弄收音机，竟意外听到自己父亲的声音，才发现家里的电话被人窃听了。猜忌渗进了日常生活的每个缝隙。成熟的家族企业懂得在血缘之外，搭一套制度去吸收摩擦，比如定期开家族会议、立一份家族宪章、设一个中立的仲裁角色，让分歧有地方说、有规矩断。达斯勒家族什么都没有。他们处理分歧的全部办法，就是分家、断绝、上法庭，把每一次冲突都升级成一场你死我活。没有一个家族能在这样持续的内耗里，把控制权完整地传过三代。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-233",
+          "index": 233,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最意味深长的，是这场世仇最终怎么收的场。2009 年，阿迪达斯和彪马的员工在奥拉赫河边踢了一场和解友谊赛，两位 CEO 亲自上阵。延续六十多年的恩怨，到头来由一群与达斯勒毫无血缘的职业经理人和普通员工轻轻放下。家族自己解不开的结，被外人解开了，代价是这个家族已经不在场上。一场没能在家族内部和解的冲突，最后要等家族出局，才换来和平。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-234",
+          "index": 234,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.4 鞋艺传下了，规矩没传下",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-235",
+          "index": 235,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍斯特少年时，被父母送去皮尔马森斯上制鞋课，那是和父亲阿迪当年读的同一门课。这个细节说明，达斯勒家族在\"传手艺\"这件事上做得相当好。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-236",
+          "index": 236,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族最擅长教的两样东西，确实代代传了下去。一样是做鞋的手艺，从克里斯托夫的鞋匠铺，到阿迪在洗衣棚里的钻研，到霍斯特亲自督产、连父亲都承认那些靴子配得上三道杠。另一样是经营关系的本事，从祖父抓住魏茨尔教练，到霍斯特给每个官员建档案、把送鞋升级成操纵选举，这套本事在第二代手里登峰造极。做产品、经营人脉，这个家族是第一流的老师。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-237",
+          "index": 237,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可有一样东西，他们从没教过下一代，就是怎么共处，怎么分权，怎么把一个家族维系成一个整体。阿迪能为一个跳高运动员亲手花几个小时做一双两只颜色不同的钉鞋，那位运动员感激到\"绝不会想着收钱去穿它们\"；可阿迪没能教会自己的儿子和侄子，怎么不把对方当成必须搞垮的敌人。凯特把四个女儿都塞进管理层，许多员工私下觉得她们若经一场正常面试根本到不了那个位置；她传给女儿们的是部门和头衔，没传给她们驾驭一家跨国公司的能力，更没教会她们如何不在父亲死后四十八小时就上门逼侄女签字。家族教育最核心的，从来不只是教孩子怎么把生意做大，而是教他们怎么在一张桌子上坐下来、把权力和分歧好好分掉。前者达斯勒家做到了极致，后者他们几乎是零分。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-238",
+          "index": 238,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三代的命运，就是这份教育的成绩单。霍斯特的儿子小阿迪，办过一家叫 AdiOne 的小鞋厂，没掀起任何波澜，四十三岁因癌症去世；女儿苏珊娜，继承的是一场和姑姑们的遗产官司，以及父亲卷入体育界非法支付的阴影。鲁道夫的孙子弗兰克，最体面的出路是跨过那条河，去给当年的死对头阿迪达斯当一名法务雇员。另一个孙子格尔德退休后留在黑措根奥拉赫，住在与哥哥痛苦分产时分得的房子里，他承认，家族的那些纷争至今还让他做噩梦。这一代人继承的，是股权、官司、阴影和噩梦，而不是驾驭一家跨国公司的能力。一个把做鞋和搞关系教得出神入化的家族，最终没能教会下一代最朴素的一件事，怎么好好地在一起。",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-239",
+          "index": 239,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把这四样东西叠在一起看，达斯勒家族的结局就不再是偶然。没有规则兜底的治理，绑在一个人身上的传承，代代复发的内斗，只传手艺不传规矩的教育，四样东西互为因果，共同指向同一个终点。两个品牌之所以能活下来甚至活得更好，恰恰是因为它们被从这个家族手里剥离了出去，交给了不带这些病的职业经理人。这是达斯勒故事最冷峻的一课：当一个家族没能为自己立下守得住的规矩，市场最终会替它做一件事，把品牌留下，把家族请走。",
+          "related_node_ids": [
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "dassler-p-240",
+          "index": 240,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "结语 河还在流",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-241",
+          "index": 241,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "奥拉赫河今天还在黑措根奥拉赫流着。河的北岸是阿迪达斯的\"世界体育之家\"，南岸是彪马的总部，两家公司隔水相望，合起来仍是仅次于耐克的世界第二、第三。镇上人见面，大概早已不必先低头看鞋了，因为当年那两支壁垒分明的家族阵营，都已经不在了。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-242",
+          "index": 242,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把这个故事从头看一遍，最难忘的是那一组对照。1920 年前后，两个鞋匠的儿子在母亲废弃的洗衣棚里，用捡来的军用头盔皮革做鞋；一百年后，他们创立的两个品牌，市值合计数百亿，在两百多个国家销售，连中国的安踏都在排队接手其中之一。品牌走得这么远，远到创始人\"做梦也想不到\"。而那个把它们从无到有捏出来的家族，今天与它们没有任何关系，股份是零，席位是零，只剩\"达斯勒\"这个姓被印在鞋上。最后一个在公司上班的家族成员，2018 年退休离场。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-243",
+          "index": 243,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪墓碑上的那个人，做出过让运动员感激涕零的鞋，却没能为自己的家族写下一条像样的规则。鲁道夫墓碑上的那个人，一辈子精于销售，却把和气、亲情和公司一样样亲手送掉。他们的儿子霍斯特，几乎以一己之力发明了现代体育营销，权倾整个国际体育，却把帝国绑在自己一个人身上，五十一岁就带着它一起谢幕。这个家族什么都不缺，缺的只是一样东西，一套能让血缘在失灵时不至于拖垮事业的规则。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-244",
+          "index": 244,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "做家族传承这一行，见过太多家族倒在同一个地方。钱挣到了，事业做大了，连最难的手艺都传下去了，独独没有为\"怎么让这一切好好待在一起\"立下一条规矩。复利是这世上最强的力量，可它从不挑对象，财富会利滚利，裂痕也会。一道在 1924 年就埋下、却始终没人去补的缝，用了六十年时间，利滚利地把这个家族，连同它对两家公司的掌控，一起拖下了水。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-245",
+          "index": 245,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族企业最深的护城河，从来不是一双做得多好的鞋，而是一份肯在清醒时写下、肯让最强者也低头遵守的规矩。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-246",
+          "index": 246,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "思想实验：你会为家族写下哪条规矩",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-247",
+          "index": 247,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "请你回到 1948 年 4 月的黑措根奥拉赫。你是阿道夫·达斯勒，四十七岁。你和哥哥鲁道夫的分家终于谈完了，桌上摊着一份资产清单：火车站旁的大厂归你，维尔茨堡街的小厂归他，机器、专利、连那栋别墅，都已经一项项分清。员工们正在自己选边，技术工跟你，销售员跟他。你母亲选了他那边，你姐姐选了你这边。你年近五十，手里有技术却没了销售队伍，得从头再来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-248",
+          "index": 248,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "笔还在你手里。除了分割资产，你其实还能写下点别的东西，一份给后人立的规矩。可是这一刻，有三个问题挡在你面前。",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-249",
+          "index": 249,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一个问题是情感上的。哥哥刚在去纳粹化审查里指证过你，你也指证过他；你们的母亲跟了他。你心里清楚，你和他这辈子是和不了了。那么，你还有没有心力，去为你们各自的孩子写一条规则，逼着下一代继续打交道？还是干脆一刀两断，让两家从此老死不相往来？你怎么选？",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-250",
+          "index": 250,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二个问题是利益上的。你快五十岁了，销售队伍全跟了哥哥，公司能不能活下去都两说。你是把眼下宝贵的精力全砸在重启生意、活下来上面，还是分出一部分，去做一件短期看毫无回报、要很多年后才显出价值的事，给一家还没站稳的公司立治理规矩？在生存和立规之间，你押哪一头？",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-251",
+          "index": 251,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三个问题是长远的。你看着自己的儿子霍斯特，看着哥哥的儿子阿明、格尔德，你隐隐知道，你们这一代的仇恨，会原封不动地传给他们。如果你今天能写下一条规则，一条哪怕几十年后还能被看懂、能拦住后人重蹈覆辙的规则，你会写什么？是写明谁不许碰谁的生意，还是写明万一闹翻了该怎么体面地分，或者，写一条逼着家族每隔几年坐到一张桌子上把账算清的规矩？",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-252",
+          "index": 252,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把这三个问题放到今天。你的公司或你的家族里，有没有那种\"全靠几个人的默契在维系、却从没白纸黑字写下来\"的安排？你有没有经历过那种理性上知道该立规矩、情感上却懒得或不忍去立的时刻？如果今天让你为自己的家族写一条能管五十年的规则，你会写哪一条？",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-253",
+          "index": 253,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "历史里的阿迪，那天什么规矩也没写。他低下头，继续做他的鞋。四十二年后，他的四个女儿以半价卖掉了这家公司，临签字前最大的请求，是确认自己还能用八折买阿迪达斯的鞋。而这个家族唯一一次被规则救起，靠的是对岸彪马那份没人特意去写、只是碰巧还在的旧章程。那支笔当年写下什么，本可以是另一个故事。",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-254",
+          "index": 254,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "参考文献",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-255",
+          "index": 255,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "1.  Barbara Smit，Sneaker Wars：The Enemy Brothers Who Founded Adidas and Puma and the Family Feud That Forever Changed the Business of Sports，Ecco / HarperCollins，2008",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-256",
+          "index": 256,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "2.  Barbara Smit，Pitch Invasion：Three Stripes，Two Brothers，One Feud：Adidas，Puma and the Making of Modern Sport，Allen Lane / Penguin，2006",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-257",
+          "index": 257,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "3.  芭芭拉·斯米特，《阿迪达斯对阵彪马》，刘海颖译，中国人民大学出版社，2007",
+          "related_node_ids": [
+            "company:adidas",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "dassler-p-258",
+          "index": 258,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "4.  康拉德·布伦纳，《没有不可能：再造阿迪达斯：商业史上伟大的复兴故事》，严丽川译，中信出版社，2007",
+          "related_node_ids": [
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "dassler-p-259",
+          "index": 259,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "5.  Jason Coles，Golden Kicks：The Shoes that Changed Sport，Bloomsbury Sport，2016",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-260",
+          "index": 260,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "6.  Adi & Käthe Dassler Memorial Foundation，Chronicle and Biography of Adi Dassler & Käthe Dassler，Official Foundation Website",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-261",
+          "index": 261,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "7.  Adi & Käthe Dassler Memorial Foundation，Memorabilia and Archive，Official Foundation Website",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-262",
+          "index": 262,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "8.  adidas AG，History，adidas Group Corporate Website",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-263",
+          "index": 263,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "9.  PUMA SE，PUMA Timeline，PUMA Corporate Website",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-264",
+          "index": 264,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "10. Robert Kuhn and Thomas Thiel，Shoes and Nazi Bazookas：The Prehistory of Adidas and Puma，Spiegel Online，2009",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-265",
+          "index": 265,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "11. Geoffrey G. Jones / Michael Norris / Sophi Kim，Horst Dassler，Adidas，and the Commercialization of Sport，Harvard Business School Case 316-007，2015",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-266",
+          "index": 266,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "12. Andrew Jennings，Foul!：The Secret World of FIFA：Bribes，Vote Rigging and Ticket Scandals，HarperSport，2006",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-267",
+          "index": 267,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "13. FIFA Ethics Committee / Hans-Joachim Eckert，Statement of the Chairman of the FIFA Adjudicatory Chamber on the Examination of the ISL Case，FIFA Ethics Committee，2013",
+          "related_node_ids": []
+        },
+        {
+          "id": "dassler-p-268",
+          "index": 268,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "14. Independent Governance Committee to FIFA，FIFA Governance Reform Project：Final Report to the Executive Committee of FIFA，Basel Institute on Governance，2014",
           "related_node_ids": []
         }
       ]
