@@ -1,5 +1,5 @@
 window.ARTICLE_DATA = {
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-11",
   "articles": [
     {
       "story_id": "story:bosch",

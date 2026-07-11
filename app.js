@@ -1,15 +1,16 @@
 const data = window.KNOWLEDGE_DATA;
 const articleData = window.ARTICLE_DATA || { articles: [] };
 
+// 节点类型色：执允文人色族（青、古铜、朱砂、黛松、赭）
 const typeMeta = {
-  story: { label: "故事", color: "#0f766e" },
-  concept: { label: "概念", color: "#2563eb" },
-  family: { label: "家族", color: "#b45309" },
-  person: { label: "人物", color: "#be123c" },
-  company: { label: "企业", color: "#6d28d9" },
-  tool: { label: "工具", color: "#047857" },
-  event: { label: "事件", color: "#c2410c" },
-  segment: { label: "片段", color: "#475569" },
+  story: { label: "故事", color: "#30607f" },
+  concept: { label: "概念", color: "#407090" },
+  family: { label: "家族", color: "#a98b5d" },
+  person: { label: "人物", color: "#9e3b32" },
+  company: { label: "企业", color: "#3a4a3f" },
+  tool: { label: "工具", color: "#8a6d46" },
+  event: { label: "事件", color: "#a8643c" },
+  segment: { label: "片段", color: "#948f84" },
 };
 
 const state = {
@@ -542,7 +543,8 @@ function renderTopNav() {
 }
 
 function renderTypeFilters() {
-  const ordered = ["all", "story", "concept", "family", "person", "company", "tool", "event", "segment"];
+  // 片段是内部证据单元，不作为一级筛选入口（搜索与故事页仍可达）
+  const ordered = ["all", "story", "concept", "family", "person", "company", "tool", "event"];
   const counts = data.nodes.reduce((acc, node) => {
     acc[node.type] = (acc[node.type] || 0) + 1;
     return acc;
@@ -620,6 +622,11 @@ function linkedChips(ids, limit = 12) {
   return chips ? `<div class="chip-list">${chips}</div>` : emptyState("暂无节点");
 }
 
+function readingMinutes(article) {
+  const chars = article.paragraphs.reduce((sum, paragraph) => sum + paragraph.text.length, 0);
+  return Math.max(3, Math.round(chars / 480));
+}
+
 function renderArticleEntry(node) {
   const article = articleForNode(node);
   if (!article) return "";
@@ -627,7 +634,7 @@ function renderArticleEntry(node) {
   return `
     <button class="read-button" data-article-id="${escapeHtml(article.story_id)}">
       <span>阅读全文</span>
-      <strong>${escapeHtml(article.paragraphs.length)} 段</strong>
+      <strong>约 ${readingMinutes(article)} 分钟</strong>
     </button>
   `;
 }
@@ -866,7 +873,7 @@ function renderMatrix() {
   }).join("");
 
   return `
-    <section class="panel matrix-panel">
+    <section class="panel panel-wide matrix-panel">
       <div class="section-heading">
         <h3>概念 × 家族对照矩阵</h3>
         <strong>${matrixFamilies.length} 个家族 × ${matrixConcepts.length} 个概念</strong>
@@ -1089,19 +1096,29 @@ function renderOverview() {
   }
 
   const stories = nodes.filter((node) => node.type === "story");
-  const concepts = nodes
-    .filter((node) => node.type === "concept")
-    .sort(byConnectionThenTitle)
-    .slice(0, 12);
   const highlightedTopics = topics.slice(0, 6);
   const topStories = [...stories].sort(byConnectionThenTitle).slice(0, 9);
+  const latest = [...stories]
+    .filter((node) => node.frontmatter.series_no)
+    .sort((a, b) => (b.frontmatter.series_no || 0) - (a.frontmatter.series_no || 0))
+    .slice(0, 2);
+  const topTools = data.nodes
+    .filter((node) => node.type === "tool")
+    .sort(byConnectionThenTitle)
+    .slice(0, 6);
 
   return `
     <section class="atlas-layout panel-wide">
       <div class="home-hero">
+        <span class="hero-seal" role="img" aria-label="执允"><span>执</span><span>允</span></span>
         <div class="card-type">Family Governance Atlas</div>
-        <h3>把 ${storyTotal} 篇家族故事，整理成一张可验证的治理地图。</h3>
-        <p>从家族实践故事出发，连接治理主题、人物、机构、制度工具和关键事件，形成可检索、可追溯、可继续扩展的研究底稿。</p>
+        <h3>${storyTotal} 篇家族故事，一张可检索的治理地图。</h3>
+        <p>从治理问题出发，进入家族案例、人物关系、制度工具与原文段落。每一个结论，都能回到它的出处。</p>
+        <div class="hero-actions">
+          <button data-view="topics">从问题进入</button>
+          <button data-view="matrix">打开对照矩阵</button>
+          <button data-action="lucky">随便看看</button>
+        </div>
         <div class="hero-metrics">
           <div><strong>${stories.length}</strong><span>家族故事</span></div>
           <div><strong>${topics.length}</strong><span>治理专题</span></div>
@@ -1109,12 +1126,16 @@ function renderOverview() {
         </div>
       </div>
       <aside class="atlas-brief">
-        <h3>研究摘要</h3>
-        <ul>
-          <li>以故事原文为底稿，保留完整阅读入口。</li>
-          <li>以治理问题组织知识，而不是按发布时间排列。</li>
-          <li>每个节点都能回到原文、专题或关系图谱。</li>
-        </ul>
+        <h3>最新收录</h3>
+        <div class="latest-list">
+          ${latest.map((node) => `
+            <button class="latest-item" data-id="${escapeHtml(node.id)}">
+              <span class="latest-no">第 ${node.frontmatter.series_no} 期</span>
+              <strong>${escapeHtml(node.title)}</strong>
+              <p>${escapeHtml(truncate(node.summary || "", 68))}</p>
+            </button>
+          `).join("")}
+        </div>
       </aside>
     </section>
     <section class="panel panel-wide topic-section">
@@ -1142,9 +1163,12 @@ function renderOverview() {
       </div>
       <div class="card-grid">${topStories.map(card).join("")}</div>
     </section>
-    <section class="panel panel-wide concept-section">
-      <h3>概念入口</h3>
-      <div class="card-grid">${concepts.map(card).join("")}</div>
+    <section class="panel panel-wide tool-section">
+      <div class="panel-heading">
+        <h3>方法论精选</h3>
+        <span>可迁移的治理工具</span>
+      </div>
+      <div class="card-grid">${topTools.map(card).join("")}</div>
     </section>
   `;
 }
@@ -1205,10 +1229,12 @@ const metaLabels = {
 };
 
 function renderMetadata(node) {
-  // internal pipeline fields stay out of the reading surface
+  // internal pipeline fields stay out of the reading surface;
+  // definition/core_mechanism render as the concept brief block instead
   const skip = new Set([
     "id", "type", "title", "reviewed", "draft", "curation_stage",
     "confidence", "order", "entities", "source_file", "source_files",
+    "definition", "core_mechanism", "aliases", "category",
   ]);
   const priority = [
     "series_no",
@@ -1372,6 +1398,34 @@ function renderArticleReader(article) {
   `;
 }
 
+function storyKicker(node) {
+  const fm = node.frontmatter;
+  const parts = [];
+  if (fm.series_no) parts.push(`执允家族·故事 第 ${fm.series_no} 期`);
+  const family = (fm.families || [])[0];
+  if (family && nodeById.has(family)) parts.push(labelFor(family));
+  if (fm.regions?.length) parts.push(fm.regions.slice(0, 2).join("、"));
+  if (fm.industries?.length) parts.push(fm.industries.slice(0, 2).join("、"));
+  return parts.length ? `<p class="detail-kicker">${parts.map(escapeHtml).join(" · ")}</p>` : "";
+}
+
+function conceptBrief(node) {
+  const fm = node.frontmatter;
+  if (node.type !== "concept" || !fm.definition) return "";
+  const mechanisms = Array.isArray(fm.core_mechanism) ? fm.core_mechanism : [];
+  return `
+    <div class="concept-brief">
+      ${fm.category ? `<p class="detail-kicker">${escapeHtml(fm.category)}</p>` : ""}
+      <p class="concept-definition">${escapeHtml(fm.definition)}</p>
+      ${mechanisms.length ? `
+        <div class="concept-mechanism">
+          <span>核心机制</span>
+          <ul>${mechanisms.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+        </div>` : ""}
+    </div>
+  `;
+}
+
 function renderDetail(node) {
   return `
     <section class="panel detail">
@@ -1379,12 +1433,14 @@ function renderDetail(node) {
         <div>
           <div class="card-type" style="color:${colorFor(node.type)}">${escapeHtml(typeMeta[node.type]?.label || node.type)}</div>
           <h3>${escapeHtml(node.title)}</h3>
+          ${node.type === "story" ? storyKicker(node) : ""}
         </div>
         <div class="detail-actions">
           ${renderArticleEntry(node)}
           <button class="reset-button" data-reset="true">返回地图</button>
         </div>
       </div>
+      ${conceptBrief(node)}
       <p>${escapeHtml(node.summary)}</p>
       <dl class="meta-list">${renderMetadata(node)}</dl>
     </section>
@@ -1749,6 +1805,7 @@ function renderContent() {
 
   if (article) {
     els.viewTitle.textContent = article.title;
+    els.viewTitle.classList?.toggle?.("long-title", article.title.length > 12);
     els.viewSubtitle.textContent = `正文阅读 · ${article.paragraphs.length} 段 · ${article.toc.length} 个目录入口`;
     els.content.innerHTML = renderArticleReader(article);
     return;
@@ -1756,12 +1813,14 @@ function renderContent() {
 
   if (state.view === "topic" && topic) {
     els.viewTitle.textContent = topic.title;
+    els.viewTitle.classList?.toggle?.("long-title", topic.title.length > 12);
     els.viewSubtitle.textContent = topic.question;
     els.content.innerHTML = renderOverview();
     return;
   }
 
   els.viewTitle.textContent = selected ? selected.title : meta.title;
+  els.viewTitle.classList?.toggle?.("long-title", (selected ? selected.title : meta.title).length > 12);
   els.viewSubtitle.textContent = selected
     ? `${typeMeta[selected.type]?.label || selected.type} · ${degree.get(selected.id) || 0} 条连接`
     : meta.subtitle;
@@ -1830,6 +1889,12 @@ document.addEventListener("click", (event) => {
     const [family, concept] = matrixButton.dataset.matrixCell.split("|");
     state.matrixCell = { family, concept };
     render();
+    return;
+  }
+
+  const luckyButton = event.target.closest("[data-action='lucky']");
+  if (luckyButton) {
+    jumpToRandomNode();
     return;
   }
 
@@ -1933,19 +1998,21 @@ function setupEnhancements() {
   });
 
   const lucky = document.querySelector("#luckyButton");
-  lucky?.addEventListener?.("click", () => {
-    const pool = data.nodes.filter((node) =>
-      ["story", "person", "company", "tool", "event", "concept"].includes(node.type));
-    const pick = pool[Math.floor(Math.random() * pool.length)];
-    if (!pick) return;
-    state.selectedId = pick.id;
-    state.articleId = null;
-    state.type = "all";
-    render();
-    focusWorkspace();
-  });
+  lucky?.addEventListener?.("click", jumpToRandomNode);
 
   animateStats();
+}
+
+function jumpToRandomNode() {
+  const pool = data.nodes.filter((node) =>
+    ["story", "person", "company", "tool", "event", "concept"].includes(node.type));
+  const pick = pool[Math.floor(Math.random() * pool.length)];
+  if (!pick) return;
+  state.selectedId = pick.id;
+  state.articleId = null;
+  state.type = "all";
+  render();
+  focusWorkspace();
 }
 
 // ---------- hash routing ----------

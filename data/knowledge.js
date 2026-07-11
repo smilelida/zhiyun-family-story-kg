@@ -1,5 +1,5 @@
 window.KNOWLEDGE_DATA = {
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-11",
   "nodes": [
     {
       "id": "story:dassler",
@@ -163,7 +163,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:rothschild",
       "type": "story",
       "title": "绿盾之屋与五支箭：罗斯柴尔德家族的两百年",
-      "summary": "这一篇的治理主线：罗斯柴尔德家族用五地分行、男系合伙、婚姻联盟、信息保密和跨国资本调度，把被排斥处境转化为结构性金融力量，也把封闭治理的代价留给后代。",
+      "summary": "五个儿子驻五座城市，男系合伙、内部通婚、婚事一律回法兰克福办，老迈耶 1812 年的遗嘱把金钱和秘密锁进家族两百年。地域分散让它在每一次战争里都有活口，封闭治理也让它错过了美国和新大陆。纹章上那只攥住五支箭的手，既是团结的图腾，也是边界的封印。",
       "path": "knowledge/stories/rothschild.md",
       "frontmatter": {
         "id": "story:rothschild",
@@ -236,7 +236,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:fan-yizhuang",
       "type": "story",
       "title": "一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承",
-      "summary": "这一篇的治理主线：范氏义庄把族产、成文规矩、受益边界、官府背书和教育救助组合成一套近九百年的制度化家族公共资产。",
+      "summary": "皇祐二年，范仲淹把一生积蓄换成苏州一千亩义田，立下十三条规矩：义田归全族公有，不归他的子孙。这个结构靠成文规则和官府背书运转了八百九十九年，直到 1949 年范烟桥交出账册。世界家族史上最长寿的制度设计，答案写在第一行：所有权挂在祖宗名下，每一房都是受益人，没有一房是所有人。",
       "path": "knowledge/stories/fan-yizhuang.md",
       "frontmatter": {
         "id": "story:fan-yizhuang",
@@ -299,7 +299,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:ford-family",
       "type": "story",
       "title": "福特家族：一只怀表、一个姓氏与五代传承的故事",
-      "summary": "这一篇的治理主线：福特家族把创始人个人意志、双层股权、职业经理人和家族董事会角色重新排列，形成从家族拥有到家族负责的现代汽车家族治理样本。",
+      "summary": "亨利·福特 1919 年花巨资买断全部外部股东，证明了百分之百控股并不等于安全；1956 年上市时家族反向设计了 B 类股，用四成投票权守住方向盘。五代人里有交班给儿子的失败、有交给外人的成功，福特家族把美国家族企业的全部教训演了一遍，公司至今姓福特。",
       "path": "knowledge/stories/ford-family.md",
       "frontmatter": {
         "id": "story:ford-family",
@@ -803,7 +803,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:pao-family",
       "type": "story",
       "title": "无子江山：世界船王包玉刚留给女儿们的爱与传承",
-      "summary": "包玉刚的故事不是“无子所以遗憾”，而是一个华人家族如何重新设计继承结构的样本。",
+      "summary": "世界船王包玉刚没有儿子，他把四个女婿变成了四个接班人：航运、地产、贸易、家办各归一房，1989 年在汇丰顶层签下的家族信托把分配写成制度。无子的焦虑被他做成了结构化传承的范本，女儿们各得其所，家族至今没有争产新闻。",
       "path": "knowledge/stories/pao-family.md",
       "frontmatter": {
         "id": "story:pao-family",
@@ -943,7 +943,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:takagi-shuzo",
       "type": "story",
       "title": "从“朝日鹰”到“十四代”：高木酒造家族的四百年传承",
-      "summary": "这一篇的治理主线：高木酒造把地方酿造、限定生产、杜氏技艺和品牌稀缺性结合为小而强的家族传承。",
+      "summary": "山形县一间四百年酒藏，第十五代当主高木显统打破藏元不碰酿造的旧例亲任杜氏，酿出常年一瓶难求的十四代。产量锁死在自家能亲手把控的规模，宁可让市场排队也不扩产。小而强的另一种传承：不追规模，把不可替代性留在血脉里。",
       "path": "knowledge/stories/takagi-shuzo.md",
       "frontmatter": {
         "id": "story:takagi-shuzo",
@@ -997,7 +997,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:hermes",
       "type": "story",
       "title": "爱马仕家族故事：一门手艺的六代传承",
-      "summary": "这一篇的治理主线：爱马仕家族用手工艺标准、家族控股和反收购防御维持六代奢侈品品牌的独立性。",
+      "summary": "六代人守一门马具手艺，爱马仕把“不让有瑕疵的作品离开工坊”守成了护城河。2010 年 LVMH 突袭持股 17%，五十多名家族股东把 62.8% 的股份注入 H51 控股并锁定二十年，用一层结构把散股焊成一块。工艺标准和家族控股，是这个品牌的两道城墙。",
       "path": "knowledge/stories/hermes.md",
       "frontmatter": {
         "id": "story:hermes",
@@ -1055,7 +1055,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:ikea",
       "type": "story",
       "title": "把宜家留给世界：坎普拉德家族的传奇故事",
-      "summary": "这一篇的治理主线：坎普拉德家族用基金会结构、低价使命和复杂所有权安排把宜家从家族私产转成使命型系统。",
+      "summary": "坎普拉德宣称宜家不属于任何个人：门店主体装进荷兰基金会，商标装进另一个体系，三个儿子各有位置却谁也拿不走公司。这套复杂到外界看不懂的结构，锁定的是低价使命和永不出售，代价是透明度长期被质疑。节俭到开旧沃尔沃的创始人，把抠门做成了组织文化。",
       "path": "knowledge/stories/ikea.md",
       "frontmatter": {
         "id": "story:ikea",
@@ -1115,7 +1115,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:rong-family",
       "type": "story",
       "title": "荣氏家族：从“衣食”帝国到红色资本家的百年历程",
-      "summary": "这一篇的治理主线：荣氏家族把实业救国、产业经营、公共身份和市场化转型连接成百年家族叙事。",
+      "summary": "面粉大王、棉纱大王、衣被半个中国，荣氏兄弟把实业做成了乱世里的护身符。1956 年荣毅仁率先把家业交入公私合营，1979 年又受命创办中信，家族在公与私之间的每一次转身都踩在时代的节拍上。实业报国四个字，既是信念，也是这个家族最深的生存策略。",
       "path": "knowledge/stories/rong-family.md",
       "frontmatter": {
         "id": "story:rong-family",
@@ -1176,7 +1176,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:pei-family",
       "type": "story",
       "title": "贝氏家族：从苏州到世界的六百年",
-      "summary": "这一篇的治理主线：贝氏家族展示江南士绅、金融职业、教育投入和全球建筑声望之间的长期转换。",
+      "summary": "苏州贝氏十五代六百年，从草药铺到颜料大王，再到中国银行的贝祖诒和建筑大师贝聿铭。财富形态换了四五轮，家族的连续性寄放在教育和文化资本上：狮子林是物理锚点，子弟的书桌才是真正的祖产。",
       "path": "knowledge/stories/pei-family.md",
       "frontmatter": {
         "id": "story:pei-family",
@@ -1235,7 +1235,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:toyoda",
       "type": "story",
       "title": "丰田家族：从一台织机到车坛巨擘的百年传奇",
-      "summary": "这一篇的治理主线：丰田家族把发明家精神、制造系统、职业经理人和家族象征性守门结合起来。",
+      "summary": "丰田家族在丰田汽车的持股比例小到可以忽略，丰田章男却仍被全公司当作精神当主。从佐吉的自働化织机到《丰田纲领》，再到 1950 年喜一郎带全体董事引咎辞职，这个家族把创业精神翻译成了不依赖血缘的方法论，家族只守住象征性的最高职位，在危机时出面担责。",
       "path": "knowledge/stories/toyoda.md",
       "frontmatter": {
         "id": "story:toyoda",
@@ -1293,7 +1293,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:robert-kuok",
       "type": "story",
       "title": "马来西亚百岁首富：亚洲糖王郭鹤年的传奇一生",
-      "summary": "这一篇的治理主线：郭鹤年案例体现低调信用、跨地域布局和从糖业到酒店航运的耐心扩张。",
+      "summary": "郭鹤年做过亚洲糖王、酒店大王、粮油大王，却几十年几乎不接受采访。母亲郑格如手书的“儿孙能如我，何必留多财”挂在他办公桌后，低调、信用与跨地域布局是这个家族的全部秘密。大房争产见报后双双退出核心管理层，规矩比亲疏更硬。",
       "path": "knowledge/stories/robert-kuok.md",
       "frontmatter": {
         "id": "story:robert-kuok",
@@ -1355,7 +1355,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:cp-group",
       "type": "story",
       "title": "一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国",
-      "summary": "这一篇的治理主线：正大故事展示潮汕兄弟创业、农业食品一体化和跨国经营中的家族控制。",
+      "summary": "从曼谷唐人街一间种子铺，到横跨农牧食品零售的跨国集团，谢氏兄弟用“正大中国”四个名字写下潮商版的兄弟合伙。幼子谢国民主政、兄长退居其后的安排，让正大避开了华人家族最常见的分家魔咒，2017 年第三代接班仍沿用同一结构。",
       "path": "knowledge/stories/cp-group.md",
       "frontmatter": {
         "id": "story:cp-group",
@@ -1416,7 +1416,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:wang-yongqing",
       "type": "story",
       "title": "从茶山贫童到石化王国：王永庆的传奇与传承",
-      "summary": "这一篇的治理主线：王永庆案例把勤俭经营、专业化管理、医疗公益和后代多元发展放在同一个传承框架中。",
+      "summary": "一条毛巾用几十年的王永庆，把节俭做成了台塑的管理制度：单元成本分析追到最小单位，午餐会上高管逐项报数。他生前没立遗嘱、身后三房争产的另一面，是长庚医院持有台塑集团关键股权的巧妙设计，公益法人成了事实上的控股稳定器。",
       "path": "knowledge/stories/wang-yongqing.md",
       "frontmatter": {
         "id": "story:wang-yongqing",
@@ -1475,7 +1475,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:disney",
       "type": "story",
       "title": "从米老鼠到魔法王国：迪斯尼家族的百年传奇",
-      "summary": "这一篇的治理主线：迪斯尼故事的治理焦点，是创始人想象力、兄弟搭档、职业经理人和董事会权力的长期拉扯。",
+      "summary": "华特负责做梦，哥哥罗伊负责让梦不破产，这对搭档创造了迪士尼，也留下了创始人神话如何绑架公司的难题。华特死后二十年公司在“华特会怎么做”里原地打转，直到罗伊的儿子用一场董事会行动主义把公司交给外人艾斯纳，又在二十年后亲手把他赶下台。",
       "path": "knowledge/stories/disney.md",
       "frontmatter": {
         "id": "story:disney",
@@ -1593,7 +1593,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:gucci",
       "type": "story",
       "title": "金色双 G 的阴影：古驰家族百年兴衰",
-      "summary": "这一篇的治理主线：古驰家族是品牌被家族冲突消耗、最后由职业经理人与外部资本重塑的典型样本。",
+      "summary": "古驰家族把姓氏做成了世界顶级品牌，又亲手把它变成家族内战的战利品：父子对簿、兄弟构陷、侄子举报叔叔逃税，最后是前妻雇凶杀死了毛里齐奥。1993 年家族彻底出局，品牌反而在职业经理人手里重获新生。姓氏还挂在门店上，家族已与它无关。",
       "path": "knowledge/stories/gucci.md",
       "frontmatter": {
         "id": "story:gucci",
@@ -1651,7 +1651,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:stanley-ho",
       "type": "story",
       "title": "十元起步到赌王加冕：何鸿燊的世纪豪赌",
-      "summary": "这一篇的治理主线：何鸿燊家族展示多房结构、博彩牌照、上市公司和家族和解之间的复杂治理。",
+      "summary": "何鸿燊用一张博彩牌照建起澳门半个世纪的商业版图，四房十七名子女却让继承变成一道没有公平解的题。2011 年那场对簿公堂边缘的争产战，以股权重新划分的和解协议收场。多房结构、牌照资产、上市公司三样东西叠在一起，是华人家族治理复杂度的天花板。",
       "path": "knowledge/stories/stanley-ho.md",
       "frontmatter": {
         "id": "story:stanley-ho",
@@ -1713,7 +1713,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:watson-ibm",
       "type": "story",
       "title": "思考者：沃森家族与 IBM 的百年基业",
-      "summary": "这一篇的治理主线：沃森家族与 IBM 的主线，是父子接班如何推动企业从销售机器文化走向计算机时代。",
+      "summary": "老沃森把 IBM 变成一种信仰，深色西装、THINK 标语、终身雇佣；小沃森接班后亲手拆掉父亲的打卡机帝国，带公司押注计算机。父子在办公室里互相咆哮，公司却在两代人的冲突中完成了最惊险的转型。家族退场后，留下的文化仍在运转。",
       "path": "knowledge/stories/watson-ibm.md",
       "frontmatter": {
         "id": "story:watson-ibm",
@@ -1769,7 +1769,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:zeng-guofan",
       "type": "story",
       "title": "从耕读之家到中兴名臣：曾国藩的传世智慧",
-      "summary": "这一篇的治理主线：曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
+      "summary": "曾国藩治的是国，写的却多半是家书。日课十二条、千余封家书、耕读传家的纪律，把修身这件最难制度化的事拆成了每天可检查的动作。曾氏后代两百年没出过纨绔，这套方法比他的战功更值得家族企业研究。",
       "path": "knowledge/stories/zeng-guofan.md",
       "frontmatter": {
         "id": "story:zeng-guofan",
@@ -1823,7 +1823,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:rockefeller",
       "type": "story",
       "title": "百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路",
-      "summary": "这一篇的治理主线：洛克菲勒把石油财富转化为基金会、家族办公室和公共声望，完成从产业资本到制度资本的转身。",
+      "summary": "从垄断争议缠身的石油大亨，到全球慈善事业的开创者，洛克菲勒家族用基金会、家族办公室和家族会议把巨额财富制度化，声望完成了从强盗大亨到公共捐助者的转身。六代人没有爆发过一场遗产官司，靠的不是亲情，是 1913 年就开始搭建的那套结构。",
       "path": "knowledge/stories/rockefeller.md",
       "frontmatter": {
         "id": "story:rockefeller",
@@ -1883,7 +1883,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:ambani",
       "type": "story",
       "title": "印度第一家族：安巴尼王朝的权利游戏与传承密码",
-      "summary": "这一篇的治理主线：安巴尼家族展示了创始人强整合能力、兄弟分家和新一代平台化扩张之间的张力。",
+      "summary": "迪鲁拜白手建起印度最大的私人财团，却没有留下遗嘱。两个儿子从董事会斗到报纸头版，最后靠母亲科基拉本主持切分帝国：哥哥拿石化，弟弟拿电信。二十年后穆克什的信实市值印度第一，阿尼尔一度濒临破产，同一场分家给出的两条命运曲线，是强人身后无规则的最好教材。",
       "path": "knowledge/stories/ambani.md",
       "frontmatter": {
         "id": "story:ambani",
@@ -1943,7 +1943,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:qiao-family",
       "type": "story",
       "title": "红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧",
-      "summary": "这一篇的治理主线：晋商家族把信用、票号网络、家规和地方共同体绑定成长期商业资本。",
+      "summary": "乔家用六条家规管住子弟，用票号信用网络管住生意，把一座山西大院经营成横跨全国的金融网络。真正值得看的不是它怎么起家，而是人格化的信用在时代翻页时如何一夜清零：辛亥前后票号业集体崩塌，大院从此只剩下建筑。",
       "path": "knowledge/stories/qiao-family.md",
       "frontmatter": {
         "id": "story:qiao-family",
@@ -2053,7 +2053,7 @@ window.KNOWLEDGE_DATA = {
       "id": "story:sheng-xuanhuai",
       "type": "story",
       "title": "晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录",
-      "summary": "这一篇的治理主线：盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
+      "summary": "轮船招商局、电报局、汉冶萍，盛宣怀一只手捞起十六颗夜明珠，官督商办让他成为晚清首富。他死后遗产十分开拆、半数入愚斋义庄的信托设想，挡不住子孙合谋析产，义庄在 1930 年代耗散殆尽。官商网络成就了财富，也注定了它随政权一起退潮。",
       "path": "knowledge/stories/sheng-xuanhuai.md",
       "frontmatter": {
         "id": "story:sheng-xuanhuai",
