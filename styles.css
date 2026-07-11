@@ -2527,3 +2527,98 @@ body {
   font-size: 12px;
   font-style: normal;
 }
+
+/* ================================================================
+   家族年轮盘
+   ================================================================ */
+
+.ring-wrap {
+  margin: 10px auto 26px;
+  max-width: 840px;
+}
+
+.timeline-rings {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.ring-guide {
+  fill: none;
+  stroke: var(--line);
+  stroke-width: 1;
+}
+
+.ring-year {
+  fill: var(--faint);
+  font-family: var(--serif);
+  font-size: 15px;
+  font-weight: 600;
+  text-anchor: middle;
+}
+
+.ring-spoke {
+  stroke: rgba(64, 112, 144, 0.14);
+  stroke-width: 1;
+}
+
+@keyframes ring-seed {
+  from { opacity: 0; transform: translate(var(--tx), var(--ty)) scale(0); }
+  to { opacity: 1; transform: translate(var(--tx), var(--ty)) scale(1); }
+}
+
+.ring-dot circle {
+  fill: var(--green);
+  opacity: 0.88;
+  cursor: pointer;
+  transition: r 0.15s var(--ease-out), fill 0.15s;
+}
+
+.ring-dot {
+  animation: fade 0.5s ease backwards;
+}
+
+.ring-dot:hover circle {
+  r: 7;
+  fill: var(--cinnabar);
+  opacity: 1;
+}
+
+.ring-label {
+  fill: var(--ink-soft);
+  font-size: 12.5px;
+  cursor: pointer;
+  transition: fill 0.15s;
+}
+
+.ring-label:hover {
+  fill: var(--green-dark);
+  font-weight: 650;
+}
+
+.ring-core {
+  fill: var(--paper-soft);
+  stroke: var(--line);
+  stroke-width: 1;
+}
+
+.ring-core-label {
+  fill: var(--gold);
+  font-family: var(--serif);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.3em;
+  text-anchor: middle;
+}
+
+.ring-caption {
+  margin: 12px 0 0;
+  color: var(--faint);
+  font-size: 12.5px;
+  text-align: center;
+}
+
+@media (max-width: 720px) {
+  .ring-label { display: none; }
+  .ring-wrap { margin-bottom: 14px; }
+}

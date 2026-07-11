@@ -114443,1015 +114443,910 @@ window.ARTICLE_DATA = {
       ]
     },
     {
-      "story_id": "insight:five-firewalls",
-      "title": "家族宪章里必须设的 5 道防火墙",
+      "story_id": "insight:founder-exit-signals",
+      "title": "判断创始人该退场的 5 个信号",
       "series_no": null,
       "kind": "insight",
       "insight_no": 8,
-      "topic": "rules",
+      "topic": "professionalization",
       "source_files": [
-        "洞察/家族洞察 08：家族宪章里必须设的 5 道防火墙.md"
+        "洞察/家族洞察 08：判断创始人该退场的 5 个信号.md"
       ],
       "related_node_ids": [],
       "toc": [
         {
-          "id": "five-firewalls-p-001",
+          "id": "founder-exit-signals-p-001",
           "level": 1,
-          "title": "家族洞察 08：家族宪章里必须设的 5 道防火墙"
-        },
-        {
-          "id": "five-firewalls-p-010",
-          "level": 2,
-          "title": "一、重大决策必须经过\"特定多数\""
-        },
-        {
-          "id": "five-firewalls-p-023",
-          "level": 2,
-          "title": "二、股权流出家族必须先经\"优先回购\""
-        },
-        {
-          "id": "five-firewalls-p-038",
-          "level": 2,
-          "title": "三、家族纠纷必须先经\"强制仲裁\""
-        },
-        {
-          "id": "five-firewalls-p-051",
-          "level": 2,
-          "title": "四、配偶进入家族企业必须有\"资产隔离\""
-        },
-        {
-          "id": "five-firewalls-p-066",
-          "level": 2,
-          "title": "五、留一份\"后人不能改\"的清单"
-        },
-        {
-          "id": "five-firewalls-p-081",
-          "level": 2,
-          "title": "写在最后"
+          "title": "家族洞察 08：判断创始人该退场的 5 个信号"
         }
       ],
       "paragraphs": [
         {
-          "id": "five-firewalls-p-001",
+          "id": "founder-exit-signals-p-001",
           "index": 1,
           "source_index": 1,
           "kind": "heading",
           "level": 1,
-          "text": "家族洞察 08：家族宪章里必须设的 5 道防火墙",
-          "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution"
-          ]
+          "text": "家族洞察 08：判断创始人该退场的 5 个信号",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-002",
+          "id": "founder-exit-signals-p-002",
           "index": 2,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "2010年10月23日早晨，巴黎。爱马仕家族控股公司主席伯特兰·皮埃什接到了一个电话。电话那头是LVMH集团的老板贝尔纳·阿尔诺。阿尔诺只说了一句话：\"我已经买入贵公司17%的股份。\"",
-          "related_node_ids": [
-            "company:hermes",
-            "family:hermes-family"
-          ]
+          "text": "1943 年 5 月 26 日，密歇根州格罗斯波因特。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-003",
+          "id": "founder-exit-signals-p-003",
           "index": 3,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这不是普通的收购，是一次精心设计的伏击。从2001年开始，阿尔诺就通过LVMH名下的多个海外子公司悄悄收集爱马仕的股票，每次收购都控制在5%以下，绕开了法国证券监管的披露红线。2008年到2010年之间，他又跟几家投行签了股权掉期协议，让银行替他持股，约定日后以固定价格交换。等到他打那个电话给皮埃什的时候，LVMH已经是爱马仕的第二大股东。",
-          "related_node_ids": [
-            "company:hermes"
-          ]
+          "text": "49 岁的爱德塞尔·福特死于胃癌。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-004",
+          "id": "founder-exit-signals-p-004",
           "index": 4,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "50多位爱马仕家族成员紧急聚到巴黎的家族办公室。这些人里有第六代，年轻人，大部分有自己的事业，对爱马仕的日常经营毫无介入。会议的主题只有一个：怎么不让公司被吞掉。",
+          "text": "他是亨利·福特唯一的儿子，福特汽车的总裁，在那个位置上做了 24 年。这 24 年里，他的每一个重要决定都被父亲推翻，每一个新车型设计都被父亲叫停，每一次想引入现代财务管理都被父亲安插的密探汇报上去。亨利从 1903 年创办福特汽车到这一天已经 40 年。他 80 岁，身体硬朗，掌控欲一如既往。",
           "related_node_ids": [
-            "tool:family-office",
-            "company:hermes",
-            "family:hermes-family"
+            "person:henry-ford"
           ]
         },
         {
-          "id": "five-firewalls-p-005",
+          "id": "founder-exit-signals-p-005",
           "index": 5,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "他们最后决定的事情几乎没有先例。成立一个叫\"H51\"的家族控股联盟，把超过50%的家族股份打包锁定二十年。锁定期内，任何家族成员未经全体同意，都不能出售自己的份额。",
-          "related_node_ids": []
+          "text": "爱德塞尔从 24 岁做到 49 岁，做了一辈子的\"少爷总裁\"。生病的最后几年，妻子艾莉诺只能眼睁睁看着丈夫被父亲一寸一寸耗尽。儿子下葬之后，艾莉诺去找公公谈判。她带去一个威胁：如果亨利不交权，她和婆婆克拉拉合计持有的 40% 股份将整体卖给外部资本。又拖了两年，82 岁的亨利·福特才把公司交给 26 岁的孙子亨利·福特二世。",
+          "related_node_ids": [
+            "person:henry-ford",
+            "person:henry-ford-ii"
+          ]
         },
         {
-          "id": "five-firewalls-p-006",
+          "id": "founder-exit-signals-p-006",
           "index": 6,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "那一年签字的家族成员等于同时放弃了二十年的变现自由。最年轻的那几位签下去的时候，二十年之后他们才到中年。",
+          "text": "爱德塞尔的墓碑上刻着\"49 岁\"。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-007",
+          "id": "founder-exit-signals-p-007",
           "index": 7,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "爱马仕家族能在两个月内做出这个决定，不是因为他们临时想到了一个好主意。是因为家族里早就习惯了这种\"防火墙\"思维。重要的事情，不到事情发生的时候去想。提前在章程里画好线，等事情来的时候，按线办就行。",
+          "text": "亨利·福特做了一辈子的好车。把车钥匙交出去这件事，他始终没学会。",
           "related_node_ids": [
-            "company:hermes",
-            "family:hermes-family"
+            "person:henry-ford"
           ]
         },
         {
-          "id": "five-firewalls-p-008",
+          "id": "founder-exit-signals-p-008",
           "index": 8,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "家族企业活得久不久，关键不在它会不会遇到危机，而在它有没有提前在章程里设下防火墙。",
+          "text": "写过三十期家族故事，看到一个反复出现的模式：传承的失败，常常不在二代身上，在一代身上。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-009",
+          "id": "founder-exit-signals-p-009",
           "index": 9,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "爱马仕设的，是其中一道。",
-          "related_node_ids": [
-            "company:hermes"
-          ]
-        },
-        {
-          "id": "five-firewalls-p-010",
-          "index": 10,
-          "source_index": 1,
-          "kind": "heading",
-          "level": 2,
-          "text": "一、重大决策必须经过\"特定多数\"",
+          "text": "家族企业的书里讲了很多\"怎么传\"。怎么分股权，怎么写宪章，怎么培养继承人，怎么避免内斗。这些都重要，但都建立在一个前提之上：创始人愿意放权，并且在合适的时候放权。这个前提不成立，下面再精密的设计都没用。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-011",
+          "id": "founder-exit-signals-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回望历史，我们会看到，范蠡功成身退泛舟五湖，张良在汉初谢绝相位，曾国藩剿灭太平天国之后自请裁撤湘军。这些名臣良将都有着把手里的权柄主动放下的智慧。",
+          "related_node_ids": [
+            "person:zeng-guofan"
+          ]
+        },
+        {
+          "id": "founder-exit-signals-p-011",
           "index": 11,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "1925年，日本千叶县野田。",
+          "text": "但放手的难度，比夺取还要大。一个创始人怎么知道自己该退了？这一期讲五个可以观察的信号。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-012",
+          "id": "founder-exit-signals-p-012",
           "index": 12,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "八个酱油酿造家族刚刚合并成龟甲万八年。这八家原本是几代人的竞争对手，谁都怕在新公司里被另外几家吃掉。他们用了二十三年才把品牌统一到\"龟甲万\"三个字上。这二十三年里发生的所有讨价还价、僵局、退让，最后被装进了一份十六条的家族宪章。",
-          "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution",
-            "company:kikkoman"
-          ]
+          "text": "一、年龄的刻度",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-013",
+          "id": "founder-exit-signals-p-013",
           "index": 13,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "宪章的第十六条这么写：\"重大事务切勿独断。\"",
+          "text": "2004 年 9 月，丹麦比隆。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-014",
+          "id": "founder-exit-signals-p-014",
           "index": 14,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这条规矩听起来像一句废话。但它救过龟甲万很多次。",
+          "text": "64 岁的基耶尔德·克里斯蒂安森召集了一次董事会。会上他做了一个让所有人意外的决定：把乐高集团 CEO 的位置交给 36 岁的克努德斯托普，一个外姓的、年轻的、刚加入乐高几年的职业经理人。",
           "related_node_ids": [
-            "company:kikkoman"
+            "company:lego-group"
           ]
         },
         {
-          "id": "five-firewalls-p-015",
+          "id": "founder-exit-signals-p-015",
           "index": 15,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "一百年下来，龟甲万经历过几代社长更替，经历过战时被军部接管的危机，经历过1957年清酒市场萎缩的压力，经历过2008年的金融海啸。每一次危机里，公司面临的最大诱惑都是\"由某个强人来快速决定\"。但章程不允许。重大决策必须经过八家共治的\"同族会\"协商，必须取得特定多数。哪怕你是龟甲万的社长，单独决定的权力也不存在。",
-          "related_node_ids": [
-            "company:kikkoman"
-          ]
+          "text": "64 岁在大多数家族企业里还远没到退休年龄。基耶尔德身体没问题，精神没问题，他完全可以再做十年甚至十五年。但他主动退了。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-016",
+          "id": "founder-exit-signals-p-016",
           "index": 16,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "新世界发展的故事是反过来的。",
-          "related_node_ids": [
-            "company:new-world-development"
-          ]
+          "text": "后来有人问他为什么。他的回答简单而克制：",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-017",
+          "id": "founder-exit-signals-p-017",
           "index": 17,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "1989年1月1日，43岁的郑家纯从父亲郑裕彤手里接过新世界发展。接班的最初十四个月里，他发起了一连串收购。2月用3.68亿港元入股查济民家族的香港兴业，同月用7.44亿港元收购基立实业，3月发起对永安集团的敌意收购，4月又斥资27.7亿港元拿下美国华美达酒店集团。再加上后续的几笔，这14个月里的总投入接近70亿港元。",
-          "related_node_ids": [
-            "person:henry-cheng",
-            "person:cheng-yu-tung",
-            "company:new-world-development"
-          ]
+          "text": "\"我们做出了必要的改变。\"",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-018",
+          "id": "founder-exit-signals-p-018",
           "index": 18,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "接班前公司的负债不到15亿港元。一年半之后，负债膨胀到将近90亿。1991年公司盈利比郑裕彤主政时下挫了54%。郑裕彤被迫\"二次出山\"才把局面稳住。",
-          "related_node_ids": [
-            "person:cheng-yu-tung"
-          ]
+          "text": "这六个字背后，是他对一组数字的清醒认识。1990 年代他主导的多元化扩张，已经把乐高带到濒临破产的边缘。他知道自己就是把车开偏的那个人。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-019",
+          "id": "founder-exit-signals-p-019",
           "index": 19,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "如果当时新世界的章程里有一条\"重大资本支出超过净资产5%必须经董事会三分之二多数同意\"的规定，那70亿不会一次性砸出去。郑家纯个人的判断会被一道结构性的关卡拦下来。但当时新世界的章程里没有这条。决策权太集中在一个人手里，那个人又恰好刚刚接班、急于证明自己。",
-          "related_node_ids": [
-            "person:henry-cheng"
-          ]
+          "text": "家族企业研究里有一组常被引用的年龄区间：65 岁应启动法定股权转移程序，70 岁应完成日常经营权的让渡，75 岁应只保留象征性角色。这三个数字不绝对。但偏离每一个数字十年以上的家族，几乎都付出过相应的代价。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-020",
+          "id": "founder-exit-signals-p-020",
           "index": 20,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这不是郑家纯一个人的能力问题。是结构的问题。",
+          "text": "周大福创始人郑裕彤掌权 66 年。直到 87 岁中风，他才被迫交班给 43 岁的儿子郑家纯。前面写过郑家纯接班 14 个月内的灾难，那场灾难真正的根源不在郑家纯身上。一个被推迟了二十年的接班，等真的发生时，已经没有时间慢慢交接了。",
           "related_node_ids": [
-            "person:henry-cheng"
+            "person:henry-cheng",
+            "person:cheng-yu-tung",
+            "company:chow-tai-fook"
           ]
         },
         {
-          "id": "five-firewalls-p-021",
+          "id": "founder-exit-signals-p-021",
           "index": 21,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "写到家族宪章里：",
-          "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution"
-          ]
+          "text": "老托马斯·沃森把 IBM 交给小托马斯的时候已经 82 岁。六个星期后，老沃森去世。小沃森确实接到了班，却几乎没有获得\"在父亲注视下独立运作\"的过渡时间。他后来在自传里写那段日子，用了一个意味深长的词：\"孤悬\"。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-022",
+          "id": "founder-exit-signals-p-022",
           "index": 22,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "> 凡涉及超过家族企业净资产5%以上的资本支出、并购、重大业务转型、品牌授权等决策，须经家族议会和董事会的三分之二多数同意方可实施。任何家族成员（包括CEO和创始人本人）均不得单独决定。",
-          "related_node_ids": []
+          "text": "亨利、郑裕彤、老沃森都拖到了八十岁以上。亨利拖到 82 岁交班，爱德塞尔比他先走了三十年。郑裕彤拖到 87 岁中风，郑家纯接班一年出头就撞上债务危机。老沃森拖到 82 岁，六个星期后离世，留下小沃森独自面对那家公司。",
+          "related_node_ids": [
+            "person:henry-cheng",
+            "person:cheng-yu-tung"
+          ]
         },
         {
-          "id": "five-firewalls-p-023",
+          "id": "founder-exit-signals-p-023",
           "index": 23,
           "source_index": 1,
-          "kind": "heading",
-          "level": 2,
-          "text": "二、股权流出家族必须先经\"优先回购\"",
+          "kind": "paragraph",
+          "level": null,
+          "text": "基耶尔德 64 岁退场，给自己留下了 20 年。从 CEO 退到所有者，从所有者退到家族精神顾问，再退到下一代的导师。这 20 年里，他把乐高从濒临破产带到全球玩具业利润最高，培养了两任职业经理人，把儿子汤马斯一步步带到 2023 年 KIRKBI 董事长的位置。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-024",
+          "id": "founder-exit-signals-p-024",
           "index": 24,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "回到2010年的爱马仕。",
-          "related_node_ids": [
-            "company:hermes"
-          ]
+          "text": "主动退场的人有时间做这些事。被动退场的人没有。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-025",
+          "id": "founder-exit-signals-p-025",
           "index": 25,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "H51联盟成立后，LVMH的渗透被堵住了。但联盟解决的只是当下二十年的问题。如果联盟到期，或者家族成员真的要套现走人，公司怎么不被外人买进来？",
+          "text": "年龄本身不是最关键的指标。关键是，距离健康警铃响起，还剩多少年。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-026",
+          "id": "founder-exit-signals-p-026",
           "index": 26,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "爱马仕的章程里早有一条更老的规矩。任何家族成员要出售股份，必须先卖给家族的控股实体，对方有优先回购权。控股实体放弃，再考虑卖给其他家族成员。所有家族成员都放弃，才能考虑外人。每一步都要经过家族议会的同意。",
-          "related_node_ids": [
-            "company:hermes"
-          ]
+          "text": "二、健康的警铃",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-027",
+          "id": "founder-exit-signals-p-027",
           "index": 27,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "乐高家族用过同一道规矩。",
+          "text": "2009 年 5 月，香港。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-028",
+          "id": "founder-exit-signals-p-028",
           "index": 28,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "2023年，第三代基耶尔德的二女儿索菲·克里斯蒂安森决定退出家族企业。她原本持有家族控股公司KIRKBI约25%的股权。她的兴趣在自然保护，名下有丹麦的大片土地和苏格兰高地的一座庄园，她要把股权变现去做生态项目。",
-          "related_node_ids": []
+          "text": "87 岁的何鸿燊在浴室摔倒，导致脑出血。手术之后，他陷入了几个月的深度昏迷。",
+          "related_node_ids": [
+            "person:stanley-ho"
+          ]
         },
         {
-          "id": "five-firewalls-p-029",
+          "id": "founder-exit-signals-p-029",
           "index": 29,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "按很多家族的处理方式，这种情况会很麻烦。一个持25%的人要套现，可能找投行包销，可能卖给私募基金，可能整体出售。任何一种都会让家族失去一部分控制权。",
-          "related_node_ids": []
+          "text": "何鸿燊一生四房太太，17 个子女，生前是亚洲赌业的绝对掌门人，资产覆盖澳博、信德、酒店、地产、航运。但他从未为这庞大的家业做过代际隔离的设计。他相信自己的权威足以摆平一切。",
+          "related_node_ids": [
+            "person:stanley-ho"
+          ]
         },
         {
-          "id": "five-firewalls-p-030",
+          "id": "founder-exit-signals-p-030",
           "index": 30,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "但乐高家族的章程里早就写好了。索菲的股份必须先卖回KIRKBI。KIRKBI按照预设的估值公式回购，付给索菲约9.3亿美元。整笔交易在家族内部完成，外人没有任何介入的机会。家族对乐高的控制权一点没变。",
+          "text": "健康突然出问题的那一刻，权威开始失效。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-031",
+          "id": "founder-exit-signals-p-031",
           "index": 31,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "古驰家族走的是相反的路。",
+          "text": "2011 年，何鸿燊的争产风波公开爆发。四房子女中的几个抢先发布公告，宣称获得了父亲的授权来分配遗产。第二天，另一房的代表公开反驳，说前一份声明并非何鸿燊本意。香港媒体连续几个月追踪，何氏家族的内斗变成一出公开的肥皂剧。何鸿燊本人在病床上被一群子女围着，没人知道他真实的意愿是什么。",
           "related_node_ids": [
-            "company:gucci",
-            "family:gucci-family"
+            "person:stanley-ho"
           ]
         },
         {
-          "id": "five-firewalls-p-032",
+          "id": "founder-exit-signals-p-032",
           "index": 32,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "1980年代，第三代的毛里齐奥·古驰为了和叔叔阿尔多争夺控制权，把自己继承自父亲鲁道夫的股份拿去抵押融资。他的合作对象是一家叫Investcorp的投资集团。1989年，叔叔阿尔多刚出狱不久，被迫以极低的价格把自己剩余的约16%股份也卖给了Investcorp。",
-          "related_node_ids": [
-            "person:maurizio-gucci",
-            "company:gucci"
-          ]
+          "text": "事情最后在律师见证下重新划分产业才勉强收场。何氏家族经此一役元气大伤，第三代之间的裂痕延续到今天。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-033",
+          "id": "founder-exit-signals-p-033",
           "index": 33,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "到1993年，连毛里齐奥自己也撑不住了。他追求奢华、不计成本，公司连年亏损，Investcorp在董事会逼宫。毛里齐奥被迫辞去董事长职务，把剩下的全部股份卖给了Investcorp。",
+          "text": "创始人的健康的突发警铃，从此不再只是他一个人的事。围绕他的所有未完成的安排，从那一刻起进入高速倒计时。债权人、合伙人、子女、董事会，都开始重新计算时间。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-034",
+          "id": "founder-exit-signals-p-034",
           "index": 34,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "72年的家族企业王朝在那一年终结。Gucci这个品牌存活了下来，但古驰家族再也回不去。",
-          "related_node_ids": [
-            "company:gucci",
-            "family:gucci-family"
-          ]
+          "text": "健康警铃一旦响起，原本可以按年规划的事情，必须改用月做单位。股权法定转移的启动，继承人关键岗位的安排，家族议会紧急程序的激活，都从\"未来某天\"变成\"接下来六十天\"。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-035",
+          "id": "founder-exit-signals-p-035",
           "index": 35,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "古驰的章程里如果有一条\"任何成员的股份必须先经家族优先回购\"的规定，毛里齐奥的股份不会在那个低点流到外人手里，整个家族也不会被一个人的赌局拖下水。",
+          "text": "正向案例是丰田佐吉。",
           "related_node_ids": [
-            "company:gucci"
+            "person:sakichi-toyoda"
           ]
         },
         {
-          "id": "five-firewalls-p-036",
+          "id": "founder-exit-signals-p-036",
           "index": 36,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "写到家族宪章里：",
-          "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution"
-          ]
+          "text": "1929 年，62 岁的佐吉身体已经出现衰弱迹象。他做了两件事。第一，把自己最重要的自动织机专利以 10 万英镑卖给英国的普拉特兄弟公司，套现一大笔流动资金。第二，把这笔钱交给儿子喜一郎，让他用这笔钱去做汽车，一个佐吉本人从未涉足的领域。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-037",
+          "id": "founder-exit-signals-p-037",
           "index": 37,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "> 任何家族成员意图出售或转让其家族企业股权时，须先按预设公式定价并通知家族控股实体。控股实体享有30天内的优先回购权。控股实体放弃后，方可向其他家族成员转让。家族整体放弃后，转让外人须经家族议会三分之二多数同意，且受让方须接受不影响家族控制权的限制条款。",
-          "related_node_ids": []
+          "text": "一年之后，佐吉去世。喜一郎用父亲交给他的钱，在 1937 年成立了丰田汽车工业。",
+          "related_node_ids": [
+            "company:toyota"
+          ]
         },
         {
-          "id": "five-firewalls-p-038",
+          "id": "founder-exit-signals-p-038",
           "index": 38,
           "source_index": 1,
-          "kind": "heading",
-          "level": 2,
-          "text": "三、家族纠纷必须先经\"强制仲裁\"",
+          "kind": "paragraph",
+          "level": null,
+          "text": "佐吉没有等到健康完全恶化才安排。身体响起第一声警钟，他就启动了。这给了他自己最后的清醒时间，给了喜一郎一笔能立刻动用的资源，更给了喜一郎一个被父亲祝福过的方向。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-039",
+          "id": "founder-exit-signals-p-039",
           "index": 39,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "2002年7月6日，迪鲁拜·安巴尼因心脏病突发辞世。",
-          "related_node_ids": [
-            "person:dhirubhai-ambani"
-          ]
+          "text": "健康警铃响起的时候，创始人能做的只剩一件事：把还没安排完的事，按\"如果明天不在了\"的标准，重新过一遍。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-040",
+          "id": "founder-exit-signals-p-040",
           "index": 40,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "他没有留下遗嘱。",
+          "text": "三、二代的三个关卡",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-041",
+          "id": "founder-exit-signals-p-041",
           "index": 41,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "两个儿子穆克什和阿尼尔立刻陷入印度商业史上最公开的财产争夺战。他们在董事会上互相指责，在媒体上隔空交火。2004年穆克什第一次在采访里承认集团内部存在\"所有权问题\"，2005年上半年急剧升级。印度股市因为他们的争吵剧烈震荡，外资恐慌出逃。最严重的时候，印度财政部长公开出面，呼吁兄弟二人\"将私人纠纷私下解决，以免损害国家资本市场\"。",
-          "related_node_ids": []
+          "text": "丰田家族的传承里有一段最容易被忽略的二十年。",
+          "related_node_ids": [
+            "family:toyoda-family"
+          ]
         },
         {
-          "id": "five-firewalls-p-042",
+          "id": "founder-exit-signals-p-042",
           "index": 42,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "但谁都说不动他们。律师团说不动，投行家说不动，政府特使说不动。",
-          "related_node_ids": []
+          "text": "1952 年丰田喜一郎引咎辞职后不久去世。他的两个儿子那时都还很小，无法接班。掌管丰田汽车的，是喜一郎的堂弟丰田英二，丰田家族的旁系。",
+          "related_node_ids": [
+            "person:kiichiro-toyoda",
+            "company:toyota",
+            "family:toyoda-family"
+          ]
         },
         {
-          "id": "five-firewalls-p-043",
+          "id": "founder-exit-signals-p-043",
           "index": 43,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "他们身边围着的全是一流的商业精英。但没有一个机制能把他们强行拉回到同一张谈判桌上。",
+          "text": "英二有自己的子女，却从来没有让他们进入丰田高层。他清楚自己的角色：守住喜一郎留下的家业，等喜一郎的儿子们成熟，再把权力交还。这件事他做了整整二十一年。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-044",
+          "id": "founder-exit-signals-p-044",
           "index": 44,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这场争斗持续了将近三年。最后是他们的母亲科姬娜本以家族长老的身份介入，又找来ICICI银行的CEO卡马特做专业支持，2005年6月18日才宣布达成分家协议。穆克什拿走石化、炼油、油气，阿尼尔拿走电信、电力、金融，比例大约七比三。",
-          "related_node_ids": []
+          "text": "1973 年，40 岁的章一郎从英二手里接过丰田汽车的核心管理权。章一郎此前在丰田的不同岗位上轮转了二十年，从基层工程师做到生产管理者，再做到核心高管。英二亲自评估，确认他在每一个岗位上都能独立担当。他不是被\"突然推上去\"的继承人。他在那个位置上的分量，是二十年轮岗一点一点压出来的。",
+          "related_node_ids": [
+            "company:toyota"
+          ]
         },
         {
-          "id": "five-firewalls-p-045",
+          "id": "founder-exit-signals-p-045",
           "index": 45,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "如果当年迪鲁拜·安巴尼的家族章程里有一条\"家族成员之间出现重大分歧时，必须先经XX委员会调解\"的条款，事情就不会拖三年。",
-          "related_node_ids": [
-            "person:dhirubhai-ambani"
-          ]
+          "text": "英二把权力交回那天，喜一郎已经去世二十一年。他用二十一年，替喜一郎完成了一件喜一郎来不及做的事。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-046",
+          "id": "founder-exit-signals-p-046",
           "index": 46,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "龟甲万的章程里就有这样一道关。八家共治的同族会本身就承担着仲裁的功能。任何家族成员之间的分歧，先到同族会，由其他家族的代表共同协商。强制性、私密性、不进入公开对抗状态。",
-          "related_node_ids": [
-            "company:kikkoman"
-          ]
+          "text": "二代是否准备好，要看三件事。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-047",
+          "id": "founder-exit-signals-p-047",
           "index": 47,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这种机制的力量在于\"先\"。必须先经过仲裁，才能进入下一步。如果一上来就允许家族成员请律师、上法庭、找媒体，事情已经无法挽回。但如果先有一道仲裁的关，绝大多数纠纷会在那道关里被消化掉。",
+          "text": "第一关，独立负责过一个单位三年以上，并经历过完整的盈亏周期。 乐高的汤马斯·克里斯蒂安森在 2016 到 2020 年独立执掌乐高基金会的那四年，就是这种独立周期。四年里他做了所有重大决策，承担了全部结果，没有人能替他兜底。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-048",
+          "id": "founder-exit-signals-p-048",
           "index": 48,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "古驰家族的故事是反过来的。第二代阿尔多和鲁道夫私下结怨数十年，从来没有任何机制把他们拉到一张桌子前协商。第三代保罗为了报复父亲不让他独立做品牌，转身向美国国税局举报，把81岁的阿尔多送进了美国监狱，服刑六个月。一个本可以用家族会议解决的私怨，最后用监狱来解决。",
-          "related_node_ids": [
-            "company:gucci",
-            "family:gucci-family"
-          ]
+          "text": "第二关，在一次明确的失败之后真正恢复过来。 履历漂亮但从未失败过的继承人，不算成熟。失败本身不算什么，怎么从失败里站起来才算。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-049",
+          "id": "founder-exit-signals-p-049",
           "index": 49,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "写到家族宪章里：",
-          "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution"
-          ]
+          "text": "第三关，在创始人不在场时做过几次重大决策，而且结果经得起检验。 这一关听上去最简单，很多二代却鲜少真正经历。父亲总在场，意见总会塞进来。直到父亲突然不在了，二代才发现自己从来没有独立决策过。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-050",
+          "id": "founder-exit-signals-p-050",
           "index": 50,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "> 家族成员之间出现涉及股权、控制权、薪酬、管理权或其他重大利益的分歧时，须先在30日内提交家族议会内部仲裁。议会由非利益相关方家族成员加非家族独立人士组成。仲裁结果对各方有约束力。未经此程序，任何家族成员不得对其他家族成员发起法律诉讼或公开声讨。",
+          "text": "三关都过了，可以放手。没过，再大的年龄、再光鲜的履历都不够。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-051",
+          "id": "founder-exit-signals-p-051",
           "index": 51,
           "source_index": 1,
-          "kind": "heading",
-          "level": 2,
-          "text": "四、配偶进入家族企业必须有\"资产隔离\"",
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果创始人发现自己 70 岁了，二代还没过完这三关，那是创始人自己没把准备时间用够。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-052",
+          "id": "founder-exit-signals-p-052",
           "index": 52,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "1989年，香港。",
+          "text": "四、当创始人不再听取意见时",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-053",
+          "id": "founder-exit-signals-p-053",
           "index": 53,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "在汇丰银行总部顶层的会议室里，包玉刚和律师团一起完成了一份信托文件的签署。这份文件后来成了华人家族传承史上最被反复引用的样本。",
-          "related_node_ids": [
-            "person:yue-kong-pao"
-          ]
+          "text": "1990 年代某天，丹麦比隆。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-054",
+          "id": "founder-exit-signals-p-054",
           "index": 54,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "包玉刚没有儿子，只有四个女儿。在中国传统的家族企业逻辑里，没有儿子意味着家族基业要么过继，要么被女婿\"招进来\"接管。包玉刚选了第三条路。",
-          "related_node_ids": [
-            "person:yue-kong-pao"
-          ]
+          "text": "基耶尔德·克里斯蒂安森在主持乐高的战略会议。他宣布了一项新的扩张计划：乐高要进入女装、童装、电子游戏、儿童电视节目、主题公园、出版业，五年内从一家积木公司变成全方位的\"儿童娱乐\"集团。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-055",
+          "id": "founder-exit-signals-p-055",
           "index": 55,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "他在离岸司法管辖区设立了五个家族信托。一个总信托作为家族控股平台，下面四个子信托分别对应四个女儿。每个子信托里，受益人和最终所有权属于女儿和她的子女。女婿在信托里只有一个角色：经营者。",
-          "related_node_ids": [
-            "tool:family-trust",
-            "concept:family-trust"
-          ]
+          "text": "会上有老员工提出异议。他们说乐高的核心竞争力一直在塑料积木上，分散到这么多不相关的业务上风险太大。基耶尔德没有采纳。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-056",
+          "id": "founder-exit-signals-p-056",
           "index": 56,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "苏海文负责环球航运集团，吴光正掌门九龙仓和会德丰，渡边慎一郎管贸易类，郑维健管金融投资。四位女婿都是各自领域的能人，但他们的经营权来源于妻子的信托授权，不是来源于他们自己持有的任何股份。",
-          "related_node_ids": [
-            "person:peter-woo",
-            "person:helmut-sohmen",
-            "person:zheng-weijian",
-            "company:wharf-holdings",
-            "company:wheelock",
-            "company:world-wide-shipping"
-          ]
+          "text": "后来的事写进了商学院教科书。2000 到 2003 年，乐高连续四年亏损，累计接近 30 亿丹麦克朗，一度被分析师预测将在 18 个月内破产。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-057",
+          "id": "founder-exit-signals-p-057",
           "index": 57,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这条设计的有效性在十几年之后被一个真实的事件验证。",
+          "text": "2003 年，基耶尔德请麦肯锡顾问克努德斯托普进公司做诊断。报告里有一句话：",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-058",
+          "id": "founder-exit-signals-p-058",
           "index": 58,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "最小的女婿郑维健和四女儿包陪慧的婚姻出现问题，1998年离婚。如果按照传统的\"招婿入赘\"模式，这等于一块庞大的家族资产要被一个外人带走。但因为信托的结构，郑维健离开后没有带走任何家族财产。包陪慧依然完整地掌控着属于自己的那部分。",
-          "related_node_ids": [
-            "person:zheng-weijian"
-          ]
+          "text": "\"乐高在危机前几乎照搬了所有流行的创新策略：招聘多元化创意人才、开辟蓝海市场、以客户为导向、实践颠覆性创新、推进开放式创新，却差一点因此毁灭了自己。\"",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-059",
+          "id": "founder-exit-signals-p-059",
           "index": 59,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "家族企业的婚姻波动是最容易被忽视的渗漏。一个家族的第二代有四个孩子，每个孩子配一个配偶，等于这个家族从原来的5个核心人扩张到9个。如果这4个配偶都享有同等的股权和经营权，家族的内部决策结构会立刻翻倍复杂。",
+          "text": "那一刻基耶尔德意识到，他做的那些决定，已经不是 1980 年代刚接班时的他会做的决定。1980 年代的他懂积木，懂这家公司的灵魂，懂自己的能力边界。1990 年代某个时刻起，他开始相信一些原本不会相信的话，开始拒绝听老员工那些\"不够时髦\"的提醒，开始把\"创新\"当成万金油。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-060",
+          "id": "founder-exit-signals-p-060",
           "index": 60,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "更危险的是离婚。一旦发生婚姻破裂，没有资产隔离的家族企业要面对的是一场分家诉讼，对方可以主张共同财产分割。许多原本完好的家族企业，最后毁在一场离婚官司上。",
+          "text": "2004 年 9 月他把 CEO 交给克努德斯托普。这个决定真正的起点不在 2004 年，在 1990 年代某天他第一次拒绝听不同意见的那个时刻。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-061",
+          "id": "founder-exit-signals-p-061",
           "index": 61,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "何鸿燊家族走的是另一条路。",
-          "related_node_ids": [
-            "person:stanley-ho",
-            "family:ho-family"
-          ]
+          "text": "判断力下降有几个早期信号。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-062",
+          "id": "founder-exit-signals-p-062",
           "index": 62,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "何鸿燊生前妻妾四房，子女17人。他没有提前设计任何代际隔离机制，一切倚赖他个人的权威调度。2009年他中风之后，权威开始失效。2011年争产风波正式爆发：四房家人抢先发布公告说获得了授权分配遗产，第二天二房又出来反驳说前一个声明并非何鸿燊本意。整个争夺持续了好几年，最后靠律师见证下重新划分产业才勉强收场。",
-          "related_node_ids": [
-            "person:stanley-ho"
-          ]
+          "text": "最近 12 个月里，他的重大决策有三个以上被外部董事或老员工质疑过。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-063",
+          "id": "founder-exit-signals-p-063",
           "index": 63,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "何鸿燊的故事不是个人问题。是结构问题。一个极度依赖创始人个人权威的体系，在创始人失能那一刻就开始崩溃。",
-          "related_node_ids": [
-            "person:stanley-ho"
-          ]
+          "text": "老员工开始私下用\"过去他不会这样\"来形容他。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-064",
+          "id": "founder-exit-signals-p-064",
           "index": 64,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "写到家族宪章里：",
-          "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution"
-          ]
+          "text": "失败之后，他用\"环境变了\"\"市场不一样了\"来解释结果，承认错误的能力在下降。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-065",
+          "id": "founder-exit-signals-p-065",
           "index": 65,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "> 家族成员的配偶不得直接持有家族企业股权或其他控制权工具。家族成员与其配偶进入婚姻前，须签署婚前协议，明确家族企业股权与婚姻共同财产隔离。配偶可以参与家族企业的经营，但其薪酬必须与岗位绑定，与\"配偶身份\"无关。任何形式的股权激励或经营权安排须经家族议会同意。",
+          "text": "能在他面前直话直说的人，一年比一年少。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-066",
+          "id": "founder-exit-signals-p-066",
           "index": 66,
           "source_index": 1,
-          "kind": "heading",
-          "level": 2,
-          "text": "五、留一份\"后人不能改\"的清单",
+          "kind": "paragraph",
+          "level": null,
+          "text": "这四个信号里出现两个，创始人就该认真考虑，退到一个不再做日常决策的位置上。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-067",
+          "id": "founder-exit-signals-p-067",
           "index": 67,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "1964年，斯图加特。",
+          "text": "基耶尔德的可贵不在于没犯错。他犯了。可贵的是他承认了，而且承认得够早。承认自己不行，是创始人一辈子最难做的一件事。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-068",
+          "id": "founder-exit-signals-p-068",
           "index": 68,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "罗伯特·博世先生已经去世二十二年。他生前留下的遗嘱核心精神是\"持久的创业自由，保留与博世家族的联系，把红利用于支持慈善\"。但围绕这份遗嘱具体怎么落地，家族内部、遗嘱执行人、律师团之间整整讨论了二十年。",
-          "related_node_ids": [
-            "person:robert-bosch",
-            "company:bosch",
-            "family:bosch-family"
-          ]
+          "text": "五、当行业进入认知的拐点",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-069",
+          "id": "founder-exit-signals-p-069",
           "index": 69,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这一年，博世家族最终做了一个决定。把博世公司的绝大部分股权永久捐给罗伯特·博世基金会。投票权交给一个独立的工业信托。家族只保留少数席位和象征性的股权。",
-          "related_node_ids": [
-            "person:robert-bosch",
-            "company:bosch",
-            "family:bosch-family"
-          ]
+          "text": "1956 年 5 月，纽约。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-070",
+          "id": "founder-exit-signals-p-070",
           "index": 70,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "主导这个决定的是创始人小儿子小罗伯特·博世。他带着家族其他成员\"忍痛割爱\"，把自己合法继承的财产交了出去。",
-          "related_node_ids": [
-            "person:robert-bosch-jr",
-            "person:robert-bosch",
-            "company:bosch"
-          ]
+          "text": "老托马斯·沃森把 IBM 的 CEO 交给 42 岁的儿子小托马斯·沃森。六个星期后，老沃森去世。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-071",
+          "id": "founder-exit-signals-p-071",
           "index": 71,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这个决定一旦做出，永远不能撤回。",
+          "text": "老沃森做了一辈子打孔卡片机的生意。他从 1914 年接手濒临破产的 C-T-R 公司，把它做成北美打孔卡片机的绝对霸主。他相信打孔卡片机就是数据处理的未来。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-072",
+          "id": "founder-exit-signals-p-072",
           "index": 72,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "无论后世的博世家族成员有多想拿回那笔钱，无论市场环境多么诱惑，无论企业多么成功，那笔股权永远属于公益基金。2020年，博世家族第三代后人又做了一次同样的事，把剩余约7.4%的股权也几乎全部让出，家族最后只保留了0.001%的象征性股份。",
-          "related_node_ids": [
-            "company:bosch",
-            "family:bosch-family"
-          ]
+          "text": "他错了。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-073",
+          "id": "founder-exit-signals-p-073",
           "index": 73,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "这是一道\"代际锁\"。",
+          "text": "电子计算机在 1940 年代后期开始崛起，老沃森本能地排斥这种新技术。他认为那是不实用的玩具，是科学家的实验品。在他主政的最后十年里，IBM 在电子计算机上的投入一直被他压制。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-074",
+          "id": "founder-exit-signals-p-074",
           "index": 74,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "类似的代际锁在玛氏家族那里是另一种形式。从弗雷斯特·玛氏开始的几代人，把\"永远不上市\"作为一条不能讨论的家族原则。第三代的帕梅拉·玛氏在家族商业论坛上明确说过：\"无论时代如何变化，我们永远不会让玛氏公司上市。这不仅是商业考量，更因为我们将公司视作家族的使命和责任。\"这条原则不写在某一份合同里，但它有比合同更强的效力。它是几代人的共识，被反复说，被反复示范。",
-          "related_node_ids": [
-            "person:forrest-mars-sr",
-            "company:mars-incorporated",
-            "family:mars-family"
-          ]
+          "text": "接班之后，小沃森做的最重大的决定，就是把 IBM 全部押在电子计算机上。1964 年他宣布 System/360 计划，预算 50 亿美元，几乎是 IBM 全部的家底。这个决定让 IBM 主导了之后整整一代的计算机工业。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-075",
+          "id": "founder-exit-signals-p-075",
           "index": 75,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "爱马仕的H51联盟也是同样的逻辑。它的形式是法律契约，但它的精神是同一种东西。把某些事情提前锁住，让后人无法在情绪上头的时候做出改变。",
-          "related_node_ids": [
-            "company:hermes"
-          ]
+          "text": "老沃森如果没有在 1956 年交班，IBM 大概率会错过整个电子计算机的崛起。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-076",
+          "id": "founder-exit-signals-p-076",
           "index": 76,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "家族每过一代，记忆就会衰减。第一代的痛苦，第二代是听说的，第三代是从书里看到的，第四代可能已经完全不记得。一个深刻的教训如果不被写进\"不能改\"的清单，第四代会在不经意间犯第一代犯过的同样错误。",
+          "text": "老沃森个人的能力没有衰退。变的是时代。新时代需要的核心能力，已经不再是老沃森擅长的那一种。一个创始人即便健康、清醒、依然能做好原本那块业务，当行业拐进需要全新认知的弯道时，他也该让位。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-077",
+          "id": "founder-exit-signals-p-077",
           "index": 77,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "代际锁的功能，是用第一代的经验和痛苦，给后人画一道他们自己看不到的边界。",
-          "related_node_ids": []
+          "text": "这件事在丰田家族体现得格外清楚。1995 年之后，丰田家族集体退到幕后，连续 14 年三任社长都由职业经理人担任。家族在这 14 年里做的事，是放手让丰田从一家\"日本汽车厂\"长成\"全球第一大汽车厂\"。这种转型需要的全球化运营经验，是家族里没有的。",
+          "related_node_ids": [
+            "family:toyoda-family"
+          ]
         },
         {
-          "id": "five-firewalls-p-078",
+          "id": "founder-exit-signals-p-078",
           "index": 78,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "美第奇家族正是因为没有这道边界而消失的。这个家族存续了三百年，五代主线之后断绝男嗣，旁支接手又延续了两百年。但他们没有任何机制把\"治理原则\"代际锁定。1737年最后一位男性血脉去世，最后一位家族成员安娜·玛丽亚·路易萨临终前签了一份《家族协议》，把全部财产捐给佛罗伦萨。条款只有一句话：\"任何一样东西都不能离开佛罗伦萨。\"那是一个家族在最后一刻完成的、本应该在三百年前就完成的代际锁。",
-          "related_node_ids": [
-            "family:medici-family"
-          ]
+          "text": "直到 2009 年，丰田因\"刹车门\"召回危机面临根本性的品牌信任问题，章一郎的儿子章男才作为家族代表回归。回归的理由很明确：这家公司现在需要家族的声誉来做担保。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-079",
+          "id": "founder-exit-signals-p-079",
           "index": 79,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "写到家族宪章里：",
+          "text": "丰田家族的智慧，在于他们清楚一件事：家族该在自己独有的资源最有用的时候出场，其他时候让位给更合适的人。",
           "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution"
+            "family:toyoda-family"
           ]
         },
         {
-          "id": "five-firewalls-p-080",
+          "id": "founder-exit-signals-p-080",
           "index": 80,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "> 家族应明确列出一份\"不可逆决定\"清单（包括但不限于：核心业务的处置、品牌的转让、家族控股比例的下限、不上市的承诺、对慈善基金会的永久承诺等）。清单上的每一项决定，须经全体家族成员一致同意方可启动修改。任何修改提案的审议须延期至少12个月，期间不得做出任何不可逆操作。",
+          "text": "这一条信号比前四条更难判断。前四条关乎创始人本人，这一条关乎时代。一个创始人能不能看见自己已经不再是\"时代需要的那种人\"，是对他洞察力和谦逊的最高考验。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-081",
+          "id": "founder-exit-signals-p-081",
           "index": 81,
           "source_index": 1,
-          "kind": "heading",
-          "level": 2,
+          "kind": "paragraph",
+          "level": null,
           "text": "写在最后",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-082",
+          "id": "founder-exit-signals-p-082",
           "index": 82,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "回到2010年那间巴黎的家族办公室。",
-          "related_node_ids": [
-            "tool:family-office"
-          ]
+          "text": "回到 1943 年。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-083",
+          "id": "founder-exit-signals-p-083",
           "index": 83,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "50多位爱马仕家族成员坐在一起。他们里面很多是第六代，已经完全没有亲历过爱马仕家族早期的任何困难。他们大部分有自己的事业，有自己的生活，对爱马仕公司的日常经营毫不参与。",
+          "text": "爱德塞尔下葬那天，亨利·福特没有出席葬礼。据说他承受不了那个场面。",
           "related_node_ids": [
-            "company:hermes",
-            "family:hermes-family"
+            "person:henry-ford"
           ]
         },
         {
-          "id": "five-firewalls-p-084",
+          "id": "founder-exit-signals-p-084",
           "index": 84,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "但当家族办公室告诉他们LVMH已经买进17%股份的时候，他们做的事情是放弃自己未来二十年的变现自由，把股份打包锁定。",
-          "related_node_ids": [
-            "tool:family-office"
-          ]
+          "text": "但他也没有立刻醒悟。又过了两年，他才被妻子和媳妇用股份做威胁逼出公司。再过两年，他死了。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-085",
+          "id": "founder-exit-signals-p-085",
           "index": 85,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "他们这么快能做到，不是因为他们多伟大。是因为家族早在他们出生之前就反复教过他们一些事情。这家公司的股份不是用来卖的。我们只是这个名字的看护者。姓氏比钱重要。这些信念被反复说，被写入家族文件，被几代人示范。等到危机真的来的时候，决定本身已经不需要再做了，做的只是把一个早就内化的原则付诸行动。",
+          "text": "家族企业里最深的悲剧，藏在一代知道自己该放权却没有放权的那几年里。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-086",
+          "id": "founder-exit-signals-p-086",
           "index": 86,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "家族宪章里的每一道防火墙，并不是法律意义上的约束。它真正的作用，是让家族成员在没有压力的时候，把那些将来会救命的判断提前做完。",
-          "related_node_ids": [
-            "tool:family-constitution",
-            "concept:family-constitution"
-          ]
+          "text": "不肯退场的创始人心里，往往有一种相似的状态：他们把自己等同于企业。在他们的意识里，离开企业等于死亡。继续坐在那个位置上，不再是为了企业，是为了证明自己还在。",
+          "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-087",
+          "id": "founder-exit-signals-p-087",
           "index": 87,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "到危机真正到来的那一天，家族成员能做的事，恰恰是他们的祖辈早就替他们想过的事。",
+          "text": "这种心理看不见摸不着，但它每一年都在从二代身上拿走时间。爱德塞尔的那 49 年，就是这样一寸一寸被耗掉的。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-088",
+          "id": "founder-exit-signals-p-088",
           "index": 88,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "---",
+          "text": "所有创始人最后都会退场。主动退场的人能决定自己留下什么，被动退场的人不能。",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-089",
+          "id": "founder-exit-signals-p-089",
           "index": 89,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
-          "text": "案例来源： 爱马仕家族故事：一门手艺的六代传承、八个家族，一碗酱油：龟甲万的360年共治奇迹、福特家族：一只怀表、一个姓氏与五代传承的故事、周大福的金，新世界的债、乐高家族：从一场大火到积木帝国的四代传奇、金色双 G 的阴影：古驰家族百年兴衰、印度第一家族：安巴尼王朝的权利游戏与传承密码、无子江山：世界船王包玉刚留给女儿们的爱与传承、十元起步到赌王加冕：何鸿燊的世纪豪赌、博世家族故事：当家族选择不占有，却能永远拥有、不上市的\"甜蜜\"帝国：揭秘玛氏家族掌控百年的隐秘之道、美第奇家族：金钱、权力与不朽的三百年",
+          "text": "丰田佐吉把 10 万英镑交给喜一郎的时候，等于交出了自己一生最重要的发明。他用这个动作告诉儿子：去做我没做过的事。四十年后，他的曾孙章男在美国国会作证，临危受命的那一刻引用的还是佐吉留下的那句\"减轻他人的负担\"。",
           "related_node_ids": [
-            "story:pao-family",
-            "story:kikkoman",
-            "story:ambani",
-            "story:gucci",
+            "person:sakichi-toyoda"
+          ]
+        },
+        {
+          "id": "founder-exit-signals-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基耶尔德 64 岁把乐高交给职业经理人那天，公司亏得几乎要关门。十九年后他的儿子接手 KIRKBI，公司已是全球玩具业利润最高的企业。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-exit-signals-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "退场不是退出生命。是退出一个位置，让那个位置上的人能长成他自己。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-exit-signals-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 福特家族：一只怀表、一个姓氏与五代传承的故事；乐高家族：从一场大火到积木帝国的四代传奇；周大福的金，新世界的债；思考者（THINK）：沃森家族与 IBM 的百年基业；十元起步到赌王加冕：何鸿燊的世纪豪赌；丰田家族：从一台织机到车坛巨擘的百年传奇",
+          "related_node_ids": [
             "story:stanley-ho",
             "story:lego",
-            "story:bosch",
-            "story:hermes",
+            "story:toyoda",
             "story:zhou-dafu",
-            "story:medici",
             "story:ford-family",
             "person:stanley-ho",
-            "person:yue-kong-pao",
-            "company:kikkoman",
-            "company:gucci",
-            "company:bosch",
-            "company:hermes",
             "company:chow-tai-fook",
-            "family:hermes-family",
-            "family:medici-family",
-            "family:gucci-family",
-            "family:bosch-family",
-            "family:mars-family",
+            "family:toyoda-family",
+            "family:watson-family",
             "family:ford-family"
           ]
         },
         {
-          "id": "five-firewalls-p-090",
-          "index": 90,
+          "id": "founder-exit-signals-p-093",
+          "index": 93,
           "source_index": 1,
           "kind": "paragraph",
           "level": null,
@@ -115459,21 +115354,1994 @@ window.ARTICLE_DATA = {
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-091",
-          "index": 91,
+          "id": "founder-exit-signals-p-094",
+          "index": 94,
           "source_index": 1,
-          "kind": "list",
+          "kind": "paragraph",
           "level": null,
-          "text": "- Ward, John L. (2004) Perpetuating the Family Business: 50 Lessons Learned from Long-Lasting, Successful Families in Business",
+          "text": "Aronoff, Craig E. & McClure, Stephen L. (2003) Family Business Succession: The Final Test of Greatness",
           "related_node_ids": []
         },
         {
-          "id": "five-firewalls-p-092",
-          "index": 92,
+          "id": "founder-exit-signals-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Lansberg, Ivan (1999) Succeeding Generations: Realizing the Dream of Families in Business",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-exit-signals-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Sonnenfeld, Jeffrey (1988) The Hero's Farewell: What Happens When CEOs Retire",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:two-pockets",
+      "title": "企业的钱和家族的钱，不能放在一个口袋",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 9,
+      "topic": "credit-risk",
+      "source_files": [
+        "洞察/家族洞察 09：企业的钱和家族的钱，不能放在一个口袋.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "two-pockets-p-001",
+          "level": 1,
+          "title": "家族洞察 09：企业的钱和家族的钱，不能放在一个口袋"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "two-pockets-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 09：企业的钱和家族的钱，不能放在一个口袋",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "企业最赚钱的时候，创始人最容易误以为家族已经安全。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1883年初冬，杭州城里起了风声。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阜康钱庄门口的长队天不亮就排起，传闻越传越凶，人越聚越多，挤不进去的开始往里推搡，到后来酿成踩踏。钱庄挂出停兑的告示，胡家的罗四太太亲自跑去藩台衙门求援，求来的那点银子撒进窟窿里，连个响都听不见。12月3日北京分号关门，紧接着镇江、宁波、福州、南京、汉口、长沙，一家连着一家垮下去，不到两个月，阜康开在十几座城市的招牌就全摘了。杭州人后来提起这一年，只摇头说一句：阜康一倒，半城皆哭。",
+          "related_node_ids": [
+            "person:luo-si-taitai",
+            "company:fukang-bank"
+          ]
+        },
+        {
+          "id": "two-pockets-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "钱庄的主人胡雪岩，是那时候的中国首富，鼎盛时家底近三千万两白银。垮台的前一年，他动用钱庄的存款，又向外国银行借了一大笔，囤下上万包生丝，存心要和洋行掰一掰手腕。谁知丝价不涨反跌，上万包生丝烂在手里，亏掉约一千万两。风声一走漏，存户就潮水似的涌到了阜康门口。",
+          "related_node_ids": [
+            "person:hu-xueyan"
+          ]
+        },
+        {
+          "id": "two-pockets-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年后胡雪岩病故，奉命查抄的官员打开元宝街宅子的库房，里头几乎是空的，值钱的物件早在前几个月就一件件变卖抵债去了。卷宗上最后留下八个字：家产抵债，散尽无余。曾经热闹到极处的胡家，最后只剩一地清冷。",
+          "related_node_ids": [
+            "person:hu-xueyan"
+          ]
+        },
+        {
+          "id": "two-pockets-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如今回头看这场崩塌，病根其实只有一句话：胡雪岩的钱庄、生丝、当铺、药局、宅院开销，几乎全被放进同一本账里。家就是公司，公司就是家。钱庄的存款拿去囤了丝，丝砸了手，亏空吞掉存户的本金，存户一挤兑，名下每一桩产业跟着翻船，三十年挣下的家财，两个月里就荡空了。一份天大的家业，胡雪岩却始终只用一个口袋装着。",
+          "related_node_ids": [
+            "person:hu-xueyan"
+          ]
+        },
+        {
+          "id": "two-pockets-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "真正的风险，常常藏在同一张资产负债表里：股权、存货、担保、私人资产、继承安排全被捆在一起。主业一旦反转，家族连喘息的时间也会被抽走。家族财富要穿越周期，第一件事就是把企业的钱和家族的钱，分进两个口袋。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "时间往后推一百二十年，丹麦的比隆小镇，又是另一番光景。乐高集团那时正一天烧掉100万美元，分析师断言它撑不过十八个月。可克里斯蒂安森家族在公司之外，还攥着另一笔和玩具毫不相干的钱，于是既没有贱卖公司，也没有四处举债，反倒从容请来一位新的职业经理人，又用整整十年，把这家濒死的企业带回了玩具业的顶峰。同样是大厦将倾，胡雪岩输光了手里唯一的口袋，乐高家族却还留着另一个。",
+          "related_node_ids": [
+            "person:hu-xueyan",
+            "company:lego-group"
+          ]
+        },
+        {
+          "id": "two-pockets-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一、第一道防火墙：另设家族资产池",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乐高家族的第二个口袋有个名字，叫KIRKBI。它成立于1995年，章程上写明三桩使命：守护并经营乐高这块招牌，做长期而审慎的投资，扶持家族成员尽到所有者的本分。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到2024年，KIRKBI手里的金融投资组合已值约810亿丹麦克朗。翻开它的持仓，Epic Games的股权赫然在列，此外从海上风电到商业地产，散布在哥本哈根、伦敦、慕尼黑、汉堡四座城市、加起来三十多万平方米的楼宇，几乎没有一样和玩具沾边。这正是当初设立它的本意。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2003年乐高亏损11亿丹麦克朗，销售额一下子跌去三成；到2004年，亏损扩大到19亿克朗，总负债逼近8亿美元。倘若克里斯蒂安森家族的身家性命全押在乐高这一处，那个冬天他们便只剩一条路：坐到谈判桌前，听私募基金开价。是KIRKBI那些与玩具无关的资产，替他们换来了另一种结局。不必贱卖，可以按自己的节奏，把公司慢慢救回来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二个口袋平日里看似低效，它全部的价值，往往压在主业崩塌的那一天兑现。胡雪岩当年挤兑临头，把家底翻了个底朝天，才发现银子全锁死在丝库与各样长线投资里，能立时变现的现银所剩无几。同样是大难临头，乐高还能按自己的节奏慢慢救公司，胡雪岩却连一口喘息都换不来。",
+          "related_node_ids": [
+            "person:hu-xueyan"
+          ]
+        },
+        {
+          "id": "two-pockets-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乐高靠KIRKBI活过了最冷的冬天，这个经验写成治理规则就是：",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族应在经营企业之外，设立独立资产池。这个资产池可以放在家族控股公司、投资公司或信托结构之下，配置方向应与主业保持低相关。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "它的最低目标很简单：即便主业三年没有利润，家族仍能保住控制权、基本生活和关键决策能力。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "二、第二道防火墙：把企业价值沉淀下来",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1978年，包玉刚坐拥两百余艘巨轮，被尊为世界七大船王之首。可同行私下里并不那么服气，背后议论他算不得正经船家，不过是\"一位做船运生意的银行家\"。这话里带着几分轻慢。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "two-pockets-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "几年之后，这句轻慢竟成了远见。航运业的寒冬一步步逼近，包玉刚却早已掉头登岸：1980年他入主九龙仓，1985年为拿下会德丰，这位六十七岁的老人一举卖掉环球航运大半船队，套现约25亿港元，把漂在海上的船悉数换成了立在岸上的码头与楼宇。那一年他身家逾400亿港元，而同时期的李嘉诚，不过40亿上下。",
+          "related_node_ids": [
+            "person:yue-kong-pao",
+            "company:wharf-holdings",
+            "company:wheelock",
+            "company:world-wide-shipping"
+          ]
+        },
+        {
+          "id": "two-pockets-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "反观他那些同行。董浩云1982年溘然长逝，留下的东方海外1985年陷进26.8亿美元的债务泥潭，靠着外部注资才勉强缓过气来。那些把船队当祖业、舍不得在高位脱手的船王，到头来都被债主替他们脱了手，价钱一折再折。包玉刚那句话说得平淡：走得早，总比走得晚好。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "two-pockets-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "劝一个白手起家的创始人卖掉一部分股权，从来不是易事。舍不得卖，不是因为看不见风险，而是看见风险之后仍然相信自己能扛过去。这份信心，正是高位变现最大的阻力，也是每个创始人心里最难翻过的坎。他张口就是一套道理：股份是命根子，钱留在公司里才能钱生钱。这些还都说得出口，真正难言的是心底那一层：一手把企业拉扯大，要他半道套现离场，在他听来无异于背叛。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "唐万新的德隆，号称掌控着1200亿元的资产。2004年4月3日，正是他四十岁生日那天，桌上摊着一份资产负债表：总资产284亿，总负债281亿，偌大一个帝国，净值不过3亿。账面上的万贯家财，和真正能动用的现钱，从来是两回事，中间隔着变现这一道坎。这道坎，德隆没能跨过去。唐万新本人，也在多年之后仍被债务追索。",
+          "related_node_ids": [
+            "person:tang-wanxin"
+          ]
+        },
+        {
+          "id": "two-pockets-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚却跨得从容。1991年他辞世时，名下已不再持有任何一家家族企业的股权，万贯家业尽数安放在一个总信托和四个子信托里，各房各管各的，身后没有起过一丝争产的风波。他晚年那几年，翻来覆去只做一件事：趁着浪头还高，把企业一寸一寸变成实实在在落进口袋的家业。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "two-pockets-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚趁着浪头还高把企业一寸一寸变成家业，这个经验写成治理规则就是：",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "two-pockets-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族每年应将企业分红或减持所得的固定比例转入家族资产池，建议底线不低于两成。当主业处于行业景气高点，或单一企业占家族总财富超过七成时，家族议会应正式审议减持方案。变现议案与投资议案同等对待，不能只因情感因素长期搁置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三、第三道防火墙：债务到企业为止",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "德隆旗下握着27家金融机构，台柱是金新信托、德恒证券、恒信证券，说穿了就是替客户理财。别家给8%到10%的年息，它敢开到12%到22%，高出这一大截，资金便哗哗地往里灌，前后吸进437亿元，背后站着2500家机构、3.2万名散户。",
+          "related_node_ids": [
+            "company:jinxin-trust"
+          ]
+        },
+        {
+          "id": "two-pockets-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这笔钱有两个去处。一头死撑\"老三股\"的股价，从2000年起，每月护盘就要烧掉上亿；另一头砸进产业收购，光买下美国穆勒和德国费尔柴尔德道尼尔两家，就花去8000万美元。拿短期借来的钱去做长线的投资，前头的窟窿，永远要靠后头新进的钱来填。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2004年3月2日，《商务周刊》刊出一篇《德隆资金链紧绷》，像往火药桶里扔了根火柴。4月14日起，三只股票连日跌停，短短一个月，市值便从206.8亿元跌到只剩50.06亿元。从一篇报道到大厦倾覆，前后不过两个多月。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "唐家五个兄妹，四个扎在德隆里头，你的钱就是我的钱，从没在彼此之间砌过一道墙。等到帝国崩塌，唐万新获刑八年，德隆系企业被罚去103亿元。直到2022年11月，山东高院还在为他个人发布悬赏执行公告，标的2亿元。德隆已经倒了十八年，他这个人，还被债务在身后追着跑。",
+          "related_node_ids": [
+            "person:tang-wanxin"
+          ]
+        },
+        {
+          "id": "two-pockets-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同样敢下重注，香港却有一个人守着一条相反的规矩。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "郑裕彤外号\"鲨胆彤\"。1967年香港暴动，人心惶惶，地价大跌，人人都在抛售，他偏偏逆流而上，1968年一口气吃进二十多个地盘；1972年又掏出1.31亿港元买下蓝烟囱旧址，那时候一家像样的华资地产公司，全部家当也不过两三亿。论胆子，他不输给任何一个赌徒。可他心里有一条底线，说得朴素：欠债就不是家财，我这人保守，不爱背太重的债。",
+          "related_node_ids": [
+            "person:cheng-yu-tung"
+          ]
+        },
+        {
+          "id": "two-pockets-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的冒险，全押在地产这条腿上，另一条腿是周大福的珠宝，稳稳踩在金子上。1978年他和何鸿燊跑去伊朗开跑马场，5000万美元有去无回，他事后只淡淡一句：月有圆缺，人有盛衰。输得起。伤的不过是一条腿上的肉，金铺那条腿纹丝未动。",
+          "related_node_ids": [
+            "person:stanley-ho",
+            "company:chow-tai-fook"
+          ]
+        },
+        {
+          "id": "two-pockets-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这副两条腿走路的架子，2024年被推到悬崖边上狠狠试了一回。上市的新世界发展那一年亏掉196.83亿港元，是1970年开张以来最惨的一次，净债务高达1236.57亿港元，和股东权益一比，逼近96%的红线。可就在同一年，福布斯给郑家估出的身家是224亿美元，稳居香港第三。亏损与重债都圈在上市公司的报表里，家族信托与周大福珠宝那七成多的股权，安然立在报表之外。2025年6月，银行团为新世界办妥约882亿港元的再融资，惊险渡过难关。周大福的金子，到底没有被新世界的债拖下水。",
+          "related_node_ids": [
+            "tool:family-trust",
+            "concept:family-trust",
+            "company:new-world-development",
+            "company:chow-tai-fook"
+          ]
+        },
+        {
+          "id": "two-pockets-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "法律本来早替家族砌好了一道墙，就是有限责任。这道墙立在企业和家族之间，为的是护住家里那个口袋。可拆墙的往往正是创始人自己：拿家族的资产去给企业的借款担保，把家里的钱填进企业的窟窿，一来二去，企业的债就顺着这些缺口，摸进了家门。胡雪岩走过这条路，唐万新也走过。",
+          "related_node_ids": [
+            "person:hu-xueyan",
+            "person:tang-wanxin"
+          ]
+        },
+        {
+          "id": "two-pockets-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "周大福的金子没有被新世界的债拖下水，这个经验写成治理规则就是：",
+          "related_node_ids": [
+            "company:chow-tai-fook"
+          ]
+        },
+        {
+          "id": "two-pockets-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族资产池及家族成员个人资产，原则上不得为企业债务提供担保、抵押或任何形式的连带责任安排。企业融资文件中如需出现家族成员个人担保，须经家族议会全体一致同意，并设定担保金额上限、期限、反担保与退出机制。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四、第四道防火墙：家族资产由独立团队看守",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "标准石油如日中天的那一年，老洛克菲勒做了一件不起眼的小事：他设了一个专替家族打理钱财的办公室。那是1882年，离最高法院一纸令下把标准石油拆成34家公司，还有整整29年。这个办公室，后来演变为Rockefeller & Co.，是世上最早的家族办公室之一。",
+          "related_node_ids": [
+            "tool:family-office",
+            "company:standard-oil"
+          ]
+        },
+        {
+          "id": "two-pockets-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个机构，比标准石油本身还要长命。1911年公司被拆得七零八落，洛克菲勒家族从一家巨无霸的主人，摇身变成一个证券组合的持有者；到二十世纪末，他们手里已不再攥着任何一家石油公司，可那份家业仍在。六七代人传下来，子孙超过250位，合起来的净资产依旧有80亿到110亿美元。2018年，这家老机构脱胎换骨，成了洛克菲勒资本管理公司，开始替别的富贵人家看管钱袋。",
+          "related_node_ids": [
+            "company:standard-oil",
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "two-pockets-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚当年分拆家业，也设了这样一个机构：四个女婿合力组建一间家族办公室，推学医出身的郑维健牵头，企业交各房各自经营，家族的钱另有一班人马照看。",
+          "related_node_ids": [
+            "tool:family-office",
+            "person:yue-kong-pao",
+            "person:zheng-weijian"
+          ]
+        },
+        {
+          "id": "two-pockets-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "独立团队不只是换一班人马，更是换一套规矩。把这门手艺做到极致的，是日内瓦的百达家族，他们替别人守了220年的钱。1931年大萧条的浪头打到日内瓦，7月11日那天，日内瓦银行轰然倒闭，城里一批私人银行也跟着栽在商业信贷和股票投机上；同一座城，百达却把客户的存款稳稳放在政府债券和现钱里，安然无恙地挺了过去。2008年雷曼倒下的那一周，时任合伙人雅克·德·索绪尔坦言：\"我们一点也不轻松。\"但百达从不沾投行那摊生意，账上根本没有可以引爆的自营仓位。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "百达对自己人的狠，更甚于对客户。从1805到2014年，整整209年间，合伙人对银行的全部债务负无限责任，私宅、个人投资、养老的积蓄，统统在债主的追索之内，还不清的窟窿要由子女接着填。合伙人到65岁退休，手里的股份按账面价值卖回给其他合伙人，一分钱溢价也没有。220年下来，这家银行总共只有过47位合伙人。弗朗索瓦·百达把这门家风浓缩成一句话：如果你想走得快，就走得慢。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "企业缺钱的那个夜里，财务总监脑子里头一个浮起的，往往就是家族账上那笔闲钱，毕竟他的考核、他的饭碗、他的立场，都系在企业这一边。所以看着第二个口袋的，非得是一班只对家族负责的人不可，哪怕只有两三个人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "百达220年只换过47位合伙人，靠的不是人，是规矩，这个经验写成治理规则就是：",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族资产池须由独立于企业财务部门的专职团队管理，向家族议会汇报，不向企业管理层汇报。企业不得向家族资产池随意拆借资金；确有必要时，应按独立第三方条件定价，明确期限和担保，并经家族议会批准。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "五、第五道防火墙：本金锁住，收益分配，责任随行",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "上海的一张牌桌边，卢永祥的公子卢小嘉，正当面奚落对座的人徒有家财、不学无术，临了还撂下一句激将：有种就赌把大的，谁不敢谁就是熊包。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "对座坐着的，是盛宣怀的四子盛恩颐。他眼皮也不抬，应道：奉陪到底。卢小嘉押上江浙一带的良田房产，盛恩颐押上上海北京路黄河路一带的一百多套房子。那是1924年的一个夜晚，等天亮的时候，一百多套房子已经换了主人。第二天酒一醒，盛恩颐二话没说，照约把房契过了户。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "two-pockets-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他输得起，至少账面上输得起。1917年盛家议定折中分产，一半家业按市价分作五股，由五房各自领走，盛恩颐分到手的，是一笔可以随心花用的现成财产。这笔钱，供他买下上海第一辆奔驰、置办洋楼排场；最终也供他在某个夜晚，把一百多套房子轻飘飘推上赌桌。1958年，他在贫病交加中死去，据说咽气的地方是苏州留园的门房，那座园子从前整个都是他盛家的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的父亲盛宣怀，其实早料到了这一层。老人临终留下\"动利不动本\"的遗命：本金归全族共有，不许拆散，子孙每年只能分取利息。可惜这套用心良苦的设计，落地不过一年多，就被子孙合力拆了个稀烂。规矩一散，落进盛恩颐手里的，就成了一笔随时可以推上赌桌的现钱。他能一夜输掉一百多套房子，不是因为他赌技差，而是因为盛家的分产方式，把本金变成了可以随意处置的现钱。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "two-pockets-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "差不多同一个年月，大洋彼岸的小洛克菲勒，做的是另一种安排。1934年，他设下家族第一批不可撤销信托，交由大通银行托管；1952年又为孙辈添了第二代信托。本金被牢牢锁死，后代只能动用孳生的利息，\"只花收益、不碰本金\"自此成了铁打的家规。不止如此，每一位受益人还得定期给信托董事会写一封信，老老实实交代这笔钱花在了何处，信里要让人看得见投资、储蓄、消费、慈善这四样的分寸。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "九十年过去，这套结构至今运转如常。基辛格说过一句话：他从没在洛克菲勒家族里见过一个花花公子。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "two-pockets-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同样是万贯家财传给下一代，盛家交出去的是一笔现钱，从此再难过问；洛克菲勒家锁进去的是一套结构，后人能拿到的，只有利息、责任，和一封不得不写的信。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛家与洛克菲勒家的这一课，写成治理规则就是：",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族财富向下一代转移，应以信托、家族基金会、家族控股平台或同等结构完成：本金保全，收益分配，受益人定期报告资金用途。对未经财务训练的继承人，不宜一次性交付大额可自由处置资产；对已承担家族责任的成员，则应在结构内逐步增加授权。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "杭州大井巷，胡庆余堂的匾还挂在那里。",
+          "related_node_ids": [
+            "company:huqingyutang"
+          ]
+        },
+        {
+          "id": "two-pockets-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "胡雪岩名下偌大的家业，最后只剩这一处活到了今天。1878年开张那天，他亲笔写下\"戒欺\"二字制成匾额，挂进店堂。奇的是，这块匾不冲着门外的顾客，偏偏冲着柜台里的伙计。配方与工序一笔一笔记录在册，新制的成药出柜之前，先得有人亲口尝过。他留给伙计的话明明白白：采办务真，修制务精，不至欺予以欺世人。",
+          "related_node_ids": [
+            "tool:anti-fraud-motto",
+            "person:hu-xueyan"
+          ]
+        },
+        {
+          "id": "two-pockets-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来阜康倒了，胡家散了，胡庆余堂被债主接手，几十年间几度易主，那块招牌却一直没换。1988年，它成了全国重点文物保护单位。",
+          "related_node_ids": [
+            "company:huqingyutang"
+          ]
+        },
+        {
+          "id": "two-pockets-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "胡庆余堂能活到今天，靠的是\"戒欺\"，也靠配方、工序、品控这些可以传下去的规矩。胡雪岩的家业没有活下来，问题同样清楚：钱没有分账，债没有隔开，本金没有锁住，传承没有结构。",
+          "related_node_ids": [
+            "tool:anti-fraud-motto",
+            "person:hu-xueyan",
+            "company:huqingyutang"
+          ]
+        },
+        {
+          "id": "two-pockets-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "胡雪岩临终前给子孙留下三句话：不要经商，不要亲近官宦，不要与李家结亲。他把银子唤作白老虎，说它会吃人。银子之所以吃人，不是因为银子本身凶险，而是因为没有结构来管住它。",
+          "related_node_ids": [
+            "person:hu-xueyan"
+          ]
+        },
+        {
+          "id": "two-pockets-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他一生攒过近三千万两白银，到头来一两也没能传下去。那个唯一的口袋空了之后，胡家真正传到今天的，竟是大井巷这一块、偏偏冲着自家伙计的匾。",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "戒欺能保住字号，结构才能保住家业。判断一个家族的财富能不能穿越周期，只看一件事：如果主业明天出事，家族还有没有第二个口袋、还有没有不受牵连的钱、还有没有不用变卖就能维持的决策权。对今天的家族而言，第二个口袋的意义，在于给家族留出退路、时间和选择权。企业可以穿越周期，家族也要有能力穿越企业本身。",
+          "related_node_ids": [
+            "tool:anti-fraud-motto"
+          ]
+        },
+        {
+          "id": "two-pockets-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "资料说明",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源：沉梦元宝街：胡雪岩家族的繁华崩塌与百年余音、乐高家族：从一场大火到积木帝国的四代传奇、无子江山：世界船王包玉刚留给女儿们的爱与传承、大梦谁先觉：唐万新与德隆的往事、周大福的金，新世界的债、百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路、守夜人的誓约：百达家族220年的财富守望、晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录",
+          "related_node_ids": [
+            "story:hu-xueyan",
+            "story:pao-family",
+            "story:sheng-xuanhuai",
+            "story:lego",
+            "story:delong",
+            "story:rockefeller",
+            "story:zhou-dafu",
+            "story:patek-philippe",
+            "person:hu-xueyan",
+            "person:sheng-xuanhuai",
+            "person:yue-kong-pao",
+            "person:tang-wanxin",
+            "company:chow-tai-fook",
+            "family:hu-xueyan-family"
+          ]
+        },
+        {
+          "id": "two-pockets-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：James E. Hughes Jr.， Susan E. Massenzio & Keith Whitaker (2022) Complete Family Wealth： Wealth as Well-Being",
+          "related_node_ids": []
+        },
+        {
+          "id": "two-pockets-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：Kirby Rosplock (2020) The Complete Family Office Handbook： A Guide for Affluent Families and the Advisors Who Serve Them",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:indivisible-wealth",
+      "title": "分不走的财富，才传得过三代",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 10,
+      "topic": "ownership",
+      "source_files": [
+        "洞察/家族洞察 10：分不走的财富，才传得过三代.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "indivisible-wealth-p-001",
+          "level": 1,
+          "title": "家族洞察 10：分不走的财富，才传得过三代"
+        },
+        {
+          "id": "indivisible-wealth-p-011",
+          "level": 2,
+          "title": "一块分不掉的田"
+        },
+        {
+          "id": "indivisible-wealth-p-018",
+          "level": 2,
+          "title": "乱世里的中立国"
+        },
+        {
+          "id": "indivisible-wealth-p-023",
+          "level": 2,
+          "title": "另一种义田"
+        },
+        {
+          "id": "indivisible-wealth-p-029",
+          "level": 2,
+          "title": "钱买不到的信用"
+        },
+        {
+          "id": "indivisible-wealth-p-034",
+          "level": 2,
+          "title": "美第奇的两份遗产"
+        },
+        {
+          "id": "indivisible-wealth-p-043",
+          "level": 2,
+          "title": "一块石头"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "indivisible-wealth-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 10：分不走的财富，才传得过三代",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公元1050年，苏州城外。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "六十二岁的范仲淹，把半生陆续置下的一千亩良田凑到一处，立了一座\"义庄\"。田从此不归他，也不归他的儿子，归整个范氏家族。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "family:fan-family"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "规矩是他亲手定的，十三条。田，永不许卖，永不许分。每年的收成按人头发下去，一人一月一升米。管田的由各房公推，谁敢伸手挪用，\"许诸房觉察，勒赔填\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这十三条里有一件怪事。通篇找不到一个\"我\"字。没有\"吾\"，没有\"范仲淹\"，从头到尾只有\"诸房\"\"掌管人\"\"族人\"。一个人安排自己半生的家产，落笔十三条，竟没给自己留下一个字。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年后，范仲淹病逝。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他做过参知政事，副宰相，谥\"文正\"，文臣里最高的一档。可他的朋友钱公辅在《义田记》里记了一笔：范公\"殁之日，身无以为敛，子无以为丧\"。一个副宰相，咽气那天，家里连买棺材的钱都凑不齐，儿子办不起一场像样的丧事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他把钱散了。散给一个看不见的\"家族\"，散进一块永不能分的田。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然后，这块义田活了九百年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从1050年到1949年，范氏义庄存续了整整八百九十九年。这中间，宋亡于元，元亡于明，明亡于清，清亡于民国，每一个向这块田征过税、盖过印的王朝都垮了。义庄还在。能活过一百年的企业本就没几家，范仲淹却让自己的家业，走完了九个世纪。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一块分不掉的田",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "大多数家产，是死在\"分\"字上的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰的创始人把股权平均分给三个儿子。三房从此明争暗斗，斗到第三代，家族成员陆续卖掉股份，整个品牌落进资本手里，只剩\"古驰\"两个字还挂在店招上，跟这家人再没了关系。晚清首富盛宣怀留下一千多万两银子，分到各房手里，他最宠的那个儿子，一夜之间在赌桌上输掉上海一百多套房，晚年饿死在自家旧园子的门房里。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai",
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分一回，薄一层。再厚的家底，也经不住三四回切。这是中国人挂在嘴边的\"富不过三代\"，也是天下豪门最寻常的死法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹的规矩里，最硬的一条就是：田，不许分。不许分给儿子，不许分给孙子，不许任何人以任何由头切走一亩。收成尽管分，田永远是整块的，归\"范氏\"。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范氏是谁？是一个没有面孔、不会老去、也不会挥霍的主人。掌田的不过是临时管家，受各房盯着，挪用要赔。范仲淹无意间做成了一件极超前的事：他把家族的财产，从\"某个人的\"，变成了\"一个机构的\"。后世研究法律的人说，这套安排比英国出现同类的制度，早了四百多年。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那个被他从规矩里抹掉的\"我\"字，原来抹得有道理。财产只要还系在一个人名下，就跟着这个人一起老，一起病，一起糊涂，一起贪。把\"我\"抹掉，财产才挣脱了一条人命的长度，有了自己活下去的可能。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "乱世里的中立国",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "改朝换代的时候，最危险的就是豪门。新朝要立威，旧朝的富户是现成的猎物。抄家，追赃，清算，家底越厚，越扎眼。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范氏义庄却几次三番躲过了这样的命运。",
+          "related_node_ids": [
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1127年，靖康之变。金兵南下，范氏族人四散奔逃，义庄停摆了六十九年。六十九年，足够让一桩寻常家业从世上彻底消失。可义庄不是寻常家业。它是个办公益的去处：赈济族人，资助寒门，连乡里外姓的婚丧急难都管。对这样的东西，南宋朝廷非但没动，反而追封范仲淹更高的爵位，给他的后人封了官。到了明清，皇帝免了义庄的赋税，南巡路上还专程绕去范公祠题诗，乾隆把范仲淹放进了\"千秋第一流\"。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "只为自家敛财的家族，乱世里是被清算的对象。办公益的义庄，谁坐了天下都不好动它，动了反落一身骂名。范仲淹晚年说过一句惭愧话：\"不能周济天下，仅得周济族人，心有愧焉。\"他大概没想到，正是这一点周济族人、也惠及乡邻的公心，给义庄发了一张乱世里的通行证。改朝换代的刀砍向敛财的豪门，却绕开了那个施粥的义庄。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "另一种义田",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹想不到，九百年后，西方的几个富商会用一纸法律文书，把他那块义田重新发明一遍。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "印度的塔塔家族，手里攥着一个横跨钢铁、汽车、酒店、软件的庞大集团。可这个集团最顶上的那家控股公司，三分之二的股份不归任何一个姓塔塔的人，归一组慈善信托。家族成员个人持股，加起来不到百分之三。末代当家人拉丹·塔塔，自己名下不到百分之一。1932年的信托契约里有一条古怪的规矩：名下的东西都能卖，土地、股票、珠宝，样样能卖，唯独那家控股公司的股份，一股不许动。财富尽可变现，控制权永不变现。这一条，和范仲淹的\"收成可分，田不可分\"，根本是一个意思，只隔了九百年。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "person:ratan-tata",
+            "family:tata-family"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "美国的洛克菲勒，把石油帝国的财富导进1913年成立的基金会，去办公共卫生、医学和教育。他出钱创办芝加哥大学，却立下一条规矩：校园里不许出现\"洛克菲勒\"五个字。德国的博世立遗嘱，把公司百分之九十四的股权捐给基金会。丹麦的乐高，把四分之一的股权交给基金会。他们做的，是同一件范仲淹做过的事：把最要紧的那一块，交给一个不会死、不会分家、也不会挥霍的主人。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "洛克菲勒这边，还有一个意味深长的尾声。1911年，美国最高法院判标准石油垄断违法，勒令拆分，一拆三十四家。这也是一个\"分\"字。只是分开的不是财富，是那层垄断的硬壳。壳一裂，里头的钱反倒见风就长：三十四家公司的股票一家接一家涨，合起来的市值，竟比从前那个完整的标准石油还高。几年后，洛克菲勒成了美国历史上第一个亿万富翁。法院想削他的财，到头来把他拆成了首富。",
+          "related_node_ids": [
+            "company:standard-oil"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这件事，范仲淹在十一世纪用一块田做过一次，洛克菲勒在二十世纪被法庭逼着，又做了一遍。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "钱买不到的信用",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1898年，塔塔家的第一代詹姆谢特吉·塔塔，捐出近一半身家，在印度办一所科学院。有人劝他，把学院冠上塔塔的姓吧。他不肯。理由很冷静：名字一挂上去，往后就没人肯再往里捐钱了。他要的不是把自己的名字刻上墙。他要这桩事一直办下去，办到他死后很久很久。",
+          "related_node_ids": [
+            "person:jamsetji-tata"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这样的家族，攒下的是一种叫信用的东西。它平日里看不见，到了最凶险的关头才显形。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2008年11月，孟买的泰姬酒店遭遇恐怖袭击。枪声和大火，烧了将近三天。那三天，酒店里死了三十一个人，其中十几个，是它自己的员工。侍应、厨师、接线员，本可以从最熟的员工通道先走。他们没走。他们留下来，一个一个把素不相识的客人送出去，有人因此再没能走出那座楼。事后有人问，是什么让这些拿普通薪水的人，在那样的时刻做了那样的选择。",
+          "related_node_ids": [
+            "company:taj-hotels"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "答案要往回找一百年。这家酒店背后的塔塔家，把\"人比利润要紧\"这句话，老老实实做了一百年：办医院，设公积金，办学校，一代接着一代。散出去的每一笔钱，都像悄悄存进了一个看不见的账户。平时看不见，也取不出。直到那三天，一次还清。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "美第奇的两份遗产",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "佛罗伦萨的美第奇，把这笔账反着算了三百年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "美第奇靠银行起家。最有权势的那些年，他们把钱大把大把地投向政治：借给一个野心勃勃的雇佣兵首领，助他坐上米兰公爵的宝座，一笔十九万弗罗林的贷款，明知收不回也照借，图的是个盟友。他们把家族子弟送上教皇的宝座，让美第奇的银行替整个天主教世界管账。他们把女儿嫁进法国王室，凯特琳娜、玛丽，一个接一个做了法国王后。他们还把家族的纹章，那六颗红球，刻遍了佛罗伦萨的墙。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些买卖，看上去比买一块田、办一所学院\"划算\"得多。权力、王冠、教廷，没有比这更风光的回报了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然后，一样不剩，全烟消云散。银行因为给政治放滥账而垮掉。1494年，佛罗伦萨人把美第奇赶出城，冲进宫殿，砸碎收藏，烧毁文书。那位坐上教皇宝座的子弟，靠卖赎罪券敛财，反倒点着了马丁·路德的宗教改革，半个欧洲的教会都跟着烧了起来。美第奇押在政治上的钱，到头来连本带利，蚀得干干净净。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可美第奇还做过另一件事。家族里那位科西莫，把钱拿去资助大教堂的圆顶，建图书馆，养一群穷艺术家。他的孙子洛伦佐更进一步，把一个叫米开朗基罗的少年领进家门，同桌吃饭，一养就是四年。科西莫说过一句很清醒的话：\"我了解佛罗伦萨人。五十年后我们会被驱逐。但我的建筑会保留下来。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1494年，他这话应验了，美第奇被赶走了。可他出钱盖的圆顶、修的教堂、办的学园，一样没动。没人敢拆上帝的房子，也没人舍得毁掉那些画。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三百年后，美第奇传到最后一个人，安娜·玛丽亚·路易萨。弟弟一死，整个家族只剩她孤身一人。1737年，她签下一纸《家族协议》，把三百年间攒下的全部艺术珍藏，绘画、雕塑、手稿，统统留给佛罗伦萨这座城，立下一条改不掉的条款：\"任何一样东西都不能离开佛罗伦萨。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那批珍藏，成了今天乌菲齐美术馆的家底。六颗红球至今还刻在佛罗伦萨的墙上，那个家族却早已断了香火。真正替他们活到今天的，是乌菲齐里那些他们再也拿不回去的画。",
+          "related_node_ids": [
+            "company:uffizi-gallery"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一块石头",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到苏州。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹定下的十三条，其实并不完善。他刚一去世，规矩就开始松动，有族人冒领，有掌管人中饱私囊，义庄一度\"渐至废坏\"。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "补上窟窿的，是他的次子范纯仁。范纯仁后来也做了宰相。1064年，他把父亲的规矩郑重其事地刻在一块大石头上，立在天平山下的范公祠旁，石上添了八个字：\"子子孙孙遵承勿替。\"他把规矩刻在石头上，没写在纸上。纸会烂，会被火烧，会被人悄悄换掉。石头不会。",
+          "related_node_ids": [
+            "person:fan-chunren"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这块石头立住了。往后的故事很长。义庄在元朝续着，在明朝续着，在清朝续着。1949年，苏州解放后的第二天，范氏义庄最后一任掌庄人范烟桥走进军管会，交出了义庄全部的账册、田产簿，还有那块规矩石的拓本。范烟桥是范仲淹的第二十八世孙。从1050到1949，这块田，这套规矩，走了八百九十九年。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "person:fan-yanqiao",
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "九百年里，多少富可敌国的家族灰飞烟灭，连名字都没留下。范仲淹自己呢，少年时穷得把隔夜冻住的粥划成四块，早晚各两块，就着几根腌菜过日子；晚年做到副宰相，死的时候，连给自己买口棺材的钱都没有。偏偏就是这样一个人，成了九百年里传得最久的那一个。他写过\"先天下之忧而忧，后天下之乐而乐\"。这句话他不是说说而已，他把一千亩田散了出去，让自己的子孙和族人，站在同一条规矩后头，谁也别想多占一亩。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "财富系在一个人身上，就随这个人一起老去。系在一块永远不分的田上，反倒长出了自己的命。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当年他立那十三条规矩，把一个个\"我\"字都抹去了。九百年下来，那块田，那块石头，记住的偏偏只剩一个名字。",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承、一杯牛奶与一座帝国：塔塔家族的一百五十八年、百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路、博世家族故事：当家族选择不占有，却能永远拥有、乐高家族：从一场大火到积木帝国的四代传奇、美第奇家族：金钱、权力与不朽的三百年",
+          "related_node_ids": [
+            "story:fan-yizhuang",
+            "story:lego",
+            "story:bosch",
+            "story:tata",
+            "story:rockefeller",
+            "story:medici",
+            "person:fan-zhongyan",
+            "company:fan-yizhuang",
+            "company:bosch",
+            "family:medici-family",
+            "family:tata-family",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-055",
+          "index": 55,
           "source_index": 1,
           "kind": "list",
           "level": null,
-          "text": "- Lansberg, Ivan (1999) Succeeding Generations: Realizing the Dream of Families in Business",
+          "text": "- 范忠信《北宋范氏义庄的法人治理结构》（《华东政法大学学报》2022）",
+          "related_node_ids": [
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "indivisible-wealth-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- James E. Hughes Jr., Susan E. Massenzio & Keith Whitaker (2022) Complete Family Wealth: Wealth as Well-Being",
+          "related_node_ids": []
+        },
+        {
+          "id": "indivisible-wealth-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Nassim Nicholas Taleb (2012) Antifragile: Things That Gain from Disorder",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:from-heir-to-trustee",
+      "title": "把“传给谁”，变成“托给谁”",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 11,
+      "topic": "trust",
+      "source_files": [
+        "洞察/家族洞察 11：把“传给谁”，变成“托给谁”.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "from-heir-to-trustee-p-001",
+          "level": 1,
+          "title": "家族洞察 11：把“传给谁”，变成“托给谁”"
+        },
+        {
+          "id": "from-heir-to-trustee-p-007",
+          "level": 2,
+          "title": "一道写进遗嘱的墙"
+        },
+        {
+          "id": "from-heir-to-trustee-p-013",
+          "level": 2,
+          "title": "没有第六支箭"
+        },
+        {
+          "id": "from-heir-to-trustee-p-020",
+          "level": 2,
+          "title": "孤儿院里的继承人"
+        },
+        {
+          "id": "from-heir-to-trustee-p-030",
+          "level": 2,
+          "title": "儿子无法挑选，女婿可以"
+        },
+        {
+          "id": "from-heir-to-trustee-p-037",
+          "level": 2,
+          "title": "不姓阿涅利的阿涅利"
+        },
+        {
+          "id": "from-heir-to-trustee-p-045",
+          "level": 2,
+          "title": "推开墙的人"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "from-heir-to-trustee-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 11：把“传给谁”，变成“托给谁”",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个家族最坚固的规矩，有时恰恰是最致命的那一条。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1901年，法兰克福。罗斯柴尔德家族在这座城里的银行，关门了。它不是败给对手的。这是整个家族的发源地老行，近百年前，五个儿子正是以这里为原点，分驻欧洲的五座都城。关门的原因，说出来叫人发怔：家里没有儿子了。",
+          "related_node_ids": [
+            "family:rothschild-family"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "末代当家威廉·卡尔这一年去世，没有留下男性继承人。伦敦、巴黎、维也纳的堂兄弟们，没有一个愿意迁回这座风光不再的旧城。而按家族传了近百年的铁规，银行不能交给女儿，不能交给女婿，更不能交给外人。于是只剩一条路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "宁可关掉这家银行，也不让一个女婿或外人来接手。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "发源地的老行，自己给自己送了终。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一道写进遗嘱的墙",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这道墙，是老迈尔亲手砌的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1812年9月，法兰克福犹太巷。老迈尔在赎罪日斋戒了一整天，旧伤复发，病榻上立下那份决定家族此后两百年走向的遗嘱，三天后去世。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "遗嘱的手法很精：全部股份和财产，以十九万古尔登的名义价格“卖”给五个儿子，远低于实值，既瞒过了官府，也把女儿们干干净净摘了出去。女儿、女婿和他们的后代，关在生意之外，连知情的权利都没有。合伙的资格，只传男系。谁把家族纠纷闹上法庭，先缴罚款。谁要是不守规矩、有意叛离，只能按那个压低了的数字领法定最低份额。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这道墙，在当时砌得有道理。十九世纪初，跨国的生意没有能执行的合同，电报还没发明，一封信从伦敦走到法兰克福要好些天。百万英镑的头寸，你敢交给谁？只有兄弟。五兄弟坐镇五座都城，用希伯来字母写密信，信使跑得比各国政府的还快。拿破仑战争后的二十年，欧洲列强发国债，多半要经他们的手。1822年，奥地利皇帝封五人世袭男爵，御赐的纹章上，一只手攥着五支箭。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "墙里的日子，烈火烹油。1836年，五家银行的资本合计五百九十一万英镑，伦敦的内森一个人的份额，就几乎是老对手巴林全行的两倍。1875年，伦敦的罗斯柴尔德在一顿晚宴之间应承下四百万英镑，替英国政府买下苏伊士运河的股份。为了不让财富漏出墙外，这家人在墙里通婚：老迈尔后代的五十八桩婚事，一半的新郎新娘是堂表亲。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "没有第六支箭",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十九世纪往后走，世界金融的重心一寸一寸挪向纽约。这一点，罗斯柴尔德家看得清清楚楚。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "以他们当时的财力，去纽约开一间分行算不上难事。难的是，派谁去。第二代五兄弟，一共生了十二个儿子。能干的那几个，刚够守住欧洲的五间银行；剩下的，有人厌恶账房，有人只想做个乡绅，有人一头扎进正统犹太教的经卷里。内森的遗孀汉娜，又坚决反对把年轻的儿子们派去国外。偌大一个家族，点来点去，竟点不出一个去纽约的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们退而求其次，雇了一个拿薪水的代理人，贝尔蒙特。代理人能干，可代理人有自己的心思。他每自作一次主张，就离“罗斯柴尔德的代理人”这个身份远一点，离自己的利益近一点。南北战争里，他倾向同南方媾和，家族在北方背上了骂名。史家弗格森后来点破，这个家族最致命的失着，就是没有在美国设一间自己的分行。这家人的生意能伸多远，全看家里数得出几个合格又肯干的男人。五支箭射穿了欧洲，第六支箭，家里再也抽不出来了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那道墙关住的还不只是疆土。米丽娅姆·罗斯柴尔德，家族的女儿，自学成才，做到皇家学会院士，是世界级的跳蚤专家。这样的头脑，账房的门也没为她开过一条缝。这道墙挡住外人的同时，把家族一半的头脑也关在了外面。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "墙越牢，门里的人越少。法兰克福那间老行，不过是把这道算术题算到了头。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这道题，孟买有一家人解出过另一个答案。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "孤儿院里的继承人",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔塔家在找一个孩子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那是1918年的孟买。家里刚办完一场丧事：创始人的次子小拉坦客死英格兰，四十七岁，没有子女。家庭会议上，有人想起远房族亲有个孩子，四岁没了父亲，和哥哥一起在帕西孤儿院长大，如今十三四岁了。当家人多拉布吉见到这个少年，一眼就喜欢，领他去见小拉坦的遗孀。收养，立嗣。这个名叫纳瓦尔的孩子，从此接进了创始人一脉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他后来回忆那一天，说得像个童话：“就像仙女挥了一下魔杖。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔塔家有个怪处：这一家子，几乎生不出继承人。创始人之后，长子多拉布吉没有子女；次子小拉坦没有子女；接班的JRD没有子女；传到拉丹这一辈，他终身未婚，自己说，“我有四次走到结婚边缘，每次都退缩了”。他的亲弟弟，也终身未婚。就是这样一个几乎生不出继承人的家族，传了六代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "它靠什么传？靠托付。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "孤儿院的纳瓦尔，是一次托付。他的儿子，就是后来的拉丹。JRD是又一次：创始人远房堂弟的儿子，生在巴黎，母语是法语，三十四岁当上塔塔的家。有人问他凭什么，他答：“大概，因为我肯下苦功。”这个母语是法语的远房子弟，一当就当了五十三年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最远的一次托付在2017年。这份家业交到了钱德拉塞卡兰手里：泰米尔纳德邦一个农民的儿子，1987年以实习生的身份走进塔塔的软件公司，三十年没换过东家。一百五十年来头一回，坐上这个位子的人既不姓塔塔，也不是帕西人。他接手那年，集团旗下上市公司的总市值约八点六万亿卢比；七年之后，三十万亿。",
+          "related_node_ids": [
+            "person:natarajan-chandrasekaran"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这中间也有过一次不顺的托付。有一位外姓人坐过这把交椅，他背后的家族握着塔塔百分之十八的股权，四年不到，不欢而散。反倒是那个一无所有的农家子，安安稳稳干到了今天。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塔塔传下来的东西，只有两样：一个姓氏，和挑人的眼光。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "儿子无法挑选，女婿可以",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "日本商家有一句传了几百年的老话：儿子无法挑选，女婿可以挑选。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "生下来的儿子是什么样，只能认。女婿，却可以在天下的年轻人里挑。挑中了，娶女儿，入户籍，改姓氏，再办一道正式的收养手续，从此他既是女婿，也是儿子，家业、姓氏、祖先的牌位，一并继承。日本人管这个办法叫“婿养子”。这个国家至今每年有八万件上下的收养，收的大多不是婴儿，是成年男人。在铃木汽车掌舵四十多年的铃木修，原本姓松田，入赘铃木家，改了姓，也接了业。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "酿了三百六十年酱油的龟甲万，靠这个办法补过档。八个创始家族共治，规矩是每支每代只出一人进公司。可百余年里，没有一支能保证代代都恰好生出一个合适的儿子。1962年，茂木七左卫门支系找不出合适的亲生继承人，当主便按婿养子的老办法，正式收养了一个二十四岁的青年。从这天起，他叫茂木坚三郎。",
+          "related_node_ids": [
+            "person:kenzaburo-mogi",
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "养进来的儿子，没有走一步捷径。他在东京银行干过两年，进了龟甲万，又在不起眼的岗位上待满九年，然后才被送去哈佛读书。多年之后，这家公司最要紧的会议桌旁，有了他的位子。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "研究日本家族企业的学者后来算过一笔账：养子接班的企业，业绩不输亲儿子接班的，有的还更好。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "血缘断了，姓氏可以不断。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "不姓阿涅利的阿涅利",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2000年11月15日清晨，都灵郊外，福萨诺高架桥。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一辆轿车停在桥中央，引擎没熄，车门敞着，车里没有人。桥下八十米的河床上，躺着菲亚特帝国唯一的男性继承人，埃多阿尔多·阿涅利，四十六岁。警察没有移动遗体。他们在等一位老人从五十英里外赶来。年近八旬的詹尼·阿涅利到了，看了一眼，默默转身，钻进车里，消失在晨雾里。",
+          "related_node_ids": [
+            "person:edoardo-agnelli-senior",
+            "person:gianni-agnelli",
+            "company:fiat"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这不是这个家族头一回断线。詹尼原本选定的侄子乔瓦尼·阿尔贝托，三年前死于一种罕见的癌症，三十三岁。几年之间，两条铺好的路先后断掉。而詹尼自己，十四岁就没了父亲。父亲乘水上飞机遇难，祖父身后，家业靠一位摄政的经理人守了二十年，才交回他手里。这个家族对“断档”两个字，比谁都熟。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1997年，侄子去世后不久，七十六岁的詹尼说出了他的决定：继承人是外孙约翰·埃尔坎，女儿和第一任丈夫的儿子，二十出头，一半美国血统，不姓阿涅利。报纸上议论纷纷，有人公开发问：在一个王子往往到中年才即位的王朝里，让这么年轻的人当国王，现实吗？詹尼不争辩。这个外孙的功课，其实早就开始了：大学时代就被送进都灵的工厂当学徒，从流水线干起；后来又隐去姓名，到集团外的公司做事；再把集团上上下下的部门挨个走了一遍。等到他被推上前台，已经磨了将近十年。",
+          "related_node_ids": [
+            "person:john-elkann"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2003年1月，詹尼去世。2004年5月，弟弟翁贝托也去世。一年半，走了两任当家人。二十八岁的埃尔坎接手时，菲亚特两年换了四任CEO，连年巨亏，都灵城里人人都说，这家公司快要卖了。他跳过所有资深高管，点了一位没什么名气的董事出任CEO：马尔乔内，意裔加拿大人，穿黑毛衣，此前从未在汽车行业干过一天。",
+          "related_node_ids": [
+            "company:fiat"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二年，马尔乔内抓住一纸对通用汽车的期权合约，逼这家底特律巨头付了二十亿美元分手费；年底，菲亚特扭亏。再后来，他们几乎没掏现钱，就接下了克莱斯勒，一路合并成全球第四大汽车集团。两个人的分工从没乱过：怎么做，马尔乔内说了算；做不做、往哪走，家族说了算。",
+          "related_node_ids": [
+            "company:fiat"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "今天，阿涅利家族手里握着不到一成半的股份，稳稳占着这个帝国的顶层。坐在最上面那把椅子上的，依然是那个不姓阿涅利的外孙。",
+          "related_node_ids": [
+            "family:agnelli-family"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "推开墙的人",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到罗斯柴尔德。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2021年，这个家族的一支迎来了新的当家人，阿丽亚娜。她是嫁进来的媳妇，丈夫去世后，接过了银行。两个多世纪里，罗斯柴尔德旗号下的银行，第一次交到一位女性手里，而她身上，没有一滴罗斯柴尔德的血。老迈尔1812年在病榻上砌起的那道墙，二百零九年后，从里面被推开了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "只是法兰克福的老行，没能等到这一天。它守的那份继承人名单，孩子出生那天就写完了，往后只会变短，不会变长。守到1901年，守来一纸清算。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而那些把家业托出去的人家，挑人的尺子其实是同一把：不看血缘远近，看他能不能在最苦的位置上熬出来。孤儿院里领回的少年，坐了九年冷板凳的婿养子，流水线上拧过螺丝的外孙，三十年不曾跳槽的农家子。没有一个，是从天上掉下来的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "纳瓦尔始终记得自己被领出孤儿院的那一天。“就像仙女挥了一下魔杖。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "哪有什么仙女。不过是那一天，有一个家族把“传给谁”轻轻放下，改问了一句：托给谁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》《一杯牛奶与一座帝国：塔塔家族的一百五十八年》《八个家族，一碗酱油：龟甲万的360年共治奇迹》《一辆菲亚特，六代驾驶人：阿涅利家族不熄的引擎》",
+          "related_node_ids": [
+            "story:kikkoman",
+            "story:rothschild",
+            "story:tata",
+            "story:agnelli",
+            "company:kikkoman",
+            "company:fiat",
+            "family:rothschild-family",
+            "family:tata-family",
+            "family:agnelli-family"
+          ]
+        },
+        {
+          "id": "from-heir-to-trustee-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Niall Ferguson (1998) The House of Rothschild: Money's Prophets",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Mehrotra, Morck, Shim & Wiwattanakantang (2013) Adoptive Expectations: Rising Sons in Japanese Family Firms, Journal of Financial Economics",
+          "related_node_ids": []
+        },
+        {
+          "id": "from-heir-to-trustee-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Dennis T. Jaffe (2020) Borrowed from Your Grandchildren: The Evolution of 100-Year Family Enterprises",
           "related_node_ids": []
         }
       ]

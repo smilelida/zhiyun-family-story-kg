@@ -904,6 +904,99 @@ function eventYear(node) {
   return null;
 }
 
+const RING_BANDS = [
+  [1000, 1400], [1400, 1700], [1700, 1850],
+  [1850, 1900], [1900, 1950], [1950, 2000], [2000, 2030],
+];
+const RING_INNER = 92;
+const RING_OUTER = 398;
+
+function ringRadius(year) {
+  const step = (RING_OUTER - RING_INNER) / RING_BANDS.length;
+  for (let i = 0; i < RING_BANDS.length; i++) {
+    const [from, to] = RING_BANDS[i];
+    if (year >= from && year < to) {
+      return RING_INNER + step * i + step * ((year - from) / (to - from));
+    }
+  }
+  return year < RING_BANDS[0][0] ? RING_INNER : RING_OUTER;
+}
+
+function renderTimelineRings(dated) {
+  if (!dated.length) return "";
+  const size = 1080;
+  const c = size / 2;
+
+  // families around the wheel, ordered by their earliest event
+  const byFamily = new Map();
+  for (const item of dated) {
+    const familyId = (item.node.frontmatter.families || [])[0];
+    if (!familyId || !nodeById.has(familyId)) continue;
+    if (!byFamily.has(familyId)) byFamily.set(familyId, []);
+    byFamily.get(familyId).push(item);
+  }
+  const families = [...byFamily.entries()]
+    .sort((a, b) => Math.min(...a[1].map((i) => i.year)) - Math.min(...b[1].map((i) => i.year)));
+  if (!families.length) return "";
+
+  const angleStep = (Math.PI * 2) / families.length;
+  const startAngle = -Math.PI / 2;
+
+  const guideMarkup = RING_BANDS.map((band, i) => {
+    const r = RING_INNER + ((RING_OUTER - RING_INNER) / RING_BANDS.length) * (i + 1);
+    return `<circle class="ring-guide" cx="${c}" cy="${c}" r="${r}"></circle>
+      <text class="ring-year" x="${c}" y="${c - r + 13}">${band[1] === 2030 ? "今" : band[1]}</text>`;
+  }).join("");
+
+  const spokes = [];
+  const dots = [];
+  const labels = [];
+  families.forEach(([familyId, items], index) => {
+    const angle = startAngle + angleStep * index;
+    const cos = Math.cos(angle);
+    const sin = Math.sin(angle);
+    spokes.push(`<line class="ring-spoke" x1="${c + cos * RING_INNER}" y1="${c + sin * RING_INNER}" x2="${c + cos * RING_OUTER}" y2="${c + sin * RING_OUTER}"></line>`);
+
+    items.sort((a, b) => a.year - b.year);
+    items.forEach((item, j) => {
+      const jitter = ((j % 3) - 1) * 0.035;
+      const a = angle + jitter;
+      const r = ringRadius(item.year);
+      const delay = Math.min(1.1, 0.15 + ((r - RING_INNER) / (RING_OUTER - RING_INNER)) * 0.7 + (index % 5) * 0.05);
+      dots.push(`
+        <g class="ring-dot" data-id="${escapeHtml(item.node.id)}" transform="translate(${(c + Math.cos(a) * r).toFixed(1)}, ${(c + Math.sin(a) * r).toFixed(1)})" style="animation-delay:${delay.toFixed(2)}s">
+          <circle r="4"></circle>
+          <title>${escapeHtml(`${item.year} · ${item.node.title} · ${labelFor(familyId)}`)}</title>
+        </g>
+      `);
+    });
+
+    const deg = (angle * 180) / Math.PI;
+    const flip = deg > 90 || deg < -90;
+    const lr = RING_OUTER + 16;
+    labels.push(`
+      <text class="ring-label" data-id="${escapeHtml(familyId)}"
+        transform="translate(${(c + cos * lr).toFixed(1)}, ${(c + sin * lr).toFixed(1)}) rotate(${(flip ? deg + 180 : deg).toFixed(1)})"
+        text-anchor="${flip ? "end" : "start"}">${escapeHtml(truncate(labelFor(familyId), 8))}</text>
+    `);
+  });
+
+  return `
+    <div class="ring-wrap">
+      <svg class="timeline-rings" viewBox="0 0 ${size} ${size}" role="img" aria-label="家族年轮盘">
+        ${guideMarkup}
+        ${spokes.join("")}
+        ${dots.join("")}
+        ${labels.join("")}
+        <circle class="ring-core" cx="${c}" cy="${c}" r="${RING_INNER - 26}"></circle>
+        <image href="./logo.png" x="${c - 26}" y="${c - 40}" width="52" height="52"></image>
+        <text class="ring-core-label" x="${c}" y="${c + 34}">家族年轮</text>
+      </svg>
+      <p class="ring-caption">环为年代，辐为家族，籽点即事件。悬停看详情，点击入卡片。</p>
+    </div>
+  `;
+}
+
 function timelineEraLabel(year) {
   if (year < 1850) return `${Math.floor(year / 100) + 1} 世纪`;
   return `${Math.floor(year / 10) * 10} 年代`;
@@ -961,6 +1054,7 @@ function renderTimeline() {
         <strong>${dated.length} 个系年事件${undated.length ? ` · ${undated.length} 个跨时期` : ""}</strong>
       </div>
       <p class="directory-note">每个事件都链接到它的事件卡与所属家族。搜索与专题筛选同样作用于本页。</p>
+      ${renderTimelineRings(dated)}
       ${groupMarkup}
       ${undatedMarkup}
     </section>

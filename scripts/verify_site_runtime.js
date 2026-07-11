@@ -104,7 +104,7 @@ assert(
   storyArticles.length === storyNodeCount,
   `every story node should ship with its article (stories: ${storyNodeCount}, articles: ${storyArticles.length})`,
 );
-assert(insightCount >= 8, "the insight series should ship with the site");
+assert(insightCount >= 11, "the insight series should ship with the site");
 for (const edge of window.KNOWLEDGE_DATA.edges) {
   assert(nodeIds.has(edge.source), `edge source missing from nodes: ${edge.source}`);
   assert(nodeIds.has(edge.target), `edge target missing from nodes: ${edge.target}`);
@@ -153,6 +153,8 @@ clickDataset("[data-view]", { view: "timeline" });
 assert(viewTitle() === "大事年表", "timeline view should have its own page title");
 assert(content().includes("timeline-era"), "timeline should render era groups");
 assert(content().includes("timeline-year"), "timeline should render year markers");
+assert(content().includes("timeline-rings"), "timeline should render the family ring chart");
+assert(content().includes("ring-dot"), "ring chart should place event seeds");
 
 clickDataset("[data-view]", { view: "topics" });
 assert(content().includes("insight-shelf"), "topics view should surface the insight series");
@@ -161,8 +163,8 @@ assert(content().includes("家族洞察系列"), "insight shelf should be titled
 clickDataset("[data-topic]", { topic: "rules" });
 assert(content().includes("insight-callout"), "mapped topics should offer a deep-dive insight");
 
-fakeLocation.hash = "#/article/insight:five-firewalls";
-assert(viewTitle().includes("防火墙"), "insight article should open in the reader");
+fakeLocation.hash = "#/article/insight:from-heir-to-trustee";
+assert(viewTitle().includes("托给谁"), "insight article should open in the reader");
 assert(content().includes("家族洞察"), "insight reader should carry the series kicker");
 
 clickDataset("[data-view]", { view: "matrix" });
