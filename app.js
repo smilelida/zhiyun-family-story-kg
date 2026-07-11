@@ -1189,7 +1189,7 @@ function renderOverview() {
         <div class="hero-actions">
           <button data-view="topics">从问题进入</button>
           <button data-view="matrix">打开对照矩阵</button>
-          <button data-action="lucky">随便看看</button>
+          <button data-action="lucky"><svg class="lucky-die" viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><rect x="2.4" y="2.4" width="19.2" height="19.2" rx="4.6" fill="none" stroke="currentColor" stroke-width="1.9"/><circle cx="8.1" cy="8.1" r="1.65" fill="currentColor"/><circle cx="15.9" cy="8.1" r="1.65" fill="currentColor"/><circle cx="12" cy="12" r="1.65" fill="currentColor"/><circle cx="8.1" cy="15.9" r="1.65" fill="currentColor"/><circle cx="15.9" cy="15.9" r="1.65" fill="currentColor"/></svg><span>随便看看</span></button>
         </div>
         <div class="hero-metrics">
           <div><strong>${stories.length}</strong><span>家族故事</span></div>
@@ -2298,6 +2298,9 @@ function setupEnhancements() {
 }
 
 function jumpToRandomNode() {
+  const button = document.querySelector("#luckyButton");
+  button?.classList?.add?.("rolling");
+  setTimeout(() => button?.classList?.remove?.("rolling"), 650);
   const pool = data.nodes.filter((node) =>
     ["story", "person", "company", "tool", "event", "concept"].includes(node.type));
   const pick = pool[Math.floor(Math.random() * pool.length)];

@@ -2015,28 +2015,67 @@ body {
 /* ---------- lucky button ---------- */
 
 .lucky-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
   width: 100%;
   margin-top: 14px;
-  padding: 10px 12px;
-  border: 1px dashed var(--line-strong);
+  padding: 12px 14px;
+  border: 0;
   border-radius: var(--radius);
-  background: transparent;
-  color: var(--ink-soft);
-  font-size: 13px;
-  letter-spacing: 0.06em;
+  background: linear-gradient(135deg, var(--green-dark), var(--green));
+  color: #f7f4ee;
+  font-size: 13.5px;
+  font-weight: 650;
+  letter-spacing: 0.1em;
   cursor: pointer;
-  transition: background-color 0.2s, border-color 0.2s, transform 0.2s;
+  box-shadow: 0 6px 16px rgba(48, 96, 127, 0.22);
+  transition: transform 0.22s var(--ease-out), box-shadow 0.22s var(--ease-out), filter 0.22s;
 }
 
 .lucky-button:hover {
-  background: rgba(64, 112, 144, 0.07);
-  border-color: var(--green);
-  color: var(--green-dark);
-  transform: translateY(-1px);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(48, 96, 127, 0.3);
+  filter: saturate(1.12);
+}
+
+.lucky-button:hover .lucky-die {
+  transform: rotate(24deg);
 }
 
 .lucky-button:active {
-  transform: translateY(0) scale(0.99);
+  transform: translateY(0) scale(0.985);
+}
+
+.lucky-die {
+  flex: 0 0 auto;
+  transition: transform 0.3s var(--ease-out);
+}
+
+@keyframes die-roll {
+  0% { transform: rotate(0) scale(1); }
+  55% { transform: rotate(280deg) scale(1.22); }
+  100% { transform: rotate(360deg) scale(1); }
+}
+
+.lucky-button.rolling .lucky-die,
+.hero-actions button.rolling .lucky-die {
+  animation: die-roll 0.6s var(--ease-out);
+}
+
+.hero-actions button {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.hero-actions .lucky-die {
+  transition: transform 0.3s var(--ease-out);
+}
+
+.hero-actions button:hover .lucky-die {
+  transform: rotate(24deg);
 }
 
 /* ---------- quiet scrollbars for inner panes ---------- */
