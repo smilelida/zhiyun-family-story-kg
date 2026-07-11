@@ -2346,7 +2346,9 @@ function renderContent() {
     return;
   }
 
-  if (state.view === "topic" && topic) {
+  // a selected card always wins over the topic backdrop, otherwise
+  // chips inside a topic page look dead (hash moves, screen doesn't)
+  if (state.view === "topic" && topic && !selected) {
     els.viewTitle.textContent = topic.title;
     els.viewTitle.classList?.toggle?.("long-title", topic.title.length > 12);
     els.viewSubtitle.textContent = topic.question;

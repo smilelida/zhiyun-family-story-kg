@@ -163,6 +163,11 @@ assert(content().includes("家族洞察系列"), "insight shelf should be titled
 clickDataset("[data-topic]", { topic: "rules" });
 assert(content().includes("insight-callout"), "mapped topics should offer a deep-dive insight");
 
+// regression: chips inside a topic page must navigate to the card
+clickDataset("[data-id]", { id: "concept:family-constitution" });
+assert(viewTitle() === "家族宪章", "clicking a concept chip on a topic page should open the concept card");
+assert(content().includes("connection-group"), "the opened card should render its grouped connections");
+
 fakeLocation.hash = "#/article/insight:from-heir-to-trustee";
 assert(viewTitle().includes("托给谁"), "insight article should open in the reader");
 assert(content().includes("家族洞察"), "insight reader should carry the series kicker");
