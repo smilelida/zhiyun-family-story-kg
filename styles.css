@@ -115,21 +115,11 @@ button {
   border-bottom: 1px solid var(--sidebar-line);
 }
 
-.brand .seal {
+.brand-logo {
   grid-row: 1 / span 2;
-  display: inline-grid;
   width: 44px;
   height: 44px;
-  padding: 5px;
-  grid-template-rows: repeat(2, 1fr);
-  place-items: center;
-  border: 1.5px solid var(--green-dark);
-  border-radius: 3px;
-  color: var(--green-dark);
-  font-family: var(--serif);
-  font-size: 15px;
-  font-weight: 600;
-  line-height: 1;
+  object-fit: contain;
 }
 
 .brand h1,
@@ -2084,21 +2074,12 @@ body {
    品牌对齐层：印章、题头、最新收录、详情辅文、概念定义块
    ================================================================ */
 
-.hero-seal {
-  display: inline-grid;
-  width: 52px;
-  height: 52px;
-  padding: 6px;
+.hero-logo {
+  display: block;
+  width: 56px;
+  height: 56px;
   margin-bottom: 14px;
-  grid-template-rows: repeat(2, 1fr);
-  place-items: center;
-  border: 1.5px solid var(--green-dark);
-  border-radius: 3px;
-  color: var(--green-dark);
-  font-family: var(--serif);
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 1;
+  object-fit: contain;
 }
 
 .home-hero .card-type {

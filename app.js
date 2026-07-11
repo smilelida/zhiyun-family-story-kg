@@ -1182,7 +1182,7 @@ function renderOverview() {
   return `
     <section class="atlas-layout panel-wide">
       <div class="home-hero">
-        <span class="hero-seal" role="img" aria-label="执允"><span>执</span><span>允</span></span>
+        <img class="hero-logo" src="./logo.png" alt="执允" width="56" height="56" />
         <div class="card-type">Family Governance Atlas</div>
         <h3>${storyTotal} 篇家族故事，一张可检索的治理地图。</h3>
         <p>从治理问题出发，进入家族案例、人物关系、制度工具与原文段落。每一个结论，都能回到它的出处。</p>
