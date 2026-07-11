@@ -2341,3 +2341,23 @@ body {
   border-radius: 50%;
   background: currentColor;
 }
+
+
+.article-quote span {
+  display: block;
+  border-left: 2px solid var(--gold);
+  padding-left: 14px;
+  color: var(--ink-soft);
+  font-size: 16px;
+}
+
+/* keep the matrix's horizontal scroll inside its own panel on all layouts */
+.matrix-panel {
+  min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.matrix-scroll {
+  max-width: 100%;
+}

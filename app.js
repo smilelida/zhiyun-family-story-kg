@@ -1298,6 +1298,22 @@ const metaLabels = {
   core_mechanism: "核心机制",
   aliases: "别名",
   source_heading: "原文章节",
+  birth_year: "生年",
+  death_year: "卒年",
+  date: "时间",
+  period: "时期",
+  country: "国家",
+  countries: "国家",
+  region: "地域",
+  founder_generation: "创始世代",
+  founding_families: "创始家族",
+  companies: "相关企业",
+  people: "相关人物",
+  roles: "角色",
+  purpose: "用途",
+  failure_modes: "失败模式",
+  limitations: "局限",
+  related_concept: "相关概念",
 };
 
 function renderMetadata(node) {
@@ -1579,8 +1595,13 @@ function renderArticleParagraph(paragraph) {
   }
 
   let displayText = paragraph.text;
+  let quoteClass = "";
   if (paragraph.kind === "list") {
     displayText = displayText.replace(/^[-*+]\s+/, "· ");
+  }
+  if (/^>\s+/.test(displayText)) {
+    displayText = displayText.replace(/^>\s+/, "");
+    quoteClass = " article-quote";
   }
 
   const text = escapeHtml(displayText);
@@ -1598,7 +1619,7 @@ function renderArticleParagraph(paragraph) {
   }
 
   return `
-    <div id="${escapeHtml(paragraph.id)}" class="article-paragraph article-${escapeHtml(paragraph.kind)}">
+    <div id="${escapeHtml(paragraph.id)}" class="article-paragraph article-${escapeHtml(paragraph.kind)}${quoteClass}">
       ${anchor}
       <span>${text}</span>
       ${links}
@@ -2324,6 +2345,7 @@ let suppressHashEvent = false;
 function stateToHash() {
   if (state.articleId) return `#/article/${state.articleId}`;
   if (state.selectedId) return `#/node/${state.selectedId}`;
+  if (state.query) return `#/search/${encodeURIComponent(state.query)}`;
   if (state.view === "topic" && state.topic !== "all") return `#/topic/${state.topic}`;
   if (state.view === "matrix" && state.matrixCell) {
     return `#/matrix/${state.matrixCell.family}/${state.matrixCell.concept}`;
@@ -2334,12 +2356,22 @@ function stateToHash() {
 
 function applyHash() {
   if (!routingEnabled) return;
-  const raw = decodeURIComponent(location.hash || "");
-  const parts = raw.replace(/^#\/?/, "").split("/").filter(Boolean);
+  const parts = (location.hash || "")
+    .replace(/^#\/?/, "")
+    .split("/")
+    .filter(Boolean)
+    .map((part) => {
+      try { return decodeURIComponent(part); } catch { return part; }
+    });
   setView("home");
   if (!parts.length) return;
   const [head, ...rest] = parts;
   const target = rest.join("/");
+  if (head === "search" && target) {
+    state.query = target;
+    els.search.value = target;
+    return;
+  }
   if (head === "article" && articleByStoryId.has(target)) {
     state.articleId = target;
     state.selectedId = target;
@@ -2372,6 +2404,10 @@ function syncHash() {
   const target = stateToHash();
   const current = location.hash || "#/";
   if (current === target) return;
+  if (target.startsWith("#/search/") && typeof history !== "undefined" && history.replaceState) {
+    history.replaceState(null, "", target);
+    return;
+  }
   suppressHashEvent = true;
   location.hash = target;
 }
