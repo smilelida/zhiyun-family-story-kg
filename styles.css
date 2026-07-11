@@ -2622,3 +2622,20 @@ body {
   .ring-label { display: none; }
   .ring-wrap { margin-bottom: 14px; }
 }
+
+
+.card-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.card-no {
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 12.5px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  white-space: nowrap;
+}

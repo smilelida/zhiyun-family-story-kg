@@ -672,7 +672,7 @@ function navItem(node) {
       <span class="dot" style="color:${colorFor(node.type)}"></span>
       <span>
         <span class="nav-item-title">${escapeHtml(node.title)}</span>
-        <span class="nav-item-meta">${escapeHtml(typeMeta[node.type]?.label || node.type)} · ${degree.get(node.id) || 0} 连接</span>
+        <span class="nav-item-meta">${escapeHtml(node.type === "story" ? storyIssueLabel(node) : (typeMeta[node.type]?.label || node.type))} · ${degree.get(node.id) || 0} 连接</span>
       </span>
     </button>
   `;
@@ -1210,7 +1210,10 @@ function renderQuickNav() {
   const topic = selectedTopic();
   const isFiltered = Boolean(state.query || state.type !== "all" || topic);
   const activeItems = [...nodes].sort(byConnectionThenTitle).slice(0, 14);
-  const storyItems = nodes.filter((node) => node.type === "story").slice(0, topic ? 12 : 8);
+  const storyItems = nodes
+    .filter((node) => node.type === "story")
+    .sort((a, b) => (b.frontmatter.series_no || 0) - (a.frontmatter.series_no || 0))
+    .slice(0, topic ? 12 : 8);
   const conceptItems = nodes
     .filter((node) => node.type === "concept")
     .sort(byConnectionThenTitle)
@@ -1244,10 +1247,15 @@ function renderQuickNav() {
     : emptyState();
 }
 
+function storyIssueLabel(node) {
+  if (node.type !== "story") return "";
+  return node.frontmatter.series_no ? `第 ${node.frontmatter.series_no} 期` : "番外";
+}
+
 function card(node) {
   const meta = node.frontmatter;
   const chips = [
-    meta.series_no ? `第 ${meta.series_no} 期` : null,
+    node.type !== "story" && meta.series_no ? `第 ${meta.series_no} 期` : null,
     node.type === "concept" ? meta.category : null,
     node.type === "story" && meta.industries?.length ? meta.industries.slice(0, 2).join(" / ") : null,
     `${degree.get(node.id) || 0} 连接`,
@@ -1255,10 +1263,14 @@ function card(node) {
   const summary = node.type === "story" && meta.family_governance_signature
     ? meta.family_governance_signature
     : node.summary;
+  const issue = storyIssueLabel(node);
 
   return `
     <article class="card card-${escapeHtml(node.type)}" data-id="${escapeHtml(node.id)}">
-      <div class="card-type" style="color:${colorFor(node.type)}">${escapeHtml(typeMeta[node.type]?.label || node.type)}</div>
+      <div class="card-head">
+        <div class="card-type" style="color:${colorFor(node.type)}">${escapeHtml(typeMeta[node.type]?.label || node.type)}</div>
+        ${issue ? `<span class="card-no">${escapeHtml(issue)}</span>` : ""}
+      </div>
       <h4>${escapeHtml(node.title)}</h4>
       <p>${escapeHtml(truncate(summary, 132))}</p>
       <div class="chip-list" style="margin-top:14px">
@@ -1378,7 +1390,7 @@ function renderOverview() {
 
   const stories = nodes.filter((node) => node.type === "story");
   const highlightedTopics = topics.slice(0, 6);
-  const topStories = [...stories].sort(byConnectionThenTitle).slice(0, 9);
+  const topStories = [...stories].sort(byConnectionThenTitle).slice(0, 9).sort(compareStories);
   const latest = [...stories]
     .filter((node) => node.frontmatter.series_no)
     .sort((a, b) => (b.frontmatter.series_no || 0) - (a.frontmatter.series_no || 0))
