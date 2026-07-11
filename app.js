@@ -34,6 +34,63 @@ for (const edge of data.edges) {
   degree.set(edge.target, (degree.get(edge.target) || 0) + 1);
 }
 
+// ---------- linking infrastructure ----------
+
+// titles that can be auto-linked inside card prose, longest first
+const linkableTypes = new Set(["person", "family", "company", "tool", "concept", "story"]);
+const titleIndex = data.nodes
+  .filter((node) => linkableTypes.has(node.type) && (node.title || "").length >= 2)
+  .map((node) => ({ title: node.title, id: node.id }))
+  .sort((a, b) => b.title.length - a.title.length);
+
+function autoLink(text, selfId, limit = 12) {
+  const source = String(text || "");
+  const ranges = [];
+  const used = new Set();
+  for (const { title, id } of titleIndex) {
+    if (id === selfId || used.has(id) || ranges.length >= limit) continue;
+    const idx = source.indexOf(title);
+    if (idx === -1) continue;
+    if (ranges.some((range) => idx < range.end && idx + title.length > range.start)) continue;
+    ranges.push({ start: idx, end: idx + title.length, id });
+    used.add(id);
+  }
+  ranges.sort((a, b) => a.start - b.start);
+  let html = "";
+  let cursor = 0;
+  for (const range of ranges) {
+    html += escapeHtml(source.slice(cursor, range.start));
+    html += `<button class="text-link" data-id="${escapeHtml(range.id)}">${escapeHtml(source.slice(range.start, range.end))}</button>`;
+    cursor = range.end;
+  }
+  return html + escapeHtml(source.slice(cursor));
+}
+
+const adjacency = new Map();
+for (const edge of data.edges) {
+  if (!adjacency.has(edge.source)) adjacency.set(edge.source, new Set());
+  if (!adjacency.has(edge.target)) adjacency.set(edge.target, new Set());
+  adjacency.get(edge.source).add(edge.target);
+  adjacency.get(edge.target).add(edge.source);
+}
+
+function neighborCards(node, count = 4) {
+  const own = adjacency.get(node.id) || new Set();
+  const scores = new Map();
+  for (const mid of own) {
+    for (const other of adjacency.get(mid) || []) {
+      if (other === node.id || own.has(other)) continue;
+      const candidate = nodeById.get(other);
+      if (!candidate || candidate.type === "segment") continue;
+      scores.set(other, (scores.get(other) || 0) + 1);
+    }
+  }
+  return [...scores.entries()]
+    .sort((a, b) => b[1] - a[1] || (degree.get(b[0]) || 0) - (degree.get(a[0]) || 0))
+    .slice(0, count)
+    .map(([id]) => nodeById.get(id));
+}
+
 // ---------- family × concept evidence matrix ----------
 
 const storyFamily = new Map();
@@ -93,6 +150,21 @@ const matrixConcepts = data.nodes
   .sort((a, b) => (conceptEvidenceTotal.get(b.id) || 0) - (conceptEvidenceTotal.get(a.id) || 0))
   .map((node) => node.id);
 
+// concept -> stories that illustrate it; tool -> its concepts (for sibling lookups)
+const conceptStories = new Map();
+const toolConcepts = new Map();
+for (const edge of data.edges) {
+  if (edge.type !== "illustrates" || !String(edge.target).startsWith("concept:")) continue;
+  if (String(edge.source).startsWith("story:")) {
+    if (!conceptStories.has(edge.target)) conceptStories.set(edge.target, new Set());
+    conceptStories.get(edge.target).add(edge.source);
+  }
+  if (String(edge.source).startsWith("tool:")) {
+    if (!toolConcepts.has(edge.source)) toolConcepts.set(edge.source, new Set());
+    toolConcepts.get(edge.source).add(edge.target);
+  }
+}
+
 const els = {
   workspace: document.querySelector(".workspace"),
   topNav: document.querySelector("#topNav"),
@@ -117,8 +189,8 @@ const topics = [
     question: "家族怎样把权力、能力和责任交给下一代？",
     thesis: "接班不是把职位交出去，而是提前设计训练、授权、试错和意外继承预案。",
     concepts: ["concept:succession-training", "concept:gradual-succession", "concept:succession-contingency", "concept:third-generation-risk"],
-    stories: ["story:zhou-dafu", "story:agnelli", "story:lego", "story:toyoda", "story:wang-yongqing"],
-    cautions: ["story:gucci", "story:stanley-ho", "story:hu-xueyan"],
+    stories: ["story:zhou-dafu", "story:agnelli", "story:lego", "story:toyoda", "story:tata"],
+    cautions: ["story:gucci", "story:stanley-ho", "story:dassler"],
     tools: ["tool:son-in-law-professional-succession", "tool:family-letters-as-governance", "tool:toji-succession"],
   },
   {
@@ -128,7 +200,7 @@ const topics = [
     thesis: "冲突本身并不可怕，真正危险的是没有分歧处理规则、退出机制和共同底线。",
     concepts: ["concept:family-conflict-as-innovation", "concept:family-consensus", "concept:joint-sibling-leadership", "concept:governance-complexity"],
     stories: ["story:kikkoman", "story:ambani", "story:cp-group", "story:pao-family"],
-    cautions: ["story:gucci", "story:stanley-ho", "story:medici"],
+    cautions: ["story:gucci", "story:dassler", "story:stanley-ho"],
     tools: ["tool:brother-partnership", "tool:multi-branch-family-settlement", "tool:family-council"],
   },
   {
@@ -137,7 +209,7 @@ const topics = [
     question: "财富越来越复杂时，家族怎样把分配和控制分开？",
     thesis: "信托和家族办公室不是装饰，而是把受益、控制、经营和沟通拆开的基础设施。",
     concepts: ["concept:family-trust", "concept:separation-of-rights", "concept:institutionalized-trust", "concept:family-trust-substituting-governance"],
-    stories: ["story:pao-family", "story:zhou-dafu", "story:sheng-xuanhuai", "story:rockefeller"],
+    stories: ["story:pao-family", "story:tata", "story:zhou-dafu", "story:rockefeller"],
     cautions: ["story:stanley-ho", "story:hu-xueyan", "story:delong"],
     tools: ["tool:pao-family-trust", "tool:family-office", "tool:family-trust", "tool:family-council"],
   },
@@ -147,7 +219,7 @@ const topics = [
     question: "家族怎样既保持长期控制，又避免企业沦为私人提款机？",
     thesis: "好的所有权设计会给家族权力加边界，把企业使命、控制权和经营权重新排列。",
     concepts: ["concept:foundation-ownership", "concept:mission-locked-ownership", "concept:steward-ownership", "concept:family-as-guardian"],
-    stories: ["story:bosch", "story:ikea", "story:agnelli", "story:lego", "story:hermes"],
+    stories: ["story:bosch", "story:tata", "story:ikea", "story:lego", "story:hermes"],
     cautions: ["story:delong", "story:gucci"],
     tools: ["tool:foundation-ownership-structure", "tool:kirkbi-family-holding", "tool:holding-company-stewardship", "tool:family-holding-defense"],
   },
@@ -157,7 +229,7 @@ const topics = [
     question: "家族什么时候该亲自经营，什么时候该退到所有者位置？",
     thesis: "职业经理人不是家族控制的反面，关键在授权边界、监督机制和家族守门能力。",
     concepts: ["concept:professionalization", "concept:enterprise-before-family", "concept:enterprise-independence", "concept:separation-of-rights"],
-    stories: ["story:agnelli", "story:bosch", "story:watson-ibm", "story:gucci", "story:disney"],
+    stories: ["story:agnelli", "story:tata", "story:watson-ibm", "story:gucci", "story:disney"],
     cautions: ["story:mars", "story:delong"],
     tools: ["tool:external-ceo-family-control", "tool:professional-corporate-culture", "tool:brand-professionalization"],
   },
@@ -207,7 +279,7 @@ const topics = [
     question: "家族企业崩塌前，通常先坏在哪一层？",
     thesis: "失败往往不是缺少野心，而是缺少边界：资金边界、权力边界、亲属边界和风险边界。",
     concepts: ["concept:founder-expansion-bias", "concept:financialization-trap", "concept:information-opacity", "concept:succession-planning-gap", "concept:brake-mechanism"],
-    stories: ["story:delong", "story:hu-xueyan", "story:gucci", "story:stanley-ho", "story:sheng-xuanhuai"],
+    stories: ["story:delong", "story:hu-xueyan", "story:dassler", "story:gucci", "story:sheng-xuanhuai"],
     cautions: ["story:delong", "story:hu-xueyan", "story:gucci"],
     tools: ["tool:three-donts-family-instruction", "tool:book-value-exit", "tool:multi-branch-family-settlement"],
   },
@@ -1276,6 +1348,180 @@ function renderMetadata(node) {
     .join("");
 }
 
+const personRelationLabels = {
+  parent_child: "亲缘与接班",
+  successor: "亲缘与接班",
+  spouse: "亲缘与接班",
+  sibling: "亲缘与接班",
+  mentor: "亲缘与接班",
+  partner: "共治与搭档",
+  professional_delegate: "授权与经理人",
+  conflict: "冲突",
+};
+
+function chipRow(ids, limit = 12) {
+  const list = uniqueIds(ids).filter((id) => nodeById.has(id)).slice(0, limit);
+  if (!list.length) return "";
+  return `<div class="chip-list">${list.map((id) => nodeLink(id)).join("")}</div>`;
+}
+
+function connectionGroup(title, bodyHtml) {
+  if (!bodyHtml) return "";
+  return `
+    <div class="connection-group">
+      <h4>${escapeHtml(title)}</h4>
+      ${bodyHtml}
+    </div>
+  `;
+}
+
+function personRelationList(node) {
+  const relations = connectedEdges(node.id).filter(isPersonPersonEdge);
+  if (!relations.length) return "";
+  const groups = new Map();
+  for (const edge of relations.sort(comparePersonRelations)) {
+    const key = personRelationLabels[edge.type] || "其他关系";
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(edge);
+  }
+  return [...groups.entries()].map(([label, edges]) => connectionGroup(label, `
+    <ul class="relation-list">
+      ${edges.slice(0, 6).map((edge) => {
+        const other = otherNode(edge, node.id);
+        return `
+          <li>
+            ${nodeLink(other)}
+            <span class="relation-label">${escapeHtml(edge.label || edge.type)}</span>
+            ${edge.evidence ? `<p>${escapeHtml(truncate(edge.evidence, 90))}</p>` : ""}
+          </li>
+        `;
+      }).join("")}
+    </ul>
+  `)).join("");
+}
+
+function matrixChips(pairs, perspective, limit = 8) {
+  const rows = pairs.slice(0, limit);
+  if (!rows.length) return "";
+  return `<div class="chip-list">${rows.map(([familyId, conceptId, count]) => `
+    <button class="inline-link matrix-link" data-matrix-cell="${escapeHtml(`${familyId}|${conceptId}`)}">
+      ${escapeHtml(labelFor(perspective === "concept" ? familyId : conceptId))}
+      <strong>${count}</strong>
+    </button>
+  `).join("")}</div>`;
+}
+
+function conceptFamilies(conceptId) {
+  const rows = [];
+  for (const [key, cell] of matrixCells) {
+    const [familyId, cid] = key.split("|");
+    if (cid !== conceptId) continue;
+    rows.push([familyId, conceptId, cell.stories.size + cell.segments.size]);
+  }
+  return rows.sort((a, b) => b[2] - a[2]);
+}
+
+function familyConcepts(familyId) {
+  const rows = [];
+  for (const [key, cell] of matrixCells) {
+    const [fid, conceptId] = key.split("|");
+    if (fid !== familyId) continue;
+    rows.push([familyId, conceptId, cell.stories.size + cell.segments.size]);
+  }
+  return rows.sort((a, b) => b[2] - a[2]);
+}
+
+function overlapSiblings(id, map, poolPrefix, count = 4) {
+  const own = map.get(id);
+  if (!own || !own.size) return [];
+  const scores = new Map();
+  for (const [otherId, set] of map) {
+    if (otherId === id || !String(otherId).startsWith(poolPrefix)) continue;
+    let shared = 0;
+    for (const item of own) if (set.has(item)) shared += 1;
+    if (shared) scores.set(otherId, shared);
+  }
+  return [...scores.entries()].sort((a, b) => b[1] - a[1]).slice(0, count).map(([nid]) => nid);
+}
+
+function storySegments(storyId) {
+  return data.nodes
+    .filter((node) => node.type === "segment" && node.frontmatter.story === storyId)
+    .sort((a, b) => (a.frontmatter.order || 0) - (b.frontmatter.order || 0));
+}
+
+function edgeNeighbors(node, matcher) {
+  return uniqueIds(connectedEdges(node.id)
+    .map((edge) => otherNode(edge, node.id))
+    .filter((id) => matcher(id)));
+}
+
+function renderConnections(node) {
+  const fm = node.frontmatter;
+  const sections = [];
+
+  if (node.type === "person") {
+    sections.push(personRelationList(node));
+    sections.push(connectionGroup("所属家族", chipRow(fm.families || [])));
+    sections.push(connectionGroup("出场故事", chipRow(edgeNeighbors(node, (id) => id.startsWith("story:")))));
+    sections.push(connectionGroup("关联概念", chipRow(edgeNeighbors(node, (id) => id.startsWith("concept:")), 6)));
+  } else if (node.type === "concept") {
+    sections.push(connectionGroup("案例家族（点击进入矩阵证据）", matrixChips(conceptFamilies(node.id), "concept")));
+    sections.push(connectionGroup("治理工具", chipRow(edgeNeighbors(node, (id) => id.startsWith("tool:")), 8)));
+    const near = overlapSiblings(node.id, conceptStories, "concept:");
+    sections.push(connectionGroup("概念近邻（共享案例）", chipRow(near)));
+  } else if (node.type === "story") {
+    const segments = storySegments(node.id);
+    if (segments.length) {
+      sections.push(connectionGroup("证据片段", `
+        <ul class="segment-list">
+          ${segments.map((segment) => `
+            <li>
+              <button class="inline-link" data-id="${escapeHtml(segment.id)}">${escapeHtml(segment.title)}</button>
+              <p>${escapeHtml(truncate(segment.summary || "", 84))}</p>
+            </li>
+          `).join("")}
+        </ul>
+      `));
+    }
+    const inTopics = topics.filter((topic) => (topic.stories || []).includes(node.id) || (topic.cautions || []).includes(node.id));
+    if (inTopics.length) {
+      sections.push(connectionGroup("所属治理专题", `<div class="chip-list">${inTopics.map((topic) => `
+        <button class="inline-link" data-topic="${escapeHtml(topic.id)}">${escapeHtml(topic.title)}</button>
+      `).join("")}</div>`));
+    }
+  } else if (node.type === "tool") {
+    sections.push(connectionGroup("出处故事", chipRow(fm.source_stories || [])));
+    sections.push(connectionGroup("关联概念", chipRow(edgeNeighbors(node, (id) => id.startsWith("concept:")), 6)));
+    const siblings = overlapSiblings(node.id, toolConcepts, "tool:");
+    sections.push(connectionGroup("同类工具（共享概念）", chipRow(siblings)));
+  } else if (node.type === "family") {
+    sections.push(connectionGroup("家族故事", chipRow(fm.source_stories || [])));
+    sections.push(connectionGroup("成员", chipRow(fm.key_people || [], 10)));
+    sections.push(connectionGroup("企业与机构", chipRow(fm.key_companies || [], 8)));
+    sections.push(connectionGroup("概念足迹（点击进入矩阵证据）", matrixChips(familyConcepts(node.id), "family")));
+  } else if (node.type === "segment") {
+    sections.push(connectionGroup("所属故事", chipRow([fm.story])));
+    sections.push(connectionGroup("涉及概念", chipRow(fm.concepts || [], 6)));
+  } else {
+    sections.push(connectionGroup("所属家族", chipRow(fm.families || [])));
+    sections.push(connectionGroup("出场故事", chipRow(edgeNeighbors(node, (id) => id.startsWith("story:")))));
+    sections.push(connectionGroup("关联概念", chipRow(edgeNeighbors(node, (id) => id.startsWith("concept:")), 6)));
+  }
+
+  const related = neighborCards(node);
+  if (related.length) {
+    sections.push(connectionGroup("相邻卡片（共享连接最多）", `<div class="chip-list">${related.map((item) => `
+      <button class="inline-link sibling-chip" data-id="${escapeHtml(item.id)}">
+        <span class="dot" style="color:${colorFor(item.type)}"></span>${escapeHtml(item.title)}
+      </button>
+    `).join("")}</div>`));
+  }
+
+  const body = sections.filter(Boolean).join("");
+  return body || "<p class='empty-state'>还没有关系连接</p>";
+}
+
 function renderEdges(node) {
   const edges = connectedEdges(node.id)
     .sort((a, b) => (b.confidence || 0) - (a.confidence || 0))
@@ -1441,12 +1687,12 @@ function renderDetail(node) {
         </div>
       </div>
       ${conceptBrief(node)}
-      <p>${escapeHtml(node.summary)}</p>
+      <p class="detail-summary">${autoLink(node.summary, node.id)}</p>
       <dl class="meta-list">${renderMetadata(node)}</dl>
     </section>
     <section class="panel detail-links">
       <h3>连接</h3>
-      ${renderEdges(node)}
+      ${renderConnections(node)}
     </section>
   `;
 }
@@ -1672,6 +1918,43 @@ function layoutGraph(nodes) {
   return { width, height, positions };
 }
 
+function layoutEgo(nodes, focusId) {
+  const width = 1080;
+  const height = 620;
+  const cx = width / 2;
+  const cy = height / 2;
+  const positions = new Map();
+  positions.set(focusId, { x: cx, y: cy, side: "center" });
+
+  // neighbors clustered by type so the ring reads as sectors
+  const typeOrder = ["story", "family", "person", "company", "concept", "tool", "event", "segment"];
+  const ring = nodes
+    .filter((node) => node.id !== focusId)
+    .sort((a, b) =>
+      typeOrder.indexOf(a.type) - typeOrder.indexOf(b.type) ||
+      (degree.get(b.id) || 0) - (degree.get(a.id) || 0));
+
+  const inner = ring.slice(0, 14);
+  const outer = ring.slice(14);
+  const place = (list, radius, offset) => {
+    const step = (Math.PI * 2) / Math.max(list.length, 1);
+    list.forEach((node, index) => {
+      const angle = -Math.PI / 2 + offset + step * index;
+      const x = cx + radius * Math.cos(angle);
+      const y = cy + radius * Math.sin(angle);
+      positions.set(node.id, {
+        x,
+        y,
+        side: Math.cos(angle) > 0.25 ? "right" : Math.cos(angle) < -0.25 ? "left" : "middle",
+      });
+    });
+  };
+  place(inner, 170, 0);
+  if (outer.length) place(outer, 262, Math.PI / Math.max(outer.length, 1));
+
+  return { width, height, positions };
+}
+
 function layoutPersonNetwork(nodes, edges) {
   const width = 1080;
   const clusterWidth = 340;
@@ -1741,7 +2024,9 @@ function renderGraph() {
   const edges = selection.edges || data.edges.filter((edge) => ids.has(edge.source) && ids.has(edge.target));
   const { width, height, positions } = selection.mode === "person-network"
     ? layoutPersonNetwork(nodes, edges)
-    : layoutGraph(nodes);
+    : selection.mode === "focus"
+      ? layoutEgo(nodes, selection.focusId)
+      : layoutGraph(nodes);
   const topic = selectedTopic();
   const isFiltered = Boolean(state.query || state.type !== "all" || topic);
 
@@ -1785,10 +2070,14 @@ function renderGraph() {
       const isFocus = node.id === selection.focusId;
       const radius = selection.mode === "person-network" ? 11 : isFocus ? 18 : Math.min(14, 7 + (degree.get(node.id) || 0) * 0.42);
       const label = truncate(node.title, selection.mode === "person-network" ? 11 : isFocus ? 22 : 15);
+      const side = point.side || "right";
+      const labelX = side === "left" ? -(radius + 8) : side === "middle" || side === "center" ? 0 : radius + 8;
+      const labelY = side === "middle" ? (point.y < 320 ? -(radius + 10) : radius + 18) : side === "center" ? radius + 18 : 4;
+      const anchor = side === "left" ? "end" : side === "middle" || side === "center" ? "middle" : "start";
       return `
         <g class="graph-node${isFocus ? " is-focus" : ""}" data-id="${escapeHtml(node.id)}" data-type="${escapeHtml(node.type)}" transform="translate(${point.x}, ${point.y})">
           <circle r="${radius}" fill="${colorFor(node.type)}"></circle>
-          <text x="${radius + 8}" y="4" ${selection.mode === "person-network" ? "style=\"font-size:16px\"" : ""}>${escapeHtml(label)}</text>
+          <text x="${labelX}" y="${labelY}" text-anchor="${anchor}" ${selection.mode === "person-network" ? "style=\"font-size:16px\"" : ""}>${escapeHtml(label)}</text>
         </g>
       `;
     })
@@ -1887,8 +2176,13 @@ document.addEventListener("click", (event) => {
   const matrixButton = event.target.closest("[data-matrix-cell]");
   if (matrixButton) {
     const [family, concept] = matrixButton.dataset.matrixCell.split("|");
+    state.view = "matrix";
+    state.selectedId = null;
+    state.articleId = null;
+    state.topic = "all";
     state.matrixCell = { family, concept };
     render();
+    focusWorkspace();
     return;
   }
 

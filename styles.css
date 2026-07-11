@@ -2235,3 +2235,89 @@ body {
   line-height: 1.35;
   letter-spacing: 0.01em;
 }
+
+/* ================================================================
+   链接层：内联互链、连接分组、片段列表、相邻卡片
+   ================================================================ */
+
+.text-link {
+  display: inline;
+  border: 0;
+  background: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: var(--green-dark);
+  cursor: pointer;
+  border-bottom: 1px dotted var(--azure-soft);
+  transition: color 0.18s, border-color 0.18s;
+}
+
+.text-link:hover {
+  color: var(--green);
+  border-bottom: 1px solid var(--green);
+}
+
+.detail-summary {
+  font-size: 15px;
+  line-height: 1.95;
+}
+
+.connection-group {
+  padding: 12px 0;
+}
+
+.connection-group + .connection-group {
+  border-top: 1px solid var(--line);
+}
+
+.connection-group h4 {
+  margin: 0 0 9px;
+  color: var(--faint);
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.relation-list,
+.segment-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.relation-list li,
+.segment-list li {
+  display: block;
+}
+
+.relation-label {
+  margin-left: 8px;
+  color: var(--gold);
+  font-size: 12px;
+}
+
+.relation-list p,
+.segment-list p {
+  margin: 3px 0 0;
+  color: var(--muted);
+  font-size: 12.5px;
+  line-height: 1.7;
+}
+
+.matrix-link strong {
+  margin-left: 5px;
+  color: var(--gold);
+  font-weight: 600;
+}
+
+.sibling-chip .dot {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  margin: 0 6px 1px 0;
+  border-radius: 50%;
+  background: currentColor;
+}

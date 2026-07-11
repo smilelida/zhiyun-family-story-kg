@@ -161,9 +161,16 @@ assert(viewTitle() === "对照矩阵", "matrix hash should open matrix view");
 
 clickDataset("[data-id]", { id: "person:jrd-tata" });
 assert(graphSection().style.display === "", "selecting a node should reveal its local ego network");
+assert(content().includes("connection-group"), "node detail should render grouped connections");
+assert(content().includes("亲缘与接班"), "person detail should group kinship/succession relations");
+assert(graph().includes("text-anchor"), "ego graph should place side-aware labels");
+
+clickDataset("[data-id]", { id: "concept:steward-ownership" });
+assert(content().includes("案例家族"), "concept detail should list evidencing families");
+assert(content().includes("matrix-link"), "concept families should deep-link into the matrix");
 
 // hash routing: user actions write the hash, hash changes drive the state
-assert(fakeLocation.hash === "#/node/person:jrd-tata", `node selection should update the hash (got ${fakeLocation.hash})`);
+assert(fakeLocation.hash === "#/node/concept:steward-ownership", `node selection should update the hash (got ${fakeLocation.hash})`);
 
 clickDataset("[data-id]", { id: "story:tata" });
 assert(fakeLocation.hash === "#/node/story:tata", `node selection should update the hash (got ${fakeLocation.hash})`);
