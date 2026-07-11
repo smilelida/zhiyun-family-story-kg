@@ -2361,3 +2361,169 @@ body {
 .matrix-scroll {
   max-width: 100%;
 }
+
+/* ================================================================
+   年表与洞察系列
+   ================================================================ */
+
+.timeline-era {
+  padding: 16px 0 4px;
+}
+
+.timeline-era + .timeline-era {
+  border-top: 1px solid var(--line);
+}
+
+.timeline-era h4 {
+  margin: 0 0 10px;
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+}
+
+.timeline-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 2px;
+}
+
+.timeline-item {
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 14px;
+  padding: 9px 4px;
+  border-radius: var(--radius);
+  transition: background-color 0.18s;
+}
+
+.timeline-item:hover {
+  background: rgba(64, 112, 144, 0.05);
+}
+
+.timeline-year {
+  color: var(--green-dark);
+  font-family: var(--serif);
+  font-size: 17px;
+  font-weight: 600;
+  text-align: right;
+  line-height: 1.5;
+}
+
+.timeline-title {
+  font-weight: 650;
+}
+
+.timeline-family {
+  margin-left: 10px;
+  border: 0;
+  background: none;
+  padding: 0;
+  color: var(--gold);
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.timeline-family:hover {
+  color: var(--green-dark);
+}
+
+.timeline-body p {
+  margin: 3px 0 0;
+  color: var(--muted);
+  font-size: 12.5px;
+  line-height: 1.7;
+}
+
+.timeline-undated h4 {
+  color: var(--faint);
+}
+
+.insight-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.insight-item {
+  display: grid;
+  gap: 5px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--paper);
+  padding: 14px 15px;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.2s var(--ease-out), border-color 0.2s, box-shadow 0.2s;
+}
+
+.insight-item:hover {
+  transform: translateY(-2px);
+  border-color: var(--azure-soft);
+  box-shadow: var(--shadow-soft);
+}
+
+.insight-no {
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+}
+
+.insight-item strong {
+  font-size: 14.5px;
+  font-weight: 650;
+  line-height: 1.55;
+}
+
+.insight-meta {
+  color: var(--faint);
+  font-size: 12px;
+}
+
+.insight-callout {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  width: 100%;
+  margin-top: 14px;
+  border: 1px solid var(--azure-soft);
+  border-left: 3px solid var(--green);
+  border-radius: var(--radius);
+  background: var(--cream);
+  padding: 12px 14px;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.2s var(--ease-out), box-shadow 0.2s;
+}
+
+.insight-callout:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-soft);
+}
+
+.insight-callout span {
+  flex: 0 0 auto;
+  color: var(--green-dark);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.insight-callout strong {
+  flex: 1 1 auto;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 650;
+}
+
+.insight-callout em {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-size: 12px;
+  font-style: normal;
+}

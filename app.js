@@ -25,8 +25,12 @@ const state = {
 
 const nodeById = new Map(data.nodes.map((node) => [node.id, node]));
 const articleByStoryId = new Map(articleData.articles.map((article) => [article.story_id, article]));
+const insightArticles = articleData.articles
+  .filter((article) => article.kind === "insight")
+  .sort((a, b) => (a.insight_no || 0) - (b.insight_no || 0));
 const storyTotal = data.nodes.filter((node) => node.type === "story").length;
 const paragraphTotal = articleData.articles.reduce((sum, article) => sum + article.paragraphs.length, 0);
+const insightTotal = insightArticles.length;
 const degree = new Map(data.nodes.map((node) => [node.id, 0]));
 
 for (const edge of data.edges) {
@@ -435,6 +439,7 @@ const navViews = [
   { id: "home", label: "故事地图" },
   { id: "topics", label: "主题索引" },
   { id: "matrix", label: "对照矩阵" },
+  { id: "timeline", label: "年表" },
   { id: "people", label: "人物图谱" },
   { id: "stories", label: "故事列表" },
   { id: "methods", label: "方法论" },
@@ -454,6 +459,11 @@ const viewMeta = {
   matrix: {
     title: "对照矩阵",
     subtitle: "家族 × 治理概念的证据密度总览，点击交叉格查看该家族在该概念下的案例证据。",
+    type: "all",
+  },
+  timeline: {
+    title: "大事年表",
+    subtitle: "跨家族的时间维度：从范氏义庄的义田契约，到安踏收购彪马，事件按年代排布。",
     type: "all",
   },
   people: {
@@ -837,6 +847,29 @@ function renderNodeDirectory({ heading, marker, nodes, description, sort = byCon
   `;
 }
 
+function insightItem(article) {
+  return `
+    <button class="insight-item" data-article-id="${escapeHtml(article.story_id)}">
+      <span class="insight-no">第 ${article.insight_no} 期</span>
+      <strong>${escapeHtml(article.title)}</strong>
+      <span class="insight-meta">约 ${readingMinutes(article)} 分钟</span>
+    </button>
+  `;
+}
+
+function renderInsightShelf() {
+  if (!insightArticles.length) return "";
+  return `
+    <section class="panel panel-wide insight-shelf">
+      <div class="panel-heading">
+        <h3>家族洞察系列</h3>
+        <span>${insightArticles.length} 期 · 跨案例的横向方法文章</span>
+      </div>
+      <div class="insight-grid">${insightArticles.map(insightItem).join("")}</div>
+    </section>
+  `;
+}
+
 function renderTopicsIndex() {
   return `
     <section class="panel panel-wide topic-section">
@@ -857,6 +890,79 @@ function renderTopicsIndex() {
         ${readingPath("所有权与经营", ["ownership", "professionalization", "craft"])}
         ${readingPath("风险与失败", ["credit-risk", "failure", "legitimacy"])}
       </div>
+    </section>
+  `;
+}
+
+function eventYear(node) {
+  const idMatch = String(node.id).match(/-(\d{3,4})$/);
+  if (idMatch) return Number(idMatch[1]);
+  const dateMatch = String(node.frontmatter.date || "").match(/^(\d{3,4})/);
+  if (dateMatch) return Number(dateMatch[1]);
+  const titleMatch = node.title.match(/（(\d{3,4})/) || node.title.match(/(\d{4})/);
+  if (titleMatch) return Number(titleMatch[1]);
+  return null;
+}
+
+function timelineEraLabel(year) {
+  if (year < 1850) return `${Math.floor(year / 100) + 1} 世纪`;
+  return `${Math.floor(year / 10) * 10} 年代`;
+}
+
+function timelineItem(node, year) {
+  const familyId = (node.frontmatter.families || [])[0];
+  return `
+    <li class="timeline-item">
+      <span class="timeline-year">${year ?? "—"}</span>
+      <div class="timeline-body">
+        <button class="inline-link timeline-title" data-id="${escapeHtml(node.id)}">${escapeHtml(node.title)}</button>
+        ${familyId && nodeById.has(familyId) ? `<button class="timeline-family" data-id="${escapeHtml(familyId)}">${escapeHtml(labelFor(familyId))}</button>` : ""}
+        <p>${escapeHtml(truncate(node.summary || "", 96))}</p>
+      </div>
+    </li>
+  `;
+}
+
+function renderTimeline() {
+  const events = data.nodes
+    .filter((node) => node.type === "event" && matchesTopic(node) && matchesQuery(node))
+    .map((node) => ({ node, year: eventYear(node) }));
+
+  const dated = events.filter((item) => item.year).sort((a, b) => a.year - b.year || a.node.title.localeCompare(b.node.title, "zh-CN"));
+  const undated = events.filter((item) => !item.year);
+
+  const groups = [];
+  for (const item of dated) {
+    const label = timelineEraLabel(item.year);
+    if (!groups.length || groups[groups.length - 1].label !== label) {
+      groups.push({ label, items: [] });
+    }
+    groups[groups.length - 1].items.push(item);
+  }
+
+  const groupMarkup = groups.map((group) => `
+    <div class="timeline-era">
+      <h4>${escapeHtml(group.label)}</h4>
+      <ul class="timeline-list">${group.items.map(({ node, year }) => timelineItem(node, year)).join("")}</ul>
+    </div>
+  `).join("");
+
+  const undatedMarkup = undated.length ? `
+    <div class="timeline-era timeline-undated">
+      <h4>跨时期</h4>
+      <ul class="timeline-list">${undated.map(({ node }) => timelineItem(node, null)).join("")}</ul>
+    </div>
+  ` : "";
+
+  return `
+    <section class="panel panel-wide timeline-panel">
+      <div class="section-heading">
+        <h3>家族大事年表</h3>
+        <strong>${dated.length} 个系年事件${undated.length ? ` · ${undated.length} 个跨时期` : ""}</strong>
+      </div>
+      <p class="directory-note">每个事件都链接到它的事件卡与所属家族。搜索与专题筛选同样作用于本页。</p>
+      ${groupMarkup}
+      ${undatedMarkup}
     </section>
   `;
 }
@@ -968,9 +1074,11 @@ function renderMatrix() {
 }
 
 function renderViewDirectory(view) {
-  if (view === "topics") return renderTopicsIndex();
+  if (view === "topics") return renderInsightShelf() + renderTopicsIndex();
 
   if (view === "matrix") return renderMatrix();
+
+  if (view === "timeline") return renderTimeline();
 
   if (view === "people") {
     return renderNodeDirectory({
@@ -1131,6 +1239,13 @@ function renderOverview() {
         <p class="topic-question">${escapeHtml(topic.question)}</p>
         <p>${escapeHtml(topic.thesis)}</p>
         ${linkedChips(topic.concepts, 8)}
+        ${insightArticles.filter((a) => a.topic === topic.id).map((a) => `
+          <button class="insight-callout" data-article-id="${escapeHtml(a.story_id)}">
+            <span>深度洞察</span>
+            <strong>${escapeHtml(a.title)}</strong>
+            <em>约 ${readingMinutes(a)} 分钟 →</em>
+          </button>
+        `).join("")}
       </section>
       ${renderTopicGuide(topic)}
       <section class="panel panel-wide">
@@ -1631,20 +1746,24 @@ function renderArticleReader(article) {
   const story = nodeById.get(article.story_id);
   const relatedIds = uniqueIds([article.story_id, ...(article.related_node_ids || [])]).filter((id) => nodeById.has(id));
   const sourceList = article.source_files
-    .map((file) => `<span class="source-chip">${escapeHtml(file.replace(/^文章\//, ""))}</span>`)
+    .map((file) => `<span class="source-chip">${escapeHtml(file.replace(/^(文章|洞察)\//, ""))}</span>`)
     .join("");
 
   return `
     <section class="article-reader panel-wide">
       <article class="article-main">
         <div class="article-toolbar">
-          <button class="reset-button" data-id="${escapeHtml(article.story_id)}">返回节点</button>
+          ${nodeById.has(article.story_id) ? `<button class="reset-button" data-id="${escapeHtml(article.story_id)}">返回节点</button>` : ""}
           <button class="reset-button" data-reset="true">返回地图</button>
         </div>
         <header class="article-header">
-          <div class="card-type">正文阅读</div>
+          <div class="card-type">${article.kind === "insight" ? "家族洞察" : "正文阅读"}</div>
           <h3>${escapeHtml(article.title)}</h3>
-          <p>${story ? escapeHtml(story.frontmatter.family_governance_signature || story.summary) : ""}</p>
+          <p>${story
+            ? escapeHtml(story.frontmatter.family_governance_signature || story.summary)
+            : article.kind === "insight"
+              ? escapeHtml(`家族洞察 第 ${article.insight_no} 期 · 约 ${readingMinutes(article)} 分钟`)
+              : ""}</p>
           <div class="article-source-list">${sourceList}</div>
         </header>
         <div class="article-body">

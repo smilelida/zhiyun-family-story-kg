@@ -108372,6 +108372,7111 @@ window.ARTICLE_DATA = {
           "related_node_ids": []
         }
       ]
+    },
+    {
+      "story_id": "insight:surname-as-brand",
+      "title": "姓氏的力量，家族的品牌",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 1,
+      "topic": "craft",
+      "source_files": [
+        "洞察/家族洞察 01：姓氏的力量，家族的品牌.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "surname-as-brand-p-001",
+          "level": 1,
+          "title": "家族洞察 01：姓氏的力量，家族的品牌"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "surname-as-brand-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 01：姓氏的力量，家族的品牌",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你有没有想过一个问题：",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么有些家族的姓氏，最终变成了价值千亿的品牌？",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们总以为，品牌是营销的产物。找个好名字，砸钱打广告，请明星代言，让消费者记住就行了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但我研究了二十多个长寿家族之后，发现一个反直觉的规律：",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "真正伟大的品牌，往往是\\\"长\\\"出来的。它们从家族的姓氏生根发芽，用几代人的坚守浇灌，最终长成了消费者心中不可替代的符号。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个故事，听完你可能会重新理解\\\"品牌\\\"这件事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "故事一：爱马仕，\\\"我们只是名字的看护者\\\"",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕（Hermès），全球最顶级的奢侈品牌，市值一度超过LVMH集团。但你可能不知道，这个品牌最大的\\\"护城河\\\"，既非工艺，也非稀缺性，而是一个姓氏。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1837年，德裔法国人蒂埃里·爱马仕在巴黎开了一家马具店。他用自己的姓氏给店铺命名，承诺\\\"每一件离开店铺的商品都附有终身维修的承诺\\\"。从那一刻起，\\\"爱马仕\\\"三个字就和\\\"品质\\\"画上了等号。",
+          "related_node_ids": [
+            "person:thierry-hermes",
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "六代人过去了，爱马仕家族做了一件看起来很\\\"傻\\\"的事：他们从不请明星代言，几乎不做大规模广告，却把姓氏守护得比什么都重要。",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2010年，LVMH集团悄悄收购了爱马仕17%的股份，试图吞并这个顶级品牌。消息传来，爱马仕家族召开紧急会议，50多位家族成员齐聚一堂。会议的主题只有一个：保卫我们的姓氏。",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最后，所有人起立表决，成立\\\"H51联盟\\\"，把超过50%的股份锁定20年，任何人都不得出售。这意味着，每个家族成员放弃了未来20年的变现自由，只为守住祖先的名字。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族族长伯特兰·皮埃什说过一句话，后来成为品牌界的经典：",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"爱马仕是我从子女手中借来的。\\\"",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这句话的分量在于：名字不属于任何一代人，每一代人只是看护者。你的责任是把它完好无损地交给下一代，而且要比接手时更好。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "正因如此，爱马仕的工匠宁可毁掉次品，也不会让有瑕疵的产品流入市场。他们知道，每一件打着\\\"Hermès\\\"标签的商品，都是在用家族的姓氏做担保。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当品牌就是家族的姓氏，每一个决策都会变得不一样。你不会为了短期利润降低品质，因为那是在砸自己祖宗的招牌；你不会贪图扩张而失去控制，因为那是在拿家族的脸面冒险。名字是最好的约束，也是最深的护城河。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "故事二：高木酒造，每代人都要\\\"继承\\\"同一个名字",
+          "related_node_ids": [
+            "company:takagi-shuzo"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "高木酒造，日本清酒界的传奇。他们酿造的\\\"十四代\\\"清酒被称为\\\"幻之酒\\\"，一瓶难求，价格被炒到天价。",
+          "related_node_ids": [
+            "company:takagi-shuzo"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但这个家族最独特的地方，不在于酒有多好喝，而在于他们有一个延续了400年的传统：每一代当主，都要\\\"袭名\\\"为\\\"辰五郎\\\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1615年，高木家族的第一代当主获得藩主授予的酿酒许可，正式创立酒坊。那一年，他改名为\\\"辰五郎\\\"，这个名字从此成为家族当主的专用名号。此后每一代继承人在正式接班时，都要放弃自己的原名，继承祖先的名字。",
+          "related_node_ids": [
+            "family:takagi-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "比如，第十四代当主原名\\\"高木尚\\\"，接班后改名为\\\"第十四代辰五郎\\\"；他的儿子高木显统，在2023年正式袭名为\\\"第十五代辰五郎\\\"。",
+          "related_node_ids": [
+            "person:takagi-akitsuna"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个传统的深意在于：名字不再是个人的私产，而是家族意志的载体。每一代当主都被提醒，你只是暂时保管着\\\"辰五郎\\\"这块招牌，你的任务是把它无损地传给下一代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1993年，高木酒造陷入困境。清酒市场萎缩，老杜氏退休，25岁的高木显统被父亲紧急召回，临危受命接任酿酒师。",
+          "related_node_ids": [
+            "person:takagi-akitsuna",
+            "company:takagi-shuzo"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个25岁的年轻人，要扛起400年的家族基业，压力可想而知。但正是\\\"辰五郎\\\"这个名字给了他力量。他知道，自己身后站着15代祖先。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "显统后来说：\\\"从父亲身上学到最多的是一种使命感：作为名门之后，要为社会做出贡献。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这种使命感让他拼了命也要把酒酿好。第一个冬天，他每天从凌晨忙到深夜，最后累到心脏出问题，在病床上昏迷了三天。但他酿出的\\\"十四代\\\"清酒一炮而红，成为日本酒界的传奇。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当你背负着祖先的名号，你就不会轻易放弃。15代人用同一个名字酿酒，这个名字本身就成了品质的承诺。消费者买的不只是一瓶酒，更是\\\"辰五郎\\\"这块招牌背后400年的信誉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "故事三：古驰，当家族配不上自己的名字",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰（Gucci），全球最知名的奢侈品牌之一。但你可能不知道，这个以家族姓氏命名的品牌，最终却把家族赶出了自己创立的公司。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1921年，古驰欧·古驰在佛罗伦萨开了一家皮具店，用自己的姓氏命名。凭借精湛工艺，\\\"Gucci\\\"很快成为上流社会的宠儿。到1970年代，Gucci已经是全球最炙手可热的奢侈品牌。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然后，一切开始崩塌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二代的两兄弟阿尔多和鲁道夫各怀心思，表面和气，暗中较劲。阿尔多仗着功劳大，私自把香水业务的利润分给自己和儿子，损害弟弟的利益。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三代更是一塌糊涂。阿尔多的儿子保罗，为了报复父亲不给他自立门户，居然向美国国税局举报父亲逃税，把81岁的老父亲送进了监狱。鲁道夫的儿子毛里齐奥夺权后，挥霍无度、经营不善，把公司搞得濒临破产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最荒唐的是结局：毛里齐奥被迫卖掉股份退出公司后，他的前妻帕特里齐娅买凶将他枪杀在公司门口。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个以家族姓氏命名的品牌，最后家族成员却自相残杀，血洒门前。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1993年，古驰家族被彻底逐出公司。讽刺的是，没有了家族的Gucci反而重获新生。职业经理人团队接手后，把品牌经营得风生水起，市值节节攀升。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "名字是把双刃剑。它可以是家族最大的资产，也可以是最沉重的包袱。当家族的行为配不上这个名字，消费者会问：\\\"这还是那个Gucci吗？\\\"最终，品牌选择抛弃家族，以求自保。Gucci这个名字活了下来，但古驰家族成了局外人。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个故事，同一个规律",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕家族守护姓氏如命，高木家族让每代人继承同一个名字，古驰家族却因为配不上自己的名字而被扫地出门。",
+          "related_node_ids": [
+            "company:gucci",
+            "company:hermes",
+            "family:hermes-family",
+            "family:gucci-family",
+            "family:takagi-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个完全不同的命运，指向同一个规律：品牌即家族，家族即品牌。当姓氏变成品牌，名字就成了一种契约，你必须用行动来配得上它。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么\\\"名字的力量\\\"如此重要？",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "名字是最好的约束机制。 当品牌就是你的姓氏，每一个决策都会变得慎重。爱马仕宁可销毁次品也不让有瑕疵的产品流出，因为那是在用家族的脸面做担保。高木酒造的当主25岁就拼命酿酒，因为他背负着15代祖先的名号。反过来说，如果品牌只是一个商业符号，你可能会为了短期利润而偷工减料，反正消费者不认识你这个人。",
+          "related_node_ids": [
+            "company:takagi-shuzo",
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "名字是跨越时间的承诺。 一个普通的商业品牌可能活不过20年，但一个家族姓氏可以传承400年。高木酒造的\\\"辰五郎\\\"已经传了15代，爱马仕的\\\"H\\\"标识已经沿用了近200年。每一代人接过名字的时候，都在续写前人的承诺，也在为后人积累信誉。这种跨越时间的积累，是任何营销手段都无法复制的。",
+          "related_node_ids": [
+            "company:takagi-shuzo",
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "名字必须用行动来配得上。 古驰家族的教训告诉我们，名字是有生命的，它需要被\\\"喂养\\\"，用品质、用坚守、用每一代人的努力。如果你的行为配不上这个名字，名字就会\\\"抛弃\\\"你。古驰品牌活下来了，古驰家族却被逐出了自己创立的公司。品牌可以脱离家族而存在，但到那时候，它已经不再属于你了。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "给我们的启发",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当然，并非每个家族都需要用自己的姓氏来命名品牌。但这三个故事值得每一个家族企业深思。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕家族说，\\\"名字是从子女手中借来的\\\"。这句话的意思是，每一代人都只是名字的临时保管者。你不能为了一己私利而损害它，因为它不只属于你，还属于所有用这个名字的前人和后人。对于家族企业来说，无论品牌叫什么，声誉都是最宝贵的遗产。",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "高木酒造的\\\"袭名\\\"传统则揭示了另一层道理：当你背负着一个有分量的名字，你就不会轻易懈怠。这个名字会时刻提醒你，你是在延续一个传承。家族企业不一定要像日本人那样真的改名，但可以通过家训、家徽、家族宪章等方式，建立起某种\\\"名号传承\\\"的仪式感，让每一代人都意识到自己肩上的责任。",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution",
+            "company:takagi-shuzo"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而古驰家族的悲剧最为警醒：名字是有\\\"期望\\\"的。当你用家族姓氏命名品牌时，消费者对你的期望会更高。一旦你的行为配不上这份期望，名字就会成为讽刺。要么你提升自己去配得上名字，要么名字会\\\"甩掉\\\"你。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "surname-as-brand-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "所以，如果你正在经营一个家族企业，不妨问自己三个问题：",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"如果这个品牌用的是我的姓氏，我还会做同样的决定吗？\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"100年后，后人会怎么评价我们这一代人对这个名字的守护？\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"我们的行为，配得上这个名字吗？\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "名字是家族最深刻的契约。它记录着祖先的承诺，也约束着后人的行为。真正伟大的品牌，是被\\\"活\\\"出来的。当家族的每一代人都像爱护自己的脸面一样爱护这个名字，这个名字就会变成最坚固的护城河。它不需要广告，不需要营销，只需要几代人默默地守护和传承。",
+          "related_node_ids": []
+        },
+        {
+          "id": "surname-as-brand-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "*案例来源：爱马仕家族故事：一门手艺的六代传承\\]\\]、\\[\\[从\\\"朝日鹰\\\"到\\\"十四代\\\"：高木酒造家族的四百年传承\\]\\]、\\[\\[金色双 G 的阴影：古驰家族百年兴衰*",
+          "related_node_ids": [
+            "story:gucci",
+            "story:hermes",
+            "company:gucci",
+            "company:takagi-shuzo",
+            "company:hermes",
+            "family:hermes-family",
+            "family:gucci-family"
+          ]
+        }
+      ]
+    },
+    {
+      "story_id": "insight:founder-testament",
+      "title": "创始人的“遗书”比遗产更重要",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 2,
+      "topic": "rules",
+      "source_files": [
+        "洞察/家族洞察 02：创始人的“遗书”比遗产更重要.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "founder-testament-p-001",
+          "level": 1,
+          "title": "家族洞察 02：创始人的“遗书”比遗产更重要"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "founder-testament-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 02：创始人的“遗书”比遗产更重要",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你有没有想过一个问题：",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么有些家族能传承百年、价值观代代相传，有些家族却在创始人去世后立刻分崩离析？",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们总以为，家族传承的关键是遗产分配。谁拿多少股份、谁继承哪块产业、税务怎么规划。只要把钱分清楚，就万事大吉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但我研究了二十多个长寿家族之后，发现一个反直觉的规律：",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "传承最成功的家族，创始人留下的\\\"遗书\\\"往往比遗产更重要。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这里说的\\\"遗书\\\"，远超法律意义上的遗嘱。它是创始人用文字、用行动、用制度凝结的精神遗产：信条、家训、价值观、人生哲学。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "钱可以分完，股份可以稀释，产业可以没落。但一份写进家族灵魂的\\\"精神遗嘱\\\"，却能穿越时代，成为子孙后代面对抉择时的指南针。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个故事，听完你可能会重新思考\\\"传什么\\\"这件事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世：一封写给11岁儿子的信",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世，全球最大的汽车零部件供应商，德国工业的骄傲。这家公司有一个独特之处：创始人家族不拥有公司，但公司始终按照创始人的价值观运转。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这一切，源于创始人罗伯特·博世留下的一封信和一份遗嘱。",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1939年，78岁的博世给他11岁的小儿子写了一封信。这封信远超普通家书的分量，它承载着一份精神遗产：",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"我最亲爱的孩子，我已经到了一定年纪，不期望能活到见证你接管我多年创下的事业的那一天......我只想说，对我来说非常重要的是，有一天你能够执掌和继续我的生意，并且那时你已经为此充分作好了准备。这并不容易，但是这个任务，这个雄心勃勃的目标，是我能留给你的最好的事物......\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世在信中告诫儿子：\\\"尤其要提防那些告诉你不要总是听信\\'老家伙\\'的人。恰恰相反，要多关注这些\\'老家伙\\'们，听听他们的话，因为他们一定会以公司利益为先，并会给你最好的建议。\\\"",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这封信写完三年后，博世去世。他留下的不只是这封信，还有一份详尽的遗嘱和三套行动准则。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "遗嘱中最关键的两条：",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一，企业的领导权绝不能交到不合适的人手里，企业比家人重要。博世深爱家人，但他对企业长存的追求更为强烈。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二，创办企业的最终目的是为了公益。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他还指定了七位遗嘱执行人，其中最关键的是私人秘书汉斯·瓦尔茨。博世特别规定：如有争议，以瓦尔茨的解读为准。",
+          "related_node_ids": [
+            "person:hans-walz",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "安排看似周全，执行过程却历经波折。博世去世时，小儿子才14岁，根本无力接班。等儿子长大后尝试参与管理，却因能力不足被遗嘱执行人\\\"请出\\\"了决策层。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你能想象这个场面吗？创始人在信中殷殷嘱托儿子接班，结果儿子被自己父亲指定的执行人\\\"开除\\\"了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但这恰恰体现了博世遗嘱的精髓：企业比家人重要，能力比血缘重要。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "直到1964年，博世去世22年后，\\\"三权分立\\\"的架构才最终落地。家族将大部分股权捐给基金会用于公益，投票权交给工业信托，经营权交给职业经理人。",
+          "related_node_ids": [
+            "concept:separation-of-rights",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世家族为什么能做出这个决定？因为博世的精神遗产已经深入人心。",
+          "related_node_ids": [
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "founder-testament-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世基金会2004年年报中写道：\\\"约40年前，他和家人放弃了巨额继承财产，将所持股份的大部分转入罗伯特·博世基金会。他和家人铺平了今日博世集团宪章的道路。\\\"",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "至今，博世集团的高管和家族成员在做重大决策时，据说仍会问自己一个问题：\\\"如果罗伯特·博世面临我们今天的选择，他会怎么做？\\\"",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一封写给孩子的信，一份详尽的遗嘱，加上一套清晰的行动准则。这些\\\"精神遗产\\\"比任何财产都更有生命力。它们指导了继承人的选择，更塑造了整个家族和企业的灵魂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "洛克菲勒：写进家族灵魂的《信条》",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "洛克菲勒，美国历史上第一位亿万富翁，标准石油的创始人。他的家族已经传承了七代，至今仍是美国最显赫的家族之一。",
+          "related_node_ids": [
+            "company:standard-oil"
+          ]
+        },
+        {
+          "id": "founder-testament-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "洛克菲勒家族传承成功，靠的是一份被称为《信条》的精神遗产。这比任何信托架构和税务规划都更加根本。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "founder-testament-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "约翰·D·洛克菲勒二世（创始人的儿子）在成年后公开阐述了这份《信条》，以一系列\\\"我相信......\\\"的宣言形式列出人生准则：",
+          "related_node_ids": [
+            "person:john-d-rockefeller"
+          ]
+        },
+        {
+          "id": "founder-testament-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"我相信每一项权利都意味着一份责任；每一个机会都意味着一项义务；每一件财产都意味着一份职责。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"我相信无论脑力劳动还是体力劳动都有尊严。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"我相信承诺的神圣性，一个人说出的话应当和债券一样有效。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"我相信提供有益的服务是人类共同的责任，唯有用牺牲精神的火焰才能烧尽自私的渣滓，释放出人性伟大的光辉。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"我相信爱是世界上最伟大的力量；只有爱能够战胜仇恨；正义终将战胜强权。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "责任、诚信、奉献、仁爱，这些理念通过家庭信条内化为每位家族成员的人生指南。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "老洛克菲勒还给儿子写了大量家书，其中一封这样写道：",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"当你和姐妹们年幼时，我故意没有让你们知道家里很富裕。我向你们灌输节俭和个人奋斗的价值观，因为我知道，给孩子金钱会让他们堕落、傲慢，失去幸福的源泉。我不能用财富活埋我挚爱的孩子，让你们变成无能而只依赖父母成就的人。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些话听着像\\\"鸡汤\\\"，但洛克菲勒是认真的。他把理念落实成了可执行的制度。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "洛克菲勒家族有一套独特的\\\"财务训练计划\\\"：",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "founder-testament-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每个孩子每周只能得到25美分的固定零用钱，其余的钱都得自己劳动赚取。孩子们人手一本账簿，每天记录收入和支出，每个月都要平衡账目。每赚到1美元，就要拿出一毛存起来，另一毛用于捐献或行善。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这种\\\"三分制\\\"的零花钱管理法被称为\\\"洛克菲勒规则\\\"，核心是：工作挣钱、储蓄积累、慈善捐赠、再消费享用。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "甚至在成年后，家族信托的受益人仍需定期向信托董事会提交一封信，详细说明自己如何运用了信托拨款，信中要体现\\\"投资、储蓄、消费、慈善\\\"四项原则的平衡。",
+          "related_node_ids": [
+            "tool:family-trust",
+            "concept:family-trust"
+          ]
+        },
+        {
+          "id": "founder-testament-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "亨利·基辛格曾评价说：\\\"我从未见过洛克菲勒家族中有花花公子。\\\"",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "founder-testament-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "洛克菲勒家族还有固定的家族会议传统。从第三代开始，全体直系后代每年有两次大型聚会。当家族子弟年满21岁时，会被正式邀请参加家族论坛，长辈欢迎新成年成员发表自我介绍，宣示其正式成为洛克菲勒家族的成年一员。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "founder-testament-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "《信条》从来不是挂在墙上的口号。洛克菲勒把抽象的价值观变成了具体的制度：零花钱规则、记账习惯、慈善捐赠比例、信托报告、家族仪式。每一代人都在日复一日的实践中，把这些理念刻进了骨子里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆：\\\"一封家书换一笔钱\\\"",
+          "related_node_ids": [
+            "person:wang-yongqing"
+          ]
+        },
+        {
+          "id": "founder-testament-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆，台湾\\\"经营之神\\\"，台塑集团创始人。他的子女中，最出名的是创立HTC的王雪红，一位白手起家、在与父亲完全不同的领域取得巨大成功的企业家。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang",
+            "company:formosa-plastics"
+          ]
+        },
+        {
+          "id": "founder-testament-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王雪红的成功，源于父亲一套独特的\\\"精神传承\\\"方式：一封家书换一笔钱。",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "founder-testament-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆很早就将子女送到海外独自求学，最小的年仅15岁。他没有简单地提供优渥的生活费，他建立了一套\\\"家书换生活费\\\"制度。",
+          "related_node_ids": [
+            "person:wang-yongqing"
+          ]
+        },
+        {
+          "id": "founder-testament-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "具体怎么操作？",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "子女必须定期给他写信，详细汇报每一笔开销，小到\\\"连买牙膏也写上去\\\"，才能从他那里领到下一笔生活费。他给的钱总是\\\"刚刚好\\\"，几乎没有结余，旨在培养他们对金钱\\\"正当\\\"、\\\"合理\\\"的运用观念，彻底戒除享乐主义。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "有意思的是，王永庆寄给子女的回信，通篇都是厚厚的\\\"经营管理教程\\\"，鲜少嘘寒问暖的家常。",
+          "related_node_ids": [
+            "person:wang-yongqing"
+          ]
+        },
+        {
+          "id": "founder-testament-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在给王雪红的信中，他会详细讲述公司最近遇到的问题、面临的挑战以及他如何思考和解决的，试图将自己的经营哲学和处世之道，通过文字一点一滴地灌输给远在异国的女儿。",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "founder-testament-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这种教育模式的底层逻辑是什么？",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆白手起家，深知\\\"富不过三代\\\"的魔咒源于子孙的懒惰和腐化。他试图通过人为制造的\\\"艰苦环境\\\"（穷养）和持续不断的\\\"思想汇报\\\"（家书），在子女身上复制自己的核心能力和价值观。",
+          "related_node_ids": [
+            "person:wang-yongqing"
+          ]
+        },
+        {
+          "id": "founder-testament-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "效果如何？",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王雪红从加州大学伯克利分校毕业后，没有进入庞大的台塑体系。她说服母亲抵押房子贷款500万新台币，自己创业。她先后参与创立了威盛电子和HTC，在2011年一度成为台湾首富。",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "founder-testament-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王雪红被公认为是所有子女中最像父亲王永庆的人。这种\\\"像\\\"，无关外貌，无关行业，是一种深入骨髓的精神气质。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "founder-testament-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆坚持数十年如一日凌晨3点起床运动、工作；王雪红同样坚持每周长跑，早上5点半即起，几十年不间断。她坦言，自己从不服输、勇于挑战的性格深受父亲影响，每当遇到挫折时，她都会自问：\\\"父亲会怎么做？他会放弃吗？\\\"",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "founder-testament-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最成功的传承，是核心价值观的内化与再创造。王雪红没有继承父亲的产业，却继承了父亲的精神。那些信中反复强调的\\\"追根究柢\\\"精神、那些强制性的财务汇报训练，最终内化为她的人格底色，让她在完全不同的领域取得了青出于蓝的成就。",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "founder-testament-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这三个故事在说什么？",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世留下的是一封信和一份遗嘱，洛克菲勒留下的是一份《信条》和一套制度，王永庆留下的是\\\"一封家书换一笔钱\\\"的教育方式。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个完全不同的家族，做出了同一个选择：",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把\\\"怎么做人、怎么做事\\\"的精神遗产，看得比\\\"分多少钱、分哪块地\\\"的物质遗产更重。",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么精神遗产更有价值？",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "物质遗产会缩水，精神遗产却在增值。博世去世时公司还只是一家中型企业，如今已是全球500强第105名。洛克菲勒的财富经过七代分散，人均已大不如前，但家族的社会影响力依然巨大。王永庆留给王雪红的不是股份，是精神。她用这份精神创造了远超父亲给予的物质价值。钱会花完、会贬值、会被分割，但写进灵魂的价值观，只会随着实践不断增值。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "物质遗产制造纷争，精神遗产凝聚人心。博世的遗嘱明确\\\"企业比家人重要\\\"，所以当儿子能力不足时，执行人可以果断做出决定。洛克菲勒家族的《信条》让每个成员都清楚\\\"我们是谁、我们信什么\\\"，利益分配时便不至于撕破脸。没有共同的价值观，再精密的股权架构也挡不住人心的算计；有了共同的信仰，即使利益有冲突，也能找到和解的基础。",
+          "related_node_ids": [
+            "company:bosch",
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "founder-testament-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆说过一句话：\\\"儿孙能如我，何必留多财；倘若不如我，多财也是空。\\\"他没有给王雪红股份和职位，却给了她比这更珍贵的东西：面对困境时不放弃的韧性、追根究柢的思维方式、自律勤奋的生活习惯。这些能力，让她在任何时代、任何行业都能创造属于自己的价值。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "founder-testament-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "给我们的启发",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当然，不是每个创始人都能像博世、洛克菲勒、王永庆那样深谋远虑。但这三个故事给出了三个清晰的启发：",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写下来，比说出来更有力量。 博世的那封信、洛克菲勒的《信条》、王永庆的家书，它们之所以能穿越时代，是因为变成了文字。口头的教诲会被遗忘、被曲解、在传递中失真。白纸黑字的\\\"精神遗嘱\\\"，可以被反复阅读、被子孙引用、被后人传颂。如果你有想传给后代的人生智慧，现在就动笔。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "founder-testament-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把价值观变成制度，比空洞的说教更有效。 洛克菲勒规定\\\"每赚1美元，1毛存起来，1毛捐出去\\\"；王永庆规定\\\"写信汇报每一笔开销才能领生活费\\\"。价值观如果只是口号，很容易被忽视；一旦变成必须执行的制度，就会在实践中被内化。",
+          "related_node_ids": [
+            "person:wang-yongqing"
+          ]
+        },
+        {
+          "id": "founder-testament-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "传\\\"精神\\\"比传\\\"产业\\\"更持久。 王雪红没有继承台塑，却成为了比任何台塑继承人都更成功的企业家。博世家族不拥有博世公司，但博世的精神依然主导着公司的方向。最好的传承，是让孩子无论走到哪里、做什么事业，都带着家族的精神底色。",
+          "related_node_ids": [
+            "person:cher-wang",
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "founder-testament-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "所以，如果你想让家族的精神传承下去，不妨问自己一个问题：",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\\\"如果我今天写一封信给子孙后代，我最想告诉他们什么？\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "founder-testament-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那封信里写的内容，可能比你银行账户里的数字更有价值。",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:fairness-and-infighting",
+      "title": "内斗的根源，往往在“公平”上",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 3,
+      "topic": "conflict",
+      "source_files": [
+        "洞察/家族洞察 03：内斗的根源，往往在“公平”上.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "fairness-and-infighting-p-001",
+          "level": 1,
+          "title": "家族洞察 03：内斗的根源，往往在“公平”上"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "fairness-and-infighting-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 03：内斗的根源，往往在“公平”上",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1995年3月27日，米兰，清晨。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰家族第三代掌门人毛里齐奥·古驰走向自己的办公室，台阶上响了几枪。他倒在那里，没再起来。",
+          "related_node_ids": [
+            "person:maurizio-gucci",
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "开枪的人受雇于他的前妻。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个全球顶级奢侈品帝国的终局，是一桩谋杀。这颗子弹的引信可以追溯到七十年前，追溯到一个在当时看来毫无争议的决定：创始人把股权平均分给了三个儿子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们写过二十多个家族故事，渐渐看出一条反直觉的线索：许多家族内斗的根源，恰恰藏在那个看起来最\\\"公平\\\"的分配方案里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个故事，说的是同一件事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰：做饼的人和分饼的人",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰的创始人古驰欧喜欢让儿子们互相较劲。他相信竞争出人才。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分股权时，他却选了最省心的办法：三个儿子，每人三分之一。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个人的贡献全然不同。长子阿尔多是帝国真正的建造者，是他把佛罗伦萨一间小小的皮具铺子搬上了纽约第五大道，是他画出了双G商标，造出了竹节包。老二瓦斯科对生意毫无兴趣，老三鲁道夫迷恋演艺圈，偶尔在公司露个面，算是打了卡。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可分红的时候，三人一分不差。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这笔账，阿尔多越算越堵。他一个人把品牌做到了全世界，弟弟们只管伸手接钱。瓦斯科病逝后，他和鲁道夫各持50%，而鲁道夫依旧什么都不管。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "有一种不公平，不是明面上的苛待，是长年累月地目睹别人用你的功劳过日子。这种积怨会累积，会渗透。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿尔多开始暗中\\\"找补\\\"。新开的香水子公司，他给自己和三个儿子留了80%，鲁道夫只分到20%。他想用这个口子，弥补主业分配上那道说不出口的委屈。鲁道夫发现后，兄弟之间最后的默契也没了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "裂痕传到了下一代。阿尔多的儿子保罗想独立创业，父亲不许，直接把他赶出公司。保罗怒到了极点，转身去国税局举报父亲逃税。81岁的阿尔多，被自己的儿子送进了监狱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "保罗的心思其实很简单：你不让我做主，那这张桌子我掀给你看。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "再后来，毛里齐奥拉上保罗，联手把阿尔多赶下了台。堂兄弟为了抢权，愿意和昨天的仇人联手。到这一步，\\\"家族\\\"两个字已经只剩下血缘上的意思了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "结局是整个古驰家族被资本扫地出门。双G商标至今闪亮，和古驰家一点关系也没有了。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "人对公平的感知，从来不是一道算术题。没有人会去比较\\\"我拿了多少\\\"，每个人比较的都是\\\"我付出了多少，拿回了多少\\\"。这两个数字之间一旦出现豁口，人会想尽办法堵上它。阿尔多暗设子公司是堵，保罗举报父亲也是堵，毛里齐奥联手夺权还是堵。每堵一次，口子反而撕得更大。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "组织行为学管这叫\\\"分配公正\\\"的崩塌。古驰家用了三代人，完整地演示了这个崩塌过程。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "安巴尼：一位母亲画出的边界",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "信实集团的创始人迪鲁拜·安巴尼，是印度商业史上少有的传奇。白手起家，石油、化工、电信、零售铺了一整张版图，市值数千亿美元。",
+          "related_node_ids": [
+            "person:dhirubhai-ambani"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2002年，迪鲁拜猝然离世，身后没有遗嘱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "大儿子穆克什被推上了集团主席的位子，小儿子阿尼尔只拿到\\\"联合董事\\\"四个字。阿尼尔咽不下。他觉得自己不比哥哥差，凭什么起步就矮了一截。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "兄弟俩从暗中较劲迅速升级到公开对峙。你说我越权，我说你不透明。两人隔空交火的那段日子，股市剧烈震荡，印度政府都坐不住了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在所有人都束手无策的时候，一个从没碰过公司事务的人站了出来：他们的母亲，科姬娜本。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科姬娜本是传统的印度家庭主妇。但在那个时刻，她是世界上唯一能让两个儿子坐到同一张桌前的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "调解持续了好几个月。2005年6月，科姬娜本给出了她的方案，两个字：分家。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "穆克什拿走石化、炼油、油气等核心板块，阿尼尔拿走电信、电力、金融等新兴业务。资产比例大约七比三。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不平均。但她考虑了一个外人很难看清的变量：穆克什拿的那一份是稳定的现金流，增长有限；阿尼尔那一份充满风险，同时也意味着更高的天花板。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分家之后的走向所有人都知道了。穆克什带着石化板块继续壮大，又杀入电信领域推出Jio，颠覆了整个印度通信市场，做到了亚洲首富。阿尼尔的电信公司战略失误，一路下滑，最后破产。他在英国法庭上说了一句让人唏嘘的话：\\\"我的净资产为零。\\\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个人的命运截然不同。但有一件事是确定的：他们没有在互相消耗中一起沉没。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果不分家呢？两兄弟困在同一间董事会里，你掣我肘我拆你台，谁也施展不开。那个场景里，不太可能有赢家。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分家表面上是\\\"少了一半\\\"，底下是能量的释放。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科姬娜本做对了什么？她没有在\\\"每人分多少\\\"这个数字上纠缠。她把精力放在了另一件事上：过程。规则是否说得清楚？边界是否画得明白？双方是否都觉得自己被认真听过了？这些问题理顺之后，\\\"70:30\\\"这个数字就不再那么刺眼。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族冲突研究者Kellermanns和Eddleston有一个有趣的发现：家族企业里的争端其实有不同的品种。兄弟反目、猜忌积怨那种属于关系冲突，对企业只有坏处。但对战略方向的分歧、对做事方法的争论，如果控制在一定范围之内，反而能逼出更好的决策。科姬娜本的分家，实质上做了一件事：把两兄弟之间那场不断加剧的关系冲突，拆成了两个独立个体各自面对的经营挑战。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "冲突没有消失，它变了形态。变形之后，它不再有毒。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛宣怀：一个父亲的远见，和五个儿子的不买账",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛宣怀，晚清首富。轮船招商局、汉冶萍钢铁公司、中国通商银行，都是他一手缔造的。一个人撑起了十一项\\\"中国第一\\\"。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai",
+            "company:china-merchants-steam-navigation",
+            "company:hanyeping"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1916年去世时，他留下了大约1350万两白银，相当于一个普通家庭几万年的花销。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更值得说的是他留下的另一样东西：一份极为超前的传承方案。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛宣怀晚年流亡日本，仔细研究了三井家族\\\"永不分家\\\"的秘诀。设议会、立宪法，产业归家族共有，子孙只分利润，不碰本金。他被这套制度打动了，回国后照着做了一个\\\"至善堂议会\\\"。遗嘱的核心就八个字：\\\"动利不动本\\\"。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家产不拆。每年的收益分给各房，本金永远留在家族名下，交给专业人士打理。一半养子孙，一半做慈善。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这在百年前的中国是极为先锋的设计，几乎就是家族信托的雏形。",
+          "related_node_ids": [
+            "tool:family-trust",
+            "concept:family-trust"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "落地不到一年，整个体系就塌了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "先走的是负责管理的总经理和副经理。五房子孙处处刁难，两人实在干不下去。子孙们心中的疑问很朴素，也很尖锐：我们盛家的钱，凭什么让外人来管？",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "紧接着是更深一层的不满：只让拿利润不让碰本金，我们每年实际到手的钱少得可怜。我们是盛家的血脉，碰自己的家产，有什么不对？",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族被迫让步。一半资产切给五房，另一半勉强留作公益基金。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "钱到手之后，新的混乱立刻开始。四子盛恩颐嗜赌如命，一个晚上输掉了上海一百多套房产。七女儿盛爱颐站出来质问：凭什么只有儿子能分，女儿没有份？民国法律白纸黑字写着女性有继承权。她一纸诉状，把几位兄长告上了法庭。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "官司她赢了。家也彻底碎了。政府趁乱介入，借\\\"清查遗嘱\\\"的名义征走了将近一半资产充作军费。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每一个人都吃了亏。包括那个已经不在了的盛宣怀。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "制度本身没问题。问题出在一个容易被忽略的地方：谁来决定这套制度。盛宣怀设计了一个精密的方案，然后告诉子孙们\\\"照办\\\"。子孙们从头到尾都是被告知的对象，不是参与商议的当事人。他们没有机会提问、没有机会讨价还价、没有机会在争论中慢慢建立认同。一个人不会真心遵守他没有参与制定的规则。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这里面还藏着一层更微妙的东西。研究家族企业的学者Schulze提出过一个词叫\\\"应得感\\\"（sense of entitlement）。父母对子女越慷慨、越保护，子女心中就越容易生长出一种感觉：这些财富天然就是我的。这种感觉遇到约束时，激起的反弹格外凶猛。盛宣怀的子孙们不会把\\\"动利不动本\\\"理解为保护。在他们眼里，那就是剥夺。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲留下了最好的制度，却没有留下理解制度的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "龟甲万：八个家族酿一碗酱油，酿了三百六十年",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "前面三个故事都是教训。有没有谁真正做成了？",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "日本有一家酱油公司叫龟甲万。正式注册在1917年，但酿酱油的历史可以追溯到1630年代。更不寻常的一点是，龟甲万从来不属于某一个家族。它是八个家族的共同体------六支茂木家、一支高梨家、一支堀切家，在野田这座小城里酿了两百多年酱油，彼此竞争，也彼此熟悉。1917年，他们决定合并成一家公司。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "八个家族，一百多年共治，没有爆发过一次公开的内斗。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "靠什么？",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "靠一条在合并谈判时就立下的铁规：每个家族支系，每一代只能派一个人进龟甲万工作。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "就一个人。不论你那一支有多少优秀的后辈，名额只有一个。持股最多的茂木七郎右衛门支系，占了合并后大约27%的股份，派一个人。最小的支系，也派一个人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条规矩的用意是：\"防止任何一支获得主导地位。\\\"如果不限人数，大支系往公司里塞七八个人，自然形成小圈子；别的支系看了不安，也开始抱团。用不了两代，整个共治结构就会从内部瓦解。一人，是数学上防止内耗的最小单位：不能少于一，少了就没有参与感；不能多于一，多了就会结党。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条规矩还逼着每个支系认真挑人。名额只有一个的时候，家族内部的竞争变成了向上的筛选：谁最合适？当名额不受限，竞争往往退化为向下的内耗：谁的关系硬？",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "被选中的那个人进公司之前，还要先到外面去历练。在别的企业工作数年，拿到实打实的业绩，证明自己不是靠姓氏吃饭。茂木坚三郎被收养进茂木七郎右衛门支系后，先在龟甲万的非管理岗位干了九年，才去哈佛商学院读MBA。茂木修进入家族企业之前，在芝加哥的普华永道做了三年审计。",
+          "related_node_ids": [
+            "person:kenzaburo-mogi",
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "能走进龟甲万大门的家族成员，都已经在外面的市场上验证过自己。他们的位置是能力换来的，别的支系看在眼里，服气。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "社长的位子也在家族之间轮转。合并后的一百多年里，历任社长绝大多数出自茂木家的不同支系，也有堀切家的人担任------堀切功章从2013年做到2023年。不同支系轮流执掌最高权力，谁也无法世袭垄断那把椅子。直到2023年，龟甲万才迎来了一百多年历史上第一位非家族出身的社长中野祥三郎。这时候家族成员并没有退场，茂木佑三郎以名誉会长的身份留在董事会，茂木修负责国际业务，堀切功章担任执行会长。他们从经营者变成了守护者------不再主导日常决策，但仍在最重要的战略层面维持存在。",
+          "related_node_ids": [
+            "person:shozaburo-nakano",
+            "person:yuzaburo-mogi",
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "还有一件事值得单独说。合并之后，八个家族花了整整二十三年，才完成品牌统一。每家原本都有自己的商标，用谁的名字做新公司的门面？这是一道极其敏感的题。最终\\\"龟甲万\\\"胜出，那是茂木左兵卫支系的品牌。持股最多的茂木七郎右衛门支系，让出了自己用了一百五十年的名号。这个让步不是某天一拍桌子就决定了的，是二十三年里无数次讨论、僵局、退让，直到所有人都在心里真正接受了。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么龟甲万的制度能活一百多年，盛宣怀的制度连一年都撑不过？两者之间最大的差别未必在设计的精巧程度上。龟甲万的规则，是八个家族坐在一起商量出来的。合并协议里的每一条，都带着谈判的痕迹，带着所有人的让步和争取。宪章定稿于1925年，十六条规矩，每一条看着朴素，比如\"绝不争斗，始终彼此尊重\\\"、\\\"以品格评价人\\\"、\\\"重大事务切勿独断\"等等，但它们是八个曾经竞争了两百年的家族，坐在一张桌子上一个字一个字磨出来的。规则背后带着所有人的共识，所以所有人都愿意遵守。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai",
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛宣怀的规则，是一个父亲独自写在纸上的。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "James E. Hughes Jr.在《Complete Family Wealth》里有一句话：礼物不会自己开口说话，它需要人赋予它意义。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "分配方案也是一份礼物。但如果给的人不解释，收的人不理解，这份礼物就会变成一道伤口。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰把股权切得绝对平均，结果做了最多事的那个人心里最不平。安巴尼兄弟没有规则可循，差一点在混乱中同归于尽。盛宣怀设计了远超时代的制度，但他的子孙们从没觉得那是\\\"我们的\\\"制度。龟甲万相反，八个家族把规矩商量了三百六十年，反而从来没吵过。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai",
+            "company:kikkoman",
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "fairness-and-infighting-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些故事指向的，归根到底是同一件事：",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公平是一种感受。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "它不住在数字里，不住在合同条款里，甚至不住在法律里。它住在人的心里。让人觉得\\\"说得过去\\\"的那个东西，不是精确到小数点后两位的分配表，是参与过、理解过、被尊重过的记忆。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果你正在设计一套传承方案，不妨先停下来问一个问题：这份\\\"公平\\\"，只有我觉得公平，还是所有人都觉得公平？",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果答案不确定，别急着写规则，先与参加者建立共识。",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源：",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Kellermanns & Eddleston (2004) 家族企业冲突模型",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Schulze, Lubatkin & Dino (2003) 利他主义与家族企业代理问题",
+          "related_node_ids": []
+        },
+        {
+          "id": "fairness-and-infighting-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "James E. Hughes Jr. (2022) Complete Family Wealth",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:when-to-let-go",
+      "title": "放手的智慧：家族什么时候该把方向盘交出去",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 4,
+      "topic": "professionalization",
+      "source_files": [
+        "洞察/家族洞察 04：放手的智慧——家族什么时候该把方向盘交出去.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "when-to-let-go-p-001",
+          "level": 1,
+          "title": "家族洞察 04：放手的智慧——家族什么时候该把方向盘交出去"
+        },
+        {
+          "id": "when-to-let-go-p-012",
+          "level": 2,
+          "title": "丰田：一个创始人的引咎辞职"
+        },
+        {
+          "id": "when-to-let-go-p-035",
+          "level": 2,
+          "title": "乐高：把公司当孩子养，也要允许别人来照看"
+        },
+        {
+          "id": "when-to-let-go-p-055",
+          "level": 2,
+          "title": "迪士尼：只持1%的股，却两次改变公司命运"
+        },
+        {
+          "id": "when-to-let-go-p-075",
+          "level": 2,
+          "title": "博世：当家族选择不占有"
+        },
+        {
+          "id": "when-to-let-go-p-087",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "when-to-let-go-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 04：放手的智慧——家族什么时候该把方向盘交出去",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2004年9月的一个清晨，丹麦小镇比隆。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乐高集团总部的会议室里，基耶尔德·基尔克·克里斯蒂安森坐在自己坐了二十多年的那把椅子上，面前是一份他亲手签署的任命书。从这一天起，CEO的位子将交给一个36岁的年轻人，一个姓克努德斯托普的外人。",
+          "related_node_ids": [
+            "company:lego-group"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此刻的乐高，负债接近八亿美元，每天烧掉一百万美元。分析师预测，公司将在18个月内破产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基耶尔德是公司陷入困境的直接责任人。过去十年里，他主导了一连串失控的多元化扩张：服装、电子游戏、主题公园、电视节目，什么都想做，什么都没做好。他把一家积木公司变成了一个什么都卖的杂货铺，销售额暴跌30%，亏损像决堤的洪水一样涌进来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他本可以继续撑着。这是他的家族企业，他拥有绝对控股权，没有任何外部力量能把他从那张椅子上拉下来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但他站了起来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来被问起这个决定时，基耶尔德只用了一句极其克制的话：\"我们做出了必要的改变。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这六个字背后，是家族企业最难迈过的那道坎：承认自己不行。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们写过二十多个家族故事，渐渐发现一条容易被忽视的线索。人们谈论家族传承，几乎全部注意力都放在\"接班\"上面——谁来接？怎么接？何时接？但很少有人认真讨论另一个同样重要甚至更加关键的问题：什么时候该放手？放手之后，家族又该站在哪里？",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个故事，四种姿态。说的是同一件事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "丰田：一个创始人的引咎辞职",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1950年春天，日本名古屋。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丰田汽车的创始人丰田喜一郎正面对他一生中最屈辱的时刻。",
+          "related_node_ids": [
+            "person:kiichiro-toyoda",
+            "company:toyota"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "战后的日本百废待兴，汽车市场萎靡不振，丰田的销量跌落谷底。公司债台高筑，现金流几近枯竭。为了活下去，管理层提出裁掉一批工人。工会拒绝接受。1949年4月，丰田历史上第一次也是唯一一次大罢工爆发了。工厂停摆，谈判拉锯了整整两个月，生产经营陷入瘫痪。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "喜一郎可以选择强硬到底。他是创始人，是这家企业的缔造者。把一台织机的专利费变成一座汽车工厂的人是他，在战火中保住这条生产线的人也是他。但他选择了另一条路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他递交了辞呈。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "辞职声明中，喜一郎揽下了全部责任。他没有怪市场、怪工人、怪银行。他只是说，问题出在自己的经营决策上，裁员是他的过失，他理应为此承担后果。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "据说在辞职的那天，他召集全体管理层开会，最后对他们说了一句话：\"拜托了。\"然后转身离开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个场面在日后被丰田家族反复提起，几乎成了家族精神的原点。多年后，他的孙子丰田章男在自己走马上任时说过这样一句话：\"作为创始人之孙，我铭记祖父创下的每辆车都打着我们的姓氏。\"姓氏是荣耀，也是不能逃避的重量。",
+          "related_node_ids": [
+            "person:akio-toyoda",
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "喜一郎辞职后不到两年就病逝了，年仅57岁。他没能看到丰田的复苏。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接替他的是一位与三井财阀关系密切的外姓人石田退三。石田稳住了局面，整顿了财务，为后来的腾飞打下了地基。再之后，丰田家族的旁系成员丰田英二接过帅印，用15年时间把丰田生产方式锻造成全球制造业的标杆。英二功成名就之后，主动让位给喜一郎的儿子章一郎，权力平稳回归主脉。",
+          "related_node_ids": [
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个非常微妙的循环就此形成：家族退，职业经理人进；职业经理人完成使命，家族再回来。不是争夺，是呼吸。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从1950年到今天，丰田一共有过十几任社长，其中大约一半是丰田家族成员，另一半是外姓人。1995年到2009年，整整14年，丰田连续三任社长全部由职业经理人担任。家族退到了幕后，只通过董事会和顾问角色保持影响力。",
+          "related_node_ids": [
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这14年里丰田过得好不好？非常好。全球销量超越通用，成为世界第一大汽车制造商。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那为什么2009年丰田章男又回来了？",
+          "related_node_ids": [
+            "person:akio-toyoda"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "因为那一年，丰田遭遇了创立以来最严重的信任危机。\"刹车门\"召回事件席卷全球，数百万辆车被召回，丰田出现了59年来首次营业亏损。公司的品牌声誉跌到了谷底。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个时刻需要的不是一位高效的职业经理人，而是一个能用自己的姓氏做担保的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "章男上任后做的第一件大事，是飞去美国国会作证。面对苛刻的质询，他站起来鞠躬致歉，说了一句在日后被反复引用的话：\"我的名字印在每一辆车上。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这句话不是修辞。当一个姓丰田的人站在国会面前，以家族百年的声誉做担保承诺解决问题，这份可信度是任何外聘CEO都给不了的。消费者看到的不是一位可以随时辞职走人的经理，而是一个和品牌血肉相连的家族后人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丰田家族摸索出的这套\"轮替节奏\"，在家族企业的治理史上几乎是独一份的。该退的时候退得干净，该进的时候进得果断。他们很早就想清楚了一件事：家族的价值不在于永远坐在那把椅子上，而在于知道什么时候该坐上去、什么时候该站起来。",
+          "related_node_ids": [
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族企业研究中有一个经典概念叫\"社会情感财富\"（Socioemotional Wealth），由Gomez-Mejia等学者提出。它指的是家族从企业中获得的非经济收益：身份认同、情感归属、社会声望、对企业的掌控感。这些东西很珍贵，但也很危险。当家族过度追求\"控制感\"这项社会情感财富时，往往会做出有损企业长期利益的决策——比如坚持让能力不足的家族成员掌权，拒绝引入外部人才。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丰田家族的高明之处在于，他们保住了社会情感财富中最有价值的部分——家族身份与品牌的深度绑定，同时放弃了最危险的部分——对CEO位子的执念。他们用进退之间的从容，把一个看似矛盾的命题变成了一种动态平衡。",
+          "related_node_ids": [
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "喜一郎的辞职不是失败，是奠基。他在最痛苦的时刻告诉后人：企业比面子重要。这条不成文的家训，让丰田家族在此后七十多年里，面对\"该不该放手\"这个问题时，从未犹豫太久。",
+          "related_node_ids": [
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "乐高：把公司当孩子养，也要允许别人来照看",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到比隆。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基耶尔德签完任命书之后，接手的年轻人叫约恩·维格·克努德斯托普。33岁加入乐高时，他的履历上有一行不太寻常的经历：在成为管理顾问之前，他做过18个月的幼儿园教师。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "克努德斯托普进入乐高后做的第一件事，是写一份诊断报告。这份报告后来被他自己称为\"毁灭性\"的。里面只有两个问题：",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\"如果问题出在乐高本身呢？\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\"乐高集团为什么存在？\"",
+          "related_node_ids": [
+            "company:lego-group"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一个问题刺破了管理层长期以来的自我安慰。所有人都在怪外部环境——数字娱乐的冲击、竞争对手的蚕食、消费偏好的变化。没有人愿意承认，乐高衰落的根源就在自己身上：盲目追逐创新的时髦理论，把一家积木公司变成了什么都做的四不像。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二个问题更要命。克努德斯托普给出的回答只有一个字：积木。不是服装，不是电子游戏，不是主题公园。就是积木。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他上任之后讲的第一句名言，后来成了这场起死回生的精神纲领：\"企业不会饿死，只会撑死。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接下来发生的事已经被写进了全世界商学院的案例库。从2004年到2014年，乐高的销售额增长了约900%。经营利润率达到28%，比爱马仕和法拉利还高。一家濒临破产的积木公司，十年之内变成了全球最赚钱的玩具企业。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "故事讲到这里，很容易被简化成一个\"外部CEO力挽狂澜\"的商业传奇。但真正值得玩味的，不是克努德斯托普多么能干，而是基耶尔德为什么愿意让出那把椅子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要知道，这是一家完全私有的企业。克里斯蒂安森家族通过KIRKBI控股公司持有乐高75%的股权。没有资本市场的压力，没有机构投资者的逼宫，没有董事会的不信任投票。基耶尔德只要愿意，可以一直坐在那个位子上，直到公司真的关门倒闭。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "很多家族企业的第三代继承人在面临类似困境时，选择的路截然不同：换一个战略咨询公司来诊断，再做一轮裁员，再喊一个新口号，实在不行就卖掉一块业务回血。反正死撑也是撑，面子上总得过得去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基耶尔德选了一条更痛苦但更诚实的路：承认自己就是问题所在，然后让位给一个更合适的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他并没有离开。退下CEO之后，基耶尔德以所有者的身份继续参与公司的战略方向和文化建设。他不管日常经营，但守着那些不该变的东西——品质标准、教育使命、对比隆社区的承诺。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "克努德斯托普对这种安排心知肚明。他说过一句耐人寻味的话：\"乐高家族把公司当自己的孩子般照料。赚钱重要，但家族的价值更重要。\"他还提到过私有家族企业的独特优势：\"你可以进行长期思考，同时快速行动。我可以在上午与股东交谈，下午就得到一个决定。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这就是私有家族企业在危机中的隐藏资产。如果乐高是一家上市公司，2003年的财务报表一出来，资本市场的反应大概率是强制重组或恶意收购。季度盈利的压力不允许一家亏损十多亿的公司花两年时间\"求生\"、再花十年时间\"重建\"。正是家族的耐心资本，给了克努德斯托普从容手术的空间。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "放手经营权的基耶尔德，反而因为放手而保住了所有权。假如他死撑到底，乐高大概率破产清算，家族将彻底失去一切。他用\"退一步\"的方式完成了一次\"进三步\"的传承。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到了第四代，基耶尔德的儿子汤马斯接过了\"最积极所有者\"的角色。汤马斯在一次罕见的公开发言中说了一句让很多人意外的话：\"摧毁家族企业的，往往不是外部威胁，而是家族自身。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个25岁的年轻人能说出这句话，说明基耶尔德那次痛苦的放手，已经化作了下一代人血液里的清醒。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "迪士尼：只持1%的股，却两次改变公司命运",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果说乐高的故事是\"放手经营权、保住所有权\"，迪士尼的故事则更加极端：一个持股比例几乎可以忽略不计的家族后人，仅凭\"迪士尼\"这个姓氏的道德分量，两次扭转了公司的航向。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1966年，沃尔特·迪士尼去世。哥哥罗伊独力撑到佛罗里达迪士尼世界开幕，两个月后也离开人世。自此，迪士尼公司进入了一段没有迪士尼家族成员掌舵的漂流期。管理层换了几茬，都是些守成之人，没有沃尔特的创造力，也没有罗伊的商业魄力。到1980年代初，迪士尼的电影票房在好莱坞各大片厂中排到了第14名，几乎垫底。公司股价持续低迷，华尔街的收购猎手已经闻到了血腥味。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这时站出来的人，是罗伊的儿子——罗伊·爱德华·迪士尼，人称\"小罗伊\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小罗伊在公司里长期负责动画部门，没有经营全局的野心，也从不觊觎CEO的位子。但他有一个清晰的自我定位。他对别人说过一句话：\"我并不想当CEO，我的职责是当好公司的良心。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "动画师们管他叫\"吉米尼蟋蟀\"——《木偶奇遇记》里那只指引良知的蟋蟀。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1984年，小罗伊做了第一次\"拯救\"。他联合金融家斯坦利·戈德和德克萨斯的巴斯家族，向董事会发起挑战，罢免了当时无力回天的CEO罗恩·米勒。米勒是沃尔特的女婿，算是\"家族自己人\"。小罗伊没有手软。在他看来，家族血缘不是免死金牌，能力配不上位子就该让出来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "关键在于，赶走米勒之后，小罗伊没有自己坐上去。他和董事会一起从外部请来了迈克尔·艾斯纳和弗兰克·威尔斯，一个管战略，一个管运营。小罗伊自己则退到董事会副主席的位置上，继续掌管他热爱的动画部门。",
+          "related_node_ids": [
+            "person:michael-eisner"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "艾斯纳上任后的十年，迪士尼经历了一段辉煌的复兴。《小美人鱼》《美女与野兽》《狮子王》接连问世，迪士尼重回动画之巅。乐园扩张、商品授权、电视网络全面铺开，市值飙升。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然后，事情开始变味了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1994年，搭档威尔斯在直升机事故中丧生。艾斯纳失去了唯一能制衡他的人。此后，他越来越独断，将个人意志凌驾于公司文化之上。他逼走了动画部门的卡森伯格（此人后来创办了梦工厂），搞砸了和皮克斯的合作关系，花重金聘来好莱坞经纪大佬奥维茨担任总裁，16个月后又高额赔偿辞退，引发股东诉讼。到2003年，迪士尼的股价较高点跌去了大半，十年间股东回报近乎停滞。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小罗伊又站了出来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2003年11月，73岁的小罗伊以辞去董事职务为代价，发表公开信，严厉指控艾斯纳\"丧失了公司创意上的方向\"、\"破坏了迪士尼的企业魂\"。他创建了一个名为\"SaveDisney.com\"的网站，号召股东在年度大会上投反对票。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个持股仅约1%的人，要搬倒一个统治了公司20年的强势CEO。听上去像堂吉诃德。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但在2004年3月的股东大会上，43%的投票者对艾斯纳投了不信任票。这个数字震动了整个美国商界。艾斯纳被迫交出董事长头衔，一年之后彻底离职。继任者鲍勃·艾格上任后收购了皮克斯、漫威、卢卡斯影业，把迪士尼带入了IP帝国的新纪元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小罗伊凭什么能以1%的持股撬动一家千亿市值的公司？",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "答案不在股权里，在姓氏里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当一个姓迪士尼的人站出来说\"这家公司背叛了我叔叔的精神\"，这句话的重量是任何机构投资者都说不出的。小罗伊的力量不来自资本，来自他与品牌之间那条割不断的血脉。他是活着的公司记忆，是创始人精神的肉身代言。股东们投的不是小罗伊的票，是迪士尼这个名字所承载的一切。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "迪士尼家族的故事提供了一个和乐高、丰田完全不同的\"放手\"样本：他们很早就不控制公司了，持股比例低到几乎可以忽略。但他们找到了另一种存在方式——不掌舵，但握着罗盘。不管日常经营，但守着精神底线。一旦公司偏离航道，他们就从幕后走到台前，用姓氏的分量校正方向。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这种角色，用小罗伊自己的话说，叫\"公司的良心\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "博世：当家族选择不占有",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果把\"放手\"排一个程度的光谱，丰田是\"间歇性放手\"，乐高是\"放手经营权、保住所有权\"，迪士尼是\"放手控制权、保住话语权\"，那么博世就是最极端的那一端：把整个企业都给出去。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "罗伯特·博世1942年去世时，留下了一封写给11岁小儿子的信和一份详尽的遗嘱。信里的嘱托满含深情，希望儿子将来能接手家业。但遗嘱里有一条冷峻到近乎残酷的原则：企业的领导权绝不能交到不合适的人手里。企业比家人重要。",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这两句话放在一起读，才能体会博世内心的复杂。他爱儿子，但他更爱企业能够长久地好下去。在这两者之间，他选择了后者。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世去世时儿子只有14岁，根本无力接班。等儿子长大后试图参与管理，却因为能力不足，被父亲当年指定的遗嘱执行人\"请\"出了决策层。创始人在信中殷殷嘱托儿子接班，结果儿子被自己父亲的人赶走了。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这听上去讽刺，实际上恰恰是博世遗嘱精髓的体现：不看血缘看能力。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "又过了二十多年，博世家族做出了一个在整个商业史上都极为罕见的决定：把公司94%的股权捐给罗伯特·博世基金会，用于公益事业。投票权交给一个独立的工业信托。经营权交给职业经理人团队。",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族几乎不再拥有这家公司了。但博世至今仍然是全球最大的汽车零部件供应商，年营收近千亿美元，43万员工遍布全球。它的高管在做重大决策时，据说仍会自问一个问题：\"如果罗伯特·博世面临我们今天的选择，他会怎么做？\"",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个已经不拥有公司的家族，他的名字仍然在指引着公司的方向。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这就是\"放手\"的极致形态。博世家族放弃了几乎所有有形的东西——股权、投票权、经营权——但保留了一样无形的东西：价值观的主导权。那封信、那份遗嘱、那套行动准则，像植入企业深处的基因一样，在创始人离世八十多年后依然在发挥作用。",
+          "related_node_ids": [
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "James E. Hughes Jr.在《Complete Family Wealth》中有一个说法：家族的真正财富不是资产负债表上的数字，而是\"人力资本\"和\"智力资本\"。金融资本会缩水、会被分割、会被挥霍。但一套被内化的价值观、一种被传承的思维方式、一个被认同的使命，这些东西越传越厚，越用越亮。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世家族验证了这个说法的极端情形：当你把金融资本全部放掉，人力资本和智力资本反而获得了永生。",
+          "related_node_ids": [
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个家族，四种放手的姿态。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丰田喜一郎在战败后的日本递交辞呈，说的是\"拜托了\"。此后七十年，丰田家族与职业经理人之间形成了一套自如的呼吸节奏，该退就退，该进就进，从不恋栈，也从不缺席。",
+          "related_node_ids": [
+            "person:kiichiro-toyoda",
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基耶尔德在乐高最黑暗的时刻签署任命书，承认了自己就是问题所在。他放掉了经营权，守住了所有权，用\"退一步\"换来了公司的重生和家族财富的十倍增长。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小罗伊·迪士尼一生不曾坐上CEO的位子，却两次在公司偏离航道时挺身而出，用一个姓氏的分量改写了公司的轨迹。他手里只有1%的股份，心里却装着100%的使命。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "博世家族走得最远。他们把整个企业交给了社会，自己退到了舞台之外。但创始人的价值观像一座看不见的灯塔，至今照耀着四十多万人的工作方向。",
+          "related_node_ids": [
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些故事指向的，并不是一个简单的结论。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\"放手\"不是一个动作，而是一种能力。它需要对自己有清醒的认知——知道自己能做什么、不能做什么。它需要对企业有深沉的爱——那种\"因为爱它所以愿意让更合适的人来照顾它\"的爱，而不是\"因为是我的所以谁都不能碰\"的占有欲。它还需要一种跨越世代的目光——不是问\"我这一辈子能从企业里拿走多少\"，而是问\"一百年后这家企业还在不在\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "研究家族企业的学者De Massis和Kotlar提出过一个概念，叫\"能力\"与\"意愿\"的双重门槛。一个家族要成功传承，光有意愿不够，还得有能力；光有能力也不够，还得有意愿。很多家族企业死在第二代或第三代手上，不是因为后人不愿意接班，而是因为他们虽然有意愿，却不具备相应的能力——偏偏又不愿意承认这一点。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "承认自己的局限，然后把空间让给更合适的人。这大概是所有领导力课程中最基础也最难学的一课。放在家族企业的语境里，难度还要再翻一倍：因为你放掉的不只是一份工作，还是一种身份、一段家族记忆、一代人的面子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但四个故事都在说同一件事：越能放手的家族，反而握得越紧。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丰田放手了CEO的椅子，握住了品牌的灵魂。乐高放手了日常的经营，握住了百年的所有权。迪士尼放手了几乎所有的控制权，握住了一个姓氏的道德力量。博世放手了整个企业，握住了一套永远不会过期的价值观。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们放掉的，都是可以被替代的东西。他们握住的，都是不可替代的东西。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "所以，如果你正在经营一家家族企业，不妨问自己一个问题：",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此刻你手里紧紧攥着的那些东西，到底是不可替代的，还是仅仅因为习惯了握着？",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果是后者，也许是时候松开了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 乐高家族：从一场大火到积木帝国的四代传奇、丰田家族：从一台织机到车坛巨擘的百年传奇、从米老鼠到魔法王国：迪斯尼家族的百年传奇、博世家族故事：当家族选择不占有，却能永远拥有",
+          "related_node_ids": [
+            "story:lego",
+            "story:bosch",
+            "story:toyoda",
+            "story:disney",
+            "company:bosch",
+            "family:bosch-family",
+            "family:disney-family",
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "when-to-let-go-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Gomez-Mejia, Cruz, Berrone & De Castro (2011) 社会情感财富理论（SEW）",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- De Massis, Kotlar, Chua & Chrisman (2014) 能力与意愿模型",
+          "related_node_ids": []
+        },
+        {
+          "id": "when-to-let-go-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- James E. Hughes Jr. (2022) Complete Family Wealth",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:beyond-the-father",
+      "title": "最好的继承，是比父亲走得更远",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 5,
+      "topic": "succession",
+      "source_files": [
+        "洞察/家族洞察 05：最好的继承，是比父亲走得更远.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "beyond-the-father-p-001",
+          "level": 1,
+          "title": "家族洞察 05：最好的继承，是比父亲走得更远"
+        },
+        {
+          "id": "beyond-the-father-p-010",
+          "level": 2,
+          "title": "小沃森：把父亲的\"THINK\"，带到一个新的时代"
+        },
+        {
+          "id": "beyond-the-father-p-023",
+          "level": 2,
+          "title": "喜一郎：同一份使命，换了一种载体"
+        },
+        {
+          "id": "beyond-the-father-p-034",
+          "level": 2,
+          "title": "戈特弗雷德：扔掉木头，才留得住格言"
+        },
+        {
+          "id": "beyond-the-father-p-048",
+          "level": 2,
+          "title": "小洛克菲勒：用同样的纪律，做了完全相反的事"
+        },
+        {
+          "id": "beyond-the-father-p-062",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "beyond-the-father-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 05：最好的继承，是比父亲走得更远",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1964年4月7日，纽约。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "50岁的小托马斯·沃森站在IBM的新闻发布会上。他对着台下几百名记者宣布了一个让整个美国商界倒吸凉气的决定：公司要把未来全部押在一款还没完全造出来的计算机产品线上，研发与生产总投入预计高达50亿美元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "50亿美元在1964年是什么概念。整个曼哈顿计划的总开支约为20亿美元。这笔钱几乎相当于IBM当年全部资产的规模。这是一场豪赌，赌注就是这家公司。这家由小沃森的父亲老托马斯·沃森一手打造、统治了美国打孔卡片生意整整四十年的公司。如果输了，他就是那个把父亲毕生心血毁于一旦的儿子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "做出这个决定的时候，他的父亲已经去世八年了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写了二十八个家族故事之后，我们对一个现象格外好奇：",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么有些创始人的儿子一生都活在父亲的光里，而另一些却能把父亲留下的东西带到父亲自己都没能抵达的地方？",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这不是聪明不聪明的问题。真正的分水岭在于，儿子懂不懂父亲。懂父亲留下的那堆东西里，哪些是可以扔掉的\"形\"，哪些是必须带走的\"核\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个故事，说的是同一件事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "小沃森：把父亲的\"THINK\"，带到一个新的时代",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "老托马斯·沃森是20世纪美国最强势的企业家之一。他在1914年接手濒临破产的C-T-R公司，把它重塑成了IBM。他给这家公司立下了一个字作为灵魂，\"THINK\"。这个字被印在每一块桌牌上，挂在每一间办公室里，铭刻在每一位销售员的笔记本封皮上。老沃森掌管IBM将近四十年，像教父一样专断，也像教父一样有魅力。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的儿子小沃森在一个几乎令人窒息的光里长大。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小沃森年轻时叛逆到让家族头疼。学业平庸，酗酒，开快车，好几次差点被大学开除。他后来在回忆录里坦白，自己很长一段时间被一种挥之不去的抑郁缠着。一个20世纪最强大企业家的儿子，年轻时唯一清晰的愿望，是\"离IBM远一点\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "二战救了他。他去空军服役，做了一名B-24轰炸机飞行员。战场上没有人在乎他是谁的儿子。他发现自己原来是一个能用的人，能带队，能决策，能在最大的压力下把飞机安全带回基地。1946年复员回到IBM，他第一次感到自己站得住脚。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接下来是十年的父子拉锯。两人在公司里几乎每天都在争。老沃森看不惯儿子对电子计算机的痴迷，认为那是没有前途的玩具。小沃森看不惯父亲对打孔卡片机的偏执，认为那是正在老去的时代。饭桌上吵，董事会上吵，他们的争吵有时激烈到整栋大楼的员工都能听见。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1956年5月，82岁的老沃森主动把CEO的位置交给了42岁的儿子。六个星期之后，他去世了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小沃森终于可以按自己的方式做事。但让所有人意外的是，他做的第一件事不是推翻父亲，而是把父亲最看重的那个字，带到了父亲根本不相信的领域里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "\"THINK\"这个字，老沃森是从销售员的角度理解的。想清楚客户要什么，想清楚问题在哪里，想清楚了再动手。它是一种纪律，一种对客户需求的敬畏。小沃森接手后，没有动这个内核一分一毫。他只是把这种敬畏，从打孔卡片转到了电子计算机上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1964年那次50亿美元的豪赌，表面上看是儿子颠覆父亲的遗产，本质上是把父亲的精神带进了一个父亲没看到的新大陆。System/360系列最终赢了。它让IBM统治了整整一代计算机工业。但它真正赢在哪里？不在硬件的先进，而在小沃森做对了父亲当年做对的那件事：站在客户身后想问题，然后用一整套产品去回答那个问题。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小沃森后来在自传里写过这样一句话：",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> \"我父亲留给我的最大财产，不是IBM这家公司，是他让我学会问一个问题：客户到底需要什么。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲的手艺不是打孔卡片，是那种站在客户身后思考的姿势。儿子把这个姿势，从机械时代带到了电子时代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "喜一郎：同一份使命，换了一种载体",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丰田佐吉一生获84项专利，被叫作\"日本发明狂人\"。但真正定义了丰田家族精神原点的，不是那84项专利里的任何一项，而是佐吉童年的一个画面。",
+          "related_node_ids": [
+            "person:sakichi-toyoda",
+            "family:toyoda-family"
+          ]
+        },
+        {
+          "id": "beyond-the-father-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "少年佐吉看着母亲日夜在织机前劳作，手指因为反复穿线而变形，夜深了还在油灯下继续干活。他立志改良织机，让母亲不必再受那样的苦。这成了他一辈子做事的底层动机。佐吉临终前留给儿子喜一郎的那句话，后来成了整个丰田集团的原点：",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> \"减轻他人的负担，贡献社会，就是自己能做出的最大贡献。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1930年佐吉去世后，喜一郎做了一件让所有人都意外的事。他把父亲那台自动织机的核心专利卖给了英国普拉特兄弟公司，换来10万英镑。然后，他用这笔钱成立了丰田汽车部。",
+          "related_node_ids": [
+            "company:toyota"
+          ]
+        },
+        {
+          "id": "beyond-the-father-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这在当时的日本几乎是逆天而行。丰田织机厂已经是全世界最好的织机制造商之一，而汽车工业在日本还是一片荒地。福特和通用早已在日本建立组装厂，技术代差巨大。一个做织机的家族，凭什么造汽车？",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "喜一郎的回答从来不是\"汽车更赚钱\"。他看事情的角度完全在另一边。在他眼里，织机和汽车其实是同一件事的两种形态。织机把女人的手从穿线里解放出来，汽车把人的脚从长距离的辛劳里解放出来。父亲发明织机不是为了卖织机，是为了\"减轻他人的负担\"。他造汽车也不是为了卖汽车，是同一个使命的延伸。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这就是为什么丰田的企业文化里有一种独特的\"以人为本\"底色。从佐吉时代的\"温暖家庭式工作氛围\"，到丰田生产方式里\"尊重员工\"的核心原则，再到章男那句\"我们像对待家人一样对待员工\"，一脉相承。织机变成了汽车，汽车未来又会变成\"编织之城\"那样的智能社区。载体在变，那个原点从未移动。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "喜一郎比父亲走得远得多。但他走的，是父亲指向的那个方向。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最能说明这一点的，是1950年他引咎辞职的那一刻。公司濒临破产，工人罢工了两个月，他完全可以抱着创始人的名分死守位置不放。但他选择了让出位置，把责任全部揽下，一个人签下那份辞呈。有人问他为什么，他只用了一句极简的话：\"拜托了。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这两个字里，装着父亲留下的全部教诲。把事情做好，比把自己保住，重要得多。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "戈特弗雷德：扔掉木头，才留得住格言",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1958年，丹麦比隆。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "67岁的奥勒·基尔克·克里斯蒂安森去世。他留给儿子戈特弗雷德的，是一家做木头玩具的小作坊，二十多名员工，以及一块挂在墙上的格言牌，用丹麦语刻在一块山毛榉木上：",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> Det bedste er ikke for godt.",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 只有最好的，才够好。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "奥勒用一生来捍卫这块木牌。他是一个虔诚的路德宗信徒，把\"做最好的玩具\"当作对上帝和孩子的承诺。他的玩具全部用最好的山毛榉木制作，做工几近苛刻。在1950年代的丹麦乡下，一个贫穷的木匠能有这样的品质执念，本身就是一件了不起的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但戈特弗雷德接手之后做的第一件事，是把父亲坚持了一辈子的木头扔掉了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他全面转向塑料。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个决定在当时几乎是对父亲的背叛。奥勒生前对塑料一直心存疑虑，觉得它\"廉价\"、\"没有灵魂\"。在他生命的最后几年，公司内部为要不要扩大塑料积木的生产反复争吵，奥勒始终没有松口。父亲去世之后，戈特弗雷德几乎是立刻按下了转型的加速键。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "表面看，这是儿子颠覆了父亲。但戈特弗雷德做的事情，其实是把父亲那句格言贯彻得更彻底。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "木头的问题在哪里？在精度。两块木头很难做到严丝合缝地咬合。塑料可以。1958年，戈特弗雷德申请了那个日后定义乐高的专利，叫\"咬合系统\"。每一块乐高积木底下那个精确到0.005毫米公差的圆管，是一个木头永远做不到的创新。它让积木可以真正地\"组合\"，而不仅仅是\"堆叠\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲的那句格言说的不是\"用最好的木头\"，说的是\"只有最好的才够好\"。材料是可以换的，那个\"最好\"的追求不能换。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "戈特弗雷德比父亲更懂父亲。他知道父亲真正在乎的不是木头，是墙上那块木牌上的话。为了守住那句话，他必须扔掉那个材料。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来有人这样总结乐高前两代的贡献：奥勒给了乐高一颗心，是品质至上的信仰；戈特弗雷德给了乐高一个大脑，是系统性的商业思维。两代人合起来，才是今天的乐高。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "小洛克菲勒：用同样的纪律，做了完全相反的事",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "约翰·D·洛克菲勒的一生是个矛盾。他是美国历史上第一个亿万富翁，也是美国历史上被骂得最凶的资本家之一。标准石油垄断全美90%的炼油业务，1911年被反垄断法强制拆分。在普通美国人的认知里，\"洛克菲勒\"这几个字差不多是\"贪婪\"的同义词。",
+          "related_node_ids": [
+            "person:john-d-rockefeller",
+            "company:standard-oil"
+          ]
+        },
+        {
+          "id": "beyond-the-father-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个姓氏，是儿子小洛克菲勒一生要处理的包袱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小洛克菲勒没有父亲那种凌厉的经营才华。他性格温和，甚至有些神经质。年轻时曾因工作压力精神崩溃，在家中休养了整整一年。他不是那种能把一家公司做到万亿市值的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但他做对了一件比赚钱更难的事。他用父亲那套东西，做了一件和父亲完全相反的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "老洛克菲勒最核心的能力是什么？不是贪婪，是纪律。他从一个记账学徒开始，一生以一种近乎宗教般的严格对待每一个数字。每一分钱的流动，每一条供应链的整合，每一次谈判的分寸，都被他用一种令人发怵的精细度安排着。标准石油的垄断不是靠狠，是靠精。靠一套无人能及的系统性经营纪律。",
+          "related_node_ids": [
+            "company:standard-oil"
+          ]
+        },
+        {
+          "id": "beyond-the-father-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小洛克菲勒把这同一套纪律，原封不动地搬到了慈善上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在小洛克菲勒之前，美国的富人捐款基本上是随性的。教堂募捐给一点，街上见到乞丐给一点，心血来潮建个图书馆。小洛克菲勒和父亲一起开创了一种全新的东西，在美国叫\"科学慈善\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "意思是，捐钱要像做生意一样有战略、有评估、有复盘。不是哪里哭得最响就往哪里送钱，而是系统性地识别那些能产生最大社会回报的领域。医学研究、高等教育、公共卫生、基础科学。每一笔捐款都要经过专业评估，每一个受助机构都要接受监督。洛克菲勒基金会、芝加哥大学、洛克菲勒大学、联合国总部所在的那块土地，都是这种系统性慈善的产物。",
+          "related_node_ids": [
+            "company:rockefeller-foundation"
+          ]
+        },
+        {
+          "id": "beyond-the-father-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲用纪律聚敛财富，儿子用同一套纪律把财富系统性地散出去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小洛克菲勒一生大约捐出了5亿美元，几乎是他从父亲那里继承的全部。他还留下了一份后来被称为\"洛克菲勒信条\"的文件，开头是这样一句话：",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> \"我相信每一项权利都意味着一份责任；每一个机会都意味着一项义务；每一件财产都意味着一份职责。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲教他如何积累，他教后人如何对待积累。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "今天我们说\"洛克菲勒家族\"，第一反应已经不再是垄断和贪婪，而是慈善和公共精神。这不是自然发生的，是小洛克菲勒用一生翻转了这个姓氏的含义。老洛克菲勒给了这个姓氏以财富，小洛克菲勒给了它以意义。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "beyond-the-father-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个儿子，四份答卷。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小沃森把父亲的\"THINK\"从打孔卡片带到了计算机，让一个销售员的纪律变成了一个时代的操作系统。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "喜一郎把父亲的\"利他\"从织机延伸到汽车，让\"减轻他人的负担\"这件事有了更大的舞台。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "戈特弗雷德把父亲的\"只有最好的才够好\"从木头切换到塑料，让一块格言牌活过了材料的更替。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小洛克菲勒用父亲聚敛财富的那套纪律，把财富系统性地散了出去，用同样的方法做了相反方向的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们有一个共同点：都不是父亲的复印件，也不是父亲的反叛者。他们是父亲的译者。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲留下的东西有两层。表层是可见的那一堆：一家公司、一种产品、一座工厂、一个姓氏。里层是看不见的那一点：一种思考方式、一个核心信念、一股精神底色。平庸的第二代把表层当成了父亲的全部，于是要么机械地守着，要么彻底地推翻。优秀的第二代看见了里层，然后把那一点带到了父亲无法抵达的时代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族企业研究里有一个概念叫\"代际创业\"（transgenerational entrepreneurship）。瑞士圣加仑大学的Zellweger等学者在2012年提出这个概念，大意是说，最成功的家族企业不是简单地\"传\"下去，而是每一代都在重新创业。用上一代留下的资源和精神，去开辟上一代没做过的事。这个概念的反面，是那些把家族企业当成保险柜守着的家族。前者活得越久越茂盛，后者往往在三代之内就安静地消失了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "用更朴素的话说：",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲留下的不是一份可以照抄的答卷，他留下的是一道题。你接手了这道题，就得回答出自己的那一版。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最好的儿子，不是那个把父亲的答卷一字不差誊写一遍的儿子，是那个读懂了父亲当年为什么会那样答、然后在新的考场上、新的题目下，用同样的心法写出新答案的儿子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲的手艺可以流传。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "儿子的答卷只能自己写。",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 思考者(THINK)：沃森家族与IBM的百年基业、丰田家族：从一台织机到车坛巨擘的百年传奇、乐高家族：从一场大火到积木帝国的四代传奇、百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路",
+          "related_node_ids": [
+            "story:lego",
+            "story:toyoda",
+            "story:rockefeller",
+            "family:toyoda-family",
+            "family:watson-family"
+          ]
+        },
+        {
+          "id": "beyond-the-father-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Zellweger, Nason & Nordqvist (2012) 代际创业理论（Transgenerational Entrepreneurship）",
+          "related_node_ids": []
+        },
+        {
+          "id": "beyond-the-father-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Miller & Le Breton-Miller (2005) Managing for the Long Run: Lessons in Competitive Advantage from Great Family Businesses",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:women-as-ballast",
+      "title": "家族里最深的那块压舱石，往往是女性",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 6,
+      "topic": "conflict",
+      "source_files": [
+        "洞察/家族洞察 06：家族里最深的那块压舱石，往往是女性.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "women-as-ballast-p-001",
+          "level": 1,
+          "title": "家族洞察 06：家族里最深的那块压舱石，往往是女性"
+        },
+        {
+          "id": "women-as-ballast-p-009",
+          "level": 2,
+          "title": "一、救：那个让两个亿万富翁儿子坐到一张桌前的母亲"
+        },
+        {
+          "id": "women-as-ballast-p-028",
+          "level": 2,
+          "title": "二、撑：四个女儿，把\"没有儿子\"变成了优势"
+        },
+        {
+          "id": "women-as-ballast-p-049",
+          "level": 2,
+          "title": "三、争：那个把哥哥告上法庭的女儿"
+        },
+        {
+          "id": "women-as-ballast-p-073",
+          "level": 2,
+          "title": "四、续：那个没有继承一分钱、却继承了全部的女儿"
+        },
+        {
+          "id": "women-as-ballast-p-095",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "women-as-ballast-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 06：家族里最深的那块压舱石，往往是女性",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在所有的家族故事里，女人通常出现在两个位置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个是开头的家族树上，作为某某人的妻子、母亲、女儿，名字写在树状图最角落的小字里。另一个是结尾的葬礼上，黑衣，沉默，被一群男人簇拥着送去墓地。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "中间的几十年，她们到底做了什么，几乎没有人写。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写完二十八个家族故事之后，我们渐渐看见一件被叙事系统性忽略的事。许多家族能够传下去，恰恰是因为某个女性，在某个看起来与她无关的时刻，做对了一件事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她们做的事不像男人那样轰轰烈烈。没有签下惊天的合同，没有打赢决定性的官司，没有发明改变行业的产品。但她们做的事情有一个共同点：在家族这艘大船最容易倾覆的时刻，她们悄悄地坐到了船舱的最底层，让船没有翻。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这一期，讲四个这样的女人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个故事，分别对应四个动作：救一个家族、撑一个家族、争一个权利、续一段精神。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一、救：那个让两个亿万富翁儿子坐到一张桌前的母亲",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2002年7月6日，孟买。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "70岁的迪鲁拜·安巴尼，全印度最富有的男人，毫无征兆地突发中风，三天后离世。他没有留下遗嘱。",
+          "related_node_ids": [
+            "person:dhirubhai-ambani"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他身后是印度商业史上最庞大的产业帝国信实集团，市值数千亿美元，业务覆盖石油、化工、电信、零售。他还留下了两个儿子。大儿子穆克什沉稳务实，长期协助父亲管理核心业务。小儿子阿尼尔外向激进，野心勃勃。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲一去，这两个兄弟立刻陷入了印度有史以来最公开、最激烈的财产争夺战。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "穆克什被董事会推上了集团主席的位置。阿尼尔咽不下这口气。两人从私下较劲迅速升级到公开对抗，董事会上互相指责，媒体上隔空交火。印度股市因为他们的争吵剧烈震荡，外资恐慌出逃。最严重的时候，连印度政府都坐不住了，公开呼吁兄弟二人尽快达成和解。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "谁能让他们停下来？",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两兄弟身边围着的全是顶级律师、投行家、政府代表，每一个都是商业精英。但每一个都说不动他们。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这时候，一个从来没有碰过商业的人站了出来。她是兄弟俩的母亲，科姬娜本·安巴尼。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科姬娜本是典型的印度传统家庭主妇。她大半辈子的角色是相夫教子，做饭，照看孙辈。她从未在董事会发过言，从未读过财务报表，对石油化工和电信业务一窍不通。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但在那个时刻，她是这个世界上唯一能让两个儿子坐到一张桌子前的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "调解持续了三年。三年里科姬娜本做的事很朴素。把两个儿子分别叫到自己面前，听他们说，不评判，不打断。然后再把他们叫到一起，让他们听对方说。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2005年6月，三年的调解走到终点。科姬娜本对外宣布了一个分家方案：穆克什拿走石化、炼油、油气等核心业务，阿尼尔拿走电信、电力、金融等新兴业务。资产比例大约七比三。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个方案表面上看不公平。但她考虑了一个外人很难看清的变量。穆克什拿到的是稳定但增长有限的现金流业务，阿尼尔拿到的是高风险高回报的新兴产业。她相信，这样分既能让两兄弟各自施展，又能让两人在不同的赛道上不再有交集。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来发生的事情验证了她的判断。穆克什带着石化板块杀入电信领域推出Jio，颠覆了整个印度通信市场，做到了亚洲首富。阿尼尔的电信业务战略失误，一路下滑，最终破产，他在英国法庭上说过一句让人唏嘘的话：\"我的净资产为零。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个人的命运截然不同。但有一件事是确定的：他们没有在互相消耗中一起沉没。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果科姬娜本没有出手，2005年的信实集团很可能在两兄弟的相互拆台中分崩离析。一个庞大的商业帝国可能就此化为乌有。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她不懂石化，不懂电信，不懂资本市场。但她懂自己的两个儿子。在所有专家都束手无策的地方，一个母亲的直觉、耐心和威望，做成了所有专家做不成的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族这艘船最危险的不是外面的风暴，是船舱里的两个兄弟开始打架。能让他们停下来的人，往往不是船长，是那个从来不上甲板的母亲。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "二、撑：四个女儿，把\"没有儿子\"变成了优势",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1985年的一天，香港。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "世界船王包玉刚把四个女儿和四个女婿叫到了家里。这是一次正式的家庭会议。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚那时刚刚把自己手上的航运帝国成功转型成多元化产业，旗下囊括航运、地产、零售、酒店。他自己已经67岁。他在思考一件让所有华人企业家都头疼的事：传给谁。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "中国传统里，\"传子不传女\"是铁律。但包玉刚没有儿子。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个女儿，包陪庆、包陪容、包陪丽、包陪慧。四个女婿，苏海文是奥地利人，吴光正是香港人，渡边浩司是日本人，郑维健是医生。",
+          "related_node_ids": [
+            "person:peter-woo",
+            "person:helmut-sohmen",
+            "person:zheng-weijian"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "放在传统华人商业语境里，这是一个\"绝户\"的家族。亲友们或明或暗都为他着急。有人建议他过继，有人建议他从家族旁系里挑男丁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚选了第三条路。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他设计了一套在当时极为超前的信托架构。一个总信托之下，设四个子信托，分别由四个女儿担任最终受益人。每个子信托对应一块业务，由相应的女婿担任主要经营者。四个子信托互相独立，互不干涉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他把女儿们放在了\"控制权\"的位置上，把女婿们放在了\"经营权\"的位置上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个设计的精妙在于三件事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一，女婿们再有能力，也只是经营者，不是所有者。他们的经营权来自妻子的信托。这就杜绝了\"招婿入赘\"的传统弊病，女婿一旦失婚，就再也碰不到家族财富。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二，四个子信托互相独立，意味着四个家庭从一开始就不会为同一份资产打架。每家有每家的天地，每家自己负责自己的成败。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三，四个女儿是真正的家族传承人，她们的孩子，无论男女，都是包家的下一代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个架构的有效性在1991年得到了第一次验证。那一年包玉刚去世。家族没有发生任何争斗。每一个子信托照常运转，每一对女儿女婿继续打理各自的板块。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更关键的考验在十几年之后。最小的女婿郑维健与四女儿包陪慧的婚姻出现问题，最终离婚。如果按照传统的\"家族企业由女婿掌权\"模式，这等于一块巨大的家族资产要被一个外人带走。但因为信托的设计，郑维健离开之后，那部分资产仍然完整地留在四女儿和她的子女名下。",
+          "related_node_ids": [
+            "person:zheng-weijian"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚没有把\"没有儿子\"当成一个需要解决的问题。他把它当成一个需要重新设计的命题。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他做了一件中国家族企业史上罕有的事。用现代信托工具，给传统的\"传子不传女\"困境，找到了一个体面、稳健、跨越三代的解决方案。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而真正撑起这个架构的人，是他的四个女儿。她们不是被动的受益人，她们是这个百亿信托真正的控制人。三十多年过去，包氏家族至今安然，四房之间相安无事，三代之间亦无争议。",
+          "related_node_ids": [
+            "family:pao-family"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果包玉刚一定要按\"传子\"的逻辑去找一个男性继承人，无论是过继还是旁系，几乎可以肯定，今天的包家已经不是这个样子了。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "是四个女儿，让\"没有儿子\"这件事，反而成了包家最稳固的传承基石。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "三、争：那个把哥哥告上法庭的女儿",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1928年4月，上海。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一份诉状送进了上海法院。原告是一位28岁的女性，姓盛，名爱颐。被告是她的几个亲哥哥。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "诉讼标的：50万两白银的家族遗产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要求：作为女儿，依法享有与男性兄弟同等的继承权。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这件事在1928年的中国是一颗炸弹。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛爱颐的父亲，是晚清首富盛宣怀。盛宣怀创办了中国第一家银行、第一所大学、第一条铁路干线，一生造就了十一项\"中国第一\"。1916年他去世时，留下大约1350万两白银的遗产。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按照传统宗法，这笔财产由\"五房\"男性子孙瓜分，女儿们没有份。盛爱颐和她的姐妹们，依照惯例只在出嫁时拿到一份嫁妆，然后此生便与娘家的财产再无关联。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果是别的时代，事情就这么结束了。但1928年的中国不一样。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1926年，南京国民政府颁布了《妇女运动决议案》，承认女性的财产继承权。1929年颁布的《民法》进一步明确了这一点。但法律是一回事，几千年的宗法传统是另一回事。绝大多数家族在分财产的时候，依然按老规矩办，女儿们也按老规矩接受。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛爱颐没有接受。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她聘请律师，正式起诉自己的几个哥哥，要求重新分割父亲的遗产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场官司在当时引起了轩然大波。报纸连篇累牍地报道，社会舆论分成两派。保守派认为盛爱颐\"伤风败俗\"，居然为了钱把亲哥哥告上法庭。进步派则把她奉为新女性的代表，认为她是在用一己之力对抗一个延续了几千年的不公。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛爱颐顶住了所有压力。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她的律师在法庭上的核心论点很简单：法律已经写明白了，女性有继承权，哥哥们凭什么不分。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1929年，判决下来。她赢了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "法院判决盛爱颐与其他姐妹获得相应的遗产份额。这笔钱她后来用一部分投资到上海百乐门舞厅、新华影业等产业，自己经营。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场官司的意义远远超过了那笔钱本身。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "它是中国近代史上第一起女性成功继承家族遗产的案例。它告诉所有的中国女性：法律站在你这边，你可以争取。它也告诉所有的中国家族：分家的规矩可以变，而且必须变。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛宣怀家族最后的结局是悲惨的。男性继承人大多挥霍无度，第四子盛恩颐33年内败光巨额遗产，1958年饿死街头。整个家族的财富在民国乱世中被吞噬殆尽。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "讽刺的是，在这个家族的男性继承人一个个倒下的背景里，盛爱颐反而活得最久、活得最有质量。她不仅守住了自己争来的那份财产，还创办了实业，活到了1980年代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她不是在争一笔钱。她是在替自己、替自己的姐妹、替这之后所有的中国女性，争一个\"被算作家族正当一员\"的资格。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族传承中最容易被忽略的一种力量，就是这种\"我也是这个家族的一员\"的主张。在一个把女儿系统性地排除在外的体系里，敢于站出来要这个资格的人，本身就是在帮整个体系松动一道裂缝。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "裂缝松了，光才能照进来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "四、续：那个没有继承一分钱、却继承了全部的女儿",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1981年，加州大学伯克利分校。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "22岁的王雪红刚刚毕业。她是台湾\"经营之神\"王永庆的女儿，但她从小到大，从来没有觉得自己富过。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆把她15岁就送到美国独自求学。每个月的生活费要靠\"家书换钱\"，详细汇报每一笔开销才能领下个月的钱，\"连买牙膏也要写上去\"。父亲给的钱总是刚刚够用，几乎没有结余。",
+          "related_node_ids": [
+            "person:wang-yongqing"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "毕业后，王雪红回到台湾。她有一个选择。她可以进入庞大的台塑集团，从父亲那里得到一份不错的工作，然后稳稳当当地过完一生。",
+          "related_node_ids": [
+            "person:cher-wang",
+            "company:formosa-plastics"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她没有选这条路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她说服母亲拿房子去抵押，贷款500万新台币，自己创业。父亲没给她一分钱，也没给她一个合作伙伴。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她先后参与创立了威盛电子和HTC。HTC在2011年一度成为全球第三大智能手机厂商，王雪红本人在那一年成为台湾首富，这个位置她父亲生前从未达到过。",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆去世的时候，按照他生前的安排，王雪红继承的财产份额并不大。台塑集团的核心控制权由其他子女继承。她从父亲那里得到的产业层面的\"遗产\"，几乎可以忽略不计。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang",
+            "company:formosa-plastics"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但所有认识王永庆和王雪红的人都说，王雪红是所有子女里\"最像王永庆的那一个\"。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个\"像\"不是外貌，是别的东西。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆几十年如一日，每天凌晨3点起床做毛巾操、慢跑、工作。王雪红多年来坚持每周长跑，早上5点半起床，几十年不间断。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆做事讲究\"追根究底\"，遇到问题一定要刨到根子上。王雪红做企业也是这样。HTC早期遇到技术难题，她带着团队连续几个月泡在工厂里。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆的口头禅是\"勤劳朴实\"。王雪红创业初期，办公室里没有任何装饰，员工出差只能坐经济舱。",
+          "related_node_ids": [
+            "person:wang-yongqing",
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每当遇到挫折，王雪红会问自己一个问题：\"父亲会怎么做？他会放弃吗？\"",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她没有继承父亲的产业，但她继承了父亲的全部精神。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是一种比财产继承更深、更难、也更稀有的传承。许多家族的下一代继承了父亲的一切，公司、股权、名字、人脉，却没有继承父亲的精神底色。他们坐在父亲打下的江山上，过着挥霍的日子，最后把一切都败光。盛宣怀的几个儿子就是这样。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王雪红的轨迹反过来。她什么都没继承，却把父亲的精神带到了一个全新的领域、一个父亲一辈子也没碰过的行业里。她用父亲教她的那些东西，做成了一件父亲没做过的事。",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王永庆生前说过一句话：",
+          "related_node_ids": [
+            "person:wang-yongqing"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> \"儿孙能如我，何必留多财。倘若不如我，多财也是空。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这句话最完美的注脚，是他自己的女儿。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她证明了一件事：精神可以独立于产业被传承下去。一个真正承接了父亲精神的女儿，比一个继承了父亲产业但失去了父亲精神的儿子，更能续写家族的故事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个女人，四种位置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科姬娜本是一位母亲。在儿子们要把家族撕碎的时刻，她以一个家庭主妇的身份做了所有专家做不成的事。她救了一个家族。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚的四个女儿是继承人。她们用自己的存在证明了\"没有儿子\"不是一个需要被解决的问题，而是一个可以被重新设计的命题。她们撑住了一个家族。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "盛爱颐是女儿和妹妹。她在一个还没有给女性留位置的体系里，用一纸诉状强行争来了那个位置。她为整个时代的女性争来了一份资格。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王雪红是另一种意义上的女儿。她没有继承父亲的产业，却继承了父亲的全部精神。她让\"传承\"这件事从产业层面跨到了精神层面，续写了父亲一辈子没能写完的故事。",
+          "related_node_ids": [
+            "person:cher-wang"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这四个女人的故事如果只看商业成败，会被湮没在更宏大的男性叙事里。但如果换一个角度看，会发现一件被遗忘已久的事：",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族这艘船，能不能稳，往往不取决于船长是谁，取决于船舱最底层那块压舱石够不够重。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "压舱石不在甲板上，平时也没人提它。但风浪来的时候，船能不能不翻，全靠它。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族企业研究的奠基人之一James E. Hughes Jr.在《Complete Family Wealth》里反复强调过一个观察。能够传五代以上的家族，几乎无一例外都拥有一种\"母系智慧的延续\"。这不是说一定要由女性掌权，而是说家族中那些与情感、关系、长期视野、价值观传递相关的工作，往往是女性在做。这些工作没有出现在公司年报里，没有出现在股东大会上，但它们决定了家族能不能在最危险的时刻不散。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "下一次你打开任何一本家族企业的传记，目录里全是男人的名字。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "请你停下来想一想。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那本书没有写的部分里，那些没有名字的女人，她们做了什么。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她们做了什么，可能才是这个家族真正传得下来的原因。",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 印度第一家族：安巴尼王朝的权利游戏与传承密码、无子江山：世界船王包玉刚留给女儿们的爱与传承、晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录、从茶山贫童到石化王国：王永庆的传奇与传承",
+          "related_node_ids": [
+            "story:pao-family",
+            "story:sheng-xuanhuai",
+            "story:ambani",
+            "story:wang-yongqing",
+            "person:sheng-xuanhuai",
+            "person:wang-yongqing",
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "women-as-ballast-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- James E. Hughes Jr., Susan E. Massenzio & Keith Whitaker (2022) Complete Family Wealth: Wealth as Well-Being",
+          "related_node_ids": []
+        },
+        {
+          "id": "women-as-ballast-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Lansberg (1999) Succeeding Generations: Realizing the Dream of Families in Business",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:five-iron-rules",
+      "title": "家族成员进入家族企业的 5 条铁规",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 7,
+      "topic": "succession",
+      "source_files": [
+        "洞察/家族洞察 07：家族成员进入家族企业的 5 条铁规.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "five-iron-rules-p-001",
+          "level": 1,
+          "title": "家族洞察 07：家族成员进入家族企业的 5 条铁规"
+        },
+        {
+          "id": "five-iron-rules-p-008",
+          "level": 2,
+          "title": "一、进入家族企业之前，先在外面待够三到五年"
+        },
+        {
+          "id": "five-iron-rules-p-018",
+          "level": 2,
+          "title": "二、进来之后，必须从最底层起步"
+        },
+        {
+          "id": "five-iron-rules-p-029",
+          "level": 2,
+          "title": "三、待遇必须和姓氏脱钩"
+        },
+        {
+          "id": "five-iron-rules-p-037",
+          "level": 2,
+          "title": "四、接班是一个长达十年以上的过程，必须分阶段"
+        },
+        {
+          "id": "five-iron-rules-p-050",
+          "level": 2,
+          "title": "五、给非家族成员保留对家族继承人的最终否决权"
+        },
+        {
+          "id": "five-iron-rules-p-062",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "five-iron-rules-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 07：家族成员进入家族企业的 5 条铁规",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "中国家族企业里的常见画面是这样。父亲创业三十年，公司有了规模。儿子大学毕业回国，第二天到公司报到。父亲事先和人事打过招呼，给儿子安排一间靠窗的办公室，挂个副总的头衔。从那一天起，会议室里从董事到秘书都恭恭敬敬地喊一声\"少总\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是天经地义。父亲打下的江山，让自己的孩子来继承，似乎没有什么可商量的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但读完三十个家族故事之后，会看见另一种画面。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "百年酱油龟甲万的茂木家族，让自己的孩子先去东京银行做两年普通职员，进了家族企业又安排在非管理岗位上干九年。玛氏家族第二代弗雷斯特·玛氏给所有家族成员都发了打卡机，迟到一律扣10%日薪。博世先生在自己的遗嘱里写下了七位非家族执行人对亲生儿子的最终否决权。乐高的汤马斯·克里斯蒂安森从25岁开始准备接班，等到他真正坐上家族控股公司的董事长那天，已经44岁了。",
+          "related_node_ids": [
+            "person:forrest-mars-sr",
+            "company:kikkoman",
+            "company:bosch",
+            "family:mars-family"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些家族都活了很久。最年轻的乐高也快一百岁，玛氏一百一十年，洛克菲勒一百六十年，龟甲万三百六十年。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们有一个共同点。让自家人进自家企业这件事，他们设的门槛比任何外人都高。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一、进入家族企业之前，先在外面待够三到五年",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1962年的东京。一个24岁的年轻人通过\"婿养子\"的程序被收养进茂木家族的七左卫门支系。换在大多数家族企业里，他第二天就该到龟甲万走马上任了。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "茂木家不是这样办的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他叫茂木坚三郎。茂木家先把他送去东京银行，做了整整两年普通职员。两年期满，让他进龟甲万，又安排他在非管理岗位上干了九年。九年之后，才送他去哈佛读MBA。",
+          "related_node_ids": [
+            "person:kenzaburo-mogi",
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "茂木修，今天是龟甲万国际业务的负责人。他在进入家族企业之前，先在芝加哥的普华永道做了三年审计。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年也好，三年也罢，时间长度其实不是关键。关键是这条规矩本身：在你没有去外面被陌生人评判过、淘汰过、磨过之前，你不能进自家公司。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "茂木家自己解释过这条规矩的初衷。家族里的人，姓氏决定了别人怎么对你。茂木家的年轻人走进会议室，从总务到部长都得起立。在这种空气里，他听到的几乎只剩下赞美。一个二十多岁的人在赞美里待久了，再也判断不出自己几斤几两。送他去外面，让普华永道的合伙人对他失望几次，让东京银行的客户当面拒绝他几回，他对自己的认知才会落到该有的位置上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "外面的世界还会给他另一套看东西的眼睛。家族企业里的人，是被同一种文化养大的，看世界的角度天然就窄。在外面待过几年的人再回来看自家公司，会看到一些奇怪的事情，那些事情家族里其他人从未怀疑过。这种\"奇怪的发现\"，常常是家族企业自我更新的起点。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "用条款语言写出来，大致是这样：",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 家族成员有意进入家族企业工作者，须先在家族控股以外的企业工作满3年以上，且须由非家族成员的雇主出具书面的业绩评估。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "二、进来之后，必须从最底层起步",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1980年代某天的玛氏巧克力工厂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "生产线上有一个穿白色工装、戴着发网的女见习生，正在仔细检查每一颗下线的糖果。她的同事不太清楚她姓什么。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她叫维多利亚·玛氏，耶鲁大学毕业，玛氏家族第三代。她将来会成为玛氏的董事会主席。但1980年代的某天，她的工作是品控见习生。",
+          "related_node_ids": [
+            "person:victoria-mars",
+            "family:mars-family"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她的妹妹帕梅拉，进玛氏的第一份工作是工厂的运营主管。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她们的父亲弗雷斯特·玛氏给两个儿子定的标准更细：耶鲁本科，加 MBA，假期必须在家族农场干活，毕业后到公司基层历练，每一步都不能跳。",
+          "related_node_ids": [
+            "person:forrest-mars-sr"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "弗雷斯特1964年接手公司之后，做了一件让所有员工瞠目结舌的事。他给公司每一个员工都发了一张打卡卡片。每一个，包括所有玛氏家族成员。从那以后，玛氏家族的人上下班都得打卡。迟到一次，扣10%的当日工资。家族成员迟到，一样扣。",
+          "related_node_ids": [
+            "family:mars-family"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这件事看上去像一个仪式性的细节，但它就是规矩本身。当家族成员在打卡机前面和普通员工一样按下卡片，整个公司的人都看在眼里。员工心里清楚，这家公司的规则是真的对所有人都成立的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基层是唯一能让一个未来接班人对生产线、对供应链、对客户、对前线员工的真实状态形成手感的地方。这种手感，不能从商学院案例和高管复盘里学到。一个从来没在生产线上待过的接班人，永远不知道一颗糖果从原料到出厂要经过多少道工序，每一道工序上的工人在想什么。等他坐到决策的位置上，他做的每一个决定都隔着一层雾。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "戈特弗雷德·克里斯蒂安森，乐高的第二代，12岁就开始隔天到父亲的工坊里帮忙。他后来给乐高带来的最大变革，是塑料咬合积木的发明。这种发明只有在工坊里待过的人才做得出来。因为只有他们知道，\"两块东西怎么咬合得严丝合缝\"在身体里是什么感觉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 家族成员进入家族企业的第一份工作，须为基层一线岗位（生产、销售、客服、客户支持等），任职期不少于2年。中途不得调离至管理岗位，亦不得被授予任何超越同岗位非家族员工的权力。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "三、待遇必须和姓氏脱钩",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每天早上，纽约第50街地铁站的入口处，会走出一个戴礼帽的男人。他从大都会通勤族中间穿过，走两个街区，进入大通银行总部大厦。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个男人叫大卫·洛克菲勒，他是大通银行的CEO。从1946年加入这家银行到1981年退休，他几乎每天如此。他的家族在曼哈顿洛克菲勒中心的五十多层有一整间专属办公室，叫\"5600号房间\"。但他每天上下班，挤地铁。",
+          "related_node_ids": [
+            "person:david-rockefeller"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这件事看起来是个生活习惯。但当员工在地铁口看到大卫·洛克菲勒走出来的时候，他们对\"这家公司的老板的儿子是什么样子\"这个问题，有了一个具体的答案。",
+          "related_node_ids": [
+            "person:david-rockefeller"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "罗伯特·博世先生在他的遗嘱里把同样的意思写得最干净。\"不能仅因博世后人的身份就授予他们特权。\"这一句话，后来成了博世集团治理的核心原则之一。",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族成员的\"特权感\"是腐蚀企业文化最快的一种酸。员工看到老板的儿子开着豪车迟到不被罚、签报销单不需要审批、在公司餐厅有专属座位，整个公司的纪律就会从最顶端开始瓦解。底下的员工不会明说，但他们心里会有一个结论：这家公司有两套规则，一套写在墙上，一套用在老板家人身上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个结论一旦形成，员工对公司的所有承诺都会在心里打折。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 家族成员在企业中的薪酬、考核、奖惩、晋升路径，须与同岗位非家族员工完全一致。任何形式的特权安排（专属办公室、专属座驾、超额报销、特殊审批权限等）须经董事会非家族成员的多数同意方可实施。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "四、接班是一个长达十年以上的过程，必须分阶段",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2023年5月，丹麦比隆。基耶尔德·克里斯蒂安森把家族控股公司KIRKBI的董事长印章交给了44岁的儿子汤马斯。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲选这一天交班是有原因的。那一天恰好是基耶尔德五十年前加入乐高管理层的同一天。两个日期隔着五十年，扣在了一起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但这一刻不是开始，是终点。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从汤马斯25岁第一次走进乐高董事会，到他44岁拿到这枚印章，中间隔了整整十九年。十九年里他走了五个台阶。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一个台阶是2004年。25岁的他进入乐高集团董事会，但身份是观察员。他不投票，不发言，只坐在那里听和看。三年之后，2007年，他成为正式董事，开始有发言权。九年之后，2016年，他出任乐高基金会主席，第一次独立掌一个机构。四年之后，2020年，他出任乐高集团董事会主席。再三年，2023年5月，他接任KIRKBI董事长。",
+          "related_node_ids": [
+            "company:lego-group"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每一个台阶停留三到九年。每一个台阶手里握的权力，比上一个大一点。每一个台阶都给他足够的时间在那个位置上犯错、改正、被外人评估。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这种安排做的事情，是把\"接班\"从一个时间点拉成一段过程。在过程的任何一个节点，如果继承人证明自己不行，停下来都还来得及。如果走到最后，那走出来的不只是一个头衔，是一个用十九年时间反复打磨过的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "汤马斯的祖父戈特弗雷德当年训练自己的儿子基耶尔德，用的是同一种逻辑。他让基耶尔德先到乐高瑞士分公司去，在技术岗位上干了五年，做的是乐高积木热流道模具系统的开发。然后再去IMD洛桑读MBA。32岁才接任乐高CEO。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乐高家族的传承不是某一代人的发明，是每一代人都按这个方式训练下一代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "反过来看一个不分阶段的对照样本，是周大福的郑裕彤。郑裕彤掌权66年，到87岁中风才不得不交班。儿子郑家纯1989年仓促接班，没有经过任何渐进式的权力过渡。接班之后14个月内，新世界发展豪掷70亿港元做并购，把公司搞到现金流极度紧张，逼得郑裕彤不得不\"二次出山\"才把局面稳住。",
+          "related_node_ids": [
+            "person:henry-cheng",
+            "person:cheng-yu-tung",
+            "company:new-world-development",
+            "company:chow-tai-fook"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个长达半个多世纪不肯给二代真实历练的创始人，最终把二代变成了一个没有过渡期的接班人。这不是郑家纯一个人的问题，是结构的问题。",
+          "related_node_ids": [
+            "person:henry-cheng"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 家族继承人接班须采取阶段性递进方式，建议路径为：观察员→正式董事→分管部门负责人→子公司负责人→集团副职→集团一把手。每一阶段任职须满3年方可考虑晋级。任何阶段未通过非家族评估委员会评估的，不得跳级。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "五、给非家族成员保留对家族继承人的最终否决权",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "罗伯特·博世先生写遗嘱写了七年。从1935年的第一稿到1938年5月31日的最终版本，整整六稿。他配套还写了三套针对遗嘱执行人的行动准则。",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他在遗嘱里指定了七位他最信任的人作为执行人。其中他的私人秘书汉斯·瓦尔兹被指定拥有最终的解释权。任何对遗嘱执行的争议，以瓦尔兹的解读为准。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条设计的力量，在博世自己的儿子身上得到了验证。",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小罗伯特·博世，是创始人第二任妻子玛格丽特生的儿子。父亲去世时他只有14岁。等他长大想参与公司管理，因为管理子公司的表现不佳，被七位执行人组成的团队\"请出\"了决策层。",
+          "related_node_ids": [
+            "person:robert-bosch-jr",
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "创始人在信里殷殷嘱托儿子接班，结果儿子被父亲指定的人否决了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "听上去残酷，但这恰恰是博世遗嘱的精髓。博世先生在遗嘱里写过一句话：\"企业比家人重要。\"",
+          "related_node_ids": [
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条规矩在乐高的现代版本里得到了一种回响。2023年家族新设了一个叫K2的基金会。这个基金会只持有1.5%的股权，但拥有34%的投票权。它的存在只有一个用途：如果家族内部出现严重分歧，可以行使投票权防止内部纠纷威胁企业。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "平时静静地待着，关键时刻可以单独切断。这是一道托底的保险丝。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "人对自己的孩子永远会过度乐观。父亲很难在儿子面前承认\"他不行\"。母亲更难。整个家族的内部情感都在推着大家说\"我们家的孩子是最好的\"。这种集体盲视靠家族内部的力量是没法打破的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "所以必须引入一个不在这个情感场里的、有制度授权的人，让他来做那个父母做不出口的判断。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 任命家族成员担任CEO或核心高管职务时，须经由独立董事或外部评估委员会的多数同意。该机构有权基于书面的能力评估否决任何家族成员的任命，无论其在家族中的辈分。被否决的任命须经至少一年以上的能力提升期方可重新提交。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "汤马斯·克里斯蒂安森25岁那年第一次走进乐高董事会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "会议室很大，中间的长桌坐着十几个人。他被引到一张离主桌很远的椅子上坐下。整场会议三个多小时。他没投过一次票，没说过一句话。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "会议结束后，所有人陆续起身离开。他在那张椅子上又多坐了一会儿。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十九年之后，他坐到了那张主桌的最中间。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乐高家族这一段历史，后来被人用\"最为周密和审慎\"这样的字眼记录。但所谓周密，所谓审慎，归根到底就是一件事。从角落里那张椅子，走到主桌最中间，他用了十九年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这五条规矩想做的，是同样的一件事。它们都不在缩短这十九年，而在保证这十九年里发生的事情真实地发生过。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "让一个未来要承担家族重量的人，在每一段路上都被外面的世界认真打过分。被陌生人骂过，被市场拒绝过，被非家族的董事会问过难题，被基层的工友看穿过虚浮。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这样走完十九年的人，再坐到主桌最中间，他才坐得稳。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 八个家族，一碗酱油：龟甲万的360年共治奇迹、不上市的\"甜蜜\"帝国：揭秘玛氏家族掌控百年的隐秘之道、百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路、博世家族故事：当家族选择不占有，却能永远拥有、乐高家族：从一场大火到积木帝国的四代传奇、周大福的金，新世界的债",
+          "related_node_ids": [
+            "story:kikkoman",
+            "story:lego",
+            "story:bosch",
+            "story:rockefeller",
+            "story:zhou-dafu",
+            "company:kikkoman",
+            "company:bosch",
+            "company:chow-tai-fook",
+            "family:bosch-family",
+            "family:mars-family"
+          ]
+        },
+        {
+          "id": "five-iron-rules-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Ward, John L. (2004) Perpetuating the Family Business: 50 Lessons Learned from Long-Lasting, Successful Families in Business",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-iron-rules-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Aronoff, Craig E. & McClure, Stephen L. (2003) Family Business Succession: The Final Test of Greatness",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:five-firewalls",
+      "title": "家族宪章里必须设的 5 道防火墙",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 8,
+      "topic": "rules",
+      "source_files": [
+        "洞察/家族洞察 08：家族宪章里必须设的 5 道防火墙.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "five-firewalls-p-001",
+          "level": 1,
+          "title": "家族洞察 08：家族宪章里必须设的 5 道防火墙"
+        },
+        {
+          "id": "five-firewalls-p-010",
+          "level": 2,
+          "title": "一、重大决策必须经过\"特定多数\""
+        },
+        {
+          "id": "five-firewalls-p-023",
+          "level": 2,
+          "title": "二、股权流出家族必须先经\"优先回购\""
+        },
+        {
+          "id": "five-firewalls-p-038",
+          "level": 2,
+          "title": "三、家族纠纷必须先经\"强制仲裁\""
+        },
+        {
+          "id": "five-firewalls-p-051",
+          "level": 2,
+          "title": "四、配偶进入家族企业必须有\"资产隔离\""
+        },
+        {
+          "id": "five-firewalls-p-066",
+          "level": 2,
+          "title": "五、留一份\"后人不能改\"的清单"
+        },
+        {
+          "id": "five-firewalls-p-081",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "five-firewalls-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 08：家族宪章里必须设的 5 道防火墙",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2010年10月23日早晨，巴黎。爱马仕家族控股公司主席伯特兰·皮埃什接到了一个电话。电话那头是LVMH集团的老板贝尔纳·阿尔诺。阿尔诺只说了一句话：\"我已经买入贵公司17%的股份。\"",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这不是普通的收购，是一次精心设计的伏击。从2001年开始，阿尔诺就通过LVMH名下的多个海外子公司悄悄收集爱马仕的股票，每次收购都控制在5%以下，绕开了法国证券监管的披露红线。2008年到2010年之间，他又跟几家投行签了股权掉期协议，让银行替他持股，约定日后以固定价格交换。等到他打那个电话给皮埃什的时候，LVMH已经是爱马仕的第二大股东。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "50多位爱马仕家族成员紧急聚到巴黎的家族办公室。这些人里有第六代，年轻人，大部分有自己的事业，对爱马仕的日常经营毫无介入。会议的主题只有一个：怎么不让公司被吞掉。",
+          "related_node_ids": [
+            "tool:family-office",
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们最后决定的事情几乎没有先例。成立一个叫\"H51\"的家族控股联盟，把超过50%的家族股份打包锁定二十年。锁定期内，任何家族成员未经全体同意，都不能出售自己的份额。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那一年签字的家族成员等于同时放弃了二十年的变现自由。最年轻的那几位签下去的时候，二十年之后他们才到中年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕家族能在两个月内做出这个决定，不是因为他们临时想到了一个好主意。是因为家族里早就习惯了这种\"防火墙\"思维。重要的事情，不到事情发生的时候去想。提前在章程里画好线，等事情来的时候，按线办就行。",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族企业活得久不久，关键不在它会不会遇到危机，而在它有没有提前在章程里设下防火墙。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕设的，是其中一道。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一、重大决策必须经过\"特定多数\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1925年，日本千叶县野田。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "八个酱油酿造家族刚刚合并成龟甲万八年。这八家原本是几代人的竞争对手，谁都怕在新公司里被另外几家吃掉。他们用了二十三年才把品牌统一到\"龟甲万\"三个字上。这二十三年里发生的所有讨价还价、僵局、退让，最后被装进了一份十六条的家族宪章。",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution",
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "宪章的第十六条这么写：\"重大事务切勿独断。\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条规矩听起来像一句废话。但它救过龟甲万很多次。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一百年下来，龟甲万经历过几代社长更替，经历过战时被军部接管的危机，经历过1957年清酒市场萎缩的压力，经历过2008年的金融海啸。每一次危机里，公司面临的最大诱惑都是\"由某个强人来快速决定\"。但章程不允许。重大决策必须经过八家共治的\"同族会\"协商，必须取得特定多数。哪怕你是龟甲万的社长，单独决定的权力也不存在。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "新世界发展的故事是反过来的。",
+          "related_node_ids": [
+            "company:new-world-development"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1989年1月1日，43岁的郑家纯从父亲郑裕彤手里接过新世界发展。接班的最初十四个月里，他发起了一连串收购。2月用3.68亿港元入股查济民家族的香港兴业，同月用7.44亿港元收购基立实业，3月发起对永安集团的敌意收购，4月又斥资27.7亿港元拿下美国华美达酒店集团。再加上后续的几笔，这14个月里的总投入接近70亿港元。",
+          "related_node_ids": [
+            "person:henry-cheng",
+            "person:cheng-yu-tung",
+            "company:new-world-development"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接班前公司的负债不到15亿港元。一年半之后，负债膨胀到将近90亿。1991年公司盈利比郑裕彤主政时下挫了54%。郑裕彤被迫\"二次出山\"才把局面稳住。",
+          "related_node_ids": [
+            "person:cheng-yu-tung"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果当时新世界的章程里有一条\"重大资本支出超过净资产5%必须经董事会三分之二多数同意\"的规定，那70亿不会一次性砸出去。郑家纯个人的判断会被一道结构性的关卡拦下来。但当时新世界的章程里没有这条。决策权太集中在一个人手里，那个人又恰好刚刚接班、急于证明自己。",
+          "related_node_ids": [
+            "person:henry-cheng"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这不是郑家纯一个人的能力问题。是结构的问题。",
+          "related_node_ids": [
+            "person:henry-cheng"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写到家族宪章里：",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 凡涉及超过家族企业净资产5%以上的资本支出、并购、重大业务转型、品牌授权等决策，须经家族议会和董事会的三分之二多数同意方可实施。任何家族成员（包括CEO和创始人本人）均不得单独决定。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "二、股权流出家族必须先经\"优先回购\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到2010年的爱马仕。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "H51联盟成立后，LVMH的渗透被堵住了。但联盟解决的只是当下二十年的问题。如果联盟到期，或者家族成员真的要套现走人，公司怎么不被外人买进来？",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕的章程里早有一条更老的规矩。任何家族成员要出售股份，必须先卖给家族的控股实体，对方有优先回购权。控股实体放弃，再考虑卖给其他家族成员。所有家族成员都放弃，才能考虑外人。每一步都要经过家族议会的同意。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乐高家族用过同一道规矩。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2023年，第三代基耶尔德的二女儿索菲·克里斯蒂安森决定退出家族企业。她原本持有家族控股公司KIRKBI约25%的股权。她的兴趣在自然保护，名下有丹麦的大片土地和苏格兰高地的一座庄园，她要把股权变现去做生态项目。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按很多家族的处理方式，这种情况会很麻烦。一个持25%的人要套现，可能找投行包销，可能卖给私募基金，可能整体出售。任何一种都会让家族失去一部分控制权。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但乐高家族的章程里早就写好了。索菲的股份必须先卖回KIRKBI。KIRKBI按照预设的估值公式回购，付给索菲约9.3亿美元。整笔交易在家族内部完成，外人没有任何介入的机会。家族对乐高的控制权一点没变。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰家族走的是相反的路。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1980年代，第三代的毛里齐奥·古驰为了和叔叔阿尔多争夺控制权，把自己继承自父亲鲁道夫的股份拿去抵押融资。他的合作对象是一家叫Investcorp的投资集团。1989年，叔叔阿尔多刚出狱不久，被迫以极低的价格把自己剩余的约16%股份也卖给了Investcorp。",
+          "related_node_ids": [
+            "person:maurizio-gucci",
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到1993年，连毛里齐奥自己也撑不住了。他追求奢华、不计成本，公司连年亏损，Investcorp在董事会逼宫。毛里齐奥被迫辞去董事长职务，把剩下的全部股份卖给了Investcorp。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "72年的家族企业王朝在那一年终结。Gucci这个品牌存活了下来，但古驰家族再也回不去。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰的章程里如果有一条\"任何成员的股份必须先经家族优先回购\"的规定，毛里齐奥的股份不会在那个低点流到外人手里，整个家族也不会被一个人的赌局拖下水。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写到家族宪章里：",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 任何家族成员意图出售或转让其家族企业股权时，须先按预设公式定价并通知家族控股实体。控股实体享有30天内的优先回购权。控股实体放弃后，方可向其他家族成员转让。家族整体放弃后，转让外人须经家族议会三分之二多数同意，且受让方须接受不影响家族控制权的限制条款。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "三、家族纠纷必须先经\"强制仲裁\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2002年7月6日，迪鲁拜·安巴尼因心脏病突发辞世。",
+          "related_node_ids": [
+            "person:dhirubhai-ambani"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他没有留下遗嘱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个儿子穆克什和阿尼尔立刻陷入印度商业史上最公开的财产争夺战。他们在董事会上互相指责，在媒体上隔空交火。2004年穆克什第一次在采访里承认集团内部存在\"所有权问题\"，2005年上半年急剧升级。印度股市因为他们的争吵剧烈震荡，外资恐慌出逃。最严重的时候，印度财政部长公开出面，呼吁兄弟二人\"将私人纠纷私下解决，以免损害国家资本市场\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但谁都说不动他们。律师团说不动，投行家说不动，政府特使说不动。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们身边围着的全是一流的商业精英。但没有一个机制能把他们强行拉回到同一张谈判桌上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场争斗持续了将近三年。最后是他们的母亲科姬娜本以家族长老的身份介入，又找来ICICI银行的CEO卡马特做专业支持，2005年6月18日才宣布达成分家协议。穆克什拿走石化、炼油、油气，阿尼尔拿走电信、电力、金融，比例大约七比三。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果当年迪鲁拜·安巴尼的家族章程里有一条\"家族成员之间出现重大分歧时，必须先经XX委员会调解\"的条款，事情就不会拖三年。",
+          "related_node_ids": [
+            "person:dhirubhai-ambani"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "龟甲万的章程里就有这样一道关。八家共治的同族会本身就承担着仲裁的功能。任何家族成员之间的分歧，先到同族会，由其他家族的代表共同协商。强制性、私密性、不进入公开对抗状态。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这种机制的力量在于\"先\"。必须先经过仲裁，才能进入下一步。如果一上来就允许家族成员请律师、上法庭、找媒体，事情已经无法挽回。但如果先有一道仲裁的关，绝大多数纠纷会在那道关里被消化掉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰家族的故事是反过来的。第二代阿尔多和鲁道夫私下结怨数十年，从来没有任何机制把他们拉到一张桌子前协商。第三代保罗为了报复父亲不让他独立做品牌，转身向美国国税局举报，把81岁的阿尔多送进了美国监狱，服刑六个月。一个本可以用家族会议解决的私怨，最后用监狱来解决。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写到家族宪章里：",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 家族成员之间出现涉及股权、控制权、薪酬、管理权或其他重大利益的分歧时，须先在30日内提交家族议会内部仲裁。议会由非利益相关方家族成员加非家族独立人士组成。仲裁结果对各方有约束力。未经此程序，任何家族成员不得对其他家族成员发起法律诉讼或公开声讨。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "四、配偶进入家族企业必须有\"资产隔离\"",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1989年，香港。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在汇丰银行总部顶层的会议室里，包玉刚和律师团一起完成了一份信托文件的签署。这份文件后来成了华人家族传承史上最被反复引用的样本。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "包玉刚没有儿子，只有四个女儿。在中国传统的家族企业逻辑里，没有儿子意味着家族基业要么过继，要么被女婿\"招进来\"接管。包玉刚选了第三条路。",
+          "related_node_ids": [
+            "person:yue-kong-pao"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他在离岸司法管辖区设立了五个家族信托。一个总信托作为家族控股平台，下面四个子信托分别对应四个女儿。每个子信托里，受益人和最终所有权属于女儿和她的子女。女婿在信托里只有一个角色：经营者。",
+          "related_node_ids": [
+            "tool:family-trust",
+            "concept:family-trust"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "苏海文负责环球航运集团，吴光正掌门九龙仓和会德丰，渡边慎一郎管贸易类，郑维健管金融投资。四位女婿都是各自领域的能人，但他们的经营权来源于妻子的信托授权，不是来源于他们自己持有的任何股份。",
+          "related_node_ids": [
+            "person:peter-woo",
+            "person:helmut-sohmen",
+            "person:zheng-weijian",
+            "company:wharf-holdings",
+            "company:wheelock",
+            "company:world-wide-shipping"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这条设计的有效性在十几年之后被一个真实的事件验证。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最小的女婿郑维健和四女儿包陪慧的婚姻出现问题，1998年离婚。如果按照传统的\"招婿入赘\"模式，这等于一块庞大的家族资产要被一个外人带走。但因为信托的结构，郑维健离开后没有带走任何家族财产。包陪慧依然完整地掌控着属于自己的那部分。",
+          "related_node_ids": [
+            "person:zheng-weijian"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族企业的婚姻波动是最容易被忽视的渗漏。一个家族的第二代有四个孩子，每个孩子配一个配偶，等于这个家族从原来的5个核心人扩张到9个。如果这4个配偶都享有同等的股权和经营权，家族的内部决策结构会立刻翻倍复杂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更危险的是离婚。一旦发生婚姻破裂，没有资产隔离的家族企业要面对的是一场分家诉讼，对方可以主张共同财产分割。许多原本完好的家族企业，最后毁在一场离婚官司上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "何鸿燊家族走的是另一条路。",
+          "related_node_ids": [
+            "person:stanley-ho",
+            "family:ho-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "何鸿燊生前妻妾四房，子女17人。他没有提前设计任何代际隔离机制，一切倚赖他个人的权威调度。2009年他中风之后，权威开始失效。2011年争产风波正式爆发：四房家人抢先发布公告说获得了授权分配遗产，第二天二房又出来反驳说前一个声明并非何鸿燊本意。整个争夺持续了好几年，最后靠律师见证下重新划分产业才勉强收场。",
+          "related_node_ids": [
+            "person:stanley-ho"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "何鸿燊的故事不是个人问题。是结构问题。一个极度依赖创始人个人权威的体系，在创始人失能那一刻就开始崩溃。",
+          "related_node_ids": [
+            "person:stanley-ho"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写到家族宪章里：",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 家族成员的配偶不得直接持有家族企业股权或其他控制权工具。家族成员与其配偶进入婚姻前，须签署婚前协议，明确家族企业股权与婚姻共同财产隔离。配偶可以参与家族企业的经营，但其薪酬必须与岗位绑定，与\"配偶身份\"无关。任何形式的股权激励或经营权安排须经家族议会同意。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "五、留一份\"后人不能改\"的清单",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1964年，斯图加特。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "罗伯特·博世先生已经去世二十二年。他生前留下的遗嘱核心精神是\"持久的创业自由，保留与博世家族的联系，把红利用于支持慈善\"。但围绕这份遗嘱具体怎么落地，家族内部、遗嘱执行人、律师团之间整整讨论了二十年。",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这一年，博世家族最终做了一个决定。把博世公司的绝大部分股权永久捐给罗伯特·博世基金会。投票权交给一个独立的工业信托。家族只保留少数席位和象征性的股权。",
+          "related_node_ids": [
+            "person:robert-bosch",
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "主导这个决定的是创始人小儿子小罗伯特·博世。他带着家族其他成员\"忍痛割爱\"，把自己合法继承的财产交了出去。",
+          "related_node_ids": [
+            "person:robert-bosch-jr",
+            "person:robert-bosch",
+            "company:bosch"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个决定一旦做出，永远不能撤回。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "无论后世的博世家族成员有多想拿回那笔钱，无论市场环境多么诱惑，无论企业多么成功，那笔股权永远属于公益基金。2020年，博世家族第三代后人又做了一次同样的事，把剩余约7.4%的股权也几乎全部让出，家族最后只保留了0.001%的象征性股份。",
+          "related_node_ids": [
+            "company:bosch",
+            "family:bosch-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是一道\"代际锁\"。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "类似的代际锁在玛氏家族那里是另一种形式。从弗雷斯特·玛氏开始的几代人，把\"永远不上市\"作为一条不能讨论的家族原则。第三代的帕梅拉·玛氏在家族商业论坛上明确说过：\"无论时代如何变化，我们永远不会让玛氏公司上市。这不仅是商业考量，更因为我们将公司视作家族的使命和责任。\"这条原则不写在某一份合同里，但它有比合同更强的效力。它是几代人的共识，被反复说，被反复示范。",
+          "related_node_ids": [
+            "person:forrest-mars-sr",
+            "company:mars-incorporated",
+            "family:mars-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕的H51联盟也是同样的逻辑。它的形式是法律契约，但它的精神是同一种东西。把某些事情提前锁住，让后人无法在情绪上头的时候做出改变。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族每过一代，记忆就会衰减。第一代的痛苦，第二代是听说的，第三代是从书里看到的，第四代可能已经完全不记得。一个深刻的教训如果不被写进\"不能改\"的清单，第四代会在不经意间犯第一代犯过的同样错误。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "代际锁的功能，是用第一代的经验和痛苦，给后人画一道他们自己看不到的边界。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "美第奇家族正是因为没有这道边界而消失的。这个家族存续了三百年，五代主线之后断绝男嗣，旁支接手又延续了两百年。但他们没有任何机制把\"治理原则\"代际锁定。1737年最后一位男性血脉去世，最后一位家族成员安娜·玛丽亚·路易萨临终前签了一份《家族协议》，把全部财产捐给佛罗伦萨。条款只有一句话：\"任何一样东西都不能离开佛罗伦萨。\"那是一个家族在最后一刻完成的、本应该在三百年前就完成的代际锁。",
+          "related_node_ids": [
+            "family:medici-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写到家族宪章里：",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "> 家族应明确列出一份\"不可逆决定\"清单（包括但不限于：核心业务的处置、品牌的转让、家族控股比例的下限、不上市的承诺、对慈善基金会的永久承诺等）。清单上的每一项决定，须经全体家族成员一致同意方可启动修改。任何修改提案的审议须延期至少12个月，期间不得做出任何不可逆操作。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到2010年那间巴黎的家族办公室。",
+          "related_node_ids": [
+            "tool:family-office"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "50多位爱马仕家族成员坐在一起。他们里面很多是第六代，已经完全没有亲历过爱马仕家族早期的任何困难。他们大部分有自己的事业，有自己的生活，对爱马仕公司的日常经营毫不参与。",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但当家族办公室告诉他们LVMH已经买进17%股份的时候，他们做的事情是放弃自己未来二十年的变现自由，把股份打包锁定。",
+          "related_node_ids": [
+            "tool:family-office"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们这么快能做到，不是因为他们多伟大。是因为家族早在他们出生之前就反复教过他们一些事情。这家公司的股份不是用来卖的。我们只是这个名字的看护者。姓氏比钱重要。这些信念被反复说，被写入家族文件，被几代人示范。等到危机真的来的时候，决定本身已经不需要再做了，做的只是把一个早就内化的原则付诸行动。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族宪章里的每一道防火墙，并不是法律意义上的约束。它真正的作用，是让家族成员在没有压力的时候，把那些将来会救命的判断提前做完。",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到危机真正到来的那一天，家族成员能做的事，恰恰是他们的祖辈早就替他们想过的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 爱马仕家族故事：一门手艺的六代传承、八个家族，一碗酱油：龟甲万的360年共治奇迹、福特家族：一只怀表、一个姓氏与五代传承的故事、周大福的金，新世界的债、乐高家族：从一场大火到积木帝国的四代传奇、金色双 G 的阴影：古驰家族百年兴衰、印度第一家族：安巴尼王朝的权利游戏与传承密码、无子江山：世界船王包玉刚留给女儿们的爱与传承、十元起步到赌王加冕：何鸿燊的世纪豪赌、博世家族故事：当家族选择不占有，却能永远拥有、不上市的\"甜蜜\"帝国：揭秘玛氏家族掌控百年的隐秘之道、美第奇家族：金钱、权力与不朽的三百年",
+          "related_node_ids": [
+            "story:pao-family",
+            "story:kikkoman",
+            "story:ambani",
+            "story:gucci",
+            "story:stanley-ho",
+            "story:lego",
+            "story:bosch",
+            "story:hermes",
+            "story:zhou-dafu",
+            "story:medici",
+            "story:ford-family",
+            "person:stanley-ho",
+            "person:yue-kong-pao",
+            "company:kikkoman",
+            "company:gucci",
+            "company:bosch",
+            "company:hermes",
+            "company:chow-tai-fook",
+            "family:hermes-family",
+            "family:medici-family",
+            "family:gucci-family",
+            "family:bosch-family",
+            "family:mars-family",
+            "family:ford-family"
+          ]
+        },
+        {
+          "id": "five-firewalls-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Ward, John L. (2004) Perpetuating the Family Business: 50 Lessons Learned from Long-Lasting, Successful Families in Business",
+          "related_node_ids": []
+        },
+        {
+          "id": "five-firewalls-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Lansberg, Ivan (1999) Succeeding Generations: Realizing the Dream of Families in Business",
+          "related_node_ids": []
+        }
+      ]
     }
   ]
 };

@@ -98,10 +98,13 @@ const storyNodeCount = window.KNOWLEDGE_DATA.nodes.filter((node) => node.type ==
 assert(window.KNOWLEDGE_DATA.nodes.length >= 695, "published knowledge data should include all nodes");
 assert(window.KNOWLEDGE_DATA.edges.length >= 2843, "published knowledge data should include person relationship layer");
 assert(storyNodeCount >= 32, "published knowledge data should keep every existing story");
+const storyArticles = window.ARTICLE_DATA.articles.filter((article) => !article.kind);
+const insightCount = window.ARTICLE_DATA.articles.filter((article) => article.kind === "insight").length;
 assert(
-  window.ARTICLE_DATA.articles.length === storyNodeCount,
-  `every story node should ship with its article (stories: ${storyNodeCount}, articles: ${window.ARTICLE_DATA.articles.length})`,
+  storyArticles.length === storyNodeCount,
+  `every story node should ship with its article (stories: ${storyNodeCount}, articles: ${storyArticles.length})`,
 );
+assert(insightCount >= 8, "the insight series should ship with the site");
 for (const edge of window.KNOWLEDGE_DATA.edges) {
   assert(nodeIds.has(edge.source), `edge source missing from nodes: ${edge.source}`);
   assert(nodeIds.has(edge.target), `edge target missing from nodes: ${edge.target}`);
@@ -144,6 +147,23 @@ assert(viewTitle() === "方法论", "methods page should have its own page title
 assert(!viewSubtitle().includes("家训、宪章与制度化信任"), "methods page should not inherit a previous topic subtitle");
 assert(content().includes("方法论索引"), "methods page should render a method-specific directory");
 assert(!scrolls.some((item) => item.name === "#graphSection"), "top navigation should not rely on graph-section scrolling");
+
+clickDataset("[data-view]", { view: "timeline" });
+
+assert(viewTitle() === "大事年表", "timeline view should have its own page title");
+assert(content().includes("timeline-era"), "timeline should render era groups");
+assert(content().includes("timeline-year"), "timeline should render year markers");
+
+clickDataset("[data-view]", { view: "topics" });
+assert(content().includes("insight-shelf"), "topics view should surface the insight series");
+assert(content().includes("家族洞察系列"), "insight shelf should be titled");
+
+clickDataset("[data-topic]", { topic: "rules" });
+assert(content().includes("insight-callout"), "mapped topics should offer a deep-dive insight");
+
+fakeLocation.hash = "#/article/insight:five-firewalls";
+assert(viewTitle().includes("防火墙"), "insight article should open in the reader");
+assert(content().includes("家族洞察"), "insight reader should carry the series kicker");
 
 clickDataset("[data-view]", { view: "matrix" });
 
