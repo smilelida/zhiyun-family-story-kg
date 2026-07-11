@@ -2639,3 +2639,26 @@ body {
   letter-spacing: 0.1em;
   white-space: nowrap;
 }
+
+
+.part-divider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 34px 0 22px 56px;
+}
+
+.part-divider::before,
+.part-divider::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid var(--line);
+}
+
+.part-divider span {
+  color: var(--gold);
+  font-family: var(--serif);
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.35em;
+}

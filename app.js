@@ -1873,7 +1873,18 @@ function renderArticleReader(article) {
           <div class="article-source-list">${sourceList}</div>
         </header>
         <div class="article-body">
-          ${article.paragraphs.map(renderArticleParagraph).join("")}
+          ${(() => {
+            const multi = (article.source_files || []).length > 1;
+            let currentSource = null;
+            return article.paragraphs.map((paragraph) => {
+              let divider = "";
+              if (multi && paragraph.source_index !== currentSource) {
+                currentSource = paragraph.source_index;
+                divider = `<div class="part-divider"><span>${currentSource === 1 ? "上篇" : currentSource === 2 ? "下篇" : `第 ${currentSource} 篇`}</span></div>`;
+              }
+              return divider + renderArticleParagraph(paragraph);
+            }).join("");
+          })()}
         </div>
       </article>
       <aside class="article-sidebar">

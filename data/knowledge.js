@@ -2005,7 +2005,7 @@ window.KNOWLEDGE_DATA = {
         "id": "story:bosch",
         "type": "story",
         "title": "博世家族故事：当家族选择不占有，却能永远拥有",
-        "series_no": null,
+        "series_no": 2,
         "families": [
           "family:bosch-family"
         ],
@@ -2045,7 +2045,7 @@ window.KNOWLEDGE_DATA = {
           "concept:enterprise-independence",
           "concept:gradual-succession"
         ],
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "reviewed": false
       }
     },
@@ -2083,7 +2083,7 @@ window.KNOWLEDGE_DATA = {
           "concept:governance-complexity",
           "concept:credit-capital"
         ],
-        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
         "reviewed": false,
         "draft": false,
         "key_people": [
@@ -2104,7 +2104,8 @@ window.KNOWLEDGE_DATA = {
         ],
         "family_governance_signature": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
         "risk_profile": "官商资源依赖、家族资产过度复杂、信托安排与后代共识不足、时代变迁导致资产安全下降。",
-        "curation_stage": "first_pass"
+        "curation_stage": "first_pass",
+        "series_no": 1
       }
     },
     {
@@ -17182,7 +17183,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "1964 年的三权分立",
         "order": 6,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "2.2 从血缘到机制：家族治理的制度化转身",
         "entities": [
           "family:bosch-family",
@@ -20215,7 +20216,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "从所有者到守护者",
         "order": 7,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "2.3 遗嘱的三种方案与命运共识 / 2.4 隐形的舵手",
         "entities": [
           "family:bosch-family",
@@ -20346,7 +20347,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "价值观必须落在行动里",
         "order": 3,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "1.2 信念落地：制度、故事与行动中的文化遗产",
         "entities": [
           "person:robert-bosch",
@@ -21075,7 +21076,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "博世模式的适用条件",
         "order": 9,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "2.6 模式的普适性探讨：博世经验的启示与局限",
         "entities": [
           "family:bosch-family",
@@ -21647,7 +21648,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "宁失利，不失信",
         "order": 2,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "1.1 从父亲的骑士精神，到儿子的责任哲学",
         "entities": [
           "person:robert-bosch",
@@ -22567,7 +22568,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "接班人断裂后的制度预案",
         "order": 4,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "1.3 理想与现实之间：一位父亲未竟的遗嘱",
         "entities": [
           "person:robert-bosch",
@@ -22970,7 +22971,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "未按父亲想象发生的继承",
         "order": 1,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "引子",
         "entities": [
           "person:robert-bosch",
@@ -24381,7 +24382,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:sheng-xuanhuai",
         "title": "片段 01",
         "order": 1,
-        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
         "entities": [
           "family:sheng-family",
           "person:sheng-xuanhuai",
@@ -25195,7 +25196,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:sheng-xuanhuai",
         "title": "片段 03",
         "order": 3,
-        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
         "entities": [
           "family:sheng-family",
           "person:sheng-xuanhuai",
@@ -26574,7 +26575,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:sheng-xuanhuai",
         "title": "片段 04",
         "order": 4,
-        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
         "entities": [
           "family:sheng-family",
           "person:sheng-xuanhuai",
@@ -27270,7 +27271,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:sheng-xuanhuai",
         "title": "片段 06",
         "order": 6,
-        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
         "entities": [
           "family:sheng-family",
           "person:sheng-xuanhuai",
@@ -28018,7 +28019,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "独立性如何保护长期创新",
         "order": 8,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "2.5 百年稳定的“反直觉设计”",
         "entities": [
           "company:bosch"
@@ -28074,7 +28075,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:sheng-xuanhuai",
         "title": "盛宣怀在世时，是盛家绝对的权威核心",
         "order": 5,
-        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
         "entities": [
           "family:sheng-family",
           "person:sheng-xuanhuai",
@@ -28130,7 +28131,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:sheng-xuanhuai",
         "title": "盛宣怀离世后，年仅24岁的盛恩颐接掌盛氏产业，登上家族舞台的中央",
         "order": 2,
-        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+        "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
         "entities": [
           "family:sheng-family",
           "person:sheng-xuanhuai",
@@ -28413,7 +28414,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "职业经理人接住过渡期",
         "order": 5,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "2.1 遗产与火种：从动荡中延续下来的信托基因",
         "entities": [
           "person:hans-walz",
@@ -28470,7 +28471,7 @@ window.KNOWLEDGE_DATA = {
         "story": "story:bosch",
         "title": "荣耀中的隐忧",
         "order": 10,
-        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+        "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
         "source_heading": "3.2 荣耀中的隐忧",
         "entities": [
           "family:bosch-family",
@@ -29648,7 +29649,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "讲述家族",
       "evidence": "文章以博世家族从创始人价值观到基金会加信托治理结构的形成过程为主线。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.95,
       "reviewed": false
     },
@@ -29658,7 +29659,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "价值源头",
       "evidence": "罗伯特·博世坚持宁失利不失信，并把技术创新、产品质量和社会责任写入企业 DNA。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.86,
       "reviewed": false
     },
@@ -29668,7 +29669,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "博世通过高薪、福利、医保、8 小时工作制和公益行动，让价值观落到制度与行动中。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.87,
       "reviewed": false
     },
@@ -29678,7 +29679,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "罗伯特·博世在接班人不确定后设立资产管理公司，并通过遗嘱执行人和规则降低继承风险。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.88,
       "reviewed": false
     },
@@ -29688,7 +29689,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "遗嘱中强调不能把企业领导权交到不合适的人手里，企业比家人重要。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.9,
       "reviewed": false
     },
@@ -29698,7 +29699,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "创始人去世后，家族成员尚未成熟，公司由汉斯·瓦尔茨等职业经理人延续经营。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.85,
       "reviewed": false
     },
@@ -29708,7 +29709,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "基金会掌握股权但不经营，工业信托掌握投票权，管理层负责日常经营。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.94,
       "reviewed": false
     },
@@ -29718,7 +29719,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "博世基金会成为绝对大股东，股权收益服务公益目的，但不参与日常经营决策。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.9,
       "reviewed": false
     },
@@ -29728,7 +29729,7 @@ window.KNOWLEDGE_DATA = {
       "type": "backed_by_source",
       "label": "制度工具",
       "evidence": "基金会加工业信托结构把股权、投票权和经营权分离。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.88,
       "reviewed": false
     },
@@ -29738,7 +29739,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "博世家族不再直接经营企业，而是通过基金会、信托和监事会守护创始人价值观。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.88,
       "reviewed": false
     },
@@ -29748,7 +29749,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "特殊所有权结构让博世不必迎合外部短期投资者，可持续投入研发和长期战略。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.87,
       "reviewed": false
     },
@@ -29758,7 +29759,7 @@ window.KNOWLEDGE_DATA = {
       "type": "causes",
       "label": "支撑",
       "evidence": "博世模式依赖后代对创始人价值观的认同和愿意牺牲个人利益的家族共识。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.86,
       "reviewed": false
     },
@@ -29768,7 +29769,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "基金会加信托双层架构带来管理成本、协调难度和受托人传承问题。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.84,
       "reviewed": false
     },
@@ -35921,7 +35922,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "讲述家族",
       "evidence": "晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录以盛氏家族为主要叙事对象。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "draft": true
@@ -35932,7 +35933,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "1916年4月26日夜间十点半，离辞世大约还有12个小时的盛宣怀，仍在为如何保全自己的家业而操心。在其夫人庄德华、其子盛重颐和盛升颐、长房长孙盛毓常以及医生唐乃安等人的注视下，盛宣怀示意随同自己多年的亲信、时任至善堂地产总管理处经理的顾咏铨（按：字润章）来到榻前，向其交代了自己对于“保家之策”的最终决断： 医生以我病无可救，嘱我预为吩咐。我之遗嘱早经办好，但",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -35943,7 +35944,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "1916年4月26日夜间十点半，离辞世大约还有12个小时的盛宣怀，仍在为如何保全自己的家业而操心。在其夫人庄德华、其子盛重颐和盛升颐、长房长孙盛毓常以及医生唐乃安等人的注视下，盛宣怀示意随同自己多年的亲信、时任至善堂地产总管理处经理的顾咏铨（按：字润章）来到榻前，向其交代了自己对于“保家之策”的最终决断： 医生以我病无可救，嘱我预为吩咐。我之遗嘱早经办好，但",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -35954,7 +35955,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "1916年4月26日夜间十点半，离辞世大约还有12个小时的盛宣怀，仍在为如何保全自己的家业而操心。在其夫人庄德华、其子盛重颐和盛升颐、长房长孙盛毓常以及医生唐乃安等人的注视下，盛宣怀示意随同自己多年的亲信、时任至善堂地产总管理处经理的顾咏铨（按：字润章）来到榻前，向其交代了自己对于“保家之策”的最终决断： 医生以我病无可救，嘱我预为吩咐。我之遗嘱早经办好，但",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -35965,7 +35966,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀离世后，年仅24岁的盛恩颐接掌盛氏产业，登上家族舞台的中央。清帝逊位后的几年里，中国政坛动荡不安，各路军阀鏖战不止，经济环境也极为艰险。盛恩颐初执掌家业时，母亲庄夫人曾给予严格督促，要求他勤理商务，不得荒废。在母亲的压力下，盛恩颐名义上出任了汉冶萍公司的总经理，同时兼任津浦铁路局局长、中国通商银行经理等职务，俨然接过了父亲的大部分担子。一时间，这位富家",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -35976,7 +35977,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀离世后，年仅24岁的盛恩颐接掌盛氏产业，登上家族舞台的中央。清帝逊位后的几年里，中国政坛动荡不安，各路军阀鏖战不止，经济环境也极为艰险。盛恩颐初执掌家业时，母亲庄夫人曾给予严格督促，要求他勤理商务，不得荒废。在母亲的压力下，盛恩颐名义上出任了汉冶萍公司的总经理，同时兼任津浦铁路局局长、中国通商银行经理等职务，俨然接过了父亲的大部分担子。一时间，这位富家",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -35987,7 +35988,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀离世后，年仅24岁的盛恩颐接掌盛氏产业，登上家族舞台的中央。清帝逊位后的几年里，中国政坛动荡不安，各路军阀鏖战不止，经济环境也极为艰险。盛恩颐初执掌家业时，母亲庄夫人曾给予严格督促，要求他勤理商务，不得荒废。在母亲的压力下，盛恩颐名义上出任了汉冶萍公司的总经理，同时兼任津浦铁路局局长、中国通商银行经理等职务，俨然接过了父亲的大部分担子。一时间，这位富家",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -35998,7 +35999,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "然而，它也隐含着巨大的挑战：要求各继承人克制短视欲望，接受共同富裕而非独占财富。对于习惯了“分家产，各过各的”传统观念的家族成员来说，这一模式需要理念上的转变和高度的信任。 1916年5月，至善堂议会制定了临时规则并开始运作。但很快，负责执行遗产清理的总经理顾泳铨、副经理盛玉麐（盛宣怀的族侄）突然双双辞职。史料并未明示辞职原因，但可推测与家庭内部矛盾和管理困",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36009,7 +36010,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "然而，它也隐含着巨大的挑战：要求各继承人克制短视欲望，接受共同富裕而非独占财富。对于习惯了“分家产，各过各的”传统观念的家族成员来说，这一模式需要理念上的转变和高度的信任。 1916年5月，至善堂议会制定了临时规则并开始运作。但很快，负责执行遗产清理的总经理顾泳铨、副经理盛玉麐（盛宣怀的族侄）突然双双辞职。史料并未明示辞职原因，但可推测与家庭内部矛盾和管理困",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36020,7 +36021,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "然而，它也隐含着巨大的挑战：要求各继承人克制短视欲望，接受共同富裕而非独占财富。对于习惯了“分家产，各过各的”传统观念的家族成员来说，这一模式需要理念上的转变和高度的信任。 1916年5月，至善堂议会制定了临时规则并开始运作。但很快，负责执行遗产清理的总经理顾泳铨、副经理盛玉麐（盛宣怀的族侄）突然双双辞职。史料并未明示辞职原因，但可推测与家庭内部矛盾和管理困",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36031,7 +36032,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀在世时官商交游广阔，子女婚姻多与名门联姻，形成了上至朝廷重臣、下至工商巨贾的人脉网络。这些社会资源本可以成为后代的助力。如前所述，四少爷盛恩颐就享有优渥的人脉：慈禧赐名、岳丈是总理、好友是宋子文。七小姐盛爱颐因家世显赫，在上海社交圈也大受瞩目，其维权官司更得到宋氏姐妹等名流声援。 然而，社会资本只有与自身能力结合，才能转化为实实在在的成就。可惜盛家某些",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36042,7 +36043,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀在世时官商交游广阔，子女婚姻多与名门联姻，形成了上至朝廷重臣、下至工商巨贾的人脉网络。这些社会资源本可以成为后代的助力。如前所述，四少爷盛恩颐就享有优渥的人脉：慈禧赐名、岳丈是总理、好友是宋子文。七小姐盛爱颐因家世显赫，在上海社交圈也大受瞩目，其维权官司更得到宋氏姐妹等名流声援。 然而，社会资本只有与自身能力结合，才能转化为实实在在的成就。可惜盛家某些",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36053,7 +36054,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀在世时官商交游广阔，子女婚姻多与名门联姻，形成了上至朝廷重臣、下至工商巨贾的人脉网络。这些社会资源本可以成为后代的助力。如前所述，四少爷盛恩颐就享有优渥的人脉：慈禧赐名、岳丈是总理、好友是宋子文。七小姐盛爱颐因家世显赫，在上海社交圈也大受瞩目，其维权官司更得到宋氏姐妹等名流声援。 然而，社会资本只有与自身能力结合，才能转化为实实在在的成就。可惜盛家某些",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36064,7 +36065,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀在世时，是盛家绝对的权威核心。由于他事业庞大、事务繁忙，对子女的管束可能不够严格，这从几个儿子的表现可见端倪。尤其是他与宠子盛恩颐的关系，既有深厚的父爱，也存在严训不足的问题。盛宣怀临终仍放心不下此子，将最丰厚的产业（如汉冶萍公司的股份）留给他管理，希望他撑起门户。 但盛恩颐却辜负了父亲期望。在父亲病重期间，他并未表现出应有的担当，反而忙于享乐挥霍。盛",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36075,7 +36076,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀在世时，是盛家绝对的权威核心。由于他事业庞大、事务繁忙，对子女的管束可能不够严格，这从几个儿子的表现可见端倪。尤其是他与宠子盛恩颐的关系，既有深厚的父爱，也存在严训不足的问题。盛宣怀临终仍放心不下此子，将最丰厚的产业（如汉冶萍公司的股份）留给他管理，希望他撑起门户。 但盛恩颐却辜负了父亲期望。在父亲病重期间，他并未表现出应有的担当，反而忙于享乐挥霍。盛",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36086,7 +36087,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀在世时，是盛家绝对的权威核心。由于他事业庞大、事务繁忙，对子女的管束可能不够严格，这从几个儿子的表现可见端倪。尤其是他与宠子盛恩颐的关系，既有深厚的父爱，也存在严训不足的问题。盛宣怀临终仍放心不下此子，将最丰厚的产业（如汉冶萍公司的股份）留给他管理，希望他撑起门户。 但盛恩颐却辜负了父亲期望。在父亲病重期间，他并未表现出应有的担当，反而忙于享乐挥霍。盛",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36097,7 +36098,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "相反，现代一些企业家（如香港的李嘉诚）早在壮年时期就启动传承布局，将产业和公益安排妥当。事实证明，传承计划宜早不宜迟。在创富者精力充沛时，就应设立完善的继承机制，反复论证章程条款的稳健性，及时发现漏洞并纠偏。等到临终仓促交代，往往为时已晚。 而企业交接班如方太集团的“三三制”，一代对二代“带三年、帮三年、看三年”，整个接班的过程花了十几年才完成，从而保证了平",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36108,7 +36109,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "相反，现代一些企业家（如香港的李嘉诚）早在壮年时期就启动传承布局，将产业和公益安排妥当。事实证明，传承计划宜早不宜迟。在创富者精力充沛时，就应设立完善的继承机制，反复论证章程条款的稳健性，及时发现漏洞并纠偏。等到临终仓促交代，往往为时已晚。 而企业交接班如方太集团的“三三制”，一代对二代“带三年、帮三年、看三年”，整个接班的过程花了十几年才完成，从而保证了平",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -36119,7 +36120,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "相反，现代一些企业家（如香港的李嘉诚）早在壮年时期就启动传承布局，将产业和公益安排妥当。事实证明，传承计划宜早不宜迟。在创富者精力充沛时，就应设立完善的继承机制，反复论证章程条款的稳健性，及时发现漏洞并纠偏。等到临终仓促交代，往往为时已晚。 而企业交接班如方太集团的“三三制”，一代对二代“带三年、帮三年、看三年”，整个接班的过程花了十几年才完成，从而保证了平",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.58,
       "reviewed": false,
       "draft": true
@@ -55402,7 +55403,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.78,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55413,7 +55414,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.78,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55424,7 +55425,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.78,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55435,7 +55436,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.78,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55446,7 +55447,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "关键人物",
       "evidence": "该人物参与或代表本篇家族治理主线。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55457,7 +55458,7 @@ window.KNOWLEDGE_DATA = {
       "type": "belongs_to",
       "label": "属于家族",
       "evidence": "人物节点与本篇家族案例相关。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55468,7 +55469,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "关键机构",
       "evidence": "该机构承载本篇家族治理或资产主线。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55479,7 +55480,7 @@ window.KNOWLEDGE_DATA = {
       "type": "associated_with",
       "label": "关联家族",
       "evidence": "机构节点与本篇家族案例相关。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55490,7 +55491,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "关键机构",
       "evidence": "该机构承载本篇家族治理或资产主线。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55501,7 +55502,7 @@ window.KNOWLEDGE_DATA = {
       "type": "associated_with",
       "label": "关联家族",
       "evidence": "机构节点与本篇家族案例相关。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55512,7 +55513,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "关键机构",
       "evidence": "该机构承载本篇家族治理或资产主线。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55523,7 +55524,7 @@ window.KNOWLEDGE_DATA = {
       "type": "associated_with",
       "label": "关联家族",
       "evidence": "机构节点与本篇家族案例相关。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55534,7 +55535,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "关键事件",
       "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55545,7 +55546,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "关键事件",
       "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55556,7 +55557,7 @@ window.KNOWLEDGE_DATA = {
       "type": "uses",
       "label": "治理工具",
       "evidence": "该制度工具解释本篇案例中的治理安排。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55567,7 +55568,7 @@ window.KNOWLEDGE_DATA = {
       "type": "uses",
       "label": "治理工具",
       "evidence": "该制度工具解释本篇案例中的治理安排。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55578,7 +55579,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55589,7 +55590,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55600,7 +55601,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55611,7 +55612,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55622,7 +55623,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55633,7 +55634,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55644,7 +55645,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55655,7 +55656,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55666,7 +55667,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55677,7 +55678,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55688,7 +55689,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55699,7 +55700,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55710,7 +55711,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55721,7 +55722,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55732,7 +55733,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55743,7 +55744,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55754,7 +55755,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55765,7 +55766,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55776,7 +55777,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55787,7 +55788,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55798,7 +55799,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55809,7 +55810,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55820,7 +55821,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55831,7 +55832,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55842,7 +55843,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55853,7 +55854,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "体现",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.74,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55864,7 +55865,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55875,7 +55876,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55886,7 +55887,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55897,7 +55898,7 @@ window.KNOWLEDGE_DATA = {
       "type": "mentions",
       "label": "片段提及",
       "evidence": "这个片段服务于“盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。”这条主线，可与本篇的核心治理概念交叉阅读。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.68,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55908,7 +55909,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55919,7 +55920,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55930,7 +55931,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55941,7 +55942,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55952,7 +55953,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55963,7 +55964,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55974,7 +55975,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55985,7 +55986,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -55996,7 +55997,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -56007,7 +56008,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -56018,7 +56019,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -56029,7 +56030,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -56040,7 +56041,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -56051,7 +56052,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -56062,7 +56063,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -56073,7 +56074,7 @@ window.KNOWLEDGE_DATA = {
       "type": "illustrates",
       "label": "关联概念",
       "evidence": "盛宣怀家族展示官商网络、近代实业、财富信托和后代分散之间的治理复杂性。",
-      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录.md",
+      "source_file": "文章/晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录（执允“家族·故事”系列第 1 期）.md",
       "confidence": 0.7,
       "reviewed": false,
       "curation_stage": "first_pass"
@@ -60515,7 +60516,7 @@ window.KNOWLEDGE_DATA = {
       "type": "parent_child",
       "label": "父子关系",
       "evidence": "小罗伯特·博世属于博世家族后代，但家族没有把企业简单私有化传给子女。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.76,
       "reviewed": false,
       "curation_stage": "person_relationships_v1",
@@ -60527,7 +60528,7 @@ window.KNOWLEDGE_DATA = {
       "type": "professional_delegate",
       "label": "职业经理人托付",
       "evidence": "罗伯特·博世把企业长期治理托付给职业经理人和基金会结构。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.82,
       "reviewed": false,
       "curation_stage": "person_relationships_v1",
@@ -60539,7 +60540,7 @@ window.KNOWLEDGE_DATA = {
       "type": "partner",
       "label": "家族代表共治",
       "evidence": "爱娃·马德隆与克里斯托夫·博世代表家族后代参与博世治理记忆。",
-      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有.md",
+      "source_file": "文章/博世家族故事：当家族选择不占有，却能永远拥有（执允“家族·故事”系列第 2 期）.md",
       "confidence": 0.72,
       "reviewed": false,
       "curation_stage": "person_relationships_v1",
