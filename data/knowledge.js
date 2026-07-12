@@ -1,5 +1,5 @@
 window.KNOWLEDGE_DATA = {
-  "generated_at": "2026-07-11",
+  "generated_at": "2026-07-12",
   "nodes": [
     {
       "id": "story:dassler",
