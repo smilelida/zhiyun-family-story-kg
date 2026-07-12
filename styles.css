@@ -379,17 +379,72 @@ button {
   padding: 0 40px 64px;
 }
 
-.top-nav {
+.top-bar {
   position: sticky;
   top: 0;
   z-index: 8;
   display: flex;
-  gap: 26px;
+  gap: 18px;
   align-items: center;
+  justify-content: space-between;
   min-height: 52px;
   border-bottom: 1px solid var(--line);
-  background: rgba(255, 253, 248, 0.92);
+  background: rgba(247, 244, 238, 0.92);
   backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.top-nav {
+  display: flex;
+  gap: 26px;
+  align-items: center;
+  min-width: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.top-nav::-webkit-scrollbar {
+  display: none;
+}
+
+.top-home {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 0 6px 18px;
+  border-left: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.2s;
+}
+
+.top-home:hover {
+  color: var(--green-dark);
+}
+
+.top-home span {
+  transition: transform 0.25s var(--ease-out);
+}
+
+.top-home:hover span {
+  transform: translateX(-3px);
+}
+
+a.brand {
+  text-decoration: none;
+  color: inherit;
+}
+
+a.brand .brand-logo {
+  transition: transform 0.5s var(--ease-out);
+}
+
+a.brand:hover .brand-logo {
+  transform: scale(1.06) rotate(6deg);
 }
 
 .top-nav button {

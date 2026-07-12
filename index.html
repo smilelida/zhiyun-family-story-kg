@@ -16,16 +16,16 @@
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="icon" type="image/png" href="./logo.png" />
-    <link rel="stylesheet" href="./styles.css?v=20260712111426" />
+    <link rel="stylesheet" href="./styles.css?v=20260712114054" />
   </head>
   <body>
     <div class="app-shell">
       <aside class="sidebar">
-        <div class="brand">
+        <a class="brand" id="brandHome" href="https://flourishingtreefo.com/" title="回到执允官网">
           <img class="brand-logo" src="./logo.png" alt="执允" width="44" height="44" />
           <p class="eyebrow">Family Story Atlas</p>
           <h1>执允·家族故事知识图谱</h1>
-        </div>
+        </a>
 
         <label class="search">
           <span>搜索</span>
@@ -43,14 +43,19 @@
       </aside>
 
       <main class="workspace">
-        <nav id="topNav" class="top-nav" aria-label="主导航">
-          <button data-view="home" aria-current="page">故事地图</button>
-          <button data-view="topics">主题索引</button>
-          <button data-view="matrix">对照矩阵</button>
-          <button data-view="people">人物图谱</button>
-          <button data-view="stories">故事列表</button>
-          <button data-view="methods">方法论</button>
-        </nav>
+        <div class="top-bar">
+          <nav id="topNav" class="top-nav" aria-label="主导航">
+            <button data-view="home" aria-current="page">故事地图</button>
+            <button data-view="topics">主题索引</button>
+            <button data-view="matrix">对照矩阵</button>
+            <button data-view="people">人物图谱</button>
+            <button data-view="stories">故事列表</button>
+            <button data-view="methods">方法论</button>
+          </nav>
+          <a id="siteHomeLink" class="top-home" href="https://flourishingtreefo.com/">
+            <span aria-hidden="true">←</span> 返回官网
+          </a>
+        </div>
 
         <section class="topbar">
           <div>
@@ -73,8 +78,8 @@
       </main>
     </div>
 
-    <script src="./data/knowledge.js?v=20260712111426"></script>
-    <script src="./data/articles.js?v=20260712111426"></script>
-    <script src="./app.js?v=20260712111426"></script>
+    <script src="./data/knowledge.js?v=20260712114054"></script>
+    <script src="./data/articles.js?v=20260712114054"></script>
+    <script src="./app.js?v=20260712114054"></script>
   </body>
 </html>

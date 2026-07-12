@@ -2538,6 +2538,13 @@ function updateReadingProgress() {
 function setupEnhancements() {
   if (!inBrowser) return;
 
+  // when the atlas lives under the corporate site (/atlas/), home is one hop up
+  if ((location.pathname || "").startsWith("/atlas")) {
+    document.querySelector("#siteHomeLink")?.setAttribute?.("href", "/");
+    document.querySelector("#brandHome")?.setAttribute?.("href", "/");
+    document.querySelector(".sidebar-home")?.setAttribute?.("href", "/");
+  }
+
   progressEl = document.createElement("div");
   progressEl.className = "reading-progress";
   document.body.appendChild(progressEl);
