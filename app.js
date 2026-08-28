@@ -963,10 +963,12 @@ function renderTimelineRings(dated) {
       const a = angle + jitter;
       const r = ringRadius(item.year);
       const delay = Math.min(1.1, 0.15 + ((r - RING_INNER) / (RING_OUTER - RING_INNER)) * 0.7 + (index % 5) * 0.05);
+      const tip = `${item.year} · ${item.node.title} · ${labelFor(familyId)}`;
       dots.push(`
-        <g class="ring-dot" data-id="${escapeHtml(item.node.id)}" transform="translate(${(c + Math.cos(a) * r).toFixed(1)}, ${(c + Math.sin(a) * r).toFixed(1)})" style="animation-delay:${delay.toFixed(2)}s">
-          <circle r="4"></circle>
-          <title>${escapeHtml(`${item.year} · ${item.node.title} · ${labelFor(familyId)}`)}</title>
+        <g class="ring-dot" data-id="${escapeHtml(item.node.id)}" data-tip="${escapeHtml(tip)}" transform="translate(${(c + Math.cos(a) * r).toFixed(1)}, ${(c + Math.sin(a) * r).toFixed(1)})" style="animation-delay:${delay.toFixed(2)}s">
+          <title>${escapeHtml(tip)}</title>
+          <circle class="ring-hit" r="11"></circle>
+          <circle class="ring-seed" r="4"></circle>
         </g>
       `);
     });
@@ -983,7 +985,7 @@ function renderTimelineRings(dated) {
 
   return `
     <div class="ring-wrap">
-      <svg class="timeline-rings" viewBox="0 0 ${size} ${size}" role="img" aria-label="家族年轮盘">
+      <svg class="timeline-rings" viewBox="0 0 ${size} ${size}" role="group" aria-label="家族年轮盘">
         ${guideMarkup}
         ${spokes.join("")}
         ${dots.join("")}
@@ -2388,6 +2390,51 @@ function render() {
   syncHash();
   updateReadingProgress();
 }
+
+// 家族年轮的悬停提示：自绘，不依赖 SVG <title> 的浏览器原生行为
+// （带 role 的 SVG 会被折叠成单一图像，子元素的原生 tooltip 不再弹出）。
+let ringTip = null;
+
+function positionRingTip(x, y) {
+  if (!ringTip) return;
+  const pad = 14;
+  const box = ringTip.getBoundingClientRect();
+  let left = x + pad;
+  let top = y + pad;
+  if (left + box.width > window.innerWidth - 8) left = x - box.width - pad;
+  if (top + box.height > window.innerHeight - 8) top = y - box.height - pad;
+  ringTip.style.left = `${Math.max(8, left)}px`;
+  ringTip.style.top = `${Math.max(8, top)}px`;
+}
+
+function showRingTip(text, x, y) {
+  if (!text) return;
+  if (!ringTip) {
+    ringTip = document.createElement("div");
+    ringTip.className = "ring-tip";
+    document.body.appendChild(ringTip);
+  }
+  ringTip.textContent = text;
+  ringTip.classList.add("is-on");
+  positionRingTip(x, y);
+}
+
+function hideRingTip() {
+  ringTip?.classList.remove("is-on");
+}
+
+document.addEventListener("mouseover", (event) => {
+  const dot = event.target.closest?.(".ring-dot");
+  if (dot) showRingTip(dot.dataset.tip || "", event.clientX, event.clientY);
+});
+
+document.addEventListener("mousemove", (event) => {
+  if (!ringTip?.classList.contains("is-on")) return;
+  if (event.target.closest?.(".ring-dot")) positionRingTip(event.clientX, event.clientY);
+  else hideRingTip();
+});
+
+document.addEventListener("scroll", hideRingTip, { passive: true });
 
 document.addEventListener("click", (event) => {
   const viewButton = event.target.closest("[data-view]");

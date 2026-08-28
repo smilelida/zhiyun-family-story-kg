@@ -2622,20 +2622,45 @@ body {
   to { opacity: 1; transform: translate(var(--tx), var(--ty)) scale(1); }
 }
 
-.ring-dot circle {
+.ring-dot .ring-seed {
   fill: var(--green);
   opacity: 0.88;
-  cursor: pointer;
   transition: r 0.15s var(--ease-out), fill 0.15s;
+}
+
+/* 放大命中面积：籽点只有 4 半径，缩放后不足 3px，很难悬停 */
+.ring-dot .ring-hit {
+  fill: transparent;
 }
 
 .ring-dot {
   animation: fade 0.5s ease backwards;
+  cursor: pointer;
 }
 
-.ring-dot:hover circle {
+.ring-dot:hover .ring-seed {
   r: 7;
   fill: var(--cinnabar);
+  opacity: 1;
+}
+
+.ring-tip {
+  position: fixed;
+  z-index: 60;
+  max-width: 320px;
+  padding: 7px 11px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 12.5px;
+  line-height: 1.5;
+  box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.12s ease;
+}
+
+.ring-tip.is-on {
   opacity: 1;
 }
 
