@@ -1,5 +1,5 @@
 window.ARTICLE_DATA = {
-  "generated_at": "2026-07-12",
+  "generated_at": "2026-08-28",
   "articles": [
     {
       "story_id": "story:sheng-xuanhuai",
@@ -108374,6 +108374,9082 @@ window.ARTICLE_DATA = {
       ]
     },
     {
+      "story_id": "story:samsung",
+      "title": "三星家族故事：当一个王朝决定不再世袭",
+      "series_no": 35,
+      "source_files": [
+        "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md"
+      ],
+      "related_node_ids": [
+        "family:samsung-lee-family",
+        "person:lee-byung-chul",
+        "person:lee-maeng-hee",
+        "person:lee-chang-hee",
+        "person:lee-kun-hee",
+        "person:hong-ra-hee",
+        "person:lee-jae-yong",
+        "person:lee-boo-jin",
+        "person:lee-ji-ho",
+        "company:samsung-electronics",
+        "company:samsung-cnt",
+        "company:samsung-everland",
+        "company:samsung-life",
+        "event:samsung-succession-switch-1976",
+        "event:tokyo-declaration-1983",
+        "event:frankfurt-declaration-1993",
+        "event:gumi-bonfire-1995",
+        "event:everland-cb-1996",
+        "event:samsung-merger-vote-2015",
+        "event:no-hereditary-pledge-2020",
+        "event:record-inheritance-tax-2021",
+        "concept:separation-of-rights",
+        "concept:succession-training",
+        "concept:family-control-unity",
+        "concept:professionalization",
+        "concept:governance-complexity",
+        "concept:founder-shadow",
+        "tool:secretariat-control-tower",
+        "tool:open-recruitment",
+        "tool:regional-specialist",
+        "tool:circular-shareholding",
+        "tool:branch-spinoff-settlement"
+      ],
+      "toc": [
+        {
+          "id": "samsung-p-001",
+          "level": 1,
+          "title": "三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）"
+        },
+        {
+          "id": "samsung-p-002",
+          "level": 2,
+          "title": "序章 一次鞠躬"
+        },
+        {
+          "id": "samsung-p-023",
+          "level": 2,
+          "title": "第一章 月光、骰子与三颗星"
+        },
+        {
+          "id": "samsung-p-024",
+          "level": 3,
+          "title": "1.1 月光下的骰子"
+        },
+        {
+          "id": "samsung-p-028",
+          "level": 3,
+          "title": "1.2 宜宁的少爷"
+        },
+        {
+          "id": "samsung-p-033",
+          "level": 3,
+          "title": "1.3 马山的学费"
+        },
+        {
+          "id": "samsung-p-040",
+          "level": 3,
+          "title": "1.4 四层木楼与三颗星"
+        },
+        {
+          "id": "samsung-p-046",
+          "level": 3,
+          "title": "1.5 五辆卡车"
+        },
+        {
+          "id": "samsung-p-050",
+          "level": 3,
+          "title": "1.6 清零教给他的事"
+        },
+        {
+          "id": "samsung-p-056",
+          "level": 2,
+          "title": "第二章 白糖、毛料与青瓦台"
+        },
+        {
+          "id": "samsung-p-057",
+          "level": 3,
+          "title": "2.1 一包白糖"
+        },
+        {
+          "id": "samsung-p-062",
+          "level": 3,
+          "title": "2.2 考场与秘书室"
+        },
+        {
+          "id": "samsung-p-069",
+          "level": 3,
+          "title": "2.3 东京的广播"
+        },
+        {
+          "id": "samsung-p-077",
+          "level": 3,
+          "title": "2.4 共生的价签"
+        },
+        {
+          "id": "samsung-p-082",
+          "level": 2,
+          "title": "第三章 粪桶、逆子与废长立幼"
+        },
+        {
+          "id": "samsung-p-083",
+          "level": 3,
+          "title": "3.1 国会里的粪桶"
+        },
+        {
+          "id": "samsung-p-088",
+          "level": 3,
+          "title": "3.2 献厂与退隐"
+        },
+        {
+          "id": "samsung-p-093",
+          "level": 3,
+          "title": "3.3 长子的十四个月"
+        },
+        {
+          "id": "samsung-p-099",
+          "level": 3,
+          "title": "3.4 次子的信"
+        },
+        {
+          "id": "samsung-p-104",
+          "level": 3,
+          "title": "3.5 第三个儿子"
+        },
+        {
+          "id": "samsung-p-110",
+          "level": 3,
+          "title": "3.6 病房里的决定"
+        },
+        {
+          "id": "samsung-p-116",
+          "level": 3,
+          "title": "3.7 择贤的账单"
+        },
+        {
+          "id": "samsung-p-122",
+          "level": 2,
+          "title": "第四章 东京的电话，器兴的雪"
+        },
+        {
+          "id": "samsung-p-123",
+          "level": 3,
+          "title": "4.1 大仓酒店的电话"
+        },
+        {
+          "id": "samsung-p-128",
+          "level": 3,
+          "title": "4.2 “保险单”失效的年代"
+        },
+        {
+          "id": "samsung-p-135",
+          "level": 3,
+          "title": "4.3 器兴的雪"
+        },
+        {
+          "id": "samsung-p-141",
+          "level": 3,
+          "title": "4.4 输血与转机"
+        },
+        {
+          "id": "samsung-p-146",
+          "level": 3,
+          "title": "4.5 二十四个问题"
+        },
+        {
+          "id": "samsung-p-152",
+          "level": 2,
+          "title": "第五章 法兰克福 312 号房"
+        },
+        {
+          "id": "samsung-p-153",
+          "level": 3,
+          "title": "5.1 一盘录像带"
+        },
+        {
+          "id": "samsung-p-157",
+          "level": 3,
+          "title": "5.2 没人听的五年"
+        },
+        {
+          "id": "samsung-p-166",
+          "level": 3,
+          "title": "5.3 六月七日"
+        },
+        {
+          "id": "samsung-p-173",
+          "level": 3,
+          "title": "5.4 从布道到制度"
+        },
+        {
+          "id": "samsung-p-180",
+          "level": 3,
+          "title": "5.5 十年后的果实"
+        },
+        {
+          "id": "samsung-p-185",
+          "level": 3,
+          "title": "5.6 帝王术的成本"
+        },
+        {
+          "id": "samsung-p-191",
+          "level": 2,
+          "title": "第六章 破产边缘与两张债券"
+        },
+        {
+          "id": "samsung-p-192",
+          "level": 3,
+          "title": "6.1 两个数字"
+        },
+        {
+          "id": "samsung-p-198",
+          "level": 3,
+          "title": "6.2 每一步都有税单"
+        },
+        {
+          "id": "samsung-p-204",
+          "level": 3,
+          "title": "6.3 保暖内衣与一座车厂"
+        },
+        {
+          "id": "samsung-p-211",
+          "level": 3,
+          "title": "6.4 王储的学费"
+        },
+        {
+          "id": "samsung-p-216",
+          "level": 3,
+          "title": "6.5 硬盘、账户与面包店"
+        },
+        {
+          "id": "samsung-p-224",
+          "level": 3,
+          "title": "6.6 地道与阳光"
+        },
+        {
+          "id": "samsung-p-231",
+          "level": 2,
+          "title": "第七章 一场合并与一匹马"
+        },
+        {
+          "id": "samsung-p-232",
+          "level": 3,
+          "title": "7.1 大邱的单独会面"
+        },
+        {
+          "id": "samsung-p-237",
+          "level": 3,
+          "title": "7.2 会长缺席的帝国"
+        },
+        {
+          "id": "samsung-p-242",
+          "level": 3,
+          "title": "7.3 百分之六十九点五三"
+        },
+        {
+          "id": "samsung-p-249",
+          "level": 3,
+          "title": "7.4 一匹叫维塔纳的马"
+        },
+        {
+          "id": "samsung-p-258",
+          "level": 3,
+          "title": "7.5 钟摆上的审判"
+        },
+        {
+          "id": "samsung-p-266",
+          "level": 2,
+          "title": "第八章 12 万亿的告别"
+        },
+        {
+          "id": "samsung-p-267",
+          "level": 3,
+          "title": "8.1 一个数字"
+        },
+        {
+          "id": "samsung-p-272",
+          "level": 3,
+          "title": "8.2 再入狱与三个承诺"
+        },
+        {
+          "id": "samsung-p-278",
+          "level": 3,
+          "title": "8.3 美术馆与医院"
+        },
+        {
+          "id": "samsung-p-287",
+          "level": 3,
+          "title": "8.4 十年长跑的终点"
+        },
+        {
+          "id": "samsung-p-293",
+          "level": 3,
+          "title": "8.5 谷底与王座"
+        },
+        {
+          "id": "samsung-p-299",
+          "level": 3,
+          "title": "8.6 少尉李智浩"
+        },
+        {
+          "id": "samsung-p-304",
+          "level": 2,
+          "title": "第九章 王朝的四根柱子"
+        },
+        {
+          "id": "samsung-p-306",
+          "level": 3,
+          "title": "9.1 百分之一的统治术"
+        },
+        {
+          "id": "samsung-p-313",
+          "level": 3,
+          "title": "9.2 病房里的两次立储"
+        },
+        {
+          "id": "samsung-p-318",
+          "level": 3,
+          "title": "9.3 十一岁的船票"
+        },
+        {
+          "id": "samsung-p-324",
+          "level": 3,
+          "title": "9.4 分开举行的祭祀"
+        },
+        {
+          "id": "samsung-p-331",
+          "level": 2,
+          "title": "结语 承志园的灯"
+        },
+        {
+          "id": "samsung-p-342",
+          "level": 2,
+          "title": "思想实验：2020 年 5 月 5 日夜"
+        },
+        {
+          "id": "samsung-p-353",
+          "level": 2,
+          "title": "参考文献"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "samsung-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "序章 一次鞠躬",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2020 年 5 月 6 日下午三点，首尔瑞草区三星电子大楼多功能厅。52 岁的李在镕（Lee Jae-yong）穿深色西装走上讲台，向台下的摄像机深深鞠了一躬。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他念了一份道歉文。其中一句是：“我不会把经营权传给我的子女。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那天他一共做了三个承诺：不再因经营权继承引发争议，不再阻挠工会，不把经营权传给子女。前两个承诺是对过去的清算，第三个是对未来的处分。路透社当天的标题用了“王朝终结”这个词。首尔的评论员们连夜争论这份道歉的成色：有人称之为历史性转折，也有人提醒，八个月后就是量刑宣判，此刻的鞠躬难免有司法的考量。争论双方都同意一点：在韩国财阀七十年的历史上，还没有一位总帅当众说过这句话。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "说这句话的时候，他的父亲李健熙（Lee Kun-hee）正躺在三星首尔医院的病床上，那是心梗后卧床的第七年。他自己身上还压着两场官司：一场行贿案发回重审，八个月后他将再次入狱；另一场合并案刚刚起诉，要再过五年才等来终审。他的儿子李智浩那年二十岁，女儿李元珠十六岁。这个家族的掌门位子传了三代，从没旁落；照这个规矩，这两个孩子本该是第四代。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "person:lee-ji-ho"
+          ]
+        },
+        {
+          "id": "samsung-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这句话有多重，要看三星有多大。那一年，三星电子是全球最大的智能手机、电视机和存储芯片制造商，一家公司的营收相当于韩国名义国内生产总值的一成以上；三星集团旗下上市公司的市值，长年占韩国股市的两到三成。韩国人给这个国家起过一个别名，叫“三星共和国”。",
+          "related_node_ids": [
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更要看这个家族为世袭付出过多少。为了把三星传下去，第一代废长立幼，长子从此与家门决裂，次子进过监狱、向青瓦台告发过自己的父亲；第二代设计了教科书级的控制权工程，自己两次受审、两次被总统特赦；第三代为继承权坐了两次牢，打了将近十年官司。这个家族的幼女，2005 年在纽约结束了自己的生命，那年她二十六岁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把三代人的刑事记录摊开看，会发现它们都与同一个字有关。1966 年，次子李昌熙替家族扛下走私案入狱，那桩案子的背景是父亲在政商夹缝里保企业；2008 年，李健熙因继承链条上的逃税被判缓刑，辞去会长职务；2017 年，李在镕因法院认定的“继承请托”被收押在单人牢房，房间里的地板上铺一张床垫，墙角放着一台电视机，商标是竞争对手 LG 的。两代人，三张判决书，每一张的背后都站着同一个词：家业。",
+          "related_node_ids": [
+            "person:lee-chang-hee",
+            "person:lee-kun-hee",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个不惜让儿子入狱、让兄弟反目、让掌门人戴罪经营也要完成世袭的家族，最终由第三代当众宣布：世袭到我为止。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "时间倒回八十二年前。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1938 年 3 月 1 日，朝鲜半岛南部的大邱，西门市场附近一栋四层木楼挂出新招牌。28 岁的李秉喆（Lee Byung-chul）用 3 万圆资本金（当时朝鲜在日本治下，圆与日元等值）开了一家商会，雇了 19 名员工，把庆尚道的干鱼、蔬菜和水果装车，发往中国东北。后来他又在楼里装了制面机，面条的牌子叫“星牌”。招牌上写着“三星商会”。多年后他在自传里解释这个名字：“三”象征大、多、强，是这个民族最爱的数字；“星”意为高悬明亮，光辉永恒。要大，要强，要永恒。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那栋木楼在 1997 年因为年久失修被拆掉了，原址如今立着一座缩小的木制复制品，像一件供奉起来的圣物。馆里的语录牌上刻着创始人的话：“强国之业即我必行之路，我对此信念不可动摇。”参观者读到这句话时，很难不注意到它的措辞：一个卖干鱼的商人，开口就是“强国之业”。这四个字是理解这个家族的第一把钥匙，后文会反复提起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从那栋木楼到“三星共和国”，中间隔着一场战争、五届军政府、两次石油危机、一次金融危机，以及三代人的命运。这段路程里藏着一组问题，它们比“三星为什么成功”更值得追问。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族做对了什么？一家干鱼铺变成全球第一的半导体公司，靠的绝非运气。李健熙接手三星的 1987 年，集团年销售额约 10 万亿韩元；他病倒的 2014 年，这个数字是 334 万亿。三星电子的市值在同一时期涨了大约四百倍。第一代的“合理追求”、第二代的“永久危机”、贯穿三代的人才执念，后文一一细说。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族有什么是别人学不走的？它两次在存亡关头把公司押上赌桌，两次都赢了；它以全集团约百分之一二的真实持股，控制着这艘巨轮的航向，这套控制术在公司治理教科书里自成一章；它把儿子送去敌人的国家读书，把干部送去陌生的国家闲逛一年，这些做法在同行眼里近乎奢侈。奢侈的背后各有一套逻辑。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族又付出了什么？两代人的继承都以刑事案件收场，兄弟对簿公堂，祭祀分成两处。李秉喆生前最看重“家和”，他身后的家，恰恰是韩国财阀里裂痕最深的一个。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "还有一个问题悬在最后：为什么按下王朝停止键的，是这个家族自己？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这不是一部企业史能装下的问题。企业史关心市场份额和技术路线，家族史关心另外四件事：权力如何安放（治理），权力如何交接（传承），人如何被造就（教育），以及人与人如何相处（关系）。三星李氏家族在这四件事上留下的记录，密度之高，代价之重，在二十世纪的商业家族里几乎找不到第二例。",
+          "related_node_ids": [
+            "family:samsung-lee-family"
+          ]
+        },
+        {
+          "id": "samsung-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写作本文的 2026 年 7 月，故事仍在生长。三个月前，这个家族缴清了十二万亿韩元遗产税的最后一期，那笔税款相当于韩国政府一整年遗产税收入的一倍半；两周前，三星电子的普通股市值被 SK 海力士反超，二十五年来头一次让出韩国股市第一的位子；李在镕的儿子在海军服役，军衔少尉，按父亲的承诺，他不会继承三星。一切都还是进行时。这恰好是观察一个家族最好的时刻：结局未定，反倒最能看清一个选择有多重。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李在镕鞠躬那天，距他祖父在大邱挂出那块招牌，过去了八十二年零两个月。李秉喆希望三颗星“如星辰般永恒”。可要让它长久，办法不止一种：有的家族攥得越来越紧，有的家族反而学着松手。这个家族最终的选择，出乎所有人的意料。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "意料之外，情理之中。情理藏在八十二年的每一个岔路口里。我们从头讲起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第一章 月光、骰子与三颗星",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.1 月光下的骰子",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1936 年的一个深夜，庆尚南道宜宁郡。26 岁的李秉喆掷了一晚上骰子，回到家里。他后来在自传里写下那个瞬间：“掷骰子赌博到深夜回家，明月透窗。我 26 岁，已是三个孩子的父亲。看到月光下安睡的孩子，如从噩梦中惊醒。我虚度了光阴，该立人生之志了。”",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个赌徒的忏悔，算不上什么稀奇事。值得看的是这个人后来做了什么：两年后他开出一家小商会，五十年后这家商会的名字与一个国家绑在一起。而那晚的月光，在他此后半个世纪的每一个重大决策里都留下了痕迹。三星历史上最著名的经营原则叫“合理追求”，直译过来就是：不赌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个用戒赌起家的人，晚年却两次把整个集团押上赌桌。这个悖论是理解李秉喆的入口。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.2 宜宁的少爷",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆 1910 年 2 月 12 日生于宜宁郡一个殷实的地主家庭，在四个孩子里排行最末。那一年的 8 月，日本吞并朝鲜。他的整个青年时代，“国家”是一个不存在的东西。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他幼年在祖父开设的书塾里念汉文，读《论语》《孟子》。这段私塾教育有多要紧，要到几十年后才看得出来：晚年有人问他受哪本书影响最深，他的回答是《论语》，而非任何一本经营学著作。1926 年，16 岁的他遵父母之命，娶了士林名门出身的朴杜乙。婚后三年，他东渡日本，进早稻田大学政治经济科。不到两年，他因病中途退学回乡。这个学历日后成了家族的一个模板：此后三代人，几乎每一个男性成员的履历上都有一所日本大学。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的起点，和同代的创业者很不一样。现代集团的郑周永是江原道贫农的长子，为了逃离锄头四次离家出走；LG 的具仁会靠杂货铺起家。李秉喆是地主家的小儿子，分家就能分到田产，一生从未为生存发过愁。这层出身差异日后长成了经营风格的差异：郑周永的现代什么险都敢冒，李秉喆的三星什么账都要算。有产者创业，最大的资产是不必着急。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回乡后的几年是他一生的低谷。分家得来的田产足够温饱，无所事事的年轻人把时间交给了麻将和骨牌。直到 1936 年那个月夜。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.3 马山的学费",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "顿悟之后的第一次创业，几乎立刻失败了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1936 年，李秉喆与两位同乡各出资一万圆，在马山合开协同精米所，加工大米；接着买了辆卡车办运输；又向银行借钱，大手笔购入土地。三条战线一起铺开，用的大半是银行的钱。1937 年中日战争爆发，殖民地银根骤紧，银行收贷，地价下跌。他把精米所、运输公司和土地全部清盘还债，两年折腾，几乎回到原点。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他在自传里为这次失败总结了三条教训：办事业要客观把握国内外的大势；不可贪求侥幸的运气；不可用超出自己判断力的借款去做超出自己能力的事。这三条话后来被浓缩成“合理追求”四个字，与“事业报国”“人才第一”并列，成为三星的三大社训。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们看到的多数社训是成功者的自我修饰，三星这一条是失败者的自我惩戒。他先输光了侥幸，才开始积累判断。此后五十年，李秉喆做任何新事业之前都要反复调查、反复推演，对已经确认再三的事项，仍要让下属全面讨论一遍才动工。这种谨慎不来自天性，来自马山那笔学费。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "晚年的李秉喆爱讲三个字：“运、钝、根”。运是承认运气的存在；钝是迟钝，不为眼前的行情所动；根是根气，认准的事咬住不放。把这三个字与那三条教训对照，会发现它们说的是同一件事的两面：年轻时的教训教他不赌，晚年的心法教他如何在不赌的前提下赢。一个真正戒了赌的人，对运气反而有更清醒的敬意。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "破产后他没有立刻再开张，而是用近一年时间游历中国和朝鲜半岛各地，看市场、看物流、看什么东西从哪里流向哪里。这趟考察的结论很朴素：半岛南部的农产品和干货，在中国东北有稳定的买家。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.4 四层木楼与三颗星",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1938 年 3 月 1 日，大邱西门市场附近，三星商会开业。资本金 3 万圆，这一次全是他自己的钱。四层木楼，19 名员工，把庆尚道的干鱼、蔬菜、水果收拢装车，销往当时的满洲。楼里后来装了制面机，出产的面条印着五颗星的图案，牌子就叫“星牌”。生意不大，账目做得极细。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "商号的名字是他自己起的。“三”象征大、多、强；“星”取其明亮、高悬、永恒。日本最大的财阀叫三菱，三个菱形；殖民地大邱的这家小商会叫三星，三颗星。对照之下，野心藏得并不深。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在殖民地做生意，屈辱是日常的一部分。他后来回忆，当时日本人普遍认定“朝鲜人没有团结性，办不了合资企业”。他偏要办给他们看：“我搞合资既有财务上的原因，也有一股不服输、要证明这种蔑视是错的劲头。”1939 年，他收购了经营不善的日资朝鲜酿造，酿清酒卖，利润可观。1941 年，商会改组为株式会社。1947 年，他把重心迁到首尔，次年成立三星物产公司，做起进出口贸易，很快跻身半岛贸易商前列。",
+          "related_node_ids": [
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1950 年，40 岁的李秉喆已经是首尔屈指可数的富商。那年 2 月他去东京考察，在理发店里遇见一位六十多岁的理发师。战败国的废墟上，老人说自己给三代人理过发，语气平静。李秉喆被这种“沿着自己的路平静活下去”的职业心打动，转头考察了五十多家日本工厂。他在盘算把贸易商升级成制造商。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但四个月后，战争替他清了零。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.5 五辆卡车",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1950 年 6 月 25 日，朝鲜战争爆发。李秉喆在自传里记下了首尔沦陷前的街景：“过了中午直到傍晚，满载士兵的卡车不断向北疾驰穿过首尔，市民为他们鼓掌。”三天后汉江大桥被炸，他没能撤出。四天后，北方的党员敲开他的家门，清点资产，审查思想。仓库被洗劫一空。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两周后，他在街上看见一位共产党要员坐着一辆美国雪佛兰驶过。“我认出那是我的车。我感到无法言说的愤怒。”三星物产在首尔的全部家当，就这样在几周内换了主人。9 月底首尔光复，12 月战线再度南压，他变卖残余资产买了五辆卡车，载着员工和家属南逃大邱。",
+          "related_node_ids": [
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在大邱，朝鲜酿造的经理人把战乱中替他守下的三亿圆利润交到他手上，请他拿去东山再起。在他失去一切的时刻，救他的既非土地也非机器，而是一个忠于职守的经理人。1951 年 1 月，他在釜山重新挂出三星物产的招牌。釜山是战时临时首都，物资奇缺，百万难民涌入，进口贸易的利润高得惊人。他做糖、肥料和药品的进口生意，一年之内资本翻了数十倍。四十一岁，第二次从头开始，这一次只用了一年。",
+          "related_node_ids": [
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.6 清零教给他的事",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1936 到 1951 这十五年，李秉喆经历了两次归零：一次是自己赌输的，一次是战争没收的。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一次归零教他敬畏杠杆。第二次归零教他一件更深的事：在这个半岛上，财产权是脆弱的，仓库、地契、卡车，一夜之间都可以易主；真正带得走的只有两样，人的判断力，和人本身。他南逃时带走的是员工，而非货物。日后三星把“人才第一”举得比什么都高，把面试做成会长亲自到场的仪式，根子可以一直挖到 1950 年那五辆卡车上。他后来对身边人说过一句常被引用的话：“我一生的 80%，都花在招人和育人上。”这句话通常被当作管理格言来读，放回 1950 年来看，它更像一个幸存者的结论。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同时代的创业者里，走过类似路径的不止他一个。现代集团的郑周永，米店被战争抹平过；LG 的具仁会，釜山的化妆品作坊也几经辗转。战争一视同仁地清洗了半岛上所有的商业积累，然后把幸存者摆上同一条起跑线。区别在于各人从废墟里捡起了什么：郑周永捡起的是胆子，具仁会捡起的是伙伴，李秉喆捡起的是账本和人。这三种拾取，日后长成了三种完全不同的财阀性格。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1953 年，战争停火。43 岁的李秉喆站在釜山的仓库前，手里攥着贸易赚来的第一桶金，面前摆着一个选择：继续做低买高卖的贸易，还是把钱投进工厂。贸易来钱快，工厂回款慢；贸易随时可以撤，工厂搬不走。一个刚被战争没收过全部动产的人，按理应该选前者。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他选了工厂。这个反直觉的选择，开启了下一章的故事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第二章 白糖、毛料与青瓦台",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.1 一包白糖",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1953 年 7 月停战协定签字，8 月李秉喆做了一件让贸易圈同行看不懂的事：把贸易赚来的巨额利润，投进一座工厂。当年年底，第一制糖的釜山工厂产出第一批国产白糖。在此之前，韩国市面上的每一粒糖都来自进口。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "选糖不是拍脑袋。做进口贸易的人最清楚什么东西进口量最大、差价最肥：糖、面粉、棉布，当时并称“三白”。与其转卖别人的糖，为什么不自己造？设备从日本三井订购，建厂只用了半年。第一制糖投产后利润滚滚，两年后韩国的白糖自给率从零升到大半。这家公司后来独立出去，就是今天的 CJ 集团。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1954 年 9 月，他如法炮制，创办第一毛织。西装毛料当时全靠走私和进口，一套进口毛料西装的价钱抵得上公务员几个月薪水。第一毛织的“金塔”牌毛料上市后横扫市场，李秉喆本人从此得了个绰号，叫“全毛料先生”。美国《时代》周刊后来写他：“他 9 点整到首尔市中心的办公室，开冗长的计划会议，每周打两次高尔夫，5 点回到他有陶器和孔雀的宅邸，通常独自用餐，然后谋划新的生财之道。”",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1950 年代末，这位独自用餐的绅士已被公认为全国首富。他的版图在制造业之外迅速铺开：1958 年收购安国火灾进入保险业，接着入股商业银行，买下百货公司，连创办于 1398 年的成均馆大学也被纳入财团。财阀这个词，就是在那几年随着他的名字一起流行起来的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.2 考场与秘书室",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "比白糖和毛料更耐久的，是他在这十年里发明的两样组织制度。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一样是公开招聘。1957 年，第一制糖和第一毛织登报招考大学毕业生，按笔试和面试成绩录取。这是韩国企业史上第一次公开招聘。在此之前，进大公司靠血缘、地缘和熟人引荐；从此之后，一个全罗道贫家子弟只要考得过，就能和庆尚道地主的儿子坐进同一间办公室。三星由此垄断了半岛最好的一批毕业生，“三星出身”四个字后来在韩国职场成了一块通行的招牌。",
+          "related_node_ids": [
+            "tool:open-recruitment"
+          ]
+        },
+        {
+          "id": "samsung-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆把选人看得比选项目重。他晚年自述，一生八成的时间花在招人和育人上；韩国媒体至今流传他参加过近十万场面试的说法。更奇特的细节来自他的外孙：老会长面试时会请一位职业面相师坐在旁边，帮他看人。考试筛能力，面相看心性，这套组合在今天的人力资源教科书里找不到，但它透露出主人的真实想法：制度管得了多数人，关键位置上的少数人，还得靠眼力。与眼力配套的是一条用人铁律，他说过：“用人要慎；既然用了，就大胆托付。”这句话后来被韩国商界浓缩成八个字：疑人不用，用人不疑。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二样是秘书室。1959 年，李秉喆在会长办公室下设秘书室，起初只管礼宾和新项目企划，几年内陆续接管财务、审计与人事。子公司越开越多，他不可能事事亲临，秘书室就成了他的眼睛、耳朵和手：替他查账，替他考核经理人，替他在各子公司之间调配资金。这个部门此后六十年数次改名，从秘书室到结构调整本部，到战略企划室，到未来战略室，再到 2025 年重生的事业支援室，名字换了五个，职能从未消失。它是这部家族史里戏份最重的“影子主角”，我们后面会不断遇到它。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一手抓考场，一手抓秘书室，李秉喆在 1950 年代就把一个家族企业最难的两件事制度化了：人从哪里来，权力怎么延伸。同时代的韩国财阀还在靠兄弟叔侄打理生意，三星已经开始用系统运转。管理的三星，这个绰号从那时叫起。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这两样制度的组合，比各自更要紧。公开招聘意味着家族不垄断人才入口，秘书室意味着家族牢牢握住人才出口，谁升谁降、谁掌哪家子公司，最终由会长一支笔。用最开放的方式选人，用最集中的方式用人，这对看似矛盾的搭配，后来被管理学者称为三星悖论经营的雏形。家族企业最常见的死法是任人唯亲，三星在第一代就把亲与贤分开了：亲人继承所有权，贤人经营子公司，秘书室居中监督。至于这套安排能否延伸到“选继承人”这件事上，要等下一章揭晓答案。",
+          "related_node_ids": [
+            "tool:open-recruitment"
+          ]
+        },
+        {
+          "id": "samsung-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.3 东京的广播",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1960 年 4 月，学生革命推翻李承晚政权。靠政府外汇配额发家的财阀们一夜之间成了清算对象，李秉喆的名字挂在“不正蓄财者”名单的第一位。风暴未平，1961 年 5 月 16 日，少将朴正熙发动军事政变。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "政变那天早晨，李秉喆在东京，是日本司机在车里告诉他：“韩国发生了军事革命。”几天后，两名韩国特工到他下榻的酒店留下字条，勒令回国。他在自传里记下了归国翌日走进“国家再建最高会议”的场景：穿过秘书室走进大房间，几名军人围着一个戴黑色墨镜的男人。“我立刻认出，黑眼镜就是副议长朴正熙。屋里充满紧张沉重的空气。”",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "朴正熙开口：“你可以畅所欲言。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场会面的结果是一笔交易。李秉喆交出手中三家银行的大部分股份，补缴约 440 万美元的税款和罚金，承诺全力配合政府的经济建设计划；作为交换，他免于牢狱，其他被拘的企业家也陆续获释。他随后牵头成立全国经济人联合会并出任首任会长，成了财界与军政府之间的总联络人。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这笔交易的深层含义，比它的条款重要得多。朴正熙要在一代人之内把农业国改造成工业国，他需要能执行大项目的组织；半岛上现成的组织只有两种，军队和财阀。于是发展型国家的分工形成了：政府定方向、给信贷、关国门，财阀出面建厂、出口、还贷。全经联成立后办的第一批大事里，就有向政府建言圈定蔚山工业区，那片滩涂日后长出了韩国的炼油、化工和造船业。三星的“事业报国”从此有了双重含义，一半是创始人的真诚信念，一半是乱世里的“保命符”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "让这套分工转起来的钱，很快由一纸条约送到。1965 年韩日邦交正常化，日本以赔偿和借款名义提供总计 8 亿美元。浦项制铁的会长后来对员工说过一句狠话：“这是用日本赔款，用我们祖先鲜血的代价建成的钢厂，若失败，即是对历史与韩国人民不可磨灭的罪。”整整一代韩国企业家把民族屈辱烧成了燃料，这种把国耻内化为企业动力的方式，是理解财阀文化的另一把钥匙。三十年后，三星的新员工训练营里还唱着“为了民族”的歌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆对这种共生关系有自己的操作守则。外孙记得他反复叮嘱的一句话：“跟政权，不要太远，也不要太近。”1964 年他创办东洋放送，1965 年创办《中央日报》，把亲家洪璡基放在社长位置上。他对《时代》解释办报动机：“大众传播是防止坏政治的最好办法。”话说得冠冕，功能一目了然：在一个政权可以随时清算企业的国度，媒体是财阀能买到的最好的盾牌。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.4 共生的价签",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把 1961 年的这笔交易放进更长的历史里看，能看清韩国财阀与日本财阀的分岔。“财阀”一词本是日语汉字的转写，三井、三菱靠政商关系繁荣了半个世纪，战后被占领军强制解体，家族退场，经理人接管，财阀变成了无主的企业集团。韩国走了相反的路：军政府不但不解体财阀，反而亲手把它们喂大，用作国家工业化的代理人。日本的教训是家族与政权绑得太紧会被清算，韩国的现实是不绑就活不下去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "共生有价签，只是账单延后送达。政府给的每一份配额、每一笔低息贷款，日后都会以“政治献金”的形式要求回报；每一届新政权上台，都会用“清算政经勾结”来立威，然后建立自己的勾结。李秉喆在 1961 年用银行股份买回自由的那一刻，等于替子孙签了一份长期合同：三星此后每一代掌门人，都要重新谈判一次与青瓦台的距离。这份合同的利息，他的儿子和孙子会在 2008 年和 2017 年的法庭上分期偿付。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1965 年，55 岁的李秉喆站在事业的顶峰：制糖、毛纺、保险、银行股份、百货、大学、电视台、报纸。全国首富，财界总代表，总统的座上宾。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十二个月后，他将迎来一生最大的耻辱，而递刀的人来自他自己的公司，血统上离他最近的那几个。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第三章 粪桶、逆子与废长立幼",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.1 国会里的粪桶",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1966 年 9 月 22 日，首尔，国会议事堂。独立运动家出身的议员金斗汉拎着一只桶走向发言台。桶里装的是粪。他把它泼向了坐在台下的内阁总理和副总理，嘴里喊着：“吃了这糖精！”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "议场大乱。这桶粪泼出了韩国现代史上最著名的一场政商丑闻，靶心是三星。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这桩丑闻的开头，其实相当体面。1965 年，李秉喆响应政府号召，举债兴建韩国肥料的蔚山工厂，号称世界最大规模的尿素工厂之一。《时代》周刊记录过它开工时的景象：春雾第一次混进氨气云，穿传统服装的农民与穿笔挺西装的官员并肩而立。这是“事业报国”的样板工程。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丑闻藏在建材清单里。工厂建设期间，一批以建材名义进口的化工原料 OTSA 被转手卖给了糖精加工商。OTSA 是糖精的原料，在管制森严的韩国属于禁运品。走私所得约 4 万美元，对三星是九牛一毛，性质却是致命的：样板工程的承建者，同时在干走私。1966 年 9 月事发，舆论沸腾，然后就有了国会里那桶粪。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.2 献厂与退隐",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆的止损动作快得惊人。泼粪事件当天，他宣布把韩国肥料 51% 的股份无偿献给国家，同时宣布本人退出经营一线。操盘走私的直接负责人，他的次子李昌熙，被捕入狱，判五年，实际关了约六个月。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-chang-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一份献给国家的厂，一个进了监狱的儿子，一场提前到来的退休。三样东西换回了集团的存续。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这桩案子的真相至今有两个版本。官方版本里，走私是企业自己干的，国家是受害者。李孟熙 1993 年在回忆录里给出了另一个版本：走私得到过政权的默许，所得原本要按比例分成，出事后财阀独自背了锅。青瓦台从未回应。两种说法都在替自己那边洗清白，谁也拿不出铁证。能看清的只有背后那套结构：在配额与许可构成的经济里，灰色地带是政商共生的润滑剂，平时人人受益，出事时企业挡枪。李秉喆用退隐替这个结构付了账。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-maeng-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而退隐制造了一个新问题，一个所有家族企业都躲不开的问题：谁来接？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.3 长子的十四个月",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "答案看起来是现成的。长子李孟熙，35 岁，东京大学农学部出身，此刻正当盛年。1966 年秋，他以代理人身份接管集团，一度身兼约十七个职衔；外部研究者通常把他实际主政的时间算作十四到十七个月。",
+          "related_node_ids": [
+            "person:lee-maeng-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接下来发生的事，父子俩的说法完全对不上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆在 1986 年出版的《湖岩自传》里只给了长子一句话：“曾把集团一部分交给长子孟熙经营，不到六个月，所托企业乃至集团全体陷入混乱，其本人自请退出。”李孟熙在 1993 年的回忆录《埋藏的故事》里逐字反驳：“不是六个月，是七年”；退出也非因为经营混乱，“而是有几句话说不清的复杂内情”。他还写道，家人一度把他“当作精神病人”。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-maeng-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "旁证多数对长子不利。外孙赵东赫（Henry Cho）对记者盖恩形容这位舅舅是“惹祸精”，说他曾在高管面前朝天花板开过一枪勃朗宁猎枪，还让位高权重的姻亲洪璡基在办公室里当众下跪。但李孟熙那边的细节同样惊人：他自述晚年被父亲断绝了经济来源，“其实是我被父亲挥着高尔夫球杆疯了似地追打，不得不逃”。他后来隐居在南部渔村，患遗传性神经疾病，走路跛行，渔民们还叫他“会长”。",
+          "related_node_ids": [
+            "person:lee-maeng-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "韩国民间给他起过一个绰号：“三星的思悼世子”。思悼世子是十八世纪朝鲜王朝的储君，被父王下令锁进米柜活活饿死。绰号是残忍的，也是准确的：一个被立起又被废掉的长子，在儒教社会里生不如死。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.4 次子的信",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "比废长子更狠的戏码，出在次子身上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "替家族坐了半年牢的李昌熙出狱后，等待他的却是父亲的冷脸。多种记载指向同一个原因：李秉喆认为这个儿子在案发过程中自作主张，不可再用。1969 年，被拒之门外的李昌熙做出了那个在儒教伦理里等同于弑父的举动：他向青瓦台递交了一封检举信，举报自己的父亲藏匿资产、违犯外汇管理法，指认父亲才是走私的主谋。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-chang-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "朴正熙看完信，没有立案，而是把信转给了李秉喆。政权用这个动作表明了立场：它要的是财阀的效忠，而非财阀的家丑。李昌熙被逐出家门，带着日籍妻子远走美国。李秉喆疑心长子也参与了投书，李孟熙残存的机会就此清零。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-maeng-hee",
+            "person:lee-chang-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一年之内，长子废，次子逐。而就在这个家族烈火烹油的 1969 年，一家新公司在水原挂牌：三星电子，与日本三洋合资，造黑白电视机。家变之年，恰是未来之年。历史偶尔喜欢这种不动声色的对仗。",
+          "related_node_ids": [
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.5 第三个儿子",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "现在，父亲的目光落到了第三个儿子身上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李健熙 1942 年 1 月 9 日生于大邱，是李秉喆的第七个孩子、第三个儿子。生意繁忙的父母把他交给奶奶带大，朝鲜战争期间他小学转学五次。1953 年，父亲把 11 岁的他送往东京读书，只说了一句：“去看看先进国家。”",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "东京三年是这个孩子性格的铸模。他与留学早稻田的二哥同住，白天在日本学校里做少数被歧视的朝鲜人，放学后无人陪伴。他在 1989 年对《月刊朝鲜》回忆：“没有朋友，没人陪玩，只能一个人想很多、想得很深。在最敏感的年纪，民族歧视、愤怒、孤独、对父母的思念，全都切身尝过。”他用两样东西填满孤独：电影和机器。三年里他独自看了一千二三百部电影，养成一个古怪的习惯，同一部片子反复看，第一遍看主角，第二遍看配角，第三遍看布景和镜头。他还买来旧收音机、旧汽车，拆到最后一颗螺丝再装回去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这几年的孤独对他的影响，要三十年后才看得出来：他成了一个习惯换视角看问题的人，一个相信答案藏在拆解里的人，一个对热闹保持距离的人。回国后他进首尔师大附高，加入摔跤部；然后是家族模板式的路径：早稻田大学，再到乔治·华盛顿大学读 MBA，肄业。1966 年 10 月，24 岁的李健熙进入东洋放送上班。那正是萨卡林案爆发、两位兄长命运翻覆的秋天。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二年，他娶了洪璡基的女儿洪罗喜。这门婚事把三星的姻亲网又加密了一层：长女李仁熙嫁给高丽医院院长赵云海，次女李淑熙嫁给 LG 创始人具仁会的次子具滋学，五女李明熙嫁给三护纺织会长之子郑在恩。法官、财阀、医界、媒体，李秉喆用八个子女的婚姻织了一张覆盖韩国权势阶层的网。在没有法治保障的年代，姻亲是财产权的另一种“保险”。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:hong-ra-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.6 病房里的决定",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1976 年 9 月，66 岁的李秉喆在东京确诊胃癌。手术前，他召集家人，宣布了那个酝酿已久的决定：“今后，三星由健熙来带领。”",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李孟熙在回忆录里写下了听到这句话的瞬间：“突如其来的冲击，我无法忘记。我一直相信，他终有一天会把三星交给我。”这一年李孟熙 45 岁，李健熙 34 岁。",
+          "related_node_ids": [
+            "person:lee-maeng-hee",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么是第三子？官方的说法很干脆：长子乱了集团，次子叛了家门，三子沉稳有洞察。但另一层原因，藏在三兄弟的性子里。李孟熙张扬，李昌熙刚烈，李健熙寡言。选贤是真的，选“最不会在父亲生前挑战父亲的人”，恐怕也是真的。研究三星的公司治理律师李智秀对盖恩说过一句话：“我认为三星在精确复制古法。”他指的是朝鲜王朝的立储术：储君之德，首在恭顺。",
+          "related_node_ids": [
+            "person:lee-maeng-hee",
+            "person:lee-chang-hee",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-114",
+          "index": 114,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "立储之后是长达十一年的培养期。李秉喆的方法自成一派：他不给儿子安排独立辖区，而是让他贴身随行，每天列席自己的会议，看父亲如何提问、如何判断、如何决策。他送给儿子一幅亲笔字，只有两个字：“倾听”。这幅字挂在李健熙的办公室里挂了一辈子。他还给儿子讲《庄子》里木鸡的典故：善斗的鸡是训练到呆若木鸡、德性内敛的那只，而非目光如电的那只，别的鸡看见它就跑。一个天生沉默的儿子，被父亲往更深的沉默里训练。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-115",
+          "index": 115,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1979 年 2 月 27 日，李健熙升任三星集团副会长，立储程序走完。八个月后，朴正熙在宫井洞被自己的情报部长枪杀。国家的权力和家族的权力，在同一年各自完成了交接的预演。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-116",
+          "index": 116,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.7 择贤的账单",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-117",
+          "index": 117,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆的废长立幼，赞美者说是把“选贤”置于“序齿”之上，为三星选出了缔造半导体帝国的第二代。这个评价成立，但只算了收益，没算成本。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-118",
+          "index": 118,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "成本清单是这样的：一个长子终身怨愤，2012 年以 81 岁高龄把 70 岁的弟弟告上法庭；一个次子客死他乡前留下一个 2000 年就倒闭的集团；兄弟的后代分成两个阵营，连父亲的祭祀都分开办。长子继承制的本质是用效率换和平，它未必选出最强的人，但它让其他人无话可说。择贤制赎回了效率，代价是每一个落选者都觉得自己被亏欠。这份账单不会当场送达，它挂在账上，利滚利，五十年后才结清。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-119",
+          "index": 119,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "还有一个更隐蔽的成本。择贤制下，储君的首要美德是让父亲放心，而让父亲放心的方式是不表达。李健熙用二十一年学会了倾听与沉默，这套本领让他安全接班，也塑造了他日后那种深居简出、数年不进办公室、靠深夜独处做决断的帝王式风格。它成就过三星，也会在某些时刻让三星付出代价。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-120",
+          "index": 120,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "本章还有一笔伏笔要交代。1974 年 12 月，32 岁的副会长候补李健熙做了一件没人看好的事：韩国半导体公司濒临破产，他用自己的钱买下这家公司 50% 的股权，作价约 50 万美元。父亲态度冷淡，经营层公开反对：“我们连电视机都造不好，搞什么尖端半导体？”李健熙后来回忆，他当时的判断只有一条：资源贫瘠的韩国，能拼的只有智力密集型产业。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-121",
+          "index": 121,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个以恭顺为业的储君，用私房钱做了平生第一次独立下注。这颗种子要在九年后发芽，长成这个家族历史上最大的一场豪赌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-122",
+          "index": 122,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第四章 东京的电话，器兴的雪",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-123",
+          "index": 123,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.1 大仓酒店的电话",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-124",
+          "index": 124,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1983 年 2 月 8 日清晨，东京大仓酒店。73 岁的李秉喆拿起房间里的电话，拨给首尔的亲家、中央日报会长洪璡基。他只交代了一件事：“不管谁说什么，三星要做半导体。请对内外公布。”",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-125",
+          "index": 125,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每年岁末年初到东京住上一阵，听日本各行业的专家聊天，读新出的书，琢磨下一年的方向，这个习惯李秉喆保持了几十年，韩国媒体称之为“东京构想”。1983 年的东京构想，结果就是这通电话。它后来有了一个正式的名字：东京宣言。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-126",
+          "index": 126,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个月后，1983 年 3 月 15 日，《中央日报》刊出宣言全文，标题是《我们为什么要进军半导体事业》。文章的论证方式不寻常：它算的是国家的账，而非企业的账：“我国人口众多，国土狭小，四分之三是山地，石油、铀矿等资源近乎全无……所幸教育水平高，勤奋的人力充沛……但世界经济衰退、贸易保护主义抬头，靠廉价商品出口立国已到极限。我们愿凭我国人民伟大的精神力量与创造力，进军半导体产业。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-127",
+          "index": 127,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一家私人企业的投资决策，用一个国家的资源禀赋来论证。事业报国在这份宣言里不再是墙上的社训，而是决策框架本身。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-128",
+          "index": 128,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.2 “保险单”失效的年代",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-129",
+          "index": 129,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把镜头拨回宣言之前的三年，能看清这个决定的另一重背景：李秉喆刚刚经历了政商关系的一次翻脸。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-130",
+          "index": 130,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1979 年 10 月，朴正熙遇刺。1980 年，全斗焕借光州的血上台。新军政府立威的方式与十九年前如出一辙：拿财阀开刀。这一次三星被没收的是东洋放送。1980 年 11 月 30 日，这家李秉喆经营了十六年的电视台播出最后一期节目，翌日并入国营的 KBS。台里有员工哭着下班，而老会长连公开抱怨的资格都没有。1961 年他用银行股份买回自由，1980 年他用电视台再买一次。所谓“媒体保险”，政权一换，“保单”作废。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-131",
+          "index": 131,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "也是在这几年，他对制造业的焦虑到达顶点。1982 年他赴美国接受波士顿大学荣誉博士学位，顺路参观了 IBM、通用电气和惠普的半导体产线。在硅谷，这位一辈子精于算账的老人对随行的三子说了四个字：“我们太迟了。”归途的飞机上，李健熙把珍藏了八年的判断摆到父亲面前：韩国资源贫瘠，能拼的只有人的头脑，半导体是唯一的出路。他 1974 年用私财买下的韩国半导体公司，此时还在富川的小厂房里给电子表做芯片，不温不火地养着一支工程师队伍。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-132",
+          "index": 132,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲被说动了。回国后，三星派调查团进驻硅谷摸底，做出五年设备投资 4,400 亿韩元、研发 1,000 亿韩元的可行性方案。以当时三星的体量，这笔钱押上去，输了就是全集团陪葬。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-133",
+          "index": 133,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "反对的声音从四面八方涌来。内部高管觉得疯狂：三星的彩电还在跟日货苦战，凭什么跳级去做英特尔的生意？日本同行的轻蔑流传成了段子：三菱综合研究所据说出过一份报告，列举《三星做不成半导体的五个理由》，从内需太小、关联产业空白，一路数到技术贫弱。这份报告的日文原件从没人见过，更像韩国人自己反复讲的一个说法。但被看轻是真的：1983 年的国际业界，没人把三星当回事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-134",
+          "index": 134,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆在决策会上留下一句话：“假设结果有何闪失，责任我来承担。”一个 73 岁的老人，给一个至少要十年才见分晓的产业签下个人担保。我们后面会看到，这种“超长期下注”的能力，在三星历史上反复出现，它的制度根源只有一个：这家企业的最终决策者不按任期思考，按代际思考。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-135",
+          "index": 135,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.3 器兴的雪",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-136",
+          "index": 136,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "宣言之后是执行，执行的速度至今仍是业界传说。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-137",
+          "index": 137,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一座芯片厂选址京畿道器兴。国际同行建一座晶圆厂的标准工期是三年，三星用了六个月：设计与施工并行，隆冬浇筑混凝土，工程师住在工地。多年后有人问当时的厂长李润雨，拼命的动力是什么，他的回答只有五个字：“想到会破产。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-138",
+          "index": 138,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "工程师们比他更拼。为了攻关 64K DRAM，一百来名工程师在一月的严寒里从龙仁出发，昼夜连走 64 公里，中途指挥官设“伏击”出难题。走过那趟夜行军的金南润对记者盖恩回忆，有一关的题目是“找一个活物来”，荒山野岭无处可寻，他的小队从饭盒里摸出干鳀鱼泡进水杯：“我们刚抓到时它还是活的。”考官放行。下山之后，每人签下军令状，金南润写的是：“只要三星做，就一定能成。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-139",
+          "index": 139,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "技术从哪里来？能买的买，不能买的背。三星付费送工程师去财务困难的美光公司受训，对方不许碰电脑、不许进核心机房，韩国工程师就睁大眼睛看，晚上回酒店凭记忆把图纸一张张默画出来。李健熙在回忆录里写过自己那几年的周末：“我几乎每周赴日会见半导体专家，常在周六秘密把日本工程师带进韩国，让他们通宵教我的工程师，周日再送回去。”",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-140",
+          "index": 140,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1983 年 12 月，三星宣布 64K DRAM 研发成功，与日本的技术差距被丈量为 4.5 年。此后追赶得越来越快：256K 落后 3 年，1M 落后 2 年，4M 与日本同步，到 1989 年的 16M，三星第一次站到世界最前面。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-141",
+          "index": 141,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.4 输血与转机",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-142",
+          "index": 142,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "赌局中途，几乎全盘皆输。1984 到 1986 年，日本厂商发动价格战，64K DRAM 的市价跌破三星的成本线，芯片做一片亏一片。三星半导体的累积亏损越滚越大，靠制糖、毛纺等子公司的利润逐年输血。集团内部怨声四起：全体老业务勒紧裤带，供养一个看不到头的无底洞。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-143",
+          "index": 143,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "转机在 1986 年到来。美日半导体摩擦升级，华盛顿逼东京签下限产协议，DRAM 价格回升，等在门口的三星接住了整个市场的缺口。1987 年，半导体事业转亏为盈。又过了几年，这个当年的无底洞成为韩国历史上第一个年利润破万亿韩元的印钞机。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-144",
+          "index": 144,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "也是在 1987 年前后，一个技术岔路口考验了刚刚走到台前的储君。4M DRAM 的存储单元有两条技术路线：向硅片下挖的沟槽式，向上堆的堆叠式。IBM 与东芝、NEC 押注沟槽，三星内部争执不下，最后由李健熙拍板选堆叠，他的理由很简单，甚至像个外行：“越是复杂的问题越应该单纯化。建房子的时候，从上面堆要比往下面挖容易，可能性也大，电路也是如此。”几年后沟槽派深陷良率泥潭，堆叠成为行业标准。一个看了一千多部电影、拆了半辈子机器的人，用直觉替工程师们做了一道工程题。这道题答对了，质疑他的声音才渐渐减弱。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-145",
+          "index": 145,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "历史书写者常把这场胜利归结为眼光。眼光之外，更该看清的是结构：日本对手是上市公司与银行财团，衰退期必须向股东和主银行交代，扩产要开会，减产也要开会；三星的最终股东是一个不需要向任何人解释的老人和他的儿子。萧条期逆势扩产这种违反财务理性的动作，恰恰是家族企业的比较优势。行业越是暴涨暴跌，这种优势越值钱。存储芯片这个行业，像是为家族企业的决策结构量身定做的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-146",
+          "index": 146,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.5 二十四个问题",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-147",
+          "index": 147,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆没能看到 16M 的登顶。1980 年代中期，他确诊肺癌。外孙赵东赫记得，外祖父晚年预言过：自己一死，三星就会垮。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-148",
+          "index": 148,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "晚年的李秉喆对身边人说过：“半导体是我最后的事业。”这句话是这位老人少有的抒情。而这位一生不信教的人，临终前做的最后一次“事前调查”，对象是死亡本身。去世前约两个月，他让人给天主教的朴熙奉神父送去一份手写的提问清单，一共 24 个问题：神存在的证据是什么？人为什么要受苦？死后有什么？一个用调查和验证过完一生的人，到了最后一道关口，仍然要先提问，再决定信什么。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-149",
+          "index": 149,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1987 年 11 月 19 日下午 5 时 05 分，李秉喆在汉南洞自宅去世，享年 77 岁。25 分钟后，三星 37 家子公司的社长齐集集团总部，全票推举 45 岁的李健熙出任会长。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-150",
+          "index": 150,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "12 月 1 日，李健熙在就任演说里许诺：“到 90 年代，把三星发展成世界级超一流企业。”台下的老臣们礼貌地鼓掌。他们中的多数人私下叫他“皇帝的儿子”，一个运气好的继承人。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-151",
+          "index": 151,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个月后的 1988 年 2 月，三星的 4M DRAM 第一块工程样品下线。高管们捧着它去了京畿道的墓园，把芯片供在李秉喆的墓前。一个用干鱼起家的商人，坟前摆着当时人类工业最精密的造物。这个画面是第一代交给第二代的全部遗嘱：赌局已经开盘，筹码已经押上，剩下的，看你的了。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-152",
+          "index": 152,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第五章 法兰克福 312 号房",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-153",
+          "index": 153,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.1 一盘录像带",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-154",
+          "index": 154,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1993 年 6 月初，法兰克福郊外陶努斯山麓，凯宾斯基酒店 312 号总统套房。刚下飞机的李健熙放进录像机一盘带子，那是三星内部电视台奉命秘密拍摄的画面：洗衣机装配线上，塑料盖子与机身模具对不上，工人拿起美工刀，把多出来的两毫米当场削掉，装上，下一台，再削。录像二十多分钟，没有人去改模具。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-155",
+          "index": 155,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "看完带子，他抓起电话打给首尔的高管，一口气骂了一个小时，命令把通话录音在整个高管层传阅。录音里有一句话日后被反复引用：“你们这些年都干了什么？我反复强调质量经营，你们就改了这么点。从现在起，我亲自管。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-156",
+          "index": 156,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "放下电话，他下了第二道命令：集团两百名核心高管，即刻飞法兰克福。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-157",
+          "index": 157,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.2 没人听的五年",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-158",
+          "index": 158,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要理解 312 号房里的怒火，得把表拨回接班的那五年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-159",
+          "index": 159,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1987 年 12 月接任会长时，李健熙 45 岁，台下的子公司社长大半入社比他早，私下自认比他懂经营。他推出“第二创业”宣言，提出自主经营、尊重人道、重视技术，讲完，组织纹丝不动。半导体的暴利还在逐年刷新纪录，1992 年 DRAM 做到世界第一，一片涨潮声里，没人觉得需要改变。他后来对身边人吐露过一句丧气话：“我通过一次就任辞和五次新年致辞传达我的想法，没有人记得。”",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-160",
+          "index": 160,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这五年他大部分时间不去总部上班。前财务幕僚黄永基回忆，会长有一年半基本不进办公室，在汉南洞自宅昼夜颠倒地读资料、看录像、深夜召人问话，一问几个小时。老臣们把这当成少主怠政，他们没意识到，那间挂着“倾听”字幅的书房，安静得像一间手术前的准备室。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-161",
+          "index": 161,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1992 年夏天到冬天，他失眠了。他自述那段日子：“我绝望地觉得，三星可能整个枯萎。那些天我从没睡超过四个小时，那年我瘦了十公斤。”当时三星电子的产品在海外是廉价货的代名词，返修率居高不下，员工在侨民圈里听得到“Sam-suck”的谐音嘲笑。",
+          "related_node_ids": [
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-162",
+          "index": 162,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1993 年 2 月，他把总裁团急召到洛杉矶世纪广场酒店，只为带他们逛街。百货卖场里，索尼和东芝的电视摆在与视线齐平的黄金货架，三星的机器堆在底层积灰。回到酒店，他让人买来东芝的录像机和三星的同款，当众拆开，一个零件一个零件地比。会上他说了后来传遍集团的两句话：“1986 年的三星是一家垮台的企业，我早在十五年前就感受到了危机。”“抛掉‘第二’的念头，不是世界第一，以后将无立足之地。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-163",
+          "index": 163,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个月后是东京。6 月 4 日晚，他在大仓酒店召见以设计师福田民郎为首的日本顾问团，开场一句话：“今晚请直言你们对三星电子的看法。”福田民郎憋了四年的话说到凌晨五点，又交上一份 56 页的书面报告。报告里的细节扎人：三星的研发中心有一台昂贵的测试设备，因为一个插座坏了，闲置了好几天，没人负责。",
+          "related_node_ids": [
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-164",
+          "index": 164,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "去法兰克福的飞机上，他读完这份“福田报告”，把五名随行高管从后舱叫到面前，只问一句：“为什么会这样？”命令他们落地前给出答案。落地后，等着他的就是那盘美工刀录像。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-165",
+          "index": 165,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "顺带记下一个官方社史从不提的细节：这趟欧洲之行原本的头号日程，是会见德国车企的掌门人，为进军汽车业铺路。黄永基对记者盖恩承认：“汽车才是李健熙此行最重要的部分。”事后看像个玩笑：一趟为汽车安排的行程，成就了三星电子的重生；而汽车这个执念，四年后会让他栽一个大跟头。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-166",
+          "index": 166,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.3 六月七日",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-167",
+          "index": 167,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1993 年 6 月 7 日上午，凯宾斯基酒店会议厅。讲台前摆着一畦粉色的花，两百名清一色白衬衫深色西装的高管起立鼓掌。据黄永基回忆，会长那阵子每天只睡两三个小时。他不用讲稿，一开口讲了八个小时。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-168",
+          "index": 168,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "流传最广的那句话，就出在这几天：“除了老婆孩子，一切都要换。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-169",
+          "index": 169,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "留存的讲话片段里，能听到这场八小时演讲的骨架。开场是恐惧：“一想到这场危机，我背上冷汗直流。我们正站在悬崖边上，生死攸关。”中段是定性：“冷战结束了，但一场更激烈的经济战争开始了，很多三星人不明白这场技术战争多么冷酷。”落点是纪律：“在三星必须恪守三条：次品是我们的敌人；次品是万恶之源；三次做出次品，就该自己辞职。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-170",
+          "index": 170,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此后三天，他每天讲八到十个小时。第三天的晚餐桌上，一位高管鼓起勇气说：“对不起会长，数量也重要，质量数量是一枚硬币的两面。”李健熙把勺子摔在桌上，摔门而去。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-171",
+          "index": 171,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "法兰克福只是第一站。此后 68 天，他把这场布道搬到伦敦、大阪、东京，共 48 场，讲了 350 多个小时，听众累计 1800 余人，录音整理出来的文稿有 8500 页。随行的秘书室长玄明官记得行程狼狈到什么程度：“两周后我们只好自己洗内衣，晾在酒店阳台上，酒店方面直抗议。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-172",
+          "index": 172,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他此前五年的公开讲话没能改变三星，这 68 天、350 个小时做到了。区别在哪里？此前他发布的是指示，这一次他上演的是危机。指示可以被归档，戏剧只能被记住。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-173",
+          "index": 173,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.4 从布道到制度",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-174",
+          "index": 174,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "演讲结束，机器开动。秘书室把 8500 页讲稿浓缩成语录手册，配上漫画和录像，发给全部十万员工，一到早晨全员收看三十分钟“会长讲话”。曾在三星做销售高管的美国人斯卡辛斯基对盖恩打了个不敬的比方：“就像毛主席的红宝书，不过这是李会长的蓝宝书。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-175",
+          "index": 175,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这套动员术在新员工身上表现得最彻底。三星的入职训练营长达数周，拉练、合宿、深夜集训，结业式上数千名新人穿统一服装，用人体字板翻出手机年度销量目标“10,000,000”，教官在台上带领呼号。一名参与组织的员工向盖恩形容自己的感受：“又震撼，又吓人，又诡异。”局外人看到的是狂热，设计者要的是归属：先把“我”熔掉，再浇铸出“三星人”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-176",
+          "index": 176,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "制度一件件落地。7 月起全集团推行“七四制”，早七点上班、下午四点下班，秘书室组建突击队查岗，不许任何人下班后赖在办公室；用行政手段强行打碎“耗时间等于尽忠”的旧习惯。产线上推行“一站停线”，李健熙的原话是“不良即是癌”，发现次品，整条线停下来，改好再开。人事上同步换血，斥责了不执行“质经营”的三星电子会长姜振玖之后，他把秘书室也大改了一遍。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-177",
+          "index": 177,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "戏剧的最高潮在两年后。1995 年新年，他把新款无线电话当贺礼送给亲友，收到的回话却是“通话不畅”。追查下来，当年三星手机的不良率接近八分之一。他下达的处置命令没有商量余地：“把流向市面的产品全部回收，当着工厂所有员工的面烧掉。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-178",
+          "index": 178,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1995 年 3 月 9 日，龟尾工厂运动场。两千多名员工头系“品质保证”的布条，广场上堆着回收来的十五万台手机、无线电话和传真机，帐面价值一百五十亿韩元，另一个流传更广的口径说五百亿。横幅上写着一行字：“品质是我的人格，是自尊心！”十来名员工抡起铁锤，把每一台机器砸碎，浇上汽油点火，推土机再从灰烬上碾过去。人事总监戈登·金向盖恩描述现场：造这些手机的人，有的当场哭了，“就像他们的孩子死了”。李健熙留下一句话：“再造出这种劣质品，我还会回来做同样的事。”",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-179",
+          "index": 179,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "莫托罗拉用六西格玛管品质，丰田用安灯绳管品质，三星用一场公开的火刑管品质。手段的差异，透出各家的性子：这家公司相信，改变人心最快的通道，是让人心疼一次。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-180",
+          "index": 180,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.5 十年后的果实",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-181",
+          "index": 181,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同样在这几年种下的，还有两粒当时看不出名堂的种子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-182",
+          "index": 182,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一粒种子叫地域专家。从 1991 年起，三星每年选送一百多名年轻职员出国一年，不背销售指标，不设考核表，前六个月只准干一件事：闲逛。学语言、交朋友、坐当地人的公交车、吃当地人的饭，后六个月自选一个课题做完交卷。人均花费超过一亿韩元，几乎所有高管都反对，李健熙硬顶着推行了二十多年，累计送出五千多人。写《三星之道》的两位首尔大学教授点评过这个制度的反常之处：见效要十年，投入是天文数字，“对任期只有几年的职业经理人来说毫无吸引力”，只有把公司当家业的人才养得起。九十年代末三星在新兴市场攻城略地时，先头部队正是这批人。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-183",
+          "index": 183,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二粒种子叫设计。1996 年他宣布“设计革命之年”，从美国帕萨迪纳请来设计教育家戈登·布鲁斯办校，七百名设计师里挑十二个人当种子。布鲁斯第一天上课，从包里掏出一根香蕉：“自然是最好的设计师。”台下有学员认真发问：“您是要我们把手机设计成香蕉形吗？”这一问一答，照出 1996 年的三星离“创造力”有多远。十年后，波尔多电视机让三星第一次在全球电视市场坐上头把交椅，把索尼挤了下去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-184",
+          "index": 184,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "人才政策同样在此定调。他 1983 年就从英特尔、IBM、贝尔实验室往回挖韩裔工程师，开出比总裁还高的年薪；2003 年他把这套哲学浓缩成一句名言：“二十一世纪，是一个卓越天才养活十万到二十万人的时代。”李健熙就任时全集团博士 120 人，二十几年后是 7,600 人。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-185",
+          "index": 185,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.6 帝王术的成本",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-186",
+          "index": 186,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二代接班人发动激进改革而成功的案例，在家族企业史上屈指可数。多数二代要么萧规曹随，要么改革到一半被老臣和董事会架空。李健熙是例外。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-187",
+          "index": 187,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他有别人没有的两样东西。一是时间：二十一年学徒期让他把集团的每一根筋络摸得烂熟，接班后又可以用五年时间蛰伏观察，没有任何力量能罢免他。二是绝对安全：家族控股结构下，他不需要讨好董事会，不需要看华尔街脸色，敢把两百名高管拉到八千公里外听八小时训话。这两样东西合起来，就是家族企业在变革时刻的独特武器：改革者不可撼动。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-188",
+          "index": 188,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但同一枚硬币的另一面也在此铸成。这场改革自始至终是一个人的意志：一个人看录像，一个人发怒，一个人布道，十万人聆听。它把三星从平庸里拽了出来，也把“会长的话就是法律”刻进了组织。危机由会长定义，方向由会长指出，连员工几点上班都由会长决定。这套体制的效率与它的风险同源：它假设王座上的人永远清醒。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-189",
+          "index": 189,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1993 年，三星凭半导体成为韩国第一家年利润破万亿韩元的企业。1996 年，李健熙当选国际奥委会委员，站上了他父亲一辈子没摸到的国际舞台。新经营的果实一年比一年沉。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-190",
+          "index": 190,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他以为最难的日子过去了。1997 年 11 月，真正的考题送到，而且一次送来两张卷子：一张考企业，一张考家族。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-191",
+          "index": 191,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第六章 破产边缘与两张债券",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-192",
+          "index": 192,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.1 两个数字",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-193",
+          "index": 193,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1996 年 10 月，游乐园运营商爱宝乐园（Everland）的董事会通过一项不起眼的决议：发行约百亿韩元的可转换债券，转换价定为每股 7,700 韩元。",
+          "related_node_ids": [
+            "company:samsung-everland"
+          ]
+        },
+        {
+          "id": "samsung-p-194",
+          "index": 194,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按照韩国继承赠与税法的评估方法，这家公司的股票当时每股价值 127,750 韩元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-195",
+          "index": 195,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "7,700 对 127,750。既有的 26 家法人股东集体放弃认购，债券以“第三者配定”的方式落到四个年轻人手里，其中最大的一份属于 28 岁的李在镕。他掏出约 48 亿韩元，转股之后成为爱宝乐园最大股东，持股 31.9%。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-everland"
+          ]
+        },
+        {
+          "id": "samsung-p-196",
+          "index": 196,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱宝乐园远非一家游乐园那么简单。它站在三星环形持股结构的顶点：爱宝乐园持有三星生命的大宗股份，三星生命持有三星电子，三星电子持有三星卡，三星卡再持回爱宝乐园。谁控制爱宝乐园，谁就握住了整个集团的钥匙。48 亿韩元买下帝国钥匙，彭博社多年后核算，这笔投资对应的权益最终价值约 5.7 万亿韩元。",
+          "related_node_ids": [
+            "company:samsung-electronics",
+            "company:samsung-everland",
+            "company:samsung-life"
+          ]
+        },
+        {
+          "id": "samsung-p-197",
+          "index": 197,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "多年以后，这两个数字会被写进判决书、教科书和弹劾案。此刻，它们只是安静地躺在一份董事会决议里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-198",
+          "index": 198,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.2 每一步都有税单",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-199",
+          "index": 199,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这张债券只是一条更长链条里的一环，真正的手艺在整条链上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-200",
+          "index": 200,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1995 年，李健熙赠与长子李在镕现金 60.8 亿韩元。李在镕规规矩矩缴了 16 亿赠与税，剩下 44.8 亿。这是整套操作里最体面的一步，此后常被三星方面引用：“种子资金完税，来路清白。”",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-201",
+          "index": 201,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接着，44.8 亿买入两家未上市关联公司的股票：安保公司 S1 和三星工程。两家公司随即上市，股价跳涨，李在镕套现，获利约 563 亿韩元。然后就是爱宝乐园那张 7,700 韩元的债券。1999 年，同样的手法在三星 SDS 重演一遍，这次的工具是认股权证，行权价 7,150 韩元，检方后来主张的公允价是 55,000 韩元。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-everland"
+          ]
+        },
+        {
+          "id": "samsung-p-202",
+          "index": 202,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拆开看，每一个环节都有法律依据：赠与缴了税，认购走了程序，定价出自董事会。连起来看，一条把帝国控制权从第二代输往第三代、总税负不足百分之一的管道就建成了。2000 年 6 月，43 名法学教授联名告发爱宝乐园债券案，韩国司法系统从此围着这张债券转了九年。",
+          "related_node_ids": [
+            "company:samsung-everland"
+          ]
+        },
+        {
+          "id": "samsung-p-203",
+          "index": 203,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "曾参与继承规划的三星前财务高管金善正，对记者盖恩描述过这套操作的另一面：出事时，高管们“全都抢着说‘是我的错’，人们排着队替会长去坐牢”。爱宝乐园案最终被定罪的，恰恰是两名代签决议的社长。发起告发的律师赵承铉说得更直白：“我们都知道这笔交易有问题。它的设计就是不惜一切代价把权力留在家族手里。”",
+          "related_node_ids": [
+            "company:samsung-everland"
+          ]
+        },
+        {
+          "id": "samsung-p-204",
+          "index": 204,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.3 保暖内衣与一座车厂",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-205",
+          "index": 205,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "就在这套继承操作推进的同时，三星帝国本身差点塌了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-206",
+          "index": 206,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1997 年 11 月，韩国外汇储备见底，向国际货币基金组织求援。三星此刻的体检报告触目惊心：全集团负债率 366%，1998 年一年亏损 5,000 亿韩元。多年高歌猛进攒下的家底，在利率飙升和韩元崩盘面前不堪一击。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-207",
+          "index": 207,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李健熙没有回避这场手术。两年里，子公司从 59 家砍到 40 家，员工从 16.3 万人减到 11.3 万人，三成的人离开了“三星家族”。资产甩卖清单上有一个名字格外刺眼：富川半导体工厂，1974 年他用私房钱买下的那家韩国半导体公司，此刻年利润超过千亿韩元，被整体卖给美国仙童公司回笼现金。他卖掉了自己半导体梦开始的地方。同期，美国子公司 AST 在烧掉约十亿美元后关门。首尔总部把冬天的暖气调低，Fortune 记者写道，高管们穿着保暖内衣上班。到 1999 年底，负债率压到 166%。首席执行官尹钟龙回忆那两年：“当时有整个公司都会垮掉的感觉。”",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-208",
+          "index": 208,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最痛的一刀是汽车。造车是李健熙压了几十年的执念，1993 年那趟法兰克福之行的原始目的。他不顾几乎全体幕僚反对，在产能过剩的行业顶点强行上马，1998 年 3 月釜山工厂投产。首年售出 4.5 万辆，大半是三星员工友情认购，每卖一辆亏约 6,000 美元。第二年，三星汽车进入法定管理，最终作价贱卖给雷诺。为了平息债权人与舆论，李健熙拿出个人持有的三星生命股票 400 万股填进债务窟窿。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-life"
+          ]
+        },
+        {
+          "id": "samsung-p-209",
+          "index": 209,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个用“合理追求”当社训的集团，为什么会在会长的执念面前失灵？答案写在第五章的结尾里：这套体制假设王座上的人永远清醒。半导体的神话让所有人相信会长看得比市场远，于是没有一个机制、也没有一个人，能在他看错的时候拦住他。汽车之败是新经营体制的第一张账单：一人体制的效率与一人体制的风险，从来同源。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-210",
+          "index": 210,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "法兰克福宣言是愿景，金融危机是执行愿景的机会。危机替李健熙做完了他自己下不了手的裁员和瘦身。1999 年之后的三星电子，负债轻、组织紧、半导体和手机双引擎点火，为下一个十年的爆发上好了膛。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-211",
+          "index": 211,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.4 王储的学费",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-212",
+          "index": 212,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "风暴中还有一笔小账，主角是继承人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-213",
+          "index": 213,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2000 年 5 月，在哈佛读博的李在镕出资约 381 亿韩元，一口气成为 14 家互联网公司的最大股东，旗舰叫 e-三星。这是王储的首秀，集团内外都看得懂。前法务组长金勇澈在回忆录里写下他的观感：“李在镕迫不及待想参与经营，焦躁的结果就是 e-三星。三星式管理做风投，是灾难的配方。”",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-214",
+          "index": 214,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "泡沫一年后破裂，14 家公司集体沉没。接下来的操作让“灾难”变成了“丑闻”：第一企划等三星系公司出面，以 208 亿韩元接盘李在镕手里的股份，亏损由上市公司股东消化，王储近乎全身而退。市民团体告发，检方两度调查，均以证据不足告终。金勇澈在书里补了一个细节：调查期间，他奉命派法务组律师去现场销毁文件，“此举成功”。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-215",
+          "index": 215,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "e-三星是一次完整的压力测试，测出了这个家族的一条隐规则：继承人可以失败，但继承人的失败必须由体系埋单。祖父辈“用自己的钱、败了认账”的家训，传到第三代变成了“用自己的钱、败了有人接盘”。一字之差，背后是两代人，和一整套环形持股。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-216",
+          "index": 216,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.5 硬盘、账户与面包店",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-217",
+          "index": 217,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "暗沟里的水，终究要漫上地面。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-218",
+          "index": 218,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2005 年，一盘 1997 年的窃听录音带流出：三星高管与《中央日报》社长密议向总统候选人输送资金、给检察官们送“年节钱”。举报录音的国会议员卢会灿公布了七名疑似收钱检察官的名单。这桩“X 档案”事件的司法结局荒诞得像寓言：录音里的三星当事人无一被诉，公布名单的议员却因“泄露非法窃听内容”被定罪，丢了议席。二审法官在改判他无罪时写过一句话：“任何有正常理性智识的人，自然会强烈推定钱已按对话内容支付。”大法院最终仍维持了有罪。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-219",
+          "index": 219,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2007 年 10 月，更大的引信点燃。为三星做了七年首席法务的金勇澈，联合天主教正义具现司祭团连开记者会，指控三星以 1,199 个借名账户运作约 4.5 万亿韩元秘密资金，系统性“管理”检察官和官员，并动用秘密资金购入高价美术品，清单里有利希滕斯坦的《幸福的眼泪》。爆料前后，三星总部的员工陆续接到内线电话：“有人会来清空你的硬盘。抱歉。”一名不愿配合的员工被劝去楼下喝咖啡，回来时硬盘已经空了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-220",
+          "index": 220,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2008 年 1 月 14 日，特别检察官突袭三星总部和李健熙自宅。三个月后，李健熙以逃税和背任罪名被起诉。4 月 22 日，他召开记者会宣布辞去会长职务：“法律上、道义上的责任，我全部承担。”同日公布的还有：解散战略企划室，把查出的借名财产“用于有益之事”。这句承诺此后被搁置了十三年。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-221",
+          "index": 221,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "审判的结果是韩国司法史的标准剧目。一审逃税罪成立，判缓刑加 1,100 亿韩元罚金；爱宝乐园债券案历经反复，2009 年 5 月大法院以“实质属股东配定、难认公司损害”维持无罪，SDS 案发回改判后并入缓刑。2009 年 12 月 29 日，李明博政府宣布对李健熙一人特赦，全国当次仅此一人，理由是保住他的国际奥委会委员资格，为平昌申办冬奥出力。经济学者金尚祚对《纽约时报》说：“这次特赦再次印证一句韩国俗语：三星凌驾于法律和政府之上。”",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-everland"
+          ]
+        },
+        {
+          "id": "samsung-p-222",
+          "index": 222,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三年后，平昌申奥成功，李健熙为此在一年半里出国十一次、飞行约二十一万公里。2010 年 3 月 24 日，他重返三星电子会长职位，复归声明只有一层意思：“现在是真正的危机。十年之内，代表三星的产品大部分会消失，必须重新开始。”",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-223",
+          "index": 223,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "至于金勇澈：他 2010 年出版《삼성을 생각한다》（直译“想想三星”，繁体中文版《三星內幕》），全国书店卖到脱销，所有主流报纸拒登书评和广告；没有律所敢雇他，他回光州开了家面包店。举报体制的人与被举报的体制，各自回到了各自的位置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-224",
+          "index": 224,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.6 地道与阳光",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-225",
+          "index": 225,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么三星的继承，非要走进灰色地带？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-226",
+          "index": 226,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "答案的第一层在税法。韩国遗产与赠与税最高税率 50%，大股东股权另加两成溢价评估，实际税负可达 60%，位居所有工业国之首。第二层在公司法：韩国不允许发行差别投票权股票。把两条放在一起，一个持股集中的家族每传一代，控制权就要被税收砍掉一半以上；而法律又不提供“少持股、多投票”的合法工具。摆在李健熙面前的选择只有三个：接受稀释，等于交出家业；足额缴税，等于卖掉大半持股，控制权同样不保；或者，绕道。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-227",
+          "index": 227,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "绕道并非宿命。美国的福特家族 1956 年上市时发行 B 类股，用 2% 的持股锁定 40% 的投票权，合法，透明，写在招股书里。瑞典的瓦伦堡家族把股权装进基金会，配合 AB 股制度传了五代。这些工具在韩国统统不存在。制度不给阳光通道，资本就自己挖地道。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-228",
+          "index": 228,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但不必舍近求远，韩国本土就有反例。LG 集团 2003 年完成控股公司改造，股权关系摊到台面上；2018 年具光谟接班，申报遗产税 9,215 亿韩元，分五年缴清，无一日官司。同一套税法之下，地道非唯一的路，只是最便宜的路。三星选了便宜的路，把省下的钱换成了二十年的司法纠缠、两代人的刑事记录，和一个再也洗不掉的形容词：“三星共和国”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-229",
+          "index": 229,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "哪条路的成本更高，这笔账要留给第八章的 12 万亿再算一次。此刻先记下 2010 年的局面：68 岁的会长复位，42 岁的王储已在集团熬了 19 年，头衔首席运营官。管道铺好了，钥匙到手了，继承只差最后一公里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-230",
+          "index": 230,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "谁也没想到，这最后一公里，要用一场心梗、一场合并、一匹马和四年官司来走完。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-231",
+          "index": 231,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第七章 一场合并与一匹马",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-232",
+          "index": 232,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.1 大邱的单独会面",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-233",
+          "index": 233,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2014 年 9 月 15 日，大邱创造经济革新中心开馆。仪式结束后，总统朴槿惠单独召见了三星电子副会长李在镕。没有幕僚在场记录，这场对话的内容后来由李在镕本人在法庭上复述。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-234",
+          "index": 234,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "总统先问候：“李健熙会长身体怎么样？”寒暄过后，话锋一转：“请三星负责韩国马术协会的运营。备战奥运，给选手买好马，支援野外训练。”",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-235",
+          "index": 235,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一位总统向一家公司要马，这个诉求古怪得让人摸不着头脑。真正的解码要等两年后检方查抄青瓦台，一份幕僚笔记浮出水面，上面写着这样的字句：“三星经营权继承局面，作为机会加以利用。摸清三星在继承问题上需要什么……解决三星眼下课题时，可行使重大的政府影响力。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-236",
+          "index": 236,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "青瓦台看得很准。此刻的三星，恰好行进在王朝交接最脆弱的一段。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-237",
+          "index": 237,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.2 会长缺席的帝国",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-238",
+          "index": 238,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个月前，2014 年 5 月 10 日深夜，72 岁的李健熙在汉南洞自宅突发急性心梗，送医途中做了心肺复苏，随后在三星首尔医院接受支架手术。他活了下来，但此后六年五个月再没有公开露面，再没有说过一句传到外界的话。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-239",
+          "index": 239,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "帝国进入一种前所未有的状态：会长活着，但缺席。病房成了集团最高机密，除家人和副会长崔志成外无人获准探视。2015 年春天，首尔金融圈两度盛传会长已经去世、三星秘不发丧，传言最盛的那几天，三星系股价不跌反涨。市场用最冷酷的方式给出了定价逻辑：会长离世意味着继承落地、集团重组、价值释放。一个人的死讯成了利好，这是财阀体制下才有的黑色幽默。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-240",
+          "index": 240,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此时的三星电子如日中天。Galaxy 手机 2011 年第三季度出货量超过苹果，2012 年登顶全球最大智能手机厂商；乔布斯 2011 年 10 月去世时，李在镕是唯一受邀出席追悼会的亚洲企业高管。但在帝国内部，所有人都清楚一件事还没办完：李在镕对集团的控制权，仍然悬在半空。他手里最值钱的筹码，是那家由爱宝乐园改组而来、更名为第一毛织的公司四分之一的股权。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics",
+            "company:samsung-everland"
+          ]
+        },
+        {
+          "id": "samsung-p-241",
+          "index": 241,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "补齐最后一块拼图的方案，2015 年 5 月 26 日公之于众：第一毛织吸收合并三星物产，换股比例 1 比 0.35。",
+          "related_node_ids": [
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-242",
+          "index": 242,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.3 百分之六十九点五三",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-243",
+          "index": 243,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个比例一公布，全球投资圈都拿起了计算器。三星物产的营收和资产数倍于第一毛织，还持有三星电子 4% 的股份，合并估值却只有毛织的三分之一。彭博专栏作家马特·莱文算完账写道：按这个比例，物产的全部营业业务等于被估成了大幅负值。合并对毛织股东是天上掉馅饼，对物产股东是割肉；而李在镕持有毛织 23.2%，物产的股票一股都没有。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics",
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-244",
+          "index": 244,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "美国对冲基金埃利奥特（Elliott）买成物产第三大股东，持股 7.12%，公开反对，申请法院禁止合并。首尔法院驳回。物产连夜把全部库存股卖给友好企业 KCC，凭空激活 5.96% 的赞成票。两大代理投票顾问机构 ISS 和 Glass Lewis 均建议股东投反对票。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-245",
+          "index": 245,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然后是三星式的总动员。合并投票前，三星单日在一百多家报纸投放广告；五千名员工分头登门拜访小股东，提着核桃糕和西瓜，对持股 0.004% 的退休老人鞠躬：“求求您，见我们一面。”舆论战里冒出一个叫“秃鹫人”的系列漫画，把埃利奥特画成盘旋在垂死者上空的秃鹫，配上犹太资本的暗示，被外媒类比 1937 年纳粹《冲锋报》的封面，三星紧急撤站道歉。多年后韩国媒体还披露，未来战略室的高层在合并战期间与国家情报院通联至少 150 次，情报机构向企业输送对冲基金的动向。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-246",
+          "index": 246,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "胜负手握在国民年金手里。这家管理约 4,500 亿美元的机构持有物产近 10%，是最大单一票仓。按章程，这类争议表决应交外部专门委员会审议，年金跳过了这道程序，由内部投资委员会闭门表决。内部测算白纸黑字：按此比例合并，年金将损失约 1,388 亿韩元。会议纪要里，研究主管提出可以指望三星生物制剂等“新增长业务”未来抬升两万亿韩元企业价值，把账做平。表决结果 8 比 4，赞成。年金此后从未投资三星生物制剂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-247",
+          "index": 247,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2015 年 7 月 17 日，首尔良才洞，为百人设计的会场挤进 553 名股东，有人冲上主席台高喊反对，被保安架走。计票结果：69.53% 赞成，勉强跨过三分之二门槛。埃利奥特的律师当场发问：卧床一年多的李健熙会长，他持有的物产股票是怎么投出赞成票的？“如果他出具了委托书，请说明时间。”公司方面答：经由法定代理人。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-248",
+          "index": 248,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年后，法院判处前保健福祉部长官文亨杓有期徒刑两年六个月，罪名是滥用职权迫使国民年金投下赞成票；年金投资本部长同案获刑。为合并放行的每一只手，后来都摸到了手铐。只有合并本身，作为既成事实留了下来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-249",
+          "index": 249,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.4 一匹叫维塔纳的马",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-250",
+          "index": 250,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "现在回到那匹马。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-251",
+          "index": 251,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "合并通过八天后，李在镕再次单独面见朴槿惠。据他后来向幕僚转述，这次会面挨了训斥，因为马术支援迟迟没有动静：“我算知道了，人们说总统生气时眼里射激光，是什么意思。”",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-252",
+          "index": 252,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个多月后，未来战略室的高管飞到法兰克福，与一家前一天才在德国注册的公司签下 1,860 万美元的马术训练合同。公司名叫 Core Sports，实际控制人是总统的闺蜜崔顺实；受训选手名单上只有一个人，崔顺实的女儿郑维罗。这位马术特长生此前在社交网络上留下过一句话，两年后被全体韩国人反复咀嚼：“钱也是实力，怪就怪你们的父母吧。”三星随后为她买下一匹 83 万美元的顶级盘马，名叫维塔纳 V。加上此前对两个财团的出资，检方后来认定的输送总额是承诺 433 亿韩元、实付约 298 亿。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-253",
+          "index": 253,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2016 年 10 月 24 日，JTBC 电视台播出独家报道：崔顺实丢弃的平板电脑里存着 44 份总统演讲稿，接收时间全部早于总统公开发表。一个无公职的灵媒之女批改国政文件，举国哗然。光化门的烛光集会最高峰一夜聚集了 42 万人。11 月 8 日，检察官抬着纸箱走进江南的三星总部。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-254",
+          "index": 254,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "12 月 6 日，九大财阀总帅并排坐进国会听证席，直播镜头对准了李在镕。十三个小时里，他被十八名议员问了 436 个问题。他当场承诺解散未来战略室，宣布三星退出全经联，还说了一句日后被反复引用的话：“如果有比我更优秀的人，随时可以交出经营权。”面对关键问题，他的标准答案是“我不知道”“我不记得”，直播画面下方滚动着观众发来的短信：“李在镕好像有记忆障碍，也许该换个更有能力的人坐他的位置？”",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-255",
+          "index": 255,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那个秋天对三星是双重灾难。就在国政丑闻引爆前两个月，Galaxy Note 7 手机接连自燃，250 万台全球召回，换新机在美国西南航空的客舱里再度冒烟，最终整个机型永久停产，直接损失约 61 亿美元。内部复盘时，多名高管对记者盖恩说，最后拍板弃机的电话来自李在镕，“家族一开口，没人敢质疑”。王朝的危机与产品的危机在同一个季度共振，这家公司的两套操作系统，市场的和王朝的，同时死机。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-256",
+          "index": 256,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2017 年 1 月 19 日，法院驳回特检的第一次逮捕申请。2 月 17 日凌晨五点半，第二次申请获准。53 岁的三星实际掌门人被押进首尔看守所的单人牢房：6.5 平方米，地板上一张床垫，没有淋浴，房间里唯一的电器是一台电视机，商标是 LG。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-257",
+          "index": 257,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十一天后，运转了五十八年的秘书室系统，以“未来战略室”的最终形态宣告解散。一位新任 CEO 对彭博商业周刊描述那种失重感：“这是全新的体验，我们必须自己做决定。”有员工的比喻更直接：帝国突然像一只没了头的章鱼。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-258",
+          "index": 258,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.5 钟摆上的审判",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-259",
+          "index": 259,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2017 年 8 月 25 日，一审宣判。法官宣读了二十分钟：被告虽未就合并“具体议程”与总统做明示交易，但对“不正当好处”存在默示的认知与同意；判处有期徒刑五年。旁听席一片倒吸气，五年意味着不得缓刑，李健熙当年走过的“缓刑加特赦”老路被堵死了。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-260",
+          "index": 260,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "庭审留下两个注脚。一是李在镕陈述时的口误：“李会长在世的时候……”话一出口全庭哄笑，他涨红脸改口“李会长身体健康的时候”，场外的“会长已死”阴谋论狂欢了一整周。二是老臣崔志成的护主陈词：“李在镕不是集团的最终决策权威。捐款是我个人批准的。要追究三星的责任，请怪我。我年纪大了，判断力衰退。”这位从贫寒公务员家庭一路做到集团二号人物的老人，把“排队替会长坐牢”的传统演到了最后一幕。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-261",
+          "index": 261,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2018 年 2 月 5 日，二审改判：认定贿赂金额从 89 亿韩元缩水到 36 亿，马匹因“所有权未转移”不算行贿，李在镕的角色被定性为“对政治权力的被动顺从”，刑期改为两年六个月、缓刑四年，当庭释放。他在看守所里住了 353 天。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-262",
+          "index": 262,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "走出法院，他的车没有回办公室，直接开往三星首尔医院。他为继承父亲的帝国坐了一年牢，出狱第一件事，是去看那个卧床第四年、已经没有知觉的父亲。父亲对这一切，自始至终没能说一个字。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-263",
+          "index": 263,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三代的这场劫难并不是孤例。往前推六十年，是一条几乎笔直的线。1961 年，李秉喆用银行股份向枪杆子买平安；2015 年，李在镕的合并需要国民年金的赞成票，而年金的钥匙在青瓦台手里。六十年间，将军换成了民选总统，配额换成了表决权，根子没有动过：企业大到成为国家的一部分，它的家事就不再是家事。当一家公司的继承需要国民年金投票时，家事就成了国事；而国事的定价方式里，包含了牢狱之灾。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-264",
+          "index": 264,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "二审之后，检方上诉。所有人都以为剧终的这出戏，2019 年 8 月 29 日被大法院全员合议庭重新拉开大幕：十三名大法官裁定，三星送出的马一共三匹，每一匹都是贿赂。案件发回重审。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-265",
+          "index": 265,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那匹叫维塔纳 V 的马，此刻还在德国的马厩里。它对自己在东北亚宪政史上的地位一无所知。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-266",
+          "index": 266,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第八章 12 万亿的告别",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-267",
+          "index": 267,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.1 一个数字",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-268",
+          "index": 268,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2021 年 4 月 28 日，三星以遗属名义发布公告，向社会交代已故会长李健熙的身后事。公告里最响的是一个数字：遗产税，超过 12 万亿韩元，约合 107 亿美元。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-269",
+          "index": 269,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个数字相当于韩国政府上一年遗产税总收入的三到四倍。1987 年李秉喆去世时，遗属缴纳的遗产税是 176 亿韩元；三十三年后，同一个家族为同一张王座缴的税，是上一次的 680 倍。世界税务史上，没有一个家族一次性缴过这么多遗产税。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-270",
+          "index": 270,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公告选在缴纳申报截止日前两天发布。此前半年，全韩国都在围观这道算术题：李健熙留下约 26 万亿韩元遗产，其中三星电子、三星生命、三星物产等股票按税法评估 18.96 万亿，加上汉南洞宅邸、龙仁土地和两万多件艺术收藏。按最高税率加大股东溢价，税单注定是天文数字。躲避的路径在理论上存在：设离岸架构、把资产提前挪进公益财团、压低评估。四十年代到九十年代的三星，对这类技术并不陌生。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-electronics",
+            "company:samsung-cnt",
+            "company:samsung-life"
+          ]
+        },
+        {
+          "id": "samsung-p-271",
+          "index": 271,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这一次，家族选择把税单全额认下，分五年六期缴清。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-272",
+          "index": 272,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.2 再入狱与三个承诺",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-273",
+          "index": 273,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "时间需要倒回一年。2019 年 8 月，大法院把李在镕的行贿案发回重审，那三匹马全部被认定为贿赂。负责重审的法官郑准荣在庭上提示了一句：若企业建立起有实效的合规机制，可作量刑参考。三星闻弦歌而知雅意，2020 年 2 月成立“准法监视委员会”，请前大法官金志炯执掌，七名委员过半来自外部，章程写明可以调查包括总帅在内的任何人。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-274",
+          "index": 274,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "委员会成立后开出的第一张处方，就是要求李在镕就继承问题向国民道歉。于是有了序章里那一幕：2020 年 5 月 6 日的鞠躬，和“不会把经营权传给子女”的承诺。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-275",
+          "index": 275,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "怀疑者当场就指出了时间的巧合：量刑在即，道歉难免有表演成分。这层怀疑有一半在八个月后被法庭证实：2021 年 1 月 18 日，重审法院宣布准法委的努力“尚不足以作为减刑事由”，判处李在镕两年六个月实刑，当庭收监。判决书的措辞比一审更重：迎合总统索贿、为继承做默示请托、挪用 86.8 亿公司资金、用虚假合同掩盖、在国会作伪证。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-276",
+          "index": 276,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但另一半怀疑，被时间慢慢磨掉了。那场道歉里的承诺，此后六年被一条条兑现：无工会经营的历史真的终结了，继承的灰色工程真的没有再出现，而“不传子女”四个字，到本文写作的 2026 年仍被韩国社会当作既成约束反复引用。一个为司法减刑而生的承诺，最终活得比司法程序更长。动机是算计还是真心，在结果面前渐渐变成一个次要问题。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-277",
+          "index": 277,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2021 年 8 月 13 日，服满刑期六成的李在镕获光复节假释；2022 年 8 月，尹锡悦政府以“克服国家经济危机”为由对他特别赦免、恢复公权。同年 10 月 27 日，他就任三星电子会长，距父亲病倒八年半，距他进入三星三十一年。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-278",
+          "index": 278,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.3 美术馆与医院",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-279",
+          "index": 279,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李健熙 2020 年 10 月 25 日去世，享年 78 岁。彭博社的讣闻给了他一句准确的墓志铭：他把一家模仿起家的家电厂，改造成了全球最大的智能手机、电视和存储芯片制造商。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-280",
+          "index": 280,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "半年后的遗产处理方案，成了他留给韩国的最后一件作品，尽管执笔的是他的家人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-281",
+          "index": 281,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两万三千件艺术收藏整体捐出：两万一千余件古美术进了国立中央博物馆，其中包括谦斋郑敾的《仁王霁色图》等六十件国宝级文物；一千四百八十八件近现代作品进了国立现代美术馆，清单上有金焕基、李仲燮、朴寿根，也有莫奈的《睡莲池》、夏加尔和毕加索。韩国的国立美术馆序列，一夜之间补齐了半部近现代美术史。此外还有一万亿韩元捐给医疗：七千亿用于传染病应对，含五千亿新建韩国第一家传染病专门医院；三千亿资助儿童癌症与罕见病，十年内惠及数万名患儿。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-282",
+          "index": 282,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "熟悉这个家族档案的人，读得出这份捐赠清单里的一句潜台词。2008 年特检风暴中，李健熙曾承诺把查出的借名财产“用于有益之事”，此后十三年没有下文。2021 年的一万亿医疗捐赠，被韩国媒体普遍解读为那张旧支票的迟到兑付。父亲开的空头支票，由儿子落地承兑，这既是还愿，也是切割：新时代的三星，要用旧时代欠下的账起誓。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-283",
+          "index": 283,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "股票的分配同样藏着设计。三星生命的股份没有按法定比例分，而是三个子女按三比二比一切分：李在镕独得一半，李富真三分之一、李叙显六分之一，母亲洪罗喜分文未取。生命是控制三星电子的枢纽，这个分法等于全家联署了一份声明：支配权归长子，无异议。洪罗喜则按法定比例受让电子股票，以 2.30% 成为三星电子最大个人股东，给儿子的控制权又加了一道家族保险。",
+          "related_node_ids": [
+            "person:hong-ra-hee",
+            "person:lee-jae-yong",
+            "person:lee-boo-jin",
+            "company:samsung-electronics",
+            "company:samsung-life"
+          ]
+        },
+        {
+          "id": "samsung-p-284",
+          "index": 284,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族的三位女性在这场告别里各就各位。洪罗喜捐出丈夫毕生的收藏后，2025 年以名誉馆长身份回到 Leeum 美术馆；李富真继续执掌新罗酒店，2026 年 3 月六度连任 CEO；李叙显 2024 年 3 月重返三星物产，出任战略企划社长。没有人再触碰电子的经营权，但也没有人离场。",
+          "related_node_ids": [
+            "person:hong-ra-hee",
+            "person:lee-boo-jin",
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-285",
+          "index": 285,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然后是长达五年的缴税工程。母女三人先后卖出约 10 万亿韩元的股票：2021 年洪罗喜信托出售电子股近 2 万亿，2024 年 1 月三母女减持 2.8 万亿，2025 年 10 月再卖 1.84 万亿，2026 年 4 月洪罗喜卖出最后一笔 3.1 万亿，税款缴清。李在镕全程一股三星电子都没卖，靠分红和股票质押贷款筹钱；缴税期间他对三星物产的持股反而从 17.48% 升到 20% 以上，2025 年 11 月，母亲把手中最后 1% 的物产股份赠给他，把他的控制支点推过 20% 的安全线。",
+          "related_node_ids": [
+            "person:hong-ra-hee",
+            "person:lee-jae-yong",
+            "company:samsung-electronics",
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-286",
+          "index": 286,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第六章留下的那笔账，可以在这里结算了。第一次继承走地道，省下的税钱换来二十年司法纠缠、两代人的刑事记录和整个社会的不信任；第二次继承走阳光下的路，用 12 万亿真金白银、两万三千件艺术品和一份放弃世袭的承诺，赎回一个家族的正当性。第二次继承，处处都是对第一次继承的赎罪。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-287",
+          "index": 287,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.4 十年长跑的终点",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-288",
+          "index": 288,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "刑事司法对这个家族的纠缠，还剩最后一案：2015 年那场合并本身。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-289",
+          "index": 289,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2020 年 9 月 1 日，首尔中央地检起诉李在镕等 11 人，指控合并与三星生物制剂 4.5 万亿会计处理构成资本市场犯罪。起诉的姿态本身就有争议：大检察厅的搜查审议委员会此前以 10 比 3 表决建议不起诉，检方八次遵从该委建议的先例，在三星案上第一次被打破。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-290",
+          "index": 290,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此后是马拉松。一审开庭 107 次，传唤证人 80 余名，李在镕本人到庭 100 余次，几乎每周三从会议室走进法庭。2024 年 2 月 5 日，一审对全部 19 项指控宣告无罪；2025 年 2 月 3 日，二审维持；2025 年 7 月 17 日，大法院终审驳回检方上诉，无罪确定。宣判那天，恰好是合并股东大会的十周年。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-291",
+          "index": 291,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四天后，当年主导起诉、时任金融监督院长的李福铉公开表态：“作为负责提起公诉的人，向国民道歉。”从 2016 年 11 月检方第一次踏进三星总部算起，李在镕的司法纠缠持续了八年零八个月，包括两次收监共约 560 天监禁、一次假释、一次特赦，和最终的全案无罪。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-292",
+          "index": 292,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场长跑没有赢家，但有一份意外的遗产：它逼着三星在没有“控制塔”、总帅频繁缺席的状态下运转了八年，职业经理人第一次长时间自己做决定。王朝体制在受审，也在受训。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-293",
+          "index": 293,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.5 谷底与王座",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-294",
+          "index": 294,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "体制受训的成绩单，市场很快送来，先是一张不及格的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-295",
+          "index": 295,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2023 年，三星半导体部门巨亏 14.9 万亿韩元，创历史最差；在人工智能时代最关键的高带宽存储器 HBM 上，三星把先机丢给了老对手 SK 海力士，向英伟达供货的资格考了 18 个月没考过。2024 年 10 月，半导体掌门人全永铉破例发表公开道歉信，向股东和员工承认“技术竞争力受到质疑”。11 月 14 日，股价跌到 49,900 韩元，四年半最低，当年外资净卖出超过 10 万亿韩元。“三星危机论”占领了韩国报纸的头版，矛头指向缺席登记董事会的会长本人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-296",
+          "index": 296,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然后是反转。2025 年 7 月 28 日，特斯拉宣布把 165 亿美元的 AI 芯片代工订单交给三星得州工厂，马斯克确认李在镕亲自参与了谈判，这单生意占三星上年营收的 7.6%。9 月，HBM3E 十二层产品终于通过英伟达认证；2026 年 1 月，下一代 HBM4 又通过认证，2 月正式供货，5 月全球首发更高规格的样品，把落后 18 个月的赛程反超了半年。2026 年第一季度，三星电子单季营业利润 57.2 万亿韩元，创历史纪录；6 月 12 日，股价冲上 322,500 韩元，市值突破 2,000 万亿韩元。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-297",
+          "index": 297,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王座失而复得的同月，警钟再度敲响：6 月 22 日，SK 海力士的普通股市值反超三星电子，二十五年七个月以来第一次把三星挤下韩国股市头把交椅。曾经“一个人的危机论”如今成了整个市场的常识：没有永远的第一。李健熙 1993 年在法兰克福嘶吼的那句“我们正站在悬崖边上”，三十三年后不再需要会长来喊，股价每天替他喊。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-298",
+          "index": 298,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "治理层面的悬念同样没有落幕。李在镕至今仍是四大财阀总帅中唯一未进入董事会的会长，2026 年 3 月的股东大会依然没有他的选任议案；解散九年的“控制塔”以“事业支援室”的名义部分复活，韩国媒体立刻认出了那个熟悉的轮廓，从 1959 年的秘书室算起，这是它的第六个名字。悬在头顶的还有国会里的保险业法修正案，一旦通过，三星生命将被迫抛售所持三星电子股票，家族控制链最粗的一环会被法律拆开。",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics",
+            "company:samsung-life"
+          ]
+        },
+        {
+          "id": "samsung-p-299",
+          "index": 299,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.6 少尉李智浩",
+          "related_node_ids": [
+            "person:lee-ji-ho"
+          ]
+        },
+        {
+          "id": "samsung-p-300",
+          "index": 300,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2025 年 9 月 15 日，25 岁的李智浩放弃美国国籍，进入韩国海军军官候补生学校；12 月 1 日，他被授予少尉军衔，服役期 39 个月。韩国兵役对财阀之家从来是最敏感的试纸，而他选了周期最长的军官役。他的妹妹李元珠在芝加哥大学读书。按照父亲 2020 年的承诺，他们都不会执掌三星。",
+          "related_node_ids": [
+            "person:lee-ji-ho"
+          ]
+        },
+        {
+          "id": "samsung-p-301",
+          "index": 301,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个不再继承经营权的继承人，为什么还要放弃美国籍去服三年多的兵役？没有人采访到答案。可以确认的只是姿态本身：股票会传下去，责任的样子也要传下去，哪怕王冠不传了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-302",
+          "index": 302,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写作本文的 2026 年 7 月，“后世袭时代”的三星还只有一张空白设计图。所有权与经营权分离，这是英美家族企业百年前走过的路：福特家族早已不出 CEO，却靠 B 类股和董事会席位守着方向盘。李家会走向韩国版的福特，还是把 20.82% 的三星物产变成某种基金会，或者第四代长大后旧事重提？三条路都开着，三条路都没人走过。",
+          "related_node_ids": [
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-303",
+          "index": 303,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族用八十八年证明了自己擅长回答“如何得到”和“如何守住”。摆在最后的问题，是他们从未答过的：“如何放手”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-304",
+          "index": 304,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第九章 王朝的四根柱子",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-305",
+          "index": 305,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "前面八章顺着时间，讲完了八十八年的故事。这一章换个角度，看撑起这个王朝的四根柱子：治理、传承、教育、关系。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-306",
+          "index": 306,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.1 百分之一的统治术",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-307",
+          "index": 307,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "先看一组 2013 年底的数字。李氏家族持有爱宝乐园 46.04%；爱宝乐园持有三星生命 19.34%；三星生命持有三星电子 7.53%；三星电子再持有三星 SDI、三星电机等二十四家公司的大宗股份。沿着这条链条把持股比例逐层相乘，家族对三星电子这家全球巨头的真实出资，折算下来只有百分之一二；而他们行使的表决权，加总关联方后约有 20%，外加对全部人事权的垄断。",
+          "related_node_ids": [
+            "company:samsung-electronics",
+            "company:samsung-everland",
+            "company:samsung-life"
+          ]
+        },
+        {
+          "id": "samsung-p-308",
+          "index": 308,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公司治理学者给这种结构起过一个术语：楔子。用一枚小小的现金流权楔子，撬动几十倍于己的控制权。三星把楔子钉进了环形里，我们在第六章看过它的司法代价，这里要补上另一半账：它在经营层面创造过什么。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-309",
+          "index": 309,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "答案要回到那个“三角编队”。李健熙就任之初说过一段话，把权力结构讲得明明白白：“前任会长掌握 80% 的经营权，秘书室 10%，各子公司社长 10%。以后要改：会长和秘书室合计 60%，各子公司社长 40%。”翻译一下：会长管方向和人事，秘书室管协调和监察，日常经营放给职业经理人。这不同于教科书里的集权，也不同于放权，而是一种精确的分层：把“何时把公司押上赌桌”这类决策留给不用向任何人述职的家族，把“怎么把良率提高一个点”这类决策交给最专业的人。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-310",
+          "index": 310,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "于是出现了三星的招牌景观：尹钟龙、陈大济、黄昌圭、崔志成，一代代平民出身的职业经理人手握万亿预算，四十多岁执掌全球级事业部，风光不输任何跨国公司 CEO；而六个月建成器兴工厂、萧条期逆势加倍投资这类违反财务常识的豪赌，又只有家族拍得了板。速度与专业，两样都要，靠的就是这个分层。写《三星之道》的两位教授把它列为三星悖论经营的第一条。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-311",
+          "index": 311,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但这套统治术有一个先天的暗伤：它在法律上不存在。“三星集团”没有法人资格，秘书室和未来战略室在任何公司的组织架构图上都查无此部，会长本人长期不进任何一家上市公司的董事会。权力的实际中枢全部悬在公司法之外，这意味着它高效，也意味着它无法被问责，出事时甚至找不到一个可以承担法律责任的职位。李在镕以“未登记董事”身份行使会长权力至今，批评者一语中的：权力无限，责任无址。每隔十年，这套体外循环就会与司法体系迎头相撞一次，1966、1995、2008、2017，像潮汐一样准。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-312",
+          "index": 312,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这里能借鉴的经验，得两面看。家族以小持股控制大企业，本身无可厚非，问题在工具的合法性。福特家族用写进招股书的 B 类股做楔子，瓦伦堡家族用基金会做楔子，都摊在阳光下，接受折价，换来百年安稳。三星的教训在于：当制度不提供合法楔子时，自制的楔子迟早变成插在自己身上的刀。给今天的创业家族一句话：控制权结构宁可贵一点、透明一点，也不要便宜、见不得光。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-313",
+          "index": 313,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.2 病房里的两次立储",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-314",
+          "index": 314,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二根柱子从两间病房看起。1976 年 9 月，东京，李秉喆在胃癌手术前召集家人，指定第三子接班；2014 年 5 月之后，首尔，李健熙在病床上沉默六年半，他的儿子在病房外完成合并、受审、入狱、道歉、继位的全部流程。三星两次权力交接的实质环节，都发生在病房的阴影里。这个巧合提示了家族传承的第一条铁律：交接的时点从来不由计划决定，由死亡的日程表决定。所有从容的传承，都是提前很多年向死亡预支的从容。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-315",
+          "index": 315,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆的从容预支了十一年，他的传承设计可以拆成三件套。第一件是择贤：打破长幼序列，在儿子里选人，第三章已算过这笔账的两面。第二件是超长学徒制：储君定了名分，却要再熬十一年才登基，李在镕更是入社三十一年才当上会长，韩国财阀的太子们全世界最“命苦”，四五十岁还在做“副会长”。第三件最有韩国特色：分家排气阀。落选的子女并非净身出户：一人分走一个产业集团，长子系得了 CJ，次子系得了新韩，长女得了韩松，五女得了新世界，姻亲洪家后来分走中央日报。主干企业因此免于分割，五个卫星集团各自上路，今天的 CJ 与新世界都是行业巨头。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-jae-yong",
+            "tool:branch-spinoff-settlement"
+          ]
+        },
+        {
+          "id": "samsung-p-316",
+          "index": 316,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "单看设计，这套三件套近乎完美：主干不散，庶支有产，贤者当政。可是 2012 年那场 4.08 万亿韩元的诉讼把它的暗缝撕开了。李孟熙们要的显然不只是钱，起诉状背后是一句憋了四十年的话：凭什么？分家给了资产，没给名分；给了退路，没给体面。李秉喆用“孟熙完全不是我儿子”这样的话做切割，李健熙用“连我的脸都不敢正眼看的人”回敬兄长，两代人都把决绝当成了治理工具。对照 LG 家族看得更清楚：具氏与许氏两姓合伙五十七年，2005 年和平分家，被韩国媒体称为“漂亮的分手”；同一个国家，同一部税法，分家可以不结仇。区别不在钱怎么分，在话怎么说、礼怎么行。传承设计的最后一公里，是让落选者输得有尊严。这一步做不到，几十年后一家人连一张饭桌都坐不到一起。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-maeng-hee",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-317",
+          "index": 317,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三代的答卷则干脆改了题目。李在镕的“不传经营权”，把延续了两代的问题“传给谁”换成了新问题“传什么”。所有权照传，股票是私产，谁也拿不走；经营权断流，交给职业经理人和董事会。这条所有权与经营权分离的路，欧美家族企业走了上百年，韩国财阀里三星第一个公开起誓。誓言能否兑现要等二十年后验收，但题目本身换了，就是财阀史的分水岭。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-318",
+          "index": 318,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.3 十一岁的船票",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-319",
+          "index": 319,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三根柱子从 1953 年的一张船票看起。战火未熄的釜山，11 岁的李健熙被父亲送上去日本的船，只带一句叮嘱：“去看看先进国家。”",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-320",
+          "index": 320,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三代人的教育履历，连起来就是一份家族课程表。李秉喆本人：乡间书塾的《论语》，然后早稻田。李健熙：东京三年孤独期，一千三百部电影，拆解机器，回国后练摔跤，然后早稻田，然后华盛顿。李在镕：首尔大学东洋史学系，然后庆应，然后哈佛。第三代选专业时，祖父的指示原话流传了下来：“要当经营者，先要广泛理解人与社会的本质。本科学历史，经营学以后再学。”",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-kun-hee",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-321",
+          "index": 321,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这张课程表里藏着四条设计原则。其一，去先进国浸泡，而且专挑那个殖民过自己的国家：把屈辱变成参照系，“知彼”知到骨头里。其二，人文先行，经营学后置：三代人的第一专业分别是儒学、经济与历史，没有一个是工商管理，这个家族相信经营的根基是理解人，而理解人没有速成班。其三，器物训练：拆一千台机器，看一千部电影，父亲手书的“倾听”二字挂在墙上，这些都不是知识，是感受力的体操。其四，也是最独特的一条：失败学费制。李健熙 32 岁用私房钱买半导体公司，赌赢了，成为帝国的种子；李在镕 32 岁用种子资金办 e-三星，赌输了，由体系接盘埋单。家族允许继承人下注，这是最贵也最有效的商学院；但输了有人兜底这一条，让教育与道德风险成了一体两面。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-322",
+          "index": 322,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "横向一对照，这套教育跟别人家的根本是两种东西。洛克菲勒家族的传家课程是零用钱账本，一分钱的来路去向都要记录，教的是对金钱的敬畏；三星的传家课程是“倾听”与“木鸡”，列席会议二十一年，教的是对权力的驾驭。一个训练财产的主人，一个训练帝国的君主。这与两个家族的处境严丝合缝：洛克菲勒第二代要做的是守财与行善，三星的每一代都要重新打一次天下。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-323",
+          "index": 323,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "必须坦率写下这套帝王学的命门：它无法保证天分。李健熙恰好是个天才，于是二十一年学徒期被追认为神话；假如坐在那间书房里的是个平庸的儿子，同一套制度会以同样的效率放大平庸，而且没有任何纠错机制，这套体制里不存在罢免会长的程序。这个道理，李在镕比谁都清楚。2016 年他在国会说：“若有比我更优秀的人，随时可以交出经营权。”四年后，这句话变成了“不传子女”的誓言。帝王学的最后一课，就是承认它说到底还得靠运气。",
+          "related_node_ids": [
+            "person:lee-kun-hee",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-324",
+          "index": 324,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "9.4 分开举行的祭祀",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-325",
+          "index": 325,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四根柱子从一炷香看起。每年 11 月 19 日李秉喆的忌日，2012 年起要办两场祭祀：CJ 家的长孙李在贤在自宅设灵位，以宗家嫡孙的名分行祭；三星家在李秉喆故居改建的迎宾馆承志园另设一场。一个父亲，两处香火，同一个时辰。儒教家族最重的仪式，成了裂痕最直观的展品。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-326",
+          "index": 326,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族内部关系的总账，前面各章已经分头记过：废长立幼的长尾拖了四十六年，从 1966 年的代管，到 2012 年的对簿公堂，到 2015 年李孟熙在北京离世后，李在镕去灵堂鞠躬，韩国媒体感慨“数十年来家族第一次聚齐”，聚齐的场合是葬礼。女儿们的故事同样入账：长女李仁熙精明强干，父亲那句“她若是儿子，我还有什么可愁的”是夸奖，也是判决，她终究只分到造纸；幼女李尹馨 2005 年在纽约身亡，家族第一时间对外通报“车祸”，被美国媒体追问后才承认是自杀。连女儿的死讯都要先过公关，这个细节里藏着财阀家族最深的悲哀：家已经是机构，机构没有隐私，也就没有单纯的悲伤。",
+          "related_node_ids": [
+            "person:lee-maeng-hee",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-327",
+          "index": 327,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "婚姻这本账，两代之间划出一道有意思的弧线。第一代八个子女的婚事张张都是社会资本的存单：法务部长官家、LG 家、东亚日报家、三护纺织家。到第三代，李富真嫁给了集团内一名普通职员，“平民驸马”的童话被举国传颂；十五年后童话以离婚诉讼收场，法院判给前驸马 141 亿韩元，不到她身家的百分之一。财阀的婚姻从联盟工具走向个人选择，只用了两代人；但个人选择在王朝结构里依然要以王朝的方式结算。",
+          "related_node_ids": [
+            "person:lee-boo-jin"
+          ]
+        },
+        {
+          "id": "samsung-p-328",
+          "index": 328,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族与国家的关系，全书已反复出现，这里把节点排成一列：1961 年交出银行股份，1966 年献厂救子，1980 年被夺走电视台，1996 年因政治献金被判缓刑、次年特赦，2008 年辞任、次年单独特赦，2017 年入狱、2022 年特赦。五十年六个来回，节奏稳定得像潮汐表。李秉喆那句“不要太远，也不要太近”是家训，更是无法兑现的愿望：当企业的营收相当于国家经济的一成时，距离已经没得选了。国民年金坐在你的股东名册上，总统的手伸进你的继承日程，检察官的传票追着你的董事会，反过来，你的芯片厂也绑架着这个国家的就业、出口和股指。首尔大学经济学教授朴尚仁做过压力测试：三星电子股价若暴跌七成，连锁反应将把韩国失业率从 3.5% 推到 7.1%。这种深度捆绑没有单方面的受益者，只有互相的人质。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-329",
+          "index": 329,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "事业报国是这个家族给自己写的第一行字，八十八年后看，它更像一张国家开给家族的无限连带保证书：企业报效国家，国家也随时可以凭这张纸，向家族追索一切。烛光集会上要求逮捕李在镕的市民，和挥着太极旗喊“不喜欢三星就去朝鲜”的老人，其实在争同一件事：这个国家到底是拥有一家企业，还是被一家企业拥有。这道题三星答不了，韩国到今天也没答完。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-330",
+          "index": 330,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四根柱子看完，可以回答序章埋下的那个问题了：为什么按下王朝停止键的是这个家族自己？因为四根柱子每一根的账本上，收益都在递减，代价都在递增。百分之一的统治术撞了四次司法，病房立储的排气阀漏了气，帝王学教出的继承人认清了帝王学的运气，而国家开的那张保证书，越来越频繁地上门追索。李在镕 2020 年的鞠躬，与其说是觉悟，不如说是结账：他是这个体系里看账本看得最清楚的人。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-331",
+          "index": 331,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "结语 承志园的灯",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-332",
+          "index": 332,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "首尔汉南洞的山坡上有一座韩式庭院，叫承志园。它由李秉喆的故居改建，如今是三星的迎宾馆，家族的重要仪典多在这里举行。承志两个字，取的是“承父之志”。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-333",
+          "index": 333,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这部家族史讲到最后，其实就是三代人对这两个字的三种译法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-334",
+          "index": 334,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆承的是一个亡国之民的志。他生在国土被吞并的年份，在殖民地的轻蔑里学会做生意，把“强国之业即我必行之路”刻在墙上。事业报国四个字在他不是修辞：一个连国家都没有的商人，只能先替未来的国家攒下工业。他留下的两样东西，比所有工厂都耐久，一是“人才第一”的执念，二是那场以 73 岁高龄押下的半导体赌局。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-335",
+          "index": 335,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李健熙承的是父亲的未竟之局。他接过的三星是韩国的一流企业、世界的二流工厂，他用法兰克福的 350 个小时、龟尾广场的一把火和三十年的“永久危机”，把它锻成了这个星球上最大的电子帝国。他同时也承下了父亲的另一份遗产：与政权的百年契约，和用灰色工程守卫控制权的路径。他的功与罪由同一套体制铸成，法庭两次确认了这一点，市场也两次确认了这一点。",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-336",
+          "index": 336,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李在镕承的东西最重，也最难命名。他 23 岁入社，27 岁拿到父亲的种子资金，从此被装进一条为他铺好的管道，管道的每一节都通向王座，也通向法庭。他在单人牢房里住过约 560 天，在法庭上坐过 100 多次，付过 12 万亿的税单，然后做了一件祖父和父亲都不会做的事：宣布这条管道到他为止。",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-337",
+          "index": 337,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写作本文的 2026 年 7 月，故事的最新一页是这样的：遗产税已在三个月前缴清，母亲把最后 1% 的三星物产股份赠给了他；三星电子的市值刚被 SK 海力士短暂反超，又在人工智能的浪潮里创下历史最好的季度利润；解散九年的控制塔换了第六个名字复活；他的儿子在海军舰队里做少尉，不会继承三星。",
+          "related_node_ids": [
+            "company:samsung-electronics",
+            "company:samsung-cnt"
+          ]
+        },
+        {
+          "id": "samsung-p-338",
+          "index": 338,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到序章的那两个瞬间。1938 年，28 岁的李秉喆在大邱挂出三星商会的招牌，许愿这三颗星“大、多、强，如星辰般永恒”。2020 年，他的孙子鞠躬宣布王朝终结。八十二年间，大做到了，强做到了，只有“永恒”这一项，第三代交出的答卷与第一代的想象完全不同。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-339",
+          "index": 339,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆理解的永恒，是家族的手永远握着企业。李在镕给出的答案是：松开一只手，企业才可能活得比家族长。这个答案对不对，要再过二十年才知道；但提出这个答案本身，需要的勇气未必小于 1983 年的东京宣言。祖父赌的是一个产业，孙子赌的是一种告别。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-340",
+          "index": 340,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三星李氏留给所有家族的最后一课，写在承志园的名字里。承志，承的从来不该是王座，是志。王座会把继承人烧穿，志才能把三颗星挂在天上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-341",
+          "index": 341,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夜里，承志园的灯还会亮起来。灯下换了三代人，而灯亮着。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-342",
+          "index": 342,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "思想实验：2020 年 5 月 5 日夜",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-343",
+          "index": 343,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "现在，请你走进这个位置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-344",
+          "index": 344,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你是李在镕，51 岁，三星电子副会长。时间是 2020 年 5 月 5 日深夜，汉南洞的书房。桌上放着两份文件：一份是准法监视委员会的劝告书，要求你就继承问题向国民道歉；另一份是明天下午三点记者会的讲稿，其中有一句话：“我不会把经营权传给我的子女。”",
+          "related_node_ids": [
+            "person:lee-jae-yong",
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-345",
+          "index": 345,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "念出这句话，它就是不可撤回的公共承诺。你的父亲在医院卧床第六年，无法给你任何建议；你的行贿案八个月后宣判，所有人都会说这场道歉是演给法官看的；你的儿子这年二十岁，有他自己的人生要过。窗外是这个家族经营了八十二年的国家。讲稿就摊在灯下，念，还是不念？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-346",
+          "index": 346,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "先别急着回答，把三道题做完。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-347",
+          "index": 347,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一道题关于儿子。他从出生起就被这个国家默认为“三星的第四代”，没有人问过他想不想要，就像 27 岁那年也没有人问过你。明天下午之后，他的人生会被你的一句话改写：他失去了一顶王冠，也卸下了一副枷锁，而这两样东西他都还没来得及看清。今晚你有机会先告诉他。你怎么向一个二十岁的年轻人解释，你替他做的这个决定，既是剥夺，也是解放？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-348",
+          "index": 348,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二道题关于母亲和妹妹。为了把控制权完整传到你手上，这个家族刚刚认下 12 万亿的税单；母亲和两个妹妹将在此后五年卖掉毕生持有的股票替你守住支点。家族账本上，每一分钱都为“传下去”三个字付过代价，包括你大伯父的一生，你二伯父的牢狱，你小姑姑的性命。现在你宣布“传承到我为止”，等于亲口说出：前两代人的一部分牺牲，从此失去了原本的意义。下一次家族聚餐，你怎么迎着她们的目光，把这件事说圆？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-349",
+          "index": 349,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三道题关于制度。你的承诺只有半句：“不传给子女。”另外半句是空的：那传给谁？怎么传？二十年后，如果职业经理人内斗，如果门口来了新的埃利奥特，如果董事会请第四代“回来救场”，你今晚的承诺拿什么自我执行？在讲稿之外，你还来得及写下一份章程、一个信托、一条不可修改的规则。你会写哪一条，让 2045 年的三星既不姓李，又不散架？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-350",
+          "index": 350,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三道题做完，把自己从书房里放出来，回到你自己的家族、你自己的企业。你的组织里，有没有一件“因为是祖训所以不能问”的事？你有没有经历过那种时刻：明知一条路是上一代人用命铺出来的，仍然要亲手把它封上？如果要你为自己的家族起草一份“放手条款”，第一句话，你打算写什么？",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-351",
+          "index": 351,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "历史上的那个人念了。2020 年 5 月 6 日下午三点，他鞠躬，念出了那句话。八个月后他再次入狱；五年后的 2025 年 7 月 17 日，大法院还了他清白，那天恰好是那场合并的十周年；2026 年 4 月，12 万亿税单付讫；他的儿子在海军做少尉，军装口袋里没有三星的股票。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-352",
+          "index": 352,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一句承诺，兑现期是一代人。账，还在历史那里记着。",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-353",
+          "index": 353,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "参考文献",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-354",
+          "index": 354,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李秉喆，《湖岩自传》（호암자전），中央日报社，1986",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "samsung-p-355",
+          "index": 355,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李孟熙，《埋藏的故事》（묻어둔 이야기），青山出版社，1993",
+          "related_node_ids": [
+            "person:lee-maeng-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-356",
+          "index": 356,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "金勇澈，《삼성을 생각한다》（直译《想想三星》），社会评论出版社，2010；繁体中文版《三星內幕：揭開三星第一的真相》，卓惠娟译，大牌出版，2013",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-357",
+          "index": 357,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Geoffrey Cain, “Samsung Rising: The Inside Story of the South Korean Giant That Set Out to Beat Apple and Conquer Tech”, Currency, 2020",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-358",
+          "index": 358,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "宋在镕、李京默，《三星之道》，李永男译，中信出版社，2015",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-359",
+          "index": 359,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Tony Michell, “Samsung Electronics and the Struggle for Leadership of the Electronics Industry”, John Wiley & Sons, 2010",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-360",
+          "index": 360,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Sea-Jin Chang, “Financial Crisis and Transformation of Korean Business Groups: The Rise and Fall of Chaebols”, Cambridge University Press, 2003",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-361",
+          "index": 361,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Bloomberg，李健熙讣闻及三星系列报道，2020.10.25",
+          "related_node_ids": [
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "samsung-p-362",
+          "index": 362,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Reuters，韩国大法院终审驳回检方上诉、李在镕合并案无罪确定，2025.7.17",
+          "related_node_ids": [
+            "person:lee-jae-yong"
+          ]
+        },
+        {
+          "id": "samsung-p-363",
+          "index": 363,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "The Korea Herald, “Samsung family pays record W12tr tax, tightens grip on group”, 2021.4.28",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-364",
+          "index": 364,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "The Art Newspaper，韩国各大博物馆将获三星遗产两万三千件藏品捐赠，2021.4.29",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-365",
+          "index": 365,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三星电子官方新闻室（news.samsung.com），半导体四十年史与新经营宣言档案",
+          "related_node_ids": [
+            "company:samsung-electronics"
+          ]
+        },
+        {
+          "id": "samsung-p-366",
+          "index": 366,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Woochan Kim, Youngjae Lim, Taeyoon Sung, “On the Cash Flow Rights of Korea’s Chaebol”, ECGI Finance Working Paper No. 51/2004",
+          "related_node_ids": []
+        },
+        {
+          "id": "samsung-p-367",
+          "index": 367,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "韩国公正交易委员会（KFTC），大企业集团持股结构年度公示数据（1997-2018 环形出资解消记录）",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "story:lee-kum-kee",
+      "title": "一锅蚝汁熬出的百年家业：李锦记家族的传承之道",
+      "series_no": 36,
+      "source_files": [
+        "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md"
+      ],
+      "related_node_ids": [
+        "family:lee-kum-kee-family",
+        "person:lee-kum-sheung",
+        "person:lee-man-tat",
+        "person:lee-man-lok",
+        "person:lee-siu-nam",
+        "person:lee-wai-hung",
+        "person:lee-wai-sum",
+        "company:lee-kum-kee",
+        "company:infinitus",
+        "event:oyster-sauce-accident-1888",
+        "event:lkk-buyout-1972",
+        "event:lkk-buyout-1986",
+        "event:lkk-family-council-2002",
+        "event:infinitus-crisis-2019",
+        "event:lkk-nonfamily-ceo-2020",
+        "concept:family-constitution",
+        "concept:institutionalized-trust",
+        "concept:non-listing-control",
+        "concept:separation-of-rights",
+        "concept:succession-training",
+        "tool:family-council",
+        "tool:family-constitution",
+        "tool:exit-and-split-protocol",
+        "tool:outside-first-entry-rule",
+        "tool:next-gen-engagement-program",
+        "tool:si-li-ji-ren-motto"
+      ],
+      "toc": [
+        {
+          "id": "lee-kum-kee-p-001",
+          "level": 1,
+          "title": "一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）"
+        },
+        {
+          "id": "lee-kum-kee-p-002",
+          "level": 2,
+          "title": "序章 空着的那把椅子"
+        },
+        {
+          "id": "lee-kum-kee-p-010",
+          "level": 2,
+          "title": "第一章 忘掉的一锅火，熬出的百年味道"
+        },
+        {
+          "id": "lee-kum-kee-p-023",
+          "level": 2,
+          "title": "第二章 两次分家，买不回的亲情"
+        },
+        {
+          "id": "lee-kum-kee-p-040",
+          "level": 2,
+          "title": "第三章 从一瓶蚝油，到一个世界品牌"
+        },
+        {
+          "id": "lee-kum-kee-p-051",
+          "level": 2,
+          "title": "第四章 立一部法"
+        },
+        {
+          "id": "lee-kum-kee-p-071",
+          "level": 2,
+          "title": "第五章 另一门生意，一场价值观考验"
+        },
+        {
+          "id": "lee-kum-kee-p-085",
+          "level": 2,
+          "title": "第六章 千年计划"
+        },
+        {
+          "id": "lee-kum-kee-p-103",
+          "level": 2,
+          "title": "第七章 一个家族，能否靠设计穿越百年"
+        },
+        {
+          "id": "lee-kum-kee-p-105",
+          "level": 3,
+          "title": "7.1 治理：让家族、所有权与经营各归其位"
+        },
+        {
+          "id": "lee-kum-kee-p-114",
+          "level": 3,
+          "title": "7.2 传承：把血缘题改成能力题"
+        },
+        {
+          "id": "lee-kum-kee-p-119",
+          "level": 3,
+          "title": "7.3 教育：从要求改成吸引"
+        },
+        {
+          "id": "lee-kum-kee-p-121",
+          "level": 3,
+          "title": "7.4 关系：守住财富之外的家族价值"
+        },
+        {
+          "id": "lee-kum-kee-p-128",
+          "level": 3,
+          "title": "7.5 他山之石"
+        },
+        {
+          "id": "lee-kum-kee-p-134",
+          "level": 2,
+          "title": "结语 一瓶酱和一部法"
+        },
+        {
+          "id": "lee-kum-kee-p-141",
+          "level": 2,
+          "title": "思想实验"
+        },
+        {
+          "id": "lee-kum-kee-p-147",
+          "level": 2,
+          "title": "参考文献"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "lee-kum-kee-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "序章 空着的那把椅子",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每年有四次，李锦记家族的成员会放下手上所有的事，飞回香港，围着同一张桌子坐下来。会议要开满四天，谁都不许缺席。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个卖蚝油起家、传了五代、身家上千亿港元的家族，却要像开董事会一样开家庭会议，靠一部写在纸上的“宪法”来管自己人。据这个家族的第四代李惠森（Sammy Lee）历年对外介绍，这部宪法里的规矩，外人听来似乎会有点不近人情，比如家族成员想进公司，得先在别人家的企业干满三到五年，应聘和考核跟外人一模一样；进了公司犯了错照样罚，不因为姓李就网开一面；配偶不得参与经营，没有血缘的人不能持股；到六十五岁必须退休；甚至还有一条，不准离婚、不准有婚外情，违反了就退出董事会，只保留股份。",
+          "related_node_ids": [
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个家族要给亲情立法，往往可能是被亲情伤过，伤得不敢再赤手空拳地信它。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1970年代到1980年代，李锦记先后闹过两次分家。头一次在1972年前后，掌门人李文达（Lee Man Tat）站在父亲一边，出钱买断了几位叔伯的股份；第二次在1986年前后，他的亲弟弟李文乐因为公司该不该扩产跟他闹翻，执意退股。李文达抵押了厂房、四处举债，拿出约八千万港元买下弟弟的股份。生意保住了，兄弟却从此不再往来。李文达晚年在一次演讲里说，弟弟因家族业务与他意见分歧，从此不相往来，“我至今十分痛心难过”。那部家族宪法，就是从这两道裂痕里长出来的。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-man-lok",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而李家这门生意，是从一个意外开始的。1888年，广东珠海南水，一个叫李锦裳（Lee Kum Sheung）的年轻人煮蚝，忘了看火，把一锅蚝汁熬成了浓稠发亮的酱，反倒熬出了蚝油。一百三十多年后，李锦记的蚝油卖到一百多个国家和地区，光在香港，市占就超过七成。同时家族又在保健品上开出第二摊生意，巅峰时的体量一度可以跟酱料主业比肩。李文达2021年以九十一岁去世时，福布斯给他算的身家是一百七十多亿美元。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "发家致富的故事到处都有，这个家族真正难的是另一件事：凭什么能不散。研究华人家族企业的香港学者范博宏（Joseph Fan）算过一笔账：两百五十家港台和新加坡的上市家族企业，在创始人交棒前后那几年里，市值平均蒸发了近六成。“富不过三代”在华人世界几乎是条铁律。而李锦记传到了第五代，越来越凝聚，靠的是什么？",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "故事，要从那锅熬过了头的蚝汁讲起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第一章 忘掉的一锅火，熬出的百年味道",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1888年，广东珠江南水，一个叫李锦裳的年轻人在灶前煮蚝。",
+          "related_node_ids": [
+            "person:lee-kum-sheung"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "南水是珠江口的一个小镇，出海不远就是万顷滩涂，退潮时露出一片黑压压的蚝田。镇上人家世代靠蚝吃饭：撬蚝、晒蚝豉、熬蚝汁。李锦裳家里穷，早年丧父，跟着母亲流落到南水，开了间不起眼的小食肆糊口，顺带熬些蚝汁卖给街坊。熬蚝汁是件苦差，要守着灶火慢慢煨，火大了糊，火小了不出味，一锅要看上大半天。一百斤生蚝，熬得出两斤上下的蚝油。",
+          "related_node_ids": [
+            "person:lee-kum-sheung"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这间小食肆留下过一个故事，李文达的父亲后来常讲给儿孙听。来吃饭的多是出海打鱼的人，手头紧，赊账是常事，说好打鱼回来卖了钱再还，可不少账，到年底也没人回来还。每年除夕，李锦裳把这一年收不回的赊账单，一把火烧掉。他说，不能让赊账单，成为下一代的负担。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那一天，李锦裳守着一锅蚝汁，不知被什么事绊住，人走了神，等回过头，锅里的清汤已经收成了浓稠发亮、颜色深褐的一层酱。按理这锅熬过了头的东西该倒掉，他用手指蘸了一点尝，那股又鲜又厚的味道，让他眼前一亮。蚝油就这么来了。",
+          "related_node_ids": [
+            "person:lee-kum-sheung"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个“意外得蚝油”的故事，有多少是实、多少是后人追认的传奇，今天已经分不清。一个失误成就一门生意，这种事在食品史上并不稀奇，但蚝油这样东西，确实是李锦裳先做出来、先卖出去的，先在南水，后来传遍天下。他给自己的招牌取名“李锦记”。锦是他名字里的字，记是南方商号的通用尾缀，广州街头“陈记”“荣记”到处都是。一间海边小店，就这样有了名字。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然而起步并不顺利。据家族的说法，南水那间店后来毁于一场大火，把李锦裳前几年的心血烧了个精光。他没有留在原地重来，而是带着家人往外走，1902年迁到澳门，在那里重开李锦记，继续熬蚝油，也做虾酱。这一步走对了。南水只是个产蚝的小镇，澳门却是转口码头，中葡商船往来，货能装船出海。又过了三十年，1932年，李锦记把生意的重心挪进了香港。从南水到澳门再到香港，一步一步往有海、有码头、有华人商埠的地方挪。一瓶蚝油要卖得远，先得离开滩涂。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这门生意此后很多年都是“慢”的。蚝油是广东人厨房里的东西，一勺提鲜，炒青菜、焖冬菇、拌捞面，用量不大，市场就那么大。它不像盐和米，不是顿顿离不开的东西。李锦裳做出了一样好产品，却没做出一个大生意。他把店传给下一代的时候，李锦记还是一间靠手艺和口碑吃饭的家族作坊，规模有限，声名局限在广东和港澳一带。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "二十世纪上半叶，广东是中国人下南洋、闯金山的大出发地。战乱、饥荒、淘金梦，把成千上万的广东人送到了旧金山、纽约、温哥华、新加坡、吉隆坡。他们在异国开餐馆、摆杂货铺，最想念的是家乡的那口味道。李锦记的蚝油，就跟着这些漂洋过海的广东人一起出了国，钻进了世界各地唐人街的后厨。它没有做过什么广告，靠的是一代代广东人的乡愁和口耳相传。一间中餐馆认准了它，就带出一整条街的生意。到二十世纪中叶，李锦记已经是港澳和海外华埠里叫得响的老字号，可放到整个食品行业里看，它仍旧是一家小公司，一门“华人自己人做给自己人”的生意。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但是慢也有一个好处，它给犯错留了时间。配方几十年不变，老主顾的口味也几十年不改。这门生意的时钟走得慢，慢到足以容下一个家族二十年的内斗、两次买断、一场官司，而招牌不倒、客人不散。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二代守着这份家业，是李锦裳的三个儿子：李兆荣、李兆登、李兆南。三兄弟各管一摊，蚝油照熬，虾酱照做，日子照过，几十年没出过大风浪，也没长成大树。这种“守成”，在那个年代是常态：老一辈打下的底子，够几房人安稳地分着吃，谁也不必冒险，谁也不愿折腾。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "person:lee-siu-nam"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "让这家小公司脱胎换骨的，是第三代里的一个人：李兆南的儿子，李文达。他1929年生在澳门，从小在店里泡大，闻着蚝油味，帮着家里撬蚝、装瓶、跑街。等他上世纪五十年代进入家族生意时，李锦记还是老样子：产品单一，几乎只有蚝油和虾酱；市场局限在华人圈；家里几房人守着一间铺子，账目和话语权都掺在一起。他日后要把这家铺子，做成一门卖到一百多个国家、把味道送上太空的大生意。但在那之前，他得先蹚过这个家族最凶险的一段路。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-siu-nam",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一家人守着一间铺子，三房人、一堆堂兄弟、各自的儿女和媳妇，都盯着同一口锅、同一本账。生意小的时候，僧多粥少，勉强还能维持。生意稍微好一点，这口锅就烫手了。谁出的力多，谁该多分红，谁的儿子有资格接班，这些问题，为日后的冲突埋下了隐患。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第二章 两次分家，买不回的亲情",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达接手时，李锦记是一家挣钱、却长不大的公司。挣钱，因为蚝油有口碑、有海外华人这块稳定的市场，一年到头总有进项。长不大，因为它被几房人分着，谁也不肯冒险，谁也不愿把到手的利润拿出来，投到看不见回报的地方去。守着蚝油这门老生意，对上一辈来说，安稳、体面、够吃，何必折腾。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达是个想折腾的人。他看得出蚝油市场有天花板，调料再好，一勺就够，做不成大生意。要想把李锦记做大，就得多做几样产品，把酱油、海鲜酱一样样铺开。那就得建新厂、扩产能，就得把牌子推到唐人街之外，让不吃广东菜的人也用上。这些主意，在一个求稳的家族里，每一条都是麻烦，每一条都要花钱、担风险、动老规矩。分歧一点点积起来，终于到了非摊牌不可的地步。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一次分家，发生在1972年前后。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "导火索是扩张。李文达要往前冲，几位叔伯不愿意，觉得守着蚝油这门稳当生意就够了，何必举债去赌一个没影的未来。话谈不拢，最后只能以钱了断：李文达和父亲李兆南联手，出钱买断了叔伯们手里的股份，把李锦记的所有权，从几房人分散持有，收拢到自己这一房手里。第二代三兄弟共治的那一页，就此翻了过去。这一年，四十出头的李文达正式成为李锦记的掌门人，手里第一次有了一家可以由自己说了算、放开手脚去干的公司。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-siu-nam",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "买断叔伯，靠的是父子同心。但接下来更难的是和自己的亲弟弟之间的巨大分歧。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达有个弟弟，李文乐。叔伯退出之后，兄弟俩成了公司仅有的两大股东。起初兄弟两人互相配合，合作得还比较好，但两个人的性子上有着本质的不同。李文达的性子是往前冲，想继续扩张、加大投入、把摊子铺得更开，而李文乐则是一心求稳，两个人对公司该往哪走，越来越拧。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-man-lok"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "另外还有一件意外的事件掺杂其中。据媒体记述，李文乐大约在1982年查出鼻咽癌，身体每况愈下。他的太太开始为身后打算：万一丈夫哪天不在了，他名下这大笔股份和家产，会不会没个着落、保不住？与其把身家系在一家由大伯说了算的公司里，不如趁早套现、分家离场，把钱抓在自己手里踏实。一个要进，一个要退，兄弟俩为这件事谈不拢，最后甚至闹上了法庭。",
+          "related_node_ids": [
+            "person:lee-man-lok"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是李锦记历史上最接近散架的一刻。一家公司的两大股东对簿公堂，若真按闹的势头分下去，李锦记很可能就此一分为二，几十年攒下的家业和招牌，就要元气大伤。摆在李文达面前的路，和1972年那次一样，只是这次的对手，是自己的亲弟弟。他还是选了那条最贵、也最痛的路，把弟弟的股份，整个买下来。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1986年前后，为了凑齐这笔钱，李文达抵押了公司在香港黄竹坑的厂房，四处举债，把自己逼到了破产的边缘，最终以约八千万港元，买下弟弟李文乐手中约四成的股权。在那个年代的香港，八千万港元是一笔巨款。钱付出去，股权集中了，生意保住了。但代价远不止那八千万。买断之后，兄弟俩再没有往来。父亲李兆南眼睁睁看着两个儿子形同陌路，1988年，带着这份遗憾去世。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-man-lok",
+            "person:lee-siu-nam"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "多年以后，李文达在一次公开演讲里，很少见地谈起这件事。他说：“我的弟弟因为家族业务与我意见分歧，以致不与我往来，我至今十分痛心难过。”论输赢，李文达赢了，他保住了公司，买回了完整的控制权，此后把李锦记做到了今天的规模。可到了晚年，他记住的不是这场胜利，只记得失去了一个弟弟。所谓“不散”，从来不是没有代价的圆满，而是有人替它，付了很沉重的账。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "关于这场分家，坊间曾流传很广的说法，说李锦记当年曾被“法院责令停业半年”。这个说法只见于辗转的转述，找不到任何一手依据。法院在一桩股东纠纷里，勒令一家还在赚钱的公司停业半年，这种事本身就罕见，多半是传的人加的戏。至于那场官司本身，公开的法院判决找不到，最合理的解释是私下和解了，没走到判决那一步。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "被反复讲述的这段家族史，还有一面从来不曾被提起。被买断股份的那一房，此后从故事里消失了。讲述1986年那场分家的报道，几乎没有一篇追踪过李文乐和他的后代去了哪里、过得怎样，李锦记对外的家族史，也不提这一支。",
+          "related_node_ids": [
+            "person:lee-man-lok",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这两次买断，还藏着一条冷冰冰的曲线。据媒体记述的数字，1972年买断几位叔伯股份，花了约四百六十万港元；1986年买断亲弟弟股份，花了约八千万。十几倍的差价里，不只是物价和公司估值在涨，同时也警示着虽然股权每集中一次，公司就更值钱一分，但下一次冲突的赌注也就更大了。靠买断维系的团结，一次比一次贵，贵到1986年已经要抵押厂房、赌上全部身家。照这条曲线走下去，如果再有第三次类似的冲突，无论发生在谁和谁之间，都可能谁也买不起了。到那一天，摆在这个家族面前的就只剩两条路：散伙，或者在散伙之前，换一种活法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两次分家，两种买断，二十年间，这个原本几房共治的家族，最终只剩一房。如果故事到此为止，李锦记不过又是一个“强人集权、兄弟阋墙”的华人家族样本，跟无数半路散掉、或者惨胜之后元气大伤的家族企业，没什么两样。让它拐上另一条路的，是李文达和他的儿子们，从这两道伤疤里，读出来的不一样的道理。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "道理很朴素，血缘绑不住一家人，再强势的家长，也总有退场、老去、说话不再算数的一天。一个家族要想不再一代接一代地重演分家，靠的不能是又出一个说一不二的强人，得靠一套连家长本人也得遵守、家长不在了也照样管用的规矩。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个念头，在此后二十年里，慢慢长成了那部家族宪法。而在把它变成制度之前，李文达要先做一件更要紧的事：用一场没人看好的豪赌，把这门守成了几十年的蚝油生意，做成一份大到值得立法去守的家业。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第三章 从一瓶蚝油，到一个世界品牌",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "就在两次分家的这二十年里，李文达一边和叔伯、弟弟拿钱了断，一边把一间上下二十来人的华埠蚝油铺，做成了全球调味品行业里绕不开的名字。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1972年尼克松访华，中国送给美国两只大熊猫，全美掀起熊猫热。李文达看准这股热潮，给打进北美市场的一款中价蚝油取名“熊猫牌”，瓶身印一只圆滚滚的熊猫，借一件轰动全美的国礼，替一瓶陌生的褐色酱汁做了最省钱也最有效的背书。他掰过指头算过：普通做工的人，一个月挣十块钱港币，只够买五瓶多蚝油。蚝油再好，贵成这样，做不成大众的生意。为了把价钱压下来，他淘汰了熬蚝油的大黑锅，换成工业化生产。熊猫牌一炮打响，在美国卖开之后，1990年代初李锦记在加州建起工厂，把生产搬到了消费者门口。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个卖蚝油的广东商人，在尼克松访华的当口，想到用一只熊猫去敲美国超市的门。李文达做生意，认准的方向就砸钱进去，别人求稳他偏要扩，别人守着一样产品他偏要往外做。在他手里，李锦记不再只是“一瓶蚝油”。酱油、海鲜酱、辣椒酱、豆豉酱、蒜蓉酱、XO酱，几十年下来，产品线扩到三百多种，从广东人的厨房，铺进了世界一百多个国家和地区的货架。他要让李锦记这三个字，不再只等于蚝油，要等于中国味道。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "老本行蚝油，也在他手里做到了头。据李锦记引述的尼尔森（Nielsen）零售市场数据，李锦记蚝油在香港的市场占有率超过七成，几乎是垄断。据欧睿国际（Euromonitor International）的统计，2007到2012年间，它是全球销量第一的蚝油品牌。“全球最大蚝油生产商”这顶帽子，从此稳稳戴在了它头上。一勺原本只在广东厨房里用的调料，就这样做成了全球生意。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达给这门生意立过一条铁律，只有六个字：一百减一等于零。一件产品但凡有一个环节出了错，前面九十九分的努力，就全部归零。在酱料这一摊，这六个字管得极严：一瓶酱出问题，砸的不只是一瓶酱的钱，是整块百年招牌。据传记记述，有一批销到美国的蚝油被经销商挑了口味上的毛病，李文达把整批货收回来换新，光运费就赔了一大笔。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达甚至把蚝油送上了天。近些年，李锦记和中国航天员科研训练中心合作，酱料随神舟九号（2012年）、十号（2013年）、十一号（2016年）一起飞上太空，成了中国航天员在轨的佐餐；到2023年的神舟十七号，据李锦记官方介绍，为航天员选配的酱料多达十五款，据说还有一款是川味的麻辣。这类事对营收没多大影响。可从南水的一口灶，到唐人街中餐馆的后厨，再到美国超市的货架和中国的太空舱，一样最草根的味道，走到了最意想不到的地方。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "现代化工厂最后也建回了老家。李家的祖籍是新会七堡，李锦裳当年从那里出去讨生活。1996年，李锦记最大的生产基地在七堡建成，占地一千二百多亩。两年后，镇上多了一所李文达中学，是他捐建的。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2005年前后，李文达对外讲过他的“两个梦想”：一是把中华的饮食文化传遍世界，二是弘扬中华的养生文化。第一个梦想，靠的就是这瓶走遍全球的蚝油和身后那两百多种酱料；第二个梦想，落在了酱料之外另一摊全新的生意上。那摊生意后来长得比谁预想的都大，惹出的麻烦也是。到二十世纪末，李文达手里的李锦记，已经完全变了样：不再是那个几房人分着、谁也不敢冒险的小作坊，而是一家有工厂、有品牌、有全球渠道的跨国公司，一块沉甸甸的招牌，一份传得下去的家业。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "正是这份家业，把“如何传下去、如何不散”，从一件寻常的家务事，变成了一件天大的事。当年几房人争一间小铺，争的不过是几个钱，散了也就散了，各回各家。如今第三代守着一门全球生意，一旦再来一次1986年式的分家，输掉的就是几代人的心血和一个百年品牌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达对这一点，比任何人都清楚。他这辈子，买断过叔伯股份，又买断过亲弟弟股份，两次都是拿真金白银和亲情的决裂，去换一个“不散”。他知道这条路有多贵、多痛，也知道它治标不治本：靠一次次买断维系的统一，只要人还在、股份还在分，就随时可能再裂一次。他不想让自己的儿孙，再走一遍他和弟弟走过的这条路。于是，在把生意做上天的同时，他开始琢磨一件华人家族里没什么先例的事：给这个家族，立一部法。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第四章 立一部法",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "买断弟弟之后十来年，李锦记又一次差点分崩离析。这一回，站到李文达对面的，是他自己最小的儿子，李惠森。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "起因是一桩生意上的分歧。据后来的记述，李惠森反对父亲卖掉一块亏钱的生意，父子俩为此僵持了大约两年，谁也说服不了谁。年轻的李惠森一度动过念头，想干脆离开家族生意，自己出去另起炉灶。这已经是这个家族二十多年里，第三次走到“差点散”的边上了：先是叔伯，再是兄弟，这次轮到了父子。",
+          "related_node_ids": [
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "前两次，李文达都是靠买断把裂缝按下去的。可这次不一样。叔伯可以买断，弟弟可以买断，儿子难道也买断出局？把儿子赶走，等于亲手掐断自己的传承，这条路走不通。第三次危机，逼着李文达和李惠森父子，去想一个比“买断”更彻底的办法。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们想明白了一件事：只要这个家族还是靠“谁拳头硬谁说了算”来维系，冲突就会一代接一代地重演。今天是父子，明天就是堂兄弟，后天就是隔了房的叔侄。人性不会变，利益的纠葛不会断，指望每一代都恰好出一个既强势又公道的家长来压住场面，纯属碰运气。买断能了断一时的恩怨，了断不了将来的祸根。他们要的规矩，得连家长本人也管得住，并且当家长不在了，也还转得动。用李惠森后来的说法，这叫“治危机于未发”。趁家还没散，先把不让它散的法立起来。",
+          "related_node_ids": [
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "据家族的讲述，这份功课，李文达派给了二儿子李惠雄，让他出去看看，外国那些传了上百年的家族是怎么办的。李惠雄跑了瑞士、英国、美国、日本，看了几年。2002年前后，李锦记成立了家族委员会，并开始起草一部家族宪法。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-wai-hung",
+            "company:lee-kum-kee",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族委员会这套东西，在华人家族里几乎是个新发明。据李惠森历年对外介绍，委员会由七人组成：李文达夫妇，加上五个子女。它每季度开一次会，一次要开满四天，全体成员必须到场，缺席不行，迟到也不行，据说迟到还要罚款，家长也不例外，而委员会主席由七个人轮流当。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-wai-sum",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从成立到2017年前后的十五年里，一共开了近六十次会。坐在这张桌子旁的五个子女，四子一女，各管一摊：老三李惠中管酱料，最小的李惠森管健康产品，李惠民管投资，李惠雄管海外市场，女儿李美瑜后来主持家族学习与发展中心，专管下一代的培养。四天的会议里，谈的不是分红多少、谁升谁降这些具体买卖，谈的是更根本的东西：家族的价值观、宪法的条文、成员之间的关系、股权的安排、下一代的培养。",
+          "related_node_ids": [
+            "person:lee-wai-hung",
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更要紧的，是它和公司的关系。李锦记把权力切成了三层，各管一段：家族委员会管“家族”的事，统一价值观、制定和修订宪法、协调家族关系和所有权、决定董事会的结构；董事会管“生意”的事，选高管、定战略、监督业绩；再往下的职业经理人层，管日常经营。这一刀切下去，“家事”和“公事”就隔进了两个房间。李惠森有个说法：在家族这个平台上，仿佛没有生意；在生意这个平台上，仿佛没有家族。一个人可以既是股东、又是高管、还是别人的弟弟或父亲，但在不同的房间里，他只用一个身份说话。多少华人家族的内耗，坏在这几个身份搅成一团，饭桌上谈生意，董事会上论亲疏。李锦记用一套结构，硬把它们拆开了。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:lee-kum-kee",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那部家族宪法里，究竟写了什么？先说清楚一件事：这部宪法的原文，外人从来没有见过。公众所知道的一切条款，都来自李惠森在演讲、访谈和商学院课堂上的口头介绍；连专门研究家族企业的学者引用它时，也只能转述，拿不到那份文件本身。所以下面这些规矩，准确的说法是“据李惠森介绍”，而不是“《宪法》第几条规定”。这部名声在外的“宪法”，公众其实从未读过它的任何一页，能核到的，只是这个家族愿意讲出来的那部分。",
+          "related_node_ids": [
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "据他介绍，这部宪法大致管这么几件事。其一，进公司的门槛：家族成员先得读完大学，再在别人家的企业干满三到五年，然后回来应聘、考核，标准和外人一模一样；进来之后干不好，给一次机会，再不行照样开除。在外面干出了名堂的，公司需要时也可以请回来。其二，股权的边界：只有血缘家族成员能持股，没有血缘的人不行；家族成员想退出，股份由家族按约定回购，不能随便卖给外人。其三，退场的时点：经营岗位六十五岁退休，家族委员会里的成员七十岁退。其四，也是最被外界议论的一条：家族成员不要晚婚、不准离婚、不准有婚外情，违反了就得退出董事会，只保留股份。其五，修改这部宪法本身，需要家族委员会里四分之三以上的多数同意。",
+          "related_node_ids": [
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些规矩，单看每一条，都不近人情。凭什么管人家结不结婚、几岁退休？凭什么姓李的进自家公司，还要先去给别人打三五年工？可一旦把它们放回“两次分家、一次未遂”的背景里，每一条禁令的来路，就都清清楚楚了。姻亲不得持股，是防着“嫁进来、娶进来”的人，把血缘这条主线冲淡、把外姓的利益掺进来；离婚、婚外情就要退出董事会，是把私德和经营权绑在一起，逼着掌权的人自律，也防着一场狗血的婚变把股权搅乱；先在外历练、同标准考核，是不让含着金汤匙的“公子哥”，理直气壮地躺进公司里当少爷。这个家族最怕的，是权和利分不清、进退没规矩，于是它索性把最容易起争执的地方，一条一条，提前写死。每一条规矩的背后，都对着一次真实发生过、或者随时可能发生的撕裂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达在2007年公开表达他最看重的是什么。那年央视《对话》节目请几位嘉宾写下企业长久的秘诀，别人写的是“敬畏”“规则”“三品合一”，轮到李文达，他在小黑板上写了五个字：家和万事兴。他后来解释过：公司只是家族的一部分，家族不和，生意长不了。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "条文之外，学者范博宏讲过两个判断。第一个是，家族宪法本身不重要，重要的是探索和制定它的那个过程。因为正是在一条一条地讨价还价里，一家人被迫坐下来，把“我们到底看重什么、彼此该怎么相处、钱和权到底怎么分”这些平时藏着掖着、谁也不愿先开口的事，摊到桌面上谈清楚。谈的过程，比谈出来的那份文件，重要得多。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二个是，一部家族宪法有没有真正落地，标志只有一个，立法的那个企业家本人，有没有在实践中被它约束过、被它否决过。要是连立法的家长自己，都能凌驾于宪法之上、想改就改、想破例就破例，那这部法就是空的，只是又一份挂在墙上的家训。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拿这把尺子量李锦记，要害在李文达肯把自己也放进去。一个说一不二、买断过叔伯和弟弟的强势家长，愿意接受“家长也可能被否决”的规矩，这才是它区别于寻常“家规”“家训”的地方。绝大多数华人家族的所谓传承设计，是家长单方面立给晚辈的紧箍咒，自己站在规矩之外。李锦记的宪法，是连立法者本人也要低头遵守的。家长先自缚，规矩才立得住。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这部宪法在法律上，多半并不具强制力。世界上大多数地方，“家族宪法”更接近一份意愿声明，最多有道义上的约束。真正能拿上法庭去执行的，是它底下配套的股东协议、信托契约和公司章程。所以“只有血缘才能持股”“退出必须由家族回购”这些条款，若真能落地，靠的是那些有法律效力的文件，而不是那部“宪法”本身。这部宪法的力量，从来不在法律的执行力上，而是在一个家族愿不愿意信它、守它。国家的法律出了争议，还有法院做最后的裁判。家族的宪法出了争议，裁判就是家族委员会自己，一群既当运动员、又当裁判员的自家人。家族宪法没有外面的守护者，只能靠里面的人心。",
+          "related_node_ids": [
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范博宏还提醒过一层文化上的冲突。这类讲究规则、程序、甚至带点“家族民主”味道的治理办法，本是从西方的土壤里长出来的，直接移植到中国，会水土不服。华人的家族传统，骨子里是自上而下的家长权威，父命难违。一部要求家长也守规矩、也可能被投票否决的宪法，天然和这套传统冲突。怎么在“家长说了算”和“按规矩来”之间找到平衡，是每一个想学李锦记的华人家族都躲不开的功课。李锦记能嫁接成功，很大程度上是因为它恰好有一个既强势、又肯自我设限的李文达。这样的人，可遇不可求。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "外界爱把2002年的立宪，讲成一次高瞻远瞩的先知先觉，仿佛李文达早早参透了传承之道，主动为家族设计了百年蓝图。但在三次“差点散伙”的危机面前，更准确的说法应该是：这部宪法，是一次又一次创伤之后的补救，是被两次分家、一次父子失和逼出来的“不得不如此”。好的家族治理，多半是被血的教训逼出来的。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "立了法，日子并没有从此太平。一部写在纸上、连原文都没公开的宪法，要想管得住一个越来越大、越来越分散、越来越有主见的家族，还得靠一代代人真心去信它、传它、守它。接下来的两道坎，一摊在灰色地带反复翻车的新生意，一代不太想接班的年轻人，都在试这部法到底能否被执行下去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第五章 另一门生意，一场价值观考验",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李文达那两个梦想，第一个交给了蚝油，第二个交给了小儿子李惠森。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1992年，李锦记和第一军医大学合作，在广东新会创立“南方李锦记”，李惠森带队，一头扎进了保健品。这是李锦记百年蚝油生意之外，全新的一摊，做的是“养生”这门大生意。那时中国改革开放不久，保健品市场刚刚兴起，又大又乱。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1994年，公司推出第一款拳头产品增健口服液，主打第一军医大学冼显秀教授研制的复合多糖配方，取灵芝、茯苓等草本的活性成分，宣称能提高免疫力。这款产品卖疯了，后来累计卖出超过七十亿支。2007年，公司拿到了国家颁发的直销经营牌照，成为国内最早一批合法直销企业之一，随后更名“无限极”，英文Infinitus。",
+          "related_node_ids": [
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "无限极长得极快。到2015年前后，它一年在中国的业绩接近两百六十亿元，稳坐中国直销行业的头把交椅。在李锦记集团内部，这摊晚出生一百多年的生意，体量一度追平了做了上百年的酱料主业。做酱料的李锦记，用一百年，把蚝油卖遍了全球的厨房；做保健品的无限极，用二十来年，把口服液和胶囊卖进了千千万万中国家庭的药箱。",
+          "related_node_ids": [
+            "company:lee-kum-kee",
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "主管这摊生意的李惠森，不只是无限极的创始人和董事长，还是那部家族宪法、那套“思利及人”价值观最主要的设计者、著书者和布道者。这层身份，本该让无限极成为家族价值观最好的橱窗。可问题，偏偏出在了这摊生意上。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "无限极走的是直销的路子。而直销这套模式，很容易从“把产品卖出去”，悄悄滑向“把人拉进来”。加盟者发展下线，下线再发展下线，层层返利，越往金字塔的上端，奖金涨得越快。在这样的结构里，老老实实卖货不吃香，吃香的是把产品说得神、把队伍拉得大。保健品本身没有治疗疾病的功效，可到了急于冲业绩、升级别的经销商嘴里，它常常被吹成包治百病的灵药。",
+          "related_node_ids": [
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2018年底，另一家保健品巨头权健，因为类似的问题被舆论掀翻，一个孩子的悲剧点燃了全国的愤怒，监管部门随即在全国开展整治保健市场乱象的“百日行动”。火很快烧到了无限极。2019年初，陕西一位母亲公开投诉，说自己三岁的女儿在无限极经销商的推荐下，停了正规的药、大量服用保健品，几个月后被查出心肌损害等问题。全国哗然。此前此后，还有别的家庭卷进过类似的悲剧：据媒体报道，有病人听信经销商“保健品和医院的药不能同吃”的说法，停掉了真正救命的治疗，酿成不可挽回的后果。监管部门介入，无限极的分公司因虚假宣传、超范围直销等被处以罚没，公司公开道歉，说要整改。但它的直销牌照始终保留，多层次分销这套模式的根子，并没有被真正改变。",
+          "related_node_ids": [
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "风波之前，无限极一年的中国业绩接近两百六十亿元；风波之后一路下滑，到2023年，据行业媒体的数字，只剩下一百亿元上下，从巅峰跌去了六成。监管开出的罚单只有几百万元，市场开出的罚单，是每年一百多亿元。",
+          "related_node_ids": [
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "个案的是非曲直，自有监管和法律去评断。这段争议照出来的，是一个问题：为什么同一个家族，能把酱料做到“一百减一等于零”、把“思利及人”奉为家训，偏偏在保健品这摊生意上，在“思利及人”这信念上，栽了跟头？",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "答案在它最引以为傲的那套治理里。家族宪法、家族委员会，管的全是家门之内的事：价值观怎么统一，股权怎么持有，接班人怎么产生，家长和子女怎么相处，每一层关系都安顿得妥妥帖帖。可“思利及人”里的那个“人”，在制度上落到的，是家人，是股东，是并肩创业的伙伴，唯独没有落到那个掏钱买产品的、素不相识的消费者身上。",
+          "related_node_ids": [
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "“一百减一等于零”的管理理念在酱料上有效，因为它管的都是李锦记自己攥得住的东西：配方、原料、生产线、出厂检验，谁出了错，找得到人，追得到责。到了保健品上，同一句铁律就不灵了，因为出问题的地方不在工厂里，不在配方上，在它和消费者之间隔着的那几十万经销商。家族的愿景使命价值观很显然无法让经销商也认同并遵守。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "无限极在家族版图里的位置，因此很微妙。它由最懂治理的李惠森亲手带大，却也是这个家族对外形象上最脆的一环。最直观的一处，是名字。这摊生意1992年刚启动时，叫“南方李锦记”，家族的姓氏就写在招牌上；后来，“李锦记”三个字从招牌上消失了，公司更名“无限极”。对外的解释可以有很多种，品牌定位、业务区隔，都说得通，但客观的效果只有一个：从此，保健品那边出的任何事，都烧不到“李锦记”这块百年招牌。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:lee-kum-kee",
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而随着李文达这一代一天天老去，悬着的是另一件事：这一整套东西，蚝油生意、保健品生意、那部管住了家、却管不到家门之外的宪法，传得下去吗。从没亲历过分家之痛的第五代，接不接得住，愿不愿意接。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第六章 千年计划",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李惠森给这个家族定了一个听上去近乎狂想的目标：让李锦记活一千年。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "放眼全世界，存活超过一千年的企业只有寥寥数家，大多是日本的寺庙、旅馆或酿造老铺，靠的是极特殊的行当和封闭的传承。在2018年李锦记130周年的宣传片里，年近九十的李文达说：“我们的宏愿是，把这盘家族生意无止境的持续，超越千年。”",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李惠森对外讲过千年计划的构想：终有一天，让家族成员退出企业的“经营”，只保留“所有权”和“治理”，把公司日常的管理，彻底交给职业经理人。家族不再亲自下场做生意，只通过家族委员会和董事会把着方向，看着这门生意由外人替他们经营下去。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李惠森写过一本《自动波领导模式》。自动波是粤语里的自动挡：车挂上去，司机不用碰排挡，车自己换挡往前走。他说过，自己很少去公司，有时几个月不露面，生意照转。千年计划，等于要把整个李锦记挂上自动波。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "上一期三星的故事，李在镕当众宣布“不把经营权传给子女”那一刻：一个攥了三代控制权、不惜让儿子入狱也要把位子传下去的家族，走到第三代，才终于松开经营的那只手。李锦记的千年计划，指向同一个方向：所有权与经营权分离，家族退居幕后，只当股东和守护者。区别在时机和姿态。三星是撞了南墙、坐了牢、缴了天价遗产税之后的止损；李锦记是在风平浪静、生意兴隆的时候，就把这条路写进了给未来的规划。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但再好的设计，也得有人愿意接。这是李锦记眼下心里最没底的地方。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "传到第五代，这个家族碰上了一枚软钉子：年轻人，不太想接班。据凯洛格商学院（Kellogg）2021年一份专写李锦记第五代的教学案例记载，截至2013年前后，第五代的十四名成员里，只有两人进了公司；家族费尽心思办的那些实习和培养项目，当时没有一个第五代在参加。更微妙的是家族每年办的静修营，2011年一度停办，案例写下的原因是“冷淡，以及某些潜在的冲突”，不是没时间。所谓“潜在的冲突”，是说第五代的疏离未必只是提不起兴趣，底下可能还压着一些没挑明的心结。甚至有第五代成员，主动要求把自己从公司的邮件群组里删掉。连收一封公司邮件，都嫌多余。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个把“传承”研究得这么透、写进宪法、讲遍全球商学院的家族，发现自己的下一代压根没兴趣“被传承”。所有成功家族企业迟早要撞上的悖论就在这里：越是把家业经营成一家成熟的现代机构（特别如果还是一家传统企业），年轻一代就越把它看成一份可选可不选的普通工作，而不是天生就该扛在肩上的宿命。何况这个家族的历史里，还躺着两次分家的旧伤。长辈越是苦口婆心地讲“要团结、要不散、要把家业传下去”，把家族会议开得越郑重，敏感的年轻人越能从这份郑重里，嗅出一股让人喘不过气的压力。上一代用血和钱换来的“不散”，到了下一代眼里，有时更像一副他们从没申请过、却被默认要戴上的枷锁。凯洛格那份案例给这道难题起的名字很直白：要“参与”，还是要“坐享”。家业绑得太松，下一代不上心；给得太足，下一代又把一切当成理所当然。这个家族怕的，从来不只是没人接班，是接班的人只想坐享其成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李锦记的应对，是把“要求”改成“吸引”。它没有硬按着第五代进公司，而是想方设法让家业本身，变得对年轻人有吸引力。据报道，家族搞了一个董事会实习生计划，让第五代列席集团、尤其是投资部门的会议，先旁听、先熟悉；带他们出差去看项目、跟创业者面对面、亲手做投资路演。家族还专门设了一支叫“幸福资本”（Happiness Capital）的风险投资基金，由李惠森分管，用年轻人感兴趣的科技和新事物，把他们一点点重新拉回到生意的现场。再加上鼓励他们参与慈善、定期一起静修，一整套动作，都在回答同一个问题：怎么才能让下一代，自己愿意留下来。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但这套办法再高明，也有一个绕不过去的难处：它最终依赖的，是每一代人自己的选择，而选择这种东西，恰恰是制度最够不着的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "还有一件事：这套治理对外的整套讲法，差不多都出自李惠森一个人。当年出国取经、把委员会的架子搭起来的，是二哥李惠雄。把这套东西讲成哲学、写成畅销书、带着“千年”这个说法一遍遍说给全世界商学院听的，是李惠森。",
+          "related_node_ids": [
+            "person:lee-wai-hung",
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2016年，李锦记家族向哈佛大学陈曾熙公共卫生学院捐赠，据李锦记官方介绍，金额为两千一百万美元，设立了一个以创始人命名的“李锦裳健康与幸福研究中心”（Lee Kum Sheung Center for Health and Happiness）。世界各大商学院里那些讲李锦记的教学案例，从洛桑IMD到西北大学凯洛格，也多是在家族的配合与授权之下写成的。长寿的家族向来懂得经营自己的故事。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可一套制度依赖于一个人身上，就有了和三星帝王学一样的毛病。三星那套培养储君的办法，被后世追认为神话，是因为坐在那个位子上的李健熙，恰好是个能力出众的人选。同一套制度，换一个平庸的继承人，只会以同样的效率，把平庸放大。李锦记的宪法显得管用，也是因为它上头有一个肯自我设限的李文达，中间有一个肯身体力行的李惠森。换了下一代、下下一代，若再没有人像他们这样“真信”，这部宪法还剩下多少约束力？没人知道。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李惠森自己，似乎也不回避这一点。他说过，后代可以修改宪法里的任何条款，为将来留出空间。他承认这部“宪法”不是刻在石头上的，随时可以被改写。它今天有效，不靠纸上的字，全凭这一代人愿意信它、守它。等到哪一代人不再信了，它就是一纸空文，锁进抽屉，无人过问。",
+          "related_node_ids": [
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2021年7月26日，李文达去世，享年九十一岁。外电讣闻叫他“蚝油大王”，据福布斯的排名，身家一百七十多亿美元，香港第六。讣闻历数他留下的东西：一个卖到一百多个国家的酱料王国，一部华人世界少见的家族宪法，一个传到第五代还没散的家。讣闻没提的，是那个至死没有再往来的弟弟。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "也是在2021年，李锦记在家族委员会之外，又设了一个股东委员会，把“家族成员”和“股东”这两个身份，进一步拆开来管：你可以只是家族的一员，参加静修，认这套价值观。股东的权利和义务，另有一套体系来管理。",
+          "related_node_ids": [
+            "company:lee-kum-kee",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李锦记证明了，一个家族可以靠“设计”而不是靠血缘和运气，活到第五代而不散，这在华人家族企业里，已是极少数。它还没能证明的是：这套设计，能不能在没有李文达、没有李惠森的世界里，靠一群没经历过创伤、也未必“真信”的后人，独自撑下去。千年的路，才走了一百多年，未来的路，还很漫长。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第七章 一个家族，能否靠设计穿越百年",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "故事讲完了，我们从故事中获得的思考是，李锦记到底做对了什么，能走到大多数华人家族企业走不到的第五代。这个问题，可以借家族企业研究里几套现成的理论，从治理、传承、教育、关系四个方向来看一看。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.1 治理：让家族、所有权与经营各归其位",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1978年，哈佛商学院的塔吉乌里（Renato Tagiuri）和戴维斯（John Davis）提出过一个后来被整个行业沿用的模型：家族企业里有三个圈，家族是一个圈，所有权是一个圈，经营是一个圈，三个圈两两相交。家族企业的大多数乱子，出在一个人同时站在两三个圈里说话：他既是父亲，又是大股东，还是总经理，饭桌上谈生意，董事会上论亲疏，谁也分不清他此刻代表哪个身份。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拿这个模型看李锦记，第四章讲过的那套架构就清楚了：家族委员会管家族这个圈，董事会管经营这个圈，2021年新设的股东委员会，管所有权这个圈。一个人可以同时属于三个圈，但每个圈有各自的责权利，当处在哪个身份时，就只用那个身份说话。李惠森那句“在家族平台上仿佛没有生意，在生意平台上仿佛没有家族”，说的就是这个拆分。",
+          "related_node_ids": [
+            "person:lee-wai-sum",
+            "company:lee-kum-kee",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这套拆分能做得清晰，有一个常被忽略的前提：李锦记不上市。李文达生前不止一次说过这一条。不上市，所有权的圈里就全是自家人，没有外部股东逼它按季度交业绩，家族宪法的每一条，才能在这个圈里说了算。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "对于家族关系来说，真正的考验，在有人不满的时候。一个家族企业，有人不满不可怕，可怕的是不满的人走不了。股份想套现却套现无门，话想说清又说不拢，一肚子怨气排解不掉，最后只能把矛盾一天天拖成内战。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李锦记的宪法给出的解法是，如果家族成员想退出，股份由家族按事先约定的规矩回购。不满的一房，可以带着钱、带着体面，从容离场，而不必要把整条船凿沉，逼所有人一起陷入危机。1986年李文达买断弟弟的股份，靠的还是临时举债、抵押厂房那种最痛、最狼狈的办法，差点把自己拖垮。等到宪法立起来之后，“退出”这件事，就从一场你死我活、两败俱伤的角力，变成了一道有预案、有价格的程序。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "经济学家赫希曼在《退出、呼吁与忠诚》里讲过一个朴素的道理：一个人对自己所在的组织不满，无非三条出路，用脚投票走人，开口把话说出来，或者咽下去继续忠诚。组织的命运，就看它把成员往哪条路上赶。李锦记的宪法，等于把这三条路全修通了，还各自标好了路标。每季度四天、雷打不动的家族会议，是给“开口”修的正式渠道，有话放到桌面上说，而且说了真算数。按约定回购的退出条款，是给“走人”标好的价格，想走走得成，并且代价也是明明白白的。“思利及人”和那些静修、慈善、学习中心，则在一天天培养对家族的忠诚和认可。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三星是现成的反例。三星李氏面对不满的家人，几乎没有“体面退出”这个选项：要么继承，要么对簿公堂。长子被废，从此与家门决裂；次子出走，甚至向青瓦台告发自己的父亲；庶出的哥哥，四十六年后仍以八十一岁高龄，把七十岁的弟弟告上法庭。控制权攥得越紧，家人表达不满的路就越只剩决裂这一条。李锦记不盲信家人能永远一条心，它提前给“分道扬镳”这件可能发生的事，修好了一条不至于伤筋动骨的退路。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不过，这条“体面退出”的路，代价是家族成员交出的那一部分个人自由。姻亲不得进入经营、没有血缘的人不能持股，你就得把一生的事业，和最亲密的枕边人隔开；离婚、婚外情要退出董事会，你最私密的情感生活，就这样写进了公司治理的条款；先在外面给别人打工三五年、再回来同标准竞聘，你就不能理直气壮地享用父辈随手就能给你的那份荫庇。这个家族用一部宪法，换来了“不散”两个字，同时也换走了每一个成员本可以更自由地生活、更随性地相爱、更轻松地继承的那一部分权利。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-114",
+          "index": 114,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.2 传承：把血缘题改成能力题",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-115",
+          "index": 115,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "华人家族企业最难过的一道坎，是交棒。范博宏那笔“市值蒸发近六成”的账，算的就是这道坎，数字背后是一个个“富不过三代”的故事。他把病因归到两处。第一处是无形资产难传：创始人的价值观、判断力、几十年攒下的人脉和信誉，这些真正值钱的东西，没法像股票和厂房一样，一纸过户给下一代，老一辈一走，这些看不见的资产就跟着蒸发大半。第二处是家族和制度层面的种种障碍：人才流失、利益纷争、监管和政治环境的变动。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-116",
+          "index": 116,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "给李锦记写过教学案例的沃德（John Ward），是家族企业研究领域资深的学者。他和卡洛克（Randel Carlock）提出过一个叫“并行规划”的方法：家族企业做规划，要两条线一起做，一条规划生意，一条规划家族，只规划生意、不规划家族的企业，传承迟早出问题。对照这个方法，李锦记那套“家族委员会加董事会”的双层架构，就是并行规划的做法：董事会规划生意，家族委员会规划家族，而且四天的季度会议里，谈价值观、宪法和下一代培养的时间，比谈生意的多。",
+          "related_node_ids": [
+            "company:lee-kum-kee",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-117",
+          "index": 117,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李锦记自己的解法，是尽量把“传给谁”这道血缘题，改成一道能力题：先在外历练，同标准考核，犯错照罚，董事长之外的经营岗位，都可以交给职业经理人。2020年底，这条路又往前走了一步：李锦记酱料集团第一次把行政总裁的位子交给了家族以外的人，接任的林碧宝，是从毕马威、百事一路做上来的职业经理人。而千年计划里“家族退出经营、只留所有权与治理”的构想，等于把这道题彻底绕开了：连“家族成员必须亲自经营”都不再是必须，“把公司交给哪个儿孙”这个让无数家族过不去的难题，也就不存在了。这一步，和三星第三代“不传经营权”的誓言，走向的是同一个终点。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-118",
+          "index": 118,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但这道坎，李锦记还没有迈完。范博宏说的“无形资产难传”，李锦记同样没能豁免：第五代不太想接班，说到底，就是价值观和创业的热情，没能自动传下去。规矩可以一条条写进宪法，但热爱和担当写不进去。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-119",
+          "index": 119,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.3 教育：从要求改成吸引",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-120",
+          "index": 120,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "教育这件事，李锦记想得很明白：第五代不缺钱，也不缺出路，硬按着他们进公司，只会养出一批身在曹营心在汉的接班人。所以它把教育的重心，从“训练接班人”挪到了“培养认同感”上，把“你必须接”，换成“你想不想接”。现代家族的传承，大都经历了这样的转变，你没法命令一个二十几岁的年轻人爱上一门他没参与创造的生意，只能想办法让他自己心甘情愿地走近它。可这么一来，整个家族的未来，就押在了下一代的自愿上，而自愿，恰恰是制度设计不出来的东西。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-121",
+          "index": 121,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.4 关系：守住财富之外的家族价值",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-122",
+          "index": 122,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2007年，戈麦斯-梅希亚（Luis Gómez-Mejía）等几位学者研究西班牙的家族橄榄油坊，发现一个现象：加入合作社明明更赚钱，很多家族坊主就是不加入，宁可少赚，也要把油坊留在自家手里。他们给这种行为起了个名字，叫社会情感财富：家族企业算账，算的不只是钱，还有名声、掌控感、一家人的认同与和睦，为了这笔看不见的财富，家族愿意付出真金白银。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-123",
+          "index": 123,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拿这个理论看李锦记，很多事就说得通了。八千万买断弟弟的股份，买的不只是四成股权，还有“这门生意还姓李”这件事本身。不上市、厂建回新会七堡、镇上那所李文达中学，看重的也都是同一类东西。家族宪法里那些不近人情的条款，说到底都在保同一样东西：这个家族作为一个家族，还能不能坐在一起。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-124",
+          "index": 124,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "维护这笔财富，李锦记的办法，是把最容易起争执的关系变成成文的规则，而规则的底子，是家训“思利及人”。它的来历，家族是这样讲的：1960年代，李文达在台湾结识了研究书画的刘太希老先生，获赠一幅字，上面写着两句话：“修身岂为名传世，做事惟思利及人。”修身，不是为了留名；做事，要想着让别人得利。李文达独独把后四个字裱起来，在办公室一挂几十年。他自己说过，这句箴言在他的人生里“一直扮演着闹钟的角色”，提醒他做每件事之前先问一句：对方能得到什么好处。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-125",
+          "index": 125,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这四个字往前看，李锦裳每年除夕烧掉收不回的赊账单，不让账成为下一代的负担，就是这个意思，那时还没有这四个字。往后看，李惠森把“思利及人”拆成了三条具体的要求：换位思考，站在对方的立场想事情；关注对方感受，说话做事之前，先掂量对方听了是什么滋味；还有一条他们自己起名的“直升机思维”，遇事升高一点，越过自己的位置看全局。这三条，加上使命、自律、诚信等九条原则，后来成了整个家族和公司通用的价值观。",
+          "related_node_ids": [
+            "person:lee-kum-sheung",
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-126",
+          "index": 126,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "至于出处，“思利及人”四个字，据传出自颜真卿的《争座位帖》。那本帖子原是颜真卿写给同僚的一封信，斥责朝会上乱了座次、谄媚权宦的行径，争的就是一件事：座位的规矩，不能乱。一部为座位规矩而写的帖子，隔了一千二百年，把家训给了一个为座位闹过两次分家的家族。靠着这套价值观加规则，李锦记把血亲之间最容易翻脸的东西，尽量摆到了台面上，装进了秩序里。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-127",
+          "index": 127,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "只是这套关系治理，只管得到家门之内。无限极那一章已经看得清楚，家族的价值观管得住家人，管不住几十万经销商。",
+          "related_node_ids": [
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-128",
+          "index": 128,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.5 他山之石",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-129",
+          "index": 129,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同样的难题，我们在另一篇文章里分享过他们的解法。1917年，日本几家世代酿造酱油的人家，主要是茂木、高梨等八个家族，合并成立了野田酱油株式会社，也就是后来的龟甲万。八家人，各有各的利益，各有各的骄傲，凭什么能共处一家公司、上百年不散？他们靠的，同样是一套成文的家法，加上一个叫“同族会”的家族议事机构。那套家法里，有一些和李锦记异曲同工的安排，也有一些截然不同的设计：比如严格限制每一房、每一代能进公司的人数，防止家族成员把公司变成安置亲戚的地方；比如大量使用“婿养子”，招一个有本事的女婿入赘、改姓茂木、继承家业，用这种方式保证掌舵的永远是能人，而不必被“非得从自家亲儿子里挑”这条死规矩捆住手脚。一百多年下来，龟甲万从一个八家共治的家族生意，走成了一家职业化管理、公开上市的现代公司，家族退居幕后，只守着方向。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-130",
+          "index": 130,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "龟甲万和李锦记，两套家法的路数并不相同。龟甲万的办法是少让家人进去，压住每房每代进公司的人数，甚至靠婿养子从外面引进能人，把家族对经营的直接介入降到最低。李锦记的办法是让家人出得来，抬高进门的门槛，同时给退出定好规则。两条路防的问题不同，一个防内耗，一个防决裂，但指向同一个道理：家族要想长久，往往不能把血缘攥得更紧，而要在血缘和经营之间，留出一段可进可退的空间。龟甲万、瑞典靠基金会控股了上百年的瓦伦堡家族、最后学着松手的三星，走的都是这个方向。而那些一心指望“血浓于水、永不生变”的家族，反而往往最先散在自己人手里。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-131",
+          "index": 131,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这两家还有一层更深的不同，在各自对“血缘”的态度里。龟甲万敢用婿养子，等于承认家业要紧过血统，姓氏可以让给能干的外人。李锦记恰恰相反，血缘是持股的唯一资格，没有血缘，本事再大也进不了股东名册。这么看，市面上把李锦记捧成“最现代的华人家族治理”，其实捧错了地方。它并没有“超越血缘”，反而比谁都在乎血缘。谁能站在门里，血缘说了算，这一条它半步不让。它不信的，只是血缘能自动带来和睦。所以在李锦记，规则并没有取代血缘，规则是在保护血缘。谁能持股，血缘说了算，家人之间怎么相处、怎么进退，规则说了算。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-132",
+          "index": 132,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "还有一个前提，容易被漏掉：李锦记做的，是一门“慢”生意。酱料的配方十年不变，客人的口味几十年不改，行业的节奏走得从容。这份从容，是它立得起宪法的本钱之一。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-133",
+          "index": 133,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个方向看下来，这一章开头的问题可以回答了。一个家族，能不能靠设计、而不是靠血缘和家长权威活下去？李锦记的答案是能，但有两个条件：家族成员要交出一部分个人自由，还要有幸遇上几个真信这套制度的人。这条路，华人家族里很少有谁走得比李锦记远。至于这套设计能不能活过它的设计者，要再等一两代人才有答案。可以确定的是，李锦记已经把一件事做给所有家族企业看了：血缘本身护不住一个家族，护得住家族的，是围着血缘立起来的那一圈规则。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-134",
+          "index": 134,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "结语 一瓶酱和一部法",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-135",
+          "index": 135,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到序章的那张桌子。每年四次，一家人从世界各地飞回香港，关起门，把四天坐满。头一回听说的人，多半觉得隆重得过分。看完这一百三十八年就明白了，这个家族是在用这种办法提醒自己：一家人坐在一起，不是一件理所当然的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-136",
+          "index": 136,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族忙了五代人，说到底，做成了两样东西：一瓶酱，一部法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-137",
+          "index": 137,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "酱是李锦裳留下的。他忘了看火，把一锅蚝汁熬成了浓酱，又把这门手艺传给了儿孙。这瓶酱跟着下南洋的广东人出海，进了唐人街的后厨，进了美国的超市，配方几十年不改，最后进了神舟飞船的太空舱。",
+          "related_node_ids": [
+            "person:lee-kum-sheung"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-138",
+          "index": 138,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "法是李文达这一辈立下的。两次分家，买断叔伯花了四百六十万，买断弟弟花了八千万，还搭上一个再没往来的兄弟、一个带着遗憾去世的父亲。到第三次父子起分歧，他明白钱能了断恩怨，了断不了下一次，于是给家族立了一部法，把家长也放进规矩里，给想走的人留了一条体面的路。",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-139",
+          "index": 139,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "写下本文的2026年，李文达已经走了五年。集团主席由老三李惠中接任，酱料集团的行政总裁，第一次交给了家族以外的人。第五代进不进公司、接不接这份家业，还没有答案。变了这么多，有一样没变：家族委员会的会，照旧每季度开四天。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "tool:family-council"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-140",
+          "index": 140,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一百三十八年了，酱还在一瓶一瓶地卖，会还在一季一季地开。千年计划才刚刚开了个头，这个家族能走多远，就看后面的人，还信不信这部法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-141",
+          "index": 141,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "思想实验",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-142",
+          "index": 142,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李锦记的故事讲完了。最后有三个问题，我们一起来思考。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-143",
+          "index": 143,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一个问题，关于退出。李锦记的两次分家，四百六十万和八千万，都是事到临头才谈的价钱，谈得兄弟反目、对簿公堂，后来才写进宪法：想走的人，股份由家族回购，价格事先讲好。你们家呢？如果明天有人提出要走，是拿得出一套现成的规矩，还是也要坐到那张谈判桌前？",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-144",
+          "index": 144,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二个问题，关于规矩。许多家族都有家规，挂在墙上，写在纸上。不妨想一想：家里最严的那条规矩，管不管得住说话最算数的那个人？李锦记的宪法立得住，是因为李文达把自己也放了进去，开会迟到照样罚款，他的决定，儿女们也可以否决。规矩要是管不到家长，那就不是家里的法，只是长辈的一份叮嘱。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-145",
+          "index": 145,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三个问题，关于下一代。孩子接班，是因为真的想接，还是因为不好意思不接？为了这一问，李锦记想尽了办法：办实习，带投资，一起静修，把“你必须接”换成“你想不想接”。可第五代到今天，还没有给出答案。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-146",
+          "index": 146,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三个问题李锦记答了一百三十八年，答案也许都还不完美。那么你和你的家族，该如何回答这些问题？",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-147",
+          "index": 147,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "参考文献",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-148",
+          "index": 148,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "王国璋、郑宏泰、黄绍伦，《李文达传：酱料大王的传奇》，三联书店（香港）有限公司，2018",
+          "related_node_ids": [
+            "person:lee-man-tat"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-149",
+          "index": 149,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李惠森，《思利及人的力量》，中信出版社，2012",
+          "related_node_ids": [
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-150",
+          "index": 150,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李惠森，《自动波领导模式》，中信出版社，2012",
+          "related_node_ids": [
+            "person:lee-wai-sum"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-151",
+          "index": 151,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范博宏，《关键世代：走出华人家族企业传承之困》，东方出版社，2012",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-152",
+          "index": 152,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范博宏、张天健，《家族宪法：治家传业的根本法》，《新财富》，2011年第10期",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-153",
+          "index": 153,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "John L. Ward, “Lee Kum Kee Co. Ltd (A): The Family Recipe”, IMD Case IMD-3-1617, 2005；“Lee Kum Kee Co. Ltd (B): Passing Down the Recipe”, IMD Case IMD-3-1618, 2005",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-154",
+          "index": 154,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Joachim Schwass, Anne-Catrin Glemser, Martin Králik, “Lee Kum Kee Co. Ltd (C): A Recipe for Shared Values”, IMD Case IMD-3-1623, 2014；Denise H. Kenyon-Rouvinez, Philip Whiteley, “Lee Kum Kee Co. Ltd (D): Governance Reforms Start to Show Rewards as the Fifth Generation Matures”, IMD Case IMD-7-2044, 2019",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-155",
+          "index": 155,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Lauren H. Cohen, Dawn Lau, Billy Chan, “The 1,000-Year Plan: Lee Kum Kee and Sustaining a Family Culture”, Harvard Business School Case 221-047, 2020",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-156",
+          "index": 156,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "John L. Ward, Carol Adler Zsolnay, Sachin Waikar, “How to Motivate the Fifth Generation? Balancing Engagement and Entitlement at Lee Kum Kee”, Kellogg School of Management Case KEL949, 2016",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-157",
+          "index": 157,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Shu-Ching Jean Chen, “Hong Kong’s Richest 2018: How LKK Group Plans To Be Around For A Thousand Years”, Forbes, 2018.1.17",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-158",
+          "index": 158,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "South China Morning Post, “Lee Man-tat, Head of Lee Kum Kee Sauce Empire, Dies at 91”, 2021.7.27",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-159",
+          "index": 159,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Harvard T.H. Chan School of Public Health, “Donor: Lee Kum Sheung Center for Health and Happiness”, 2016",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-160",
+          "index": 160,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "人民网，《无限极产品疑致3岁女童心肝受损，母亲拒60万元赔偿》，2019.1.18；澎湃新闻，《无限极陕西分公司虚假宣传、违规直销被罚没590万》，2019.9.26，文中载行政处罚决定书文号“雁市监处字〔2019〕第015号”",
+          "related_node_ids": [
+            "company:infinitus"
+          ]
+        },
+        {
+          "id": "lee-kum-kee-p-161",
+          "index": 161,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿尔伯特·O.赫希曼著，卢昌崇译，《退出、呼吁与忠诚：对企业、组织和国家衰退的回应》，经济科学出版社，2001；Albert O. Hirschman, “Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States”, Harvard University Press, 1970",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-162",
+          "index": 162,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Renato Tagiuri, John Davis, “Bivalent Attributes of the Family Firm”, Family Business Review, Vol. 9, No. 2, 1996, pp. 199–208, DOI: 10.1111/j.1741-6248.1996.00199.x",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-163",
+          "index": 163,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Randel S. Carlock, John L. Ward, “Strategic Planning for the Family Business: Parallel Planning to Unify the Family and Business”, Palgrave Macmillan, 2001",
+          "related_node_ids": []
+        },
+        {
+          "id": "lee-kum-kee-p-164",
+          "index": 164,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Luis R. Gómez-Mejía, Katalin Takács Haynes, Manuel Núñez-Nickel, Kathyrn J. L. Jacobson, José Moyano-Fuentes, “Socioemotional Wealth and Business Risks in Family-Controlled Firms: Evidence from Spanish Olive Oil Mills”, Administrative Science Quarterly, Vol. 52, No. 1, 2007, pp. 106–137, DOI: 10.2189/asqu.52.1.106",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "story:stanford",
+      "title": "三个人的家，一百四十岁的继承人：斯坦福家族故事",
+      "series_no": 37,
+      "source_files": [
+        "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md"
+      ],
+      "related_node_ids": [
+        "family:stanford-family",
+        "person:leland-stanford",
+        "person:jane-stanford",
+        "person:leland-stanford-jr",
+        "person:david-starr-jordan",
+        "person:frederick-terman",
+        "company:stanford-university",
+        "company:central-pacific-railroad",
+        "event:leland-jr-death-1884",
+        "event:stanford-founding-grant-1885",
+        "event:stanford-estate-crisis-1893",
+        "event:jane-power-transfer-1903",
+        "event:jane-stanford-death-1905",
+        "event:stanford-industrial-park-1951",
+        "concept:succession-contingency",
+        "concept:mission-locked-ownership",
+        "concept:philanthropy-as-governance",
+        "concept:constraint-as-power",
+        "concept:separation-of-rights",
+        "tool:founding-trustee-board",
+        "tool:land-sale-restriction",
+        "tool:founder-power-renunciation",
+        "tool:perpetual-endowment-discipline"
+      ],
+      "toc": [
+        {
+          "id": "stanford-p-001",
+          "level": 1,
+          "title": "三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）"
+        },
+        {
+          "id": "stanford-p-002",
+          "level": 2,
+          "title": "序章 林子里的三口棺木"
+        },
+        {
+          "id": "stanford-p-017",
+          "level": 2,
+          "title": "第一章 两个纽约家庭与一条铁路"
+        },
+        {
+          "id": "stanford-p-018",
+          "level": 3,
+          "title": "1.1 一场火以后，向西走"
+        },
+        {
+          "id": "stanford-p-023",
+          "level": 3,
+          "title": "1.2 铁路的两本账"
+        },
+        {
+          "id": "stanford-p-030",
+          "level": 3,
+          "title": "1.3 十八年后等来的孩子"
+        },
+        {
+          "id": "stanford-p-041",
+          "level": 2,
+          "title": "第二章 那个没有长大的孩子"
+        },
+        {
+          "id": "stanford-p-042",
+          "level": 3,
+          "title": "2.1 四百英尺长的小铁路"
+        },
+        {
+          "id": "stanford-p-051",
+          "level": 3,
+          "title": "2.2 如果父亲的财富长了翅膀"
+        },
+        {
+          "id": "stanford-p-057",
+          "level": 3,
+          "title": "2.3 三楼的小博物馆"
+        },
+        {
+          "id": "stanford-p-063",
+          "level": 3,
+          "title": "2.4 佛罗伦萨的稻草"
+        },
+        {
+          "id": "stanford-p-072",
+          "level": 2,
+          "title": "第三章 没有盖起来的房子"
+        },
+        {
+          "id": "stanford-p-073",
+          "level": 3,
+          "title": "3.1 天使与降灵会"
+        },
+        {
+          "id": "stanford-p-079",
+          "level": 3,
+          "title": "3.2 悲伤要去哪里"
+        },
+        {
+          "id": "stanford-p-086",
+          "level": 3,
+          "title": "3.3 十一月十一日"
+        },
+        {
+          "id": "stanford-p-094",
+          "level": 3,
+          "title": "3.4 第一任校长"
+        },
+        {
+          "id": "stanford-p-099",
+          "level": 3,
+          "title": "3.5 十九岁生日那一天"
+        },
+        {
+          "id": "stanford-p-107",
+          "level": 3,
+          "title": "3.6 两年不到"
+        },
+        {
+          "id": "stanford-p-116",
+          "level": 2,
+          "title": "第四章 每月一万美元"
+        },
+        {
+          "id": "stanford-p-117",
+          "level": 3,
+          "title": "4.1 富有，却没有钱"
+        },
+        {
+          "id": "stanford-p-128",
+          "level": 3,
+          "title": "4.2 三口之家以外"
+        },
+        {
+          "id": "stanford-p-136",
+          "level": 3,
+          "title": "4.3 没卖掉的首饰"
+        },
+        {
+          "id": "stanford-p-146",
+          "level": 3,
+          "title": "4.4 没有被收养的侄女"
+        },
+        {
+          "id": "stanford-p-154",
+          "level": 2,
+          "title": "第五章 她仍坐在桌边"
+        },
+        {
+          "id": "stanford-p-155",
+          "level": 3,
+          "title": "5.1 校园中央的教堂"
+        },
+        {
+          "id": "stanford-p-161",
+          "level": 3,
+          "title": "5.2 五百名女生"
+        },
+        {
+          "id": "stanford-p-168",
+          "level": 3,
+          "title": "5.3 罗斯风波"
+        },
+        {
+          "id": "stanford-p-176",
+          "level": 3,
+          "title": "5.4 第一届学生写下的交权书"
+        },
+        {
+          "id": "stanford-p-185",
+          "level": 2,
+          "title": "第六章 檀香山最后一夜"
+        },
+        {
+          "id": "stanford-p-186",
+          "level": 3,
+          "title": "6.1 一口苦水"
+        },
+        {
+          "id": "stanford-p-197",
+          "level": 3,
+          "title": "6.2 两种死因"
+        },
+        {
+          "id": "stanford-p-206",
+          "level": 2,
+          "title": "第七章 父母都不在了以后"
+        },
+        {
+          "id": "stanford-p-207",
+          "level": 3,
+          "title": "7.1 废墟前的董事会"
+        },
+        {
+          "id": "stanford-p-215",
+          "level": 3,
+          "title": "7.2 不能轻易卖掉的土地"
+        },
+        {
+          "id": "stanford-p-222",
+          "level": 3,
+          "title": "7.3 九十九年的租约"
+        },
+        {
+          "id": "stanford-p-233",
+          "level": 3,
+          "title": "7.3 四百零八亿美元"
+        },
+        {
+          "id": "stanford-p-238",
+          "level": 3,
+          "title": "7.4 被拆掉的规矩"
+        },
+        {
+          "id": "stanford-p-242",
+          "level": 3,
+          "title": "7.5 铁路工资册"
+        },
+        {
+          "id": "stanford-p-250",
+          "level": 3,
+          "title": "7.6 学校回头看创始人"
+        },
+        {
+          "id": "stanford-p-256",
+          "level": 2,
+          "title": "第八章 留给后来的人"
+        },
+        {
+          "id": "stanford-p-257",
+          "level": 3,
+          "title": "8.1 先别问“给谁”"
+        },
+        {
+          "id": "stanford-p-262",
+          "level": 3,
+          "title": "8.2 财富要换一种活法"
+        },
+        {
+          "id": "stanford-p-268",
+          "level": 3,
+          "title": "8.3 钱给谁，学校听谁"
+        },
+        {
+          "id": "stanford-p-274",
+          "level": 3,
+          "title": "8.4 土地与五百名女生"
+        },
+        {
+          "id": "stanford-p-280",
+          "level": 2,
+          "title": "结语 扉页上的珠宝"
+        },
+        {
+          "id": "stanford-p-287",
+          "level": 2,
+          "title": "思想实验｜1903 年的那份文件"
+        },
+        {
+          "id": "stanford-p-297",
+          "level": 2,
+          "title": "参考文献"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "stanford-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）",
+          "related_node_ids": [
+            "family:stanford-family"
+          ]
+        },
+        {
+          "id": "stanford-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "序章 林子里的三口棺木",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从斯坦福大学的棕榈大道向西北拐，有一条路钻进树林。学生的自行车从路口掠过，松鼠在落叶间翻找果实，再往里走，校园的声响便淡了。",
+          "related_node_ids": [
+            "company:stanford-university"
+          ]
+        },
+        {
+          "id": "stanford-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "林中立着一座花岗岩和大理石砌成的陵墓。门廊有四根柱子，四角各守着一只狮身人面的斯芬克斯。墓门平日不开，里面停着三口棺木。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一口属于利兰·斯坦福。他做过加州州长、联邦参议员和中央太平洋铁路公司总裁，1869 年曾在横贯大陆铁路的合龙仪式上举起银锤。",
+          "related_node_ids": [
+            "person:leland-stanford",
+            "company:central-pacific-railroad"
+          ]
+        },
+        {
+          "id": "stanford-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二口属于他的妻子简·莱思罗普·斯坦福。丈夫死后，她成为守住一所初创大学的核心人物。1905 年，她死在檀香山一家饭店里。当地验尸陪审团认定她遭人投毒，凶手至今没有得到司法确认。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三口最小，属于他们唯一的孩子小利兰·斯坦福。1884 年，他在佛罗伦萨死于伤寒，十五岁零十个月。",
+          "related_node_ids": [
+            "person:leland-stanford",
+            "person:leland-stanford-jr"
+          ]
+        },
+        {
+          "id": "stanford-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这是一个三口之家的全部成员。斯坦福夫妇各有兄弟与亲族，后来也照顾过他们，并非世上再无亲人。只是他们没有第二个孩子，也没有直系后代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从陵墓走回主校区，大约二十分钟。路的另一头，是七所学院、成排的教室和实验室。2025 年秋天，这里有一万七千三百一十四名本科生和研究生。年轻人抱着书穿过拱廊，争论一道题、一项实验，或一家尚未成立的公司。很少有人会拐进那片树林。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但他们毕业时领到的文凭，会让人记起曾经的这一家人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "文凭上印着学校沿用至今的法定全名：小利兰·斯坦福大学，而非日常所说的“斯坦福大学”。那个未满十六岁的少年，离开人世已经一百四十多年，名字仍落在每一届毕业生的毕业证书上。",
+          "related_node_ids": [
+            "person:leland-stanford",
+            "person:leland-stanford-jr",
+            "company:stanford-university"
+          ]
+        },
+        {
+          "id": "stanford-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1885 年 11 月 11 日，斯坦福夫妇在《创始捐赠文书》中解释了这个名字。他们写道，创办一所造福公众的学校，这个念头来自他们唯一的孩子。倘若儿子仍在，他也会希望家中的大部分财产用于此事。因此，这所学校应当永远以他命名。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "严格说来，这是一对父母替死去的孩子推想心愿。处分财产的是他们，签字的也是他们。可在那份文书里，他们把儿子放在了立遗嘱人的位置，自己退到执行人的位置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从那一天起，一件很少发生的事开始了：一个已经没有直系后代的家，给自己的财产另找了一位继承人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这位继承人后来长得很大，也很不听话。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要知道它怎样来到这个家里，仍得先回到纽约州的两个家庭。那时，棕榈大道还不存在，帕洛奥图也只是一片遥远的土地。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第一章 两个纽约家庭与一条铁路",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.1 一场火以后，向西走",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰·斯坦福出生于 1824 年的纽约州沃特弗利特。父亲约西亚经营农场，也承包道路和桥梁工程。利兰没有走完大学式的正规课程，二十一岁进奥尔巴尼一家律师事务所做学徒，1848 年取得律师资格，随后去威斯康星州的华盛顿港开业。",
+          "related_node_ids": [
+            "person:leland-stanford"
+          ]
+        },
+        {
+          "id": "stanford-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简比他小四岁，生在奥尔巴尼一个商人家庭。父亲戴尔·莱思罗普经营批发和零售，也参与创办当地的孤儿院。莱思罗普家留下的账单、捐款名册与书信，后来进入斯坦福档案馆。那些纸张让人看见，简从小熟悉的世界里，经商与照料公共事务并不互相排斥。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1850 年 9 月 30 日，两人在奥尔巴尼结婚。利兰回到威斯康星，简随他在小城安家。两年后，一场大火烧掉了利兰的律师事务所和藏书。他的几个兄弟已经去了加州，在淘金者聚集的矿区做买卖。利兰把简送回娘家，自己横穿大陆去投奔兄弟。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他没有下矿。金子埋在山里，淘金人每天却要买面粉、铁锹、靴子、煤油和威士忌。斯坦福兄弟先开杂货铺，后来做批发和石油生意。利兰在矿区当过治安法官，最后落脚萨克拉门托。几年后，简来到加州，夫妻才结束漫长的分居。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.2 铁路的两本账",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1861 年，利兰与科利斯·亨廷顿、马克·霍普金斯、查尔斯·克罗克合办中央太平洋铁路公司，四人后来被称为加州铁路“四巨头”。同年，利兰当选州长，1862 年 1 月就职。他既在州政府里掌权，也领导一家依靠联邦土地与债券支持修路的公司。政治、商业与公共工程挤在同一张桌上，这是他财富上升最快的时期，也是日后最难从家族史里擦去的阴影。",
+          "related_node_ids": [
+            "company:central-pacific-railroad"
+          ]
+        },
+        {
+          "id": "stanford-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "中央太平洋最初排斥华工。利兰在州长就职演说里公开贬损华人移民。铁路铺进内华达山脉以后，白人劳动力不足，公司才转而大规模雇用来自中国南方的工人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些工人住在山间营地，在花岗岩上打孔，把黑火药和硝化甘油送进隧道。冬天的大雪会埋住工棚，夏天的峭壁需要用绳索把人吊下去。工程高峰期，中央太平洋在岗的华工估计达到一万至一万五千人，在多数施工阶段，他们约占劳力九成。他们工资更低，食宿还要自理。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1867 年 6 月，约三千名华工停工，要求同工同酬、缩短工时，也要求减少最危险的隧道班次。铁路公司切断食物与供应，八天后，罢工结束。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年后的 1869 年 5 月 10 日，铁路在犹他领地普罗蒙特里接轨。利兰代表中央太平洋出席庆典。那张最著名的合影里是否有华工，至今仍有争议。另一张在几分钟前拍下的照片，则清楚留下了华工完成最后接轨的身影。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "横贯大陆铁路缩短了东西海岸之间的时间，也使斯坦福家跻身美国最富有的家庭之一。它同时留下了政治特权、劳工不平等和巨额债务关系。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.3 十八年后等来的孩子",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰与简结婚近十八年，一直没有孩子。1868 年 5 月 14 日，简在萨克拉门托生下一个男婴。那一年她三十九岁，利兰四十四岁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "据简的私人秘书伯莎·伯纳多年后的记述，孩子出生不久，夫妇在家中设宴。一只盖着银罩的大盘被端到宾客面前，罩子揭开，花朵中躺着新生的婴儿。客人一个接一个看过去，孩子竟没有哭。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个场面带着镀金时代富人的夸张趣味，却也藏不住一对中年夫妇初为父母的欢喜。简后来还记得另一个场景，孩子平安出生后，她第一次看见丈夫跪下祈祷。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们给男孩取名利兰·德威特·斯坦福。孩子稍大后，自己请求改掉中间名，与父亲完全同名。从此，他成了小利兰。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他一出生便站在巨额财富的中心。父亲是铁路公司总裁，后来又成为联邦参议员，家里有仆人、马匹、宅邸和大片农场。可夫妇也记得各自从农场和商人家庭走来的路。他们疼爱这个迟到的孩子，但并没有打算只教他怎样做一个富人的儿子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1876 年，利兰买下帕洛奥图农场最初的六百五十英亩土地，后来逐渐扩张为著名的育马场。全盛时，农场有二十四座建筑、五十处围场和八条训练跑道，六百匹马由一百五十名工人照料。那是一个有马厩气味、有马蹄声，也有账簿、秒表和实验装置的世界。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰痴迷于马怎样奔跑。他与摄影师埃德沃德·迈布里奇合作，在跑道旁架起成排相机，让飞驰的马触发快门。连续照片终于把肉眼抓不住的瞬间拆开：马在某一刻四蹄同时离地。利兰的育马生意，因此与摄影史上这场著名实验相遇。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小利兰就在这样的农场长大。这里离旧金山的宅邸很远，却成了他最喜欢的地方。城市里，他要穿合身的衣服，接受家庭教师的课程。到了农场，他骑小马，带着狗，到小溪边找石头和箭头，愿意跟工人一起待上一整天。马厩、跑道、工棚和实验装置，都是他日常出入的地方。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简常受头痛折磨，只能躺在拉着窗帘的暗室里。小利兰出门回来，会坐到母亲身边，把一天见到的人和事慢慢讲给她听。多年以后，当一家三口远行欧洲，母亲病得很少下楼，这个习惯仍没有变。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在这所后来被视为技术、创业与雄心象征的大学背后，最初的家庭画面其实很安静：一个母亲躺在昏暗的房间里，一个孩子把外面的世界带回来讲给她听。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第二章 那个没有长大的孩子",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.1 四百英尺长的小铁路",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小利兰有一匹小马，也有一列可以乘坐的小火车。铁轨从帕洛奥图农场的住宅附近铺到马厩，长约四百英尺。火车、电话、电报装置、木工台和小型蒸汽机，构成了他的玩具世界。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "有一次，他在工作间摆弄蒸汽机，屋里忽然传出爆响。父母赶过去时，看见儿子拿手帕捂着脸。他只平静地说，锅炉爆了。那场意外没有造成严重后果，家里却从此知道，他对机器的兴趣并非看看而已，总要拆开、点燃，亲手试过才罢休。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他喜欢画船和火车，桅杆、缆绳、小旗都画得很细。也喜欢照相、木工和野外活动。家庭教师赫伯特·纳什回忆，这个精力旺盛的男孩相对于学习拉丁文和代数，显然会更喜欢猎枪与马车。他在农场上不大摆少爷的架子，常跟饲马人、木匠和田间工人混在一起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "坎托艺术中心至今保存着一架约在 1880 年为他购置的相机。木制机身并不大，前部可以像手风琴一样拉开，在当时属于新式器具。父亲用一排相机研究奔马，儿子则把一架相机带在身边。现存的相册里，有旧金山宅邸、法国教堂的建筑细部、旅途中遇见的陌生人和一条狗。少年透过镜头做的，仍是他在工坊里不断做的事：把世界按下暂停键，再看清它是怎样组成的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "五岁那年，他从窗边看见一只流浪小狗腿断了，便把狗抱回家，洗净伤口，包扎起来，又请家庭医生来看。另一次，女佣的侄子因为鞋上全是泥而哭，小利兰把他领进厨房，搬来椅子让他站上去，不顾仆人阻拦，亲手把鞋刷净。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来，人们反复念起他的名字。这些小事让人记得，那名字原先属于一个会抱回伤狗、替别人刷鞋的少年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他也长期给住在附近的一位残障朋友威尔西写信。十岁孩子的拼写并不总对，笔迹会被行进中的火车摇歪。他写母亲终于下楼弹了钢琴，写去内华达山玩雪，手指冻得很久才恢复知觉。十三岁时，他在火车上向朋友道歉，说车开得太快，请原谅字写得发抖。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些信里有他自己的口气、自己的朋友，也有一个尚未完成的人生。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.2 如果父亲的财富长了翅膀",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰夫妇为儿子请了家庭教师。小利兰擅长法语、德语和历史，对课本上草草带过的解释很不耐烦。他总要再问一句：为什么这样做，这件东西怎样造出来，做事的人挣多少钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲还把他送到旧金山的希尔德学院学习会计。1877 年的报纸如此概括利兰的用意：要把孩子教得能够自立。即使父亲的财富有一天“长了翅膀飞走”，儿子也应当养得活自己。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夫妇无意让他假装清贫。小利兰仍享有普通孩子无法想象的旅行、师资和收藏经费。父亲只要求他学会记账、辨别真假，掌握即使家财散尽也能生活的本事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "旅行是他的另一间教室。十二岁那次欧洲之行，他上午上课，下午去博物馆、工坊与街市。看人做通心粉，他要问完整的工序。看工匠吹玻璃，他追问工资、工时和每一道动作。纳什说，这孩子很会从遇见的人那里，把对方知道的东西一点点问出来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "别人看完作坊便走，他却常停下来，想知道炉火后面的人一天做多久，挣多少钱。多年后留下的旅行记录里，除了风景与建筑之外，仍能找到这些问题。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.3 三楼的小博物馆",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小利兰收集硬币、埃及小铜像、希腊陶器和各种古物，把旧金山家中三楼布置成一间小博物馆，自己分类、编目。他买东西要记账，遇见仿品，也会把货物退还给古董商。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在巴黎卢浮宫的埃及展厅里，他伏在案边临摹象形文字，请教埃及学者怎样辨认。他喜欢的并非“拥有一件古物”本身，还喜欢知道它来自哪里、为什么是真的、怎样与别的器物放在一起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十五岁时，他已经对纽约大都会艺术博物馆馆长说，想在旧金山办一座向公众开放的考古博物馆，让美国人从实物中学习艺术。一个孩子把收藏变成了一个朦胧的公共计划。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲也许仍盼着他有一天接手商业。可从留下的材料看，斯坦福夫妇没有把他压进一个预先做好的“铁路继承人”模子。他学会计，也学语言；摆弄机器，也抄象形文字。这些兴趣已经伸向铁路与政治以外的世界。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小利兰没有活到需要做出职业选择的年龄。他的收藏却没有随他一起消失。家人把它保存下来，后来又继续扩充。斯坦福大学博物馆早期的一批藏品，就从这个少年在旅行中认真收集的物件开始。",
+          "related_node_ids": [
+            "company:stanford-university"
+          ]
+        },
+        {
+          "id": "stanford-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.4 佛罗伦萨的稻草",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1883 年，一家三口再次去欧洲。利兰已近六十，身体经常疼痛；简长期受头痛折磨。十五岁的小利兰在信里不再只写自己的见闻，也写父亲恢复得不如预期，母亲很少下楼吃饭，请亲友多写信让她高兴些。在伦敦，他白天随教师出门，晚上回到母亲昏暗的病房，把城里见到的事讲给她听。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们在维也纳过了圣诞，又到君士坦丁堡、雅典和意大利。伯纳后来回忆，小利兰曾在博斯普鲁斯海峡的冷风里掌了一整天船舵，浪花不断打上来，他却兴奋得不肯离开。到了雅典，积雪没到膝边，他仍坚持去看古庙，也见到了发掘特洛伊遗址的海因里希·施里曼。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些片段常被后来的人拿来寻找发病的伏笔。风、雪、劳顿确实紧接在疾病之前，却不能据此断定因果。能够确定的是，1884 年初，小利兰开始发烧。起先家人以为只是旅途劳顿，病情却一再反复。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到佛罗伦萨时，医生确认是伤寒。那时没有有效的抗生素，降温的办法之一，是把发热的身体裹进冰冷湿布。孩子因寒冷而发抖，求医生不要再做。修女轮班照护，布里斯托尔饭店的经理命人在街面铺了稻草，好让马车经过时少一点声响。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父母守了近一个月。小利兰清醒时还惦记马匹、博物馆和学业，高烧却一次次卷土重来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1884 年 3 月 13 日，他死在饭店里，距十六岁生日还差两个月。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夫妇把遗体运回美国。小利兰先暂厝东海岸，后来迁到帕洛奥图农场住宅旁的一座小砖墓室。那块地原本留给一家人盖乡间大宅。儿子死后，房子没有再盖。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "原定盖家宅的土地上，后来一边是陵墓，一边是大学。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第三章 没有盖起来的房子",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.1 天使与降灵会",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "儿子死后的那一年，法国画家埃米尔·穆尼埃为简画了《化作天使的小利兰安慰悲伤的母亲》。画里的少年生出翅膀，俯身靠近母亲。就如同他活着的时候，每日从外面回来，也常坐在头痛卧床的简身边。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十九世纪晚期，死亡离每个家庭都很近，降灵术又在欧美上流社会盛行。失去孩子的父母去寻找灵媒，并不罕见。利兰与简也曾在巴黎和纽约参加降灵会，希望从桌子的震动、写字板上的字迹和灵媒的声音里，再得到一点关于儿子的消息。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些尝试后来生出许多传说。灵媒莫德·洛德·德雷克声称，创办大学是亡灵给斯坦福夫妇的指示。1891 年，夫妇公开否认了她的说法，说明创校决定不曾受她或任何灵媒影响。简还曾尝试别的通灵方式，始终没有得到她能够相信的回答，后来渐渐离开这些仪式。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰的弟弟托马斯走得更远。他住在澳大利亚，长期研究通灵现象，保存写字板、记录和据称来自亡灵的信息。他捐给大学的不只有钱、书和艺术品，也有这些通灵遗物；遗嘱中还留下款项研究心灵现象。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "斯坦福夫妇则公开否认灵媒影响过创校决定。1885 年，他们把土地、财产与办学目标写进法律文件，留给活着的人执行。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.2 悲伤要去哪里",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后世为斯坦福的创校编过一个很有戏剧性的故事：一对衣着朴素的老夫妇去哈佛捐钱，校长以貌取人，怠慢了他们，夫妇一气之下回到加州，另办一所大学。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个故事流传很广，却没有可靠史料支撑。利兰与简也从来不像传说里那样，是两个不被人认识的乡下老人。一个是铁路巨头和前州长，一个是经常出入欧美上流社会的富豪夫人，哈佛校长很难不知道他们是谁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "真实的经过少一些传奇，多一些丧子父母缓慢而笨重的摸索。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们想过办一所技工学校。横贯大陆铁路进入山区时，利兰深知工程人才不足，也相信教育应该使人具有现实世界中的本领。他们又想过办博物馆。小利兰留下大批收藏，十五岁时已有向公众开放博物馆的愿望，沿着孩子没有走完的路继续下去，顺理成章。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "大学这个主意也并非一夜成形。夫妇访问东部学校，向哈佛、麻省理工、康奈尔和约翰斯·霍普金斯的教育者请教：办一所大学需要多少钱，要花多少年，课程怎么安排，第一步应该做什么。他们问的都是很实际的问题。悲伤慢慢从一个愿望，变成一张可以计算的账。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那句后来不断被复述的“加州的孩子都将成为我们的孩子”，已经无法确定最早出现在哪一个清晨、哪一间房里。斯坦福大学把它保留在官方创校叙事中，因为它说出了夫妇此后所做的事。他们把教育、自立与公共服务写进创校宗旨，把原来投向一个孩子的财产与期待，转向许多素不相识的年轻人。这些话来自父母对儿子的理解，并非小利兰亲自留下的遗愿。",
+          "related_node_ids": [
+            "company:stanford-university"
+          ]
+        },
+        {
+          "id": "stanford-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.3 十一月十一日",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1885 年 3 月 9 日，加州通过专门法律，为私人捐赠创办大学、学院、博物馆和美术馆提供信托通道。八个月后的 11 月 11 日，利兰与简签署《创始捐赠文书》。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这份文件没有小说里的泪水。句子冷静、冗长，写满土地、水权、受托人、表决人数和管理权限。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夫妇把帕洛奥图、维纳和格里德利三处农场及其附属资产交入大学安排。按照斯坦福大学后来的官方口径，原始校园约八千一百八十英亩，创校捐赠的估值约两千万美元。",
+          "related_node_ids": [
+            "company:stanford-university"
+          ]
+        },
+        {
+          "id": "stanford-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "拿到这些财产的不是某一个亲属，而是二十四位受托人。名单里有利兰的弟弟、铁路伙伴、法官和社会名流。董事会开会至少十五人到场，一项决议要有十三票才能通过。没有哪一位叔伯、朋友或经理可以只凭一纸指令来影响学校。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "文书规定，信托财产的本金应当保持完整，大学靠租金、收益与利润维持。董事会可以管理、改良、经营或出租土地。校园所在的帕洛奥图农场后来一直受到严格的出售限制。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夫妇还在文书中划出约十英亩，由大学永久维护，作为他们一家三口最终安葬的地方。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "土地、学校、陵墓，被同一份文件收在一起。那座没有盖起来的家宅，在法律上变成了两种建筑：一处让一家人永远住在一起，一处让陌生的孩子不断进来学习，又不断学成离开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.4 第一任校长",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰不是学者，简也没有受过东部名校的正规高等教育。他们对大学的想象带着美国西部的泥土和机器声。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校从一开始便男女同校，不隶属任何宗派。课程要有文学、艺术和一般修养，也要有科学、工程与职业能力。创校早期，学生原则上只缴注册费，不收学费。夫妇希望，一个没有显赫出身的年轻人也能进入这里，学到足以在现实生活中站稳脚跟的东西。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个教育方向与小利兰的成长方式彼此照应。他既学语言、历史和艺术，也要学会计；在欧洲看古迹，也问玻璃工人的工资。父母原来希望一个孩子既有见识又能做事，后来把同一份期待写给了一所大学。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夫妇确定办学方向以后，请四十岁的鱼类学家戴维·斯塔尔·乔丹从印第安纳大学来做首任校长，把课程、师资与招生交给他。这次分工后来并不彻底，至少在开学以前，铁路商人与职业教育家各自知道自己要做什么。",
+          "related_node_ids": [
+            "person:david-starr-jordan"
+          ]
+        },
+        {
+          "id": "stanford-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.5 十九岁生日那一天",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "校园规划请来纽约中央公园的设计者弗雷德里克·劳·奥姆斯特德。奥姆斯特德主张把主要校舍放在山坡上，顺应起伏的地势，利兰坚持建在平地，理由很简单，往后更容易向四周扩展。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最终留下来的，是一组低矮而开阔的四方院、连拱廊、砂岩墙和红瓦屋顶。它不像东部学院那样紧缩在古老城市里，更像一只还没有填满的容器。棕榈大道从远处笔直伸来，把人带向主方院。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1887 年 5 月 14 日，学校举行奠基仪式。那天是小利兰十九岁的生日，假如他还活着。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父母把日子选在这里，没有必要再写碑文解释。奠基石落下时，一个私人纪念第一次有了公共建筑的轮廓。十九岁的孩子没有站在人群里，许多和他同龄的人会在四年后走进来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "建设并不顺利。设计反复修改，材料和预算互相拉扯，开学日期几次延后。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1891 年 10 月 1 日，学校终于开学。第一学年有五百五十五名学生、十五名教师。女生从第一天就走进课堂，约占学生总数四分之一。新生里既有富家子弟，也有靠廉价教育机会来到西部的年轻人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十七岁的赫伯特·胡佛也在其中。他来自爱荷华，幼年失去父母，后来喜欢说自己是斯坦福的“第一名学生”，理由是他第一个在恩西纳宿舍里睡下。那栋四层砂岩宿舍有大餐厅、电灯和热水，在当时十分气派。三十七年后，这个孤儿成为美国总统。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.6 两年不到",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "开学时，利兰六十七岁，简六十三岁。他们住在校园附近，看着陌生的年轻人穿过拱廊，住进宿舍，占据以儿子名字开设的课堂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简在那一年写道，这所学校生于悲伤，如今已成为他们心中的喜悦。对这对父母来说，开学不是项目完成，更像家里重新有了脚步声。过去只有一个孩子的课程表，如今变成几百份；过去只为一个孩子请教师，如今要为一所学校挑教授。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "法律上的受托治理已经开始，夫妇与学校的情感边界却没有同时建立。他们给它钱，替它选校长，过问校舍和课程。家长与创始人这两个身份，在最初几年几乎没有分开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰只看了不到两年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1893 年 6 月 21 日，他在帕洛奥图突然去世，六十九岁。几天后，他被葬入家族陵墓。又过了几天，小利兰的棺木从旧砖墓室迁来，第三次下葬，停在父亲旁边。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "陵墓里有了两口棺木。校园里，学生已经开始准备第三个学年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-114",
+          "index": 114,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丈夫一死，利兰生前替大学遮住的许多问题同时露了出来。学校有土地、有股票、有建筑，却没有一条完全独立于创始人遗产的现金流。文书已经写好，董事会也已成立，可它仍在许多地方依赖利兰随时注资、担保和调度。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-115",
+          "index": 115,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "创始人一直站在旁边时，许多依赖不容易被看见。人突然倒下，才是真正考验组织能不能自己生存。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-116",
+          "index": 116,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第四章 每月一万美元",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-117",
+          "index": 117,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.1 富有，却没有钱",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-118",
+          "index": 118,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丈夫下葬以后，简面对的并非一笔可以从容支取的巨额遗产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-119",
+          "index": 119,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1893 年的金融恐慌正在席卷美国，银行倒闭，铁路破产。与此同时，联邦政府向利兰的遗产追索中央太平洋铁路的债务，索赔金额是一千五百二十三万七千美元。遗产进入司法程序，大量资产被冻结。",
+          "related_node_ids": [
+            "company:central-pacific-railroad"
+          ]
+        },
+        {
+          "id": "stanford-p-120",
+          "index": 120,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校有大片土地、有铁路证券、有宏伟校舍，却拿不出足够现金发工资。土地不能立刻变成薪水，股份卷在诉讼里，创始人生前随手能做的担保与调度，也随着死亡一并消失。账面上的富有，到了下个月的工资单前，竟派不上用场。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-121",
+          "index": 121,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "法院材料显示，大学当时每月开支约一万九千美元。遗嘱检验法院核给简的家用津贴是每月一万美元。两笔数并不相等，她却把这条私人现金流几乎悉数推向学校，再设法寻找余下的钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-122",
+          "index": 122,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "有人主张暂时关校。简拒绝了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-123",
+          "index": 123,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她关掉维纳牧场和葡萄园的部分经营，卖掉马匹，关闭旧金山宅邸，辞退大部分佣人，只留下跟随多年的华人管家阿荣等少数人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-124",
+          "index": 124,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后世曾流传，她把教授登记成私人仆役，以便从家用津贴里合法发薪。一手记录不足以证实这个说法。可以确认的是，一所大学最紧张时的现金流，确实经过一位寡妇的生活账户。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-125",
+          "index": 125,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她每月拿到钱，再把钱交出去。下个月，又做一遍。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-126",
+          "index": 126,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简还亲赴华盛顿，向总统格罗弗·克利夫兰和司法部门陈说学校困境，请求政府不要让诉讼无限拖延。回到加州后，她在信中说，官司若再拖数年，学校将无力续聘校长和教授。只要能付大学所需，自己靠面包和清水也可以生活。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-127",
+          "index": 127,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校因此没有停课。教授仍走进教室，学生仍在拱廊下穿行。对他们中的许多人来说，幕后那场诉讼很遥远；对简来说，每一张工资单都在问同一个问题：她还撑不撑得过下一个月。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-128",
+          "index": 128,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.2 三口之家以外",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-129",
+          "index": 129,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这段历史常被写成简一个人的英雄故事。她确实是中心，却不是孤身一人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-130",
+          "index": 130,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简的兄长查尔斯·莱思罗普长期参与学校的财务和事务管理，在大学的账目、农场与家族资产之间奔走。利兰的弟弟托马斯·韦尔顿·斯坦福常年住在澳大利亚，经商致富，也担任学校董事。他将三十万美元捐给大学，后来又捐书、艺术品和建设资金，去世后，其主要遗产也进入学校。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-131",
+          "index": 131,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个原生家庭的亲属网络，托住了三口之家已经无法独自承担的一角。可是，这些叔伯与兄长的支持没有变成世袭权。有人管账，有人捐钱，有人坐进董事会，没有人因为血缘自动成为下一任校长，也没有哪一支旁系把大学分作家产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-132",
+          "index": 132,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1896 年 3 月，美国最高法院否定了联邦政府直接向中央太平洋股东遗产追债的依据。危机并未立刻结束，遗产程序还要继续。1897 年，简又向大学交付面值九十万美元的债券，并把住宅赠给学校，只为自己保留终身使用权。到 1898 年，大学终于取得利兰遗赠的二百五十万美元，最危险的阶段才真正缓解。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-133",
+          "index": 133,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从 1893 年丈夫去世到 1898 年遗产款进入学校，五年多时间里，一所看起来拥有巨额捐赠的大学，天天在为现金发愁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-134",
+          "index": 134,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这五年把“财富”拆成了几件不同的东西。土地是财富，却不能发薪；争讼中的股票是财富，却不能马上支付账单；法院允许按月领取的生活费看起来只是小钱，危急时却决定一所学校能否开门。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-135",
+          "index": 135,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "斯坦福夫妇已经立了文书、设了董事会，也把土地交了出去，却没有完全拆掉学校对创始人信用和现金的依赖。利兰之死让这份“半独立”付出代价，简用五年时间把缺口一点点补上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-136",
+          "index": 136,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.3 没卖掉的首饰",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-137",
+          "index": 137,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1897 年，伦敦正在庆祝维多利亚女王登基六十周年。欧洲的王公、贵族与富人聚在城里，简带着自己的珠宝跨过大西洋，想趁这个时机卖出好价钱，补给大学。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-138",
+          "index": 138,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她没有按预期价格卖掉大部分珠宝。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-139",
+          "index": 139,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那些钻石、珍珠、祖母绿和红宝石，原本是镀金时代富家女主人的身份，也是婚姻、宴会与家庭记忆的一部分。危机到来后，简把它们看成可以为学校变现的资产。市场却没有按她期待的价格接手。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-140",
+          "index": 140,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她生前陆续卖掉过一些，余下的带回美国。1899 年，她把尚未售出的首饰交给董事会，最初希望变卖所得用于纪念丈夫的教堂。后来教堂建成，并没有依赖这笔珠宝款。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-141",
+          "index": 141,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1905 年 2 月 13 日，离去世约两周，简重新写信安排：身后出售余下珠宝，把所得投入永久基金，收益专供图书馆买书。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-142",
+          "index": 142,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1908 年，董事会把珠宝变价款与她遗产中的二十万美元铁路债券、约二万六千美元现金合在一起，再由大学资本补足，设成五十万美元的“珠宝基金”。这五十万美元并非珠宝一次卖出的价格，而是几笔资产共同组成的基金本金。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-143",
+          "index": 143,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 2008 年，这笔基金已增长到约两千万美元，仍在为图书馆购书。有些由基金买来的书，扉页贴着一张藏书票，画面上是简把珠宝献给智慧女神雅典娜。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-144",
+          "index": 144,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她在伦敦没有找到理想的买家。后来，一代又一代读者替她慢慢收下了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-145",
+          "index": 145,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简用生活费救过大学，也把珠宝留给尚未出生的读者。危机过去以后，另一个问题来到她面前：她愿意为学校花掉多少已经有了答案，愿意把多少决定交给别人，还没有。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-146",
+          "index": 146,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.4 没有被收养的侄女",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-147",
+          "index": 147,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校并非简唯一要安排的身后事。她还有兄弟、侄女、侄孙，也有跟随多年的秘书和佣人。没有亲生后代，不等于一个人从此没有家族责任。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-148",
+          "index": 148,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简与侄女珍妮·莱思罗普的关系尤其亲近。珍妮的母亲在她还是婴儿时去世，父亲查尔斯一度把孩子交给简照料。利兰不赞成夫妇把珍妮正式收作女儿，简却在往后的许多年里照顾她，把她带在身边。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-149",
+          "index": 149,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1897 年，简专门给乔丹写过一封信，请他替自己保存。那封信没有讨论课程和建筑，谈的是珍妮到底算不算她的女儿。简写得很清楚：她从未收养珍妮，也不愿让外界和珍妮本人误解这层法律关系。她和丈夫最深的父母之爱，已经给了小利兰，不会由另一个孩子取代。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-150",
+          "index": 150,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "信里既有眷恋，也有戒备。她说，自己见过太多人在财产面前改变，贪念会使人抵挡不住诱惑。她希望乔丹不到必要时不要拿出这封信，但若将来有人声称珍妮是养女，便用它为她说明事实。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-151",
+          "index": 151,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她把亲情与法律身份分开：继续照料珍妮，也在信中明确否认收养关系。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-152",
+          "index": 152,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1903 年的遗嘱没有把一切都留给大学。简给兄长查尔斯一百万美元，又以两百万美元设立亲属信托，照顾兄弟、侄女及其后代，另有遗赠给雇员与慈善机构。大学承接未被这些条款处分的余额。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-153",
+          "index": 153,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "等简的遗产分配完成，大学作为剩余受遗赠人实际取得约二十二万七千五百美元及若干财物。大块土地、债券、住宅、珠宝和治理权，早已由简在生前陆续交给学校，不再属于这份遗嘱可以分配的个人财产。她用身后仍在名下的钱照顾亲人，又让学校留在另一条轨道上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-154",
+          "index": 154,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第五章 她仍坐在桌边",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-155",
+          "index": 155,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.1 校园中央的教堂",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-156",
+          "index": 156,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丈夫去世以后，简决定在校园正中建一座纪念教堂。工程从 1899 年持续到 1903 年。她把这座教堂献给利兰，亲自选择经文、诗句、花纹与人物，频繁查看石材、彩窗和马赛克的进度。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-157",
+          "index": 157,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "校方流传着她在阳伞尖端刻下记号、用它检验石雕凹槽深度的故事；校方将这一细节明确标作传说。另有校史资料记载，她穿着长裙走进施工现场，甚至登上高处脚手架查看工程。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-158",
+          "index": 158,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "教堂没有归属某个宗派。简从《圣经》、诗歌和散文中摘取文字，希望不同信仰的人都能走进来。拱顶与墙面上铺着大片马赛克，图稿送到威尼斯制作，再一块块运回加州。十二名工匠为此工作了近两年。施工时，她还明确要求，画面里的女性和男性应得到同等分量。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-159",
+          "index": 159,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "丈夫安葬在陵墓，儿子的名字留在校名里，利兰的纪念又进入校园中央的石墙。一家三口的私人生活，已经在校园里留下墓园、校名、博物馆藏品和一座教堂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-160",
+          "index": 160,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简要求马赛克中的女性与男性分量相当，却在同一时期主张限制女学生人数。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-161",
+          "index": 161,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.2 五百名女生",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-162",
+          "index": 162,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "危机过去后，简仍频繁过问建筑、教师与学生事务，并以幸存创始人的身份保留修改文书的权力。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-163",
+          "index": 163,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1885 年的创校文书写明男女兼收，并要求给予两性平等的设施与机会。在哈佛、耶鲁等东部名校仍主要面向男性的年代，这是一项鲜明承诺。开学第一年，女生已占学生总数约四分之一。到 1899 年，比例接近四成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-164",
+          "index": 164,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简开始担心，以儿子命名的大学会被外界看成一所女子学院。哈佛、耶鲁等东部名校当时仍以男性教育为主，在那个时代的声望坐标里，女性比例太高竟可能被看成学校不够“重要”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-165",
+          "index": 165,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她动用幸存创始人保留的修订权，把女性在校人数上限写成五百人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-166",
+          "index": 166,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十四年前，她与丈夫亲手把平等写进文书；十四年后，她又亲手给平等画了一条线。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-167",
+          "index": 167,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个握有巨大财富、独自参与大学治理的女性，在当时本身已极为罕见。她支持女性入学，却担心女生比例过高会损害学校声望。五百人的限制在 1903 年触顶；直到 1973 年，这项限制才经法院批准从治理文件中彻底删去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-168",
+          "index": 168,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.3 罗斯风波",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-169",
+          "index": 169,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "经济学教授爱德华·罗斯比五百人限额更直接地触碰了简的边界。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-170",
+          "index": 170,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "罗斯由乔丹聘来，讲课有感染力，喜欢公开讨论政治。1896 年美国大选时，他支持自由铸银，站在西部农民与平民主义者一边，批评垄断和铁路资本。斯坦福家的财富恰好来自铁路。简多次要求乔丹处理他，乔丹一直拖延。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-171",
+          "index": 171,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1900 年 5 月，罗斯在旧金山一个工人组织的集会上发表排斥日本移民的言论。这些话带着清楚的种族主义，今天的读者无法把他简单写成言论自由的无瑕英雄。他既批评铁路利益，也传播排亚主张，复杂得让任何一方都难以把他完全收进自己的正义叙事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-172",
+          "index": 172,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当时校内冲突的焦点，却不只在言论内容，还在谁有权决定一位教授因为公开观点而去留。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-173",
+          "index": 173,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同年 11 月，乔丹要求罗斯辞职。罗斯把经过告诉报界，风波迅速扩大。罗斯离校后，另有七名教授辞职抗议，约占当时师资的一成。哲学教授阿瑟·洛夫乔伊等人选择离开，学校在全国学界的声誉受到损害。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-174",
+          "index": 174,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "美国经济学会组织调查，认为有证据显示罗斯的离职与他的公开言论有关。十五年后，洛夫乔伊与约翰·杜威等人参与创建美国大学教授协会，推动学术自由和教职保障。罗斯案对协会诞生究竟有多直接的因果作用，学界没有一致结论；可以确定的是，同一批人都被卷进了这两段历史。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-175",
+          "index": 175,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简没有亲自签发解聘书，但她持续向乔丹施压。她并未越过自己掌握的权限，争议也因此更深：捐赠者有权表达意志，并不等于教授去留应由捐赠者的个人判断决定。她保住了一次意志，学校失去了几位教授。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-176",
+          "index": 176,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.4 第一届学生写下的交权书",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-177",
+          "index": 177,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1903 年 6 月 1 日，简做了一件方向相反的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-178",
+          "index": 178,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她正式放弃《创始捐赠文书》留给幸存创始人的特殊权力，包括继续修改文书的权力。董事会几天后接受移交。此后，她仍作为董事参与事务，也一度担任董事会主席；她没有消失，只是权力的来路变了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-179",
+          "index": 179,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从前，她的一句话之所以有最终分量，因为她是创始人、出资人和幸存的母亲。交权以后，她的正式权力来自一个董事席位。身份权力开始退回职务权力。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-180",
+          "index": 180,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "帮她起草文件的律师乔治·克罗瑟斯，是斯坦福第一届毕业生。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-181",
+          "index": 181,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个母亲办起学校。十二年后，从这所学校走出去的学生回来，替她写下放手的文字。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-182",
+          "index": 182,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们不知道简落笔时怎样想，也不必替她编一场悔悟。罗斯风波是否直接促成这次移交，材料无法给出简单答案。能确认的是，那个曾经坚持亲自规定女生人数、决定教授去留的女人，最终在自己仍有能力签字时，把高于董事会的创始人权力交了出去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-183",
+          "index": 183,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这不是退出所有责任。她仍留在桌边，仍能争论、投票、影响别人。她放弃的是一种不必经过别人同意的最终位置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-184",
+          "index": 184,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简那年七十四岁。两年后，她去世；又过一年，地震会把校园震成废墟。到那时，已经没有创始人可以请示了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-185",
+          "index": 185,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第六章 檀香山最后一夜",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-186",
+          "index": 186,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.1 一口苦水",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-187",
+          "index": 187,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1905 年 1 月 14 日夜里，旧金山诺布山，简睡前喝了一口放在房中的瓶装水。水很苦。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-188",
+          "index": 188,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她立即把手指伸进喉咙催吐，叫来从 1884 年起便跟随她的私人秘书伯莎·伯纳和女仆，继续灌温水。送检以后，化验发现瓶中含有足以致命的士的宁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-189",
+          "index": 189,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "有人试图毒死她。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-190",
+          "index": 190,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简雇了侦探，调查没有找到凶手。她先搬去饭店躲避，又决定离开旧金山，到夏威夷休养。就在这段时间，她重新安排了那批珠宝。对一个七十六岁、刚刚逃过投毒的人来说，这封信至少说明，她已经在处理身后的事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-191",
+          "index": 191,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她带着伯纳和一名新女仆，坐船六天抵达檀香山，住进威基基海边的莫阿纳饭店。1905 年 2 月 28 日白天，她们乘马车到帕里崖一带野餐。饭店准备了煮鸡蛋、三明治、巧克力和姜饼。晚间回房后，伯纳照惯例给她调了一杯小苏打水，缓解胃部不适。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-192",
+          "index": 192,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当晚十一点一刻左右，简在房里呼救。赶到的人看见她牙关紧闭，双腿僵直，手指紧紧攥着。根据在场者证词，她说：“这是一种可怕的死法。”不到午夜，她停止呼吸。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-193",
+          "index": 193,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三名医生先后赶来，没能使痉挛停下。几小时前，她还在帕里崖边吃野餐盒里的煮鸡蛋和姜饼；此刻，饭店房间里的每样寻常东西都可能成为证物。小苏打由谁保管，水是谁倒的，杯子经过谁的手，门在什么时候开过，后来都要由证人重新说一遍。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-194",
+          "index": 194,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个半月里，两次士的宁。第一次留下化验结果，第二次留下尸体与证人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-195",
+          "index": 195,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "檀香山的验尸陪审团从 3 月 4 日开庭，前后听了三天证词。伯纳第一个作证。陪审庭围绕小苏打、水杯和当晚房间的出入情况，连续追问了她的证词。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-196",
+          "index": 196,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "3 月 9 日，陪审团合议约两分钟，一致裁定简死于士的宁中毒，毒物由身份不明的人蓄意放入小苏打中。第二天，当地报纸用醒目的标题宣布：斯坦福夫人被谋杀。这个结论属于当时正式的验尸记录；它仍没有回答谁下了毒。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-197",
+          "index": 197,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.2 两种死因",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-198",
+          "index": 198,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "校长乔丹很快赶到檀香山。他公开否定中毒结论，主张简死于心脏疾病或其他自然原因，并质疑当地医生的判断。他还请一位没有参与验尸、也未见过遗体的当地医生形成支持自然死亡的意见。伯纳此后的说法也出现变化。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-199",
+          "index": 199,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这套解释迅速被报纸转述。此后很长时间，校方沿用的都是自然死亡说。谋杀案渐渐从公开叙事中退下去，乔丹继续担任校长，直到 1913 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-200",
+          "index": 200,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一百年后，斯坦福神经学教授罗伯特·卡特勒重读医疗与验尸记录，认为中毒证据确凿。2022 年，斯坦福历史学家理查德·怀特出版《谁杀了简·斯坦福？》，进一步论证她遭到谋杀，且乔丹等人推动了一场保护学校利益的掩盖。",
+          "related_node_ids": [
+            "person:jane-stanford"
+          ]
+        },
+        {
+          "id": "stanford-p-201",
+          "index": 201,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "怀特的解释建立在大量档案之上，也提出了自己对嫌疑人的判断。案件却从未经过现代司法程序重审。能写成确定事实的，是两次摄入士的宁、檀香山陪审团的裁决，以及乔丹后来公开推动了另一种死因说法。凶手是谁，仍停在历史推论之中。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-202",
+          "index": 202,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "怀特的解释是，校方担心谋杀调查招来丑闻、诉讼，并影响简的遗赠分配。他据此把保护学校及其受赠安排，视为乔丹等人压低中毒说的重要动机。这是现代史家的论证，并非当时司法程序确认的结论。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-203",
+          "index": 203,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1905 年，简的遗体运回加州，葬入丈夫和儿子身边。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-204",
+          "index": 204,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "墓门合上以后，那座屋子里的三口棺木终于齐了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-205",
+          "index": 205,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三口之家的故事到此结束。以儿子名字开始的另一段故事，才走了二十年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-206",
+          "index": 206,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第七章 父母都不在了以后",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-207",
+          "index": 207,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.1 废墟前的董事会",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-208",
+          "index": 208,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1906 年 4 月 18 日清晨，旧金山大地震撼动湾区。强烈震动持续了几十秒，斯坦福校园有两人死亡，许多刚建成不久的建筑倒塌。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-209",
+          "index": 209,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "体育馆毁了，图书馆毁了，纪念教堂的尖塔砸穿屋顶，一百英尺高的纪念拱门也倒在地上，浮雕碎裂。简去世只有十四个月。那些建筑中，有些是她亲自看过图纸、材料与工程进度的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-210",
+          "index": 210,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如今，决定修什么、舍什么的人已经换成董事会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-211",
+          "index": 211,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "工程师估算，重建纪念拱门本体要十三万一千美元，重做浮雕还要再花三万美元，董事会没有批准。体育馆与图书馆也没有原样复建。纪念教堂经过拆修，直到 1913 年才重新开放。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-212",
+          "index": 212,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "校园西北角的家族陵墓却没有倒。检查记录说，没有裂缝。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-213",
+          "index": 213,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "陵墓保存了三个人，纪念拱门却留在旧照片里。这个选择未必符合简的审美和情感，可董事会已经不能再问她。它要在有限资金、教学需要和纪念意义之间自己取舍，也要自己承担以后的人如何评价。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-214",
+          "index": 214,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1903 年那份交权文件，在这里接受了第一次真正的压力测试。交权不是一场体面的仪式，它的后果是，当创始人不在时，后来的人有权舍弃创始人珍爱的东西。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-215",
+          "index": 215,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.2 不能轻易卖掉的土地",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-216",
+          "index": 216,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此后几十年，斯坦福慢慢建立法学院、医学院和教育学院。早期学生赫伯特·胡佛后来以校友和受托人身份参与学校事务。原先由创始人拍板的事，逐渐交给校长、董事会和年度预算。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-217",
+          "index": 217,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "二战结束时，斯坦福还不是后来那座与硅谷彼此塑造的研究型大学。校园周围多是果园，学校土地很多，现金仍不宽裕。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-218",
+          "index": 218,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "工程学教授弗雷德里克·特曼在战争期间主持过大型军事研究实验室。1946 年回校后，他想争取联邦科研经费，也希望高科技企业留在学校附近。他看见东海岸大学怎样把实验室、政府合同与企业连在一起，也不愿让斯坦福训练出的工程人才毕业后全部离开加州。",
+          "related_node_ids": [
+            "person:frederick-terman"
+          ]
+        },
+        {
+          "id": "stanford-p-219",
+          "index": 219,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他面前有一个很朴素的难题：学校有地，缺钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-220",
+          "index": 220,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按一般地主的做法，缺钱就卖地。《创始捐赠文书》却只授权董事会经营或出租土地。1902 年的修订放开了两处外地农场，帕洛奥图农场仍受严格约束。真的要出售，需要额外的法律程序。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-221",
+          "index": 221,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "卖地这条路走不通，租赁便成了可走的路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-222",
+          "index": 222,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.3 九十九年的租约",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-223",
+          "index": 223,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1951年，学校获准筹建斯坦福工业园，并与瓦里安联合公司签下第一份租约。1953年，瓦里安的第一栋大楼落成，园区才真正开门。第一位租户是从校内研究中成长起来的瓦里安联合公司。1951 年 10 月，双方签下十英亩、九十九年的租约，瓦里安预付四万一千美元。第二年，伊士曼柯达为同样面积与租期预付十二万美元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-224",
+          "index": 224,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些早期价格后来看来很便宜。银行需要足够长的租期，才肯为企业建楼提供贷款；学校则需要预付款修路、铺管线。合同还规定，租期结束时，承租人在土地上留下的改良物归学校。后来的租约逐步改为按土地价值计租，并随时间重估。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-225",
+          "index": 225,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "瓦里安之后，惠普、洛克希德、施乐帕洛奥图研究中心等企业陆续进入。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-226",
+          "index": 226,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "瓦里安并非从远方招来的一家成熟公司。1937年，拉塞尔·瓦里安、西格德·瓦里安和物理学家威廉·汉森在斯坦福实验室研制出速调管。这种能够产生强大微波的真空管，后来被用于雷达、航空导航和卫星通信。1948年，瓦里安联合公司从这些校内研究中成立。三年后，它成为工业园的第一个租户。实验室、公司与土地，第一次在这里接到了一起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-227",
+          "index": 227,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "特曼想缩短的，也不只是校园与厂房之间的距离。1954年，他推动设立荣誉合作计划，企业里的工程师可以半工半读，在斯坦福攻读硕士学位，公司则支付较高的学费。教授每周可以拿出一天参与校外咨询，工业园离他们的办公室不过一段自行车路程。教授从企业那里知道工程现场正在遇到什么问题，企业也更容易接触实验室、课程和即将毕业的学生。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-228",
+          "index": 228,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "20世纪50年代末，惠普陆续迁入工业园。到1960年，园区已有四十多家公司，面积扩大到四百五十英亩。1971年初，《电子新闻》记者唐·霍夫勒以《硅谷，美国》为题发表文章，“硅谷”这个名字才开始广泛传播。名字出现得很晚，实验室、租约、公司和工程师之间的往来，已经持续了近二十年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-229",
+          "index": 229,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "就在“硅谷”这个名字出现前一年，斯坦福成立了技术许可办公室，专门处理大学发明的专利与授权。1997年，拉里·佩奇和谢尔盖·布林在校内开发出PageRank；第二年，两人创办Google，斯坦福把相关专利许可给这家学生创业公司。工业园让企业靠近校园，许可制度又让发明走出校园。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-230",
+          "index": 230,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "园区不是硅谷的唯一原因。战争科研、联邦经费、半导体技术、风险资本、湾区文化和大量工程人才，共同推动了这一地区的形成。斯坦福的土地租赁提供了其中一块重要的空间，也把大学与企业放得足够近。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-231",
+          "index": 231,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1885 年，斯坦福夫妇想到的仍是农场、牧场和租金。他们没有预见半导体，更没有预见硅谷。一条为防后人变卖家底而写下的限制，却在六十多年后迫使特曼和校方寻找另一种用地办法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-232",
+          "index": 232,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "创始人没有预测未来，只是关掉了一条容易而不可逆的路。土地因此留到后来的人手里，等到他们发明新的用法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-233",
+          "index": 233,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.3 四百零八亿美元",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-234",
+          "index": 234,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "今天的斯坦福捐赠基金，已经不是把农场租金存进账本那么简单。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-235",
+          "index": 235,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1991 年，斯坦福管理公司成立，负责长期投资。董事会每年决定支取，专业团队配置资产，数以千计的捐赠各有用途约束。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-236",
+          "index": 236,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "截至 2025 年 8 月 31 日，捐赠基金规模为四百零八亿美元。2025 财年，基金向教学、科研、助学等支出十九亿美元。全校有九千四百多个独立的永久基金，大约四分之三的年度支出受到捐赠用途限制。投资收益的一部分用于当年，余下部分继续投入，以维持未来的购买力。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-237",
+          "index": 237,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这与 1885 年那句“本金保持完整”早已不是同一套财务技术，却仍守着相近的节制：今天不能把明天的钱一次用完。斯坦福夫妇留下的私人财富，也早已无法在某个家族账户里找到。它成了土地、基金、租约、投资组合和年度预算，离三个人越来越远，离最初指定的用途仍然很近。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-238",
+          "index": 238,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.4 被拆掉的规矩",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-239",
+          "index": 239,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简写下的女性人数上限，先在 1933 年被董事会停止按绝对人数执行，1973 年又经法院批准彻底删除。罗斯离校带来的争论，则进入美国学术自由的制度史。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-240",
+          "index": 240,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校今天回顾罗斯事件，会同时写两件让人不舒服的事实：他的排亚言论带有种族主义，创始人干预教授去留也伤害了学术自由。任何故事都不是能简单评判是非，总是有它的一体两面。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-241",
+          "index": 241,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "制度不会保证后来者永远正确。它能留下的是修订的可能：旧条款可以被删除，旧档案可以重读，原来不能公开谈论的事，也有机会坦然面对。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-242",
+          "index": 242,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.5 铁路工资册",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-243",
+          "index": 243,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校再往早处查，便查到了那条铁路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-244",
+          "index": 244,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2012 年，斯坦福启动“北美华工研究项目”，由历史学者张少书和文学学者雪莱·费希尔·菲什金共同主持。项目汇集北美与亚洲一百多位研究者，查工资单、公司通信、工地遗物、地图和报纸，也访问四十多位铁路华工后人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-245",
+          "index": 245,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们查阅的公司通信里，有利兰·斯坦福的信；他们研究的工资册，来自创造创校财富的中央太平洋铁路。项目研究估计，工程高峰期有一万至一万五千名华工参与西段铁路建设。",
+          "related_node_ids": [
+            "person:leland-stanford",
+            "company:central-pacific-railroad"
+          ]
+        },
+        {
+          "id": "stanford-p-246",
+          "index": 246,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些人的劳动留在隧道、桥梁和路基里，他们自己的声音却很少进入档案。迄今没有发现一封由筑路华工亲笔写下并保存至今的信件。研究者只能从陶片、工具、薪酬记录、新闻报道和后人的口述里，替沉默的材料补回人的轮廓。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-247",
+          "index": 247,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这与小利兰的书信形成了一种令人难过的对照。一个富豪家的孩子，十岁时在火车上写下歪斜的字，信被家人珍藏，后来进入档案馆；成千上万修铁路的人，却没有留下同样幸运的纸张。历史保存谁的声音，本身就受财富与权力分配影响。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-248",
+          "index": 248,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰曾在政治演说中贬损华人，他的公司后来又大量使用华工。一个多世纪后，以他姓氏命名的大学愿意直面这段历史，去看见光鲜背后的那些阴影。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-249",
+          "index": 249,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这不会替华工补发工资，也无法让死去的人重获公正。研究的意义没有那么万能。它至少拒绝让家族的慈善成就成为遮住财富来路的一块幕布。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-250",
+          "index": 250,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.6 学校回头看创始人",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-251",
+          "index": 251,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2022 年，理查德·怀特出版《谁杀了简·斯坦福？》。他是斯坦福大学历史学系荣休教授。书中不只重查创始人的死，也尖锐追问首任校长与校方如何让自然死亡说压过檀香山验尸陪审团的裁决。",
+          "related_node_ids": [
+            "person:jane-stanford",
+            "company:stanford-university"
+          ]
+        },
+        {
+          "id": "stanford-p-252",
+          "index": 252,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这本书由校内学者写成，学校历史系介绍它，校史学会邀请作者演讲。简若能读到，大概不会喜欢其中许多判断，乔丹更不会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-253",
+          "index": 253,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "变化最清楚的地方就在这里。1900 年，一位教授批评铁路资本，创始人的压力足以让他离开。一个多世纪后，教授可以研究铁路财富、创始人的种族观念、女性限额，甚至大学是否掩盖过一宗谋杀。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-254",
+          "index": 254,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "与此同时，学校也重新给予简公开的位置。2019 年，校园一条重要道路改名为“简·斯坦福路”，承认她在危机中守住大学的贡献。2026 年，坎托艺术中心又以她的礼服、珠宝、私人物品和精神世界为材料举办“简！”展览，展期持续到 2028 年。",
+          "related_node_ids": [
+            "person:jane-stanford"
+          ]
+        },
+        {
+          "id": "stanford-p-255",
+          "index": 255,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这位特殊的继承人保留了“它”的父母的名字，却没有继承他们的沉默。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-256",
+          "index": 256,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第八章 留给后来的人",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-257",
+          "index": 257,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.1 先别问“给谁”",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-258",
+          "index": 258,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "大多数家庭谈传承，最先出现的是一串“给谁”的问题：公司给哪个孩子，股份怎样分，谁进董事会，谁来负责家族基金会。这些问题都要回答。在它们之前，还有一问更容易被跳过：这些财产原本要替这个家完成什么？",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-259",
+          "index": 259,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小利兰去世以后，斯坦福夫妇原先关于“给谁”的安排全部失效了。他们有兄弟与侄辈，财产并非无人可给。他们最后选择大学，是因为重新辨认出一件比接收者更重要的事：原来要给儿子的，还有教育、眼界、自立能力，以及对公共生活的兴趣。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-260",
+          "index": 260,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个孩子不在了，这些期待仍可寻找别的去处。校名保留私人感情，课堂向陌生人开放，家庭纪念由此有了公共用途。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-261",
+          "index": 261,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "斯坦福的选择不适合照搬。它只是提醒每一个准备百年安排的家庭：可以努力培养接班人，也要准备没有人愿意或能够接班。任何必须依靠某个孩子顺利长大、具备能力并接受父母道路才能成立的计划，都把太多风险压在一个人身上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-262",
+          "index": 262,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.2 财富要换一种活法",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-263",
+          "index": 263,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "利兰创造财富时，把资本、政治关系、管理能力和个人声誉集中押在铁路上。当一笔财富要在他死后继续养活一所学校，这种集中却成了弱点。铁路带来利润，也把债务争议带进遗产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-264",
+          "index": 264,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1893 年的危机把两种财富摆在同一张桌上。学校名下的土地与证券估值很高，教授的工资却按月到期，遗产一被冻结，永久机构也会断粮。简每月交出的那一万美元，临时补上了创校安排里缺少的一段现金流。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-265",
+          "index": 265,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1885 年的文书先改变产权，把农场从夫妻名下移给受托人。此后几十年，收益逐渐与家庭开支分开，投资和支取也交给董事会及专业团队。私人家产由此成为有用途约束的长期资本。钱的来处没有改变，能够决定它的人和它要服务的对象变了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-266",
+          "index": 266,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这次转换还有一道很高的门槛：创始人活着时，也不能因为失望或争执随意把财产拿回去。若随时可以收回，机构得到的只是期限很长的借用。夫妇把财产交出去，也让自己受那份文书约束。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-267",
+          "index": 267,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从简用生活费发薪，到今天九千四百多个用途不同的基金，斯坦福走了一个多世纪。长期资本的“长期”，并非钱一直躺在那里，而是人换了、市场变了，原来的任务仍有钱可用，也仍有人要为每次支取负责。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-268",
+          "index": 268,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.3 钱给谁，学校听谁",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-269",
+          "index": 269,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "斯坦福家没有直系后代，却没有抛开亲属。查尔斯参与财务管理，托马斯捐出遗产和收藏，简又用信托和直接遗赠照顾兄弟、侄辈、雇员与慈善对象。与此同时，校园土地和董事会权力已经离开私人遗产。她照顾亲人，却没有把大学切成几份交给侄辈。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-270",
+          "index": 270,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "简自己的经历还说明，贡献与控制权也不能混在一起。她卖马、关宅，把生活费送去发薪，又把珠宝留给图书馆。没有她，学校很可能熬不过最初几年。她因此更难把“我最愿意为它牺牲”和“我最有资格替它决定”分开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-271",
+          "index": 271,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "女性限额与罗斯风波发生时，她都在行使文书赋予的权力。问题在于，出资、创始人身份、董事责任和专业判断被压在同一个人身上。校长知道她可以最终拍板，董事会便很难真正承担责任。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-272",
+          "index": 272,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1903 年交权的分量正在这里。简仍是董事，仍可以争论、投票和影响别人，只是不能再凭创始人身份越过所有人。她没有否认过去的付出，而是替这份付出划定了边界。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-273",
+          "index": 273,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "对一个家庭来说，照顾每位亲人，不等于给每个人同一种资产、职位和表决权。对一个创始人来说，贡献最大，也不等于永远拥有最终的专业判断。把感情、财产和职务分别说清楚，比让后人从分配结果里猜测爱与信任，更不容易伤害关系。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-274",
+          "index": 274,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "8.4 土地与五百名女生",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-275",
+          "index": 275,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "斯坦福夫妇没有设计出完美制度。他们留下过大的创始人权力，也留下女性限额，大学与家族财产的早期隔离不够彻底，差点让学校被遗产诉讼拖垮。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-276",
+          "index": 276,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "斯坦福史上有两条格外适合放在一起看的规定。一条限制出售帕洛奥图土地，一条限制女性学生不超过五百人。它们都来自创始人，都被写进具有法律效力的文件，也都比写下它们的人活得更久。六十多年后，前一条迫使学校用长期租赁发展工业园，后一条却让一代代女性承担一位创始人的时代偏见。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-277",
+          "index": 277,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "规则寿命长，并不自动证明规则写得好。土地条款守住的是一种不可逆的风险：地一旦卖掉，后人很难再买回。它没有指定土地上永远只能养马，也没有规定租给哪家公司，所以特曼仍有调整用途的余地。女性限额守住的却是一个具体结果，把 1899 年对学校声望的忧虑冻结成数字。学生结构改变以后，学校自身也很难把它改掉，最终还要请求法院批准。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-278",
+          "index": 278,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来者仍要有纠正错误的通道。女性限额的删除，需要董事会行动和法院许可；土地用途的改变，则由受托人承担租约、财务和校园后果。程序很慢，却使修改不再取决于某个人一时的好恶。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-279",
+          "index": 279,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "能跨越几代人的规则，大多只守方向和底线。它会关掉某些不可挽回的近路，也会容许后人改办法、承认旧错误，甚至提出创始人不愿听的方案。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-280",
+          "index": 280,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "结语 扉页上的珠宝",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-281",
+          "index": 281,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "斯坦福图书馆有些旧书的扉页上，还贴着简献出珠宝的藏书票。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-282",
+          "index": 282,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "画中的简站在智慧女神雅典娜面前，双手托着首饰。钻石、珍珠和宝石被画得很小，像一捧刚刚从私人生活里取下来的东西。1897 年，伦敦没有人肯按她期待的价格买下它们，此后许多年，珠宝基金却一直在替图书馆买书。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-283",
+          "index": 283,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "书被买回来以后，便不再只服从捐赠者。有人借它学习工程，有人研究女性教育，有人翻查铁路工资册，也有人重新打开檀香山的验尸记录。简的珠宝支付的知识，最后甚至可以用来质疑简自己和她信任的校长。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-284",
+          "index": 284,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "小利兰没有长大。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-285",
+          "index": 285,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "以他名字命名的继承人长大了。它没有把父母忘掉，也没有永远留在父母怀里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-286",
+          "index": 286,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "图书馆里，又有人翻开一本贴着珠宝藏书票的书。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-287",
+          "index": 287,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "思想实验｜1903 年的那份文件",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-288",
+          "index": 288,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把时间拨回 1903 年 6 月。你是七十四岁的简·斯坦福，丈夫死了十年，儿子死了十九年。桌上放着一份法律文件，只差签名。",
+          "related_node_ids": [
+            "person:jane-stanford"
+          ]
+        },
+        {
+          "id": "stanford-p-289",
+          "index": 289,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "签下去，你将放弃幸存创始人的特殊权力，包括修改创校文书的权力。此后，你仍可以坐在董事会里说话、投票，也可能继续担任主席；可是，你不能再以“这是我家的学校”为由，越过董事会改变最后的决定。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-290",
+          "index": 290,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不签，也有充分理由。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-291",
+          "index": 291,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校最缺钱时，靠你的生活津贴开门。你关过宅邸、卖过马，带着珠宝横渡大西洋。许多建筑在你的督促下建起，校名属于你的孩子。你见过校长拖着不执行你的意思，也见过教授公开攻击铁路资本。把权力交出去，他们可能花错钱、用错人，甚至改掉你亲手写下的规矩。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-292",
+          "index": 292,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "签下去的理由同样充分。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-293",
+          "index": 293,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "五百名女生的限制说明，你会在原则产生意外结果时收回承诺。罗斯风波也已经证明，只要出资最多的人一句话就能决定教授去留，校长和董事会便很难真正承担责任。你越能干、越肯付出，这所学校越可能学不会在没有你时做决定。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-294",
+          "index": 294,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "如果你坐在简的位置，会在什么时候签字？你会守住什么，又愿意在自己仍能纠错时交出什么？",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-295",
+          "index": 295,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "历史上的简签了字。替她起草文件的乔治·克罗瑟斯，是这所学校第一届毕业生。两年后，她去世，又过一年，地震摧毁校园。董事会没有创始人可以请示，只能站在废墟前，自己决定哪些建筑重建，哪些不再建起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-296",
+          "index": 296,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到你和你的家族，有没有类似的关键时刻，而在这个关键时刻，你是怎么思考和决策的？",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-297",
+          "index": 297,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "参考文献",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-298",
+          "index": 298,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Stanford University，The Founding Grant with Amendments, Legislation, and Court Decrees，Stanford University，1987 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-299",
+          "index": 299,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "美国联邦最高法院，United States v. Stanford, 161 U.S. 412，United States Reports，1896 。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-300",
+          "index": 300,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "加利福尼亚州最高法院，Estate of Stanford, 49 Cal. 2d 120，California Reports，1957 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-301",
+          "index": 301,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Stanford University，“Chapter 1: The University”，Faculty Handbook，2024 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-302",
+          "index": 302,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Theresa Johnston，“About a Boy”，Stanford Magazine，2003 年 7—8 月。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-303",
+          "index": 303,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Bertha Berner，Mrs. Leland Stanford: An Intimate Account，Stanford University Press，1935 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-304",
+          "index": 304,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Karen Bartholomew，“Pearls for Wisdom”，Stanford Magazine，2008 年 7—8 月。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-305",
+          "index": 305,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Melissa De Witte，“Academic Freedom’s Origin Story”，Stanford Report，2023 年 5 月 1 日。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-306",
+          "index": 306,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Richard White，Who Killed Jane Stanford? A Gilded Age Tale of Murder, Deceit, Spirits, and the Birth of a University，W. W. Norton & Company，2022 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-307",
+          "index": 307,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "〔美〕张少书著，周旭译，《沉默的钢钉：铸就美国大铁路奇迹的中国劳工》，文化发展出版社，2021 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-308",
+          "index": 308,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Gordon H. Chang、Shelley Fisher Fishkin（编），The Chinese and the Iron Road: Building the Transcontinental Railroad，Stanford University Press，2019 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-309",
+          "index": 309,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Gordon H. Chang、Shelley Fisher Fishkin、Hilton Obenzinger 等，Geography of Chinese Workers Building the Transcontinental Railroad: A Virtual Reconstruction of the Key Historic Sites，Chinese Railroad Workers in North America Project / CESTA，2018 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-310",
+          "index": 310,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Jon Sandelin，“The Story of the Stanford Industrial/Research Park”，International Forum of University Science Park, China / Stanford University，2004 年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-311",
+          "index": 311,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Stanford University，“Finances”，Stanford Facts，2025—2026 财年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "stanford-p-312",
+          "index": 312,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Stanford Quake ’06 Centennial Alliance，Stanford University and the 1906 Earthquake，Stanford University，2006 年。",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
       "story_id": "insight:surname-as-brand",
       "title": "姓氏的力量，家族的品牌",
       "series_no": null,
@@ -117342,6 +126418,1692 @@ window.ARTICLE_DATA = {
           "kind": "list",
           "level": null,
           "text": "- Dennis T. Jaffe (2020) Borrowed from Your Grandchildren: The Evolution of 100-Year Family Enterprises",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:family-council-governance",
+      "title": "家族会议不是聚会，是治理",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 12,
+      "topic": "conflict",
+      "source_files": [
+        "洞察/家族洞察 12：家族会议不是聚会，是治理.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "family-council-governance-p-001",
+          "level": 1,
+          "title": "家族洞察 12：家族会议不是聚会，是治理"
+        },
+        {
+          "id": "family-council-governance-p-009",
+          "level": 2,
+          "title": "圣诞节的午餐桌"
+        },
+        {
+          "id": "family-council-governance-p-015",
+          "level": 2,
+          "title": "每年重温一遍的十六条"
+        },
+        {
+          "id": "family-council-governance-p-021",
+          "level": 2,
+          "title": "一张晚餐桌"
+        },
+        {
+          "id": "family-council-governance-p-026",
+          "level": 2,
+          "title": "没有会议桌的家族"
+        },
+        {
+          "id": "family-council-governance-p-031",
+          "level": 2,
+          "title": "这个会怎么开"
+        },
+        {
+          "id": "family-council-governance-p-040",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "family-council-governance-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 12：家族会议不是聚会，是治理",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么有些家族传了六代还紧紧抱在一起，有些不到三代就散了？大多数人会说：因为血缘近、感情深。可真相刚好反过来：血缘只负责把人变成亲人，不负责让亲人一直是亲人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2011年12月初的一个清晨，巴黎，凯旋门附近一家不挂招牌的会所。爱马仕家族的成员陆陆续续到了，五十多位。有人从瑞士来，有人从美国来，大多数人平日不在公司上班，各有各的营生。这样大规模的聚齐，连家族里的老人也没见过几回。",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "主持会议的是大家长伯特兰·皮埃什。一年多以前，LVMH的老板阿尔诺给他打过一个电话，说自己手里已经握着爱马仕百分之十七的股份。那通电话之后，家族里商量了一年，这天是来做决定的。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "律师把方案一条条念了：家族把过半数的股份放进一家控股公司，锁定二十年，谁也不许卖。按市值算，锁进去的是八十亿欧元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "念完，皮埃什开口：赞成者请起立。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "五十多个人，几乎同时站了起来。人群里，古尔朗家的一位堂兄弟喊了一句：“今晚，我为自己是爱马仕家族一员而更加自豪！”",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族传到第六代，两百多口人，堂亲之间的血缘早就淡了。多数人一辈子不碰经营，公司分红是他们唯一的联系。按常理，这样一群人里但凡有几个想套现，阿尔诺就赢了。可他们站起来，没有一个人犹豫。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "圣诞节的午餐桌",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "先讲一顿吃了一百年的饭。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "洛克菲勒家有个规矩，每年全家族聚两次。六月在哈德逊河谷的波坎蒂科山庄，那是老洛克菲勒传下来的祖居；圣诞节期间在纽约城，上百口人，坐下来吃一顿午餐。饭桌上说的事，一年一个样，又年年差不多：各房这一年投资做得怎么样，慈善项目办到了哪一步，家里添了谁，谁的事业上了新台阶。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "孩子满二十一岁，才有资格上这张桌子。头一回入席的年轻人，要站起来当着全家做自我介绍。介绍完，坐下，从这天起他就是洛克菲勒家的一个大人了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个规矩从第三代立下，开到今天没有断过。第七代人还在这张桌上吃饭。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "我们来看看另外一个同时期的家族，铁路大王范德比尔特家，老科尼利厄斯咽气的时候是全美国最有钱的人，家底不输洛克菲勒。可他一走，各房就散了，没有人继承那张桌子的规矩，也没有人觉得需要聚在一起。1973年，范德比尔特家族历史上头一回开家庭聚会，到场的后代里，找不出一位百万富翁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "每年重温一遍的十六条",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "日本的龟甲万，八个家族合伙酿了三百多年酱油。八家人，几百口，怎么就没散？",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们的日历上也有每年两次的聚会，聚会有一件固定要办的事：把家族宪章拿出来，重温一遍。宪章十六条，定稿于1926年。第一条，绝不争斗，始终彼此尊重。第四条，以品格而非财富评价人。第十六条，重大事务切勿独断。一百年了，年年拿出来，对着当年的事情议：哪件事办得合规矩，哪件事差点越了线。",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第十六条不是说说的。1960年代末，茂木家的子弟茂木友三郎提议去美国建厂。董事会把方案否了。他改了再提，又被否。第三次，才通过。工厂后来落在威斯康星，把龟甲万的酱油摆进了美国人的厨房。这么大的功劳，当初也得规规矩矩过三遍会。八个家族用两次否决告诉他：在这里，没有一个人说了算的事。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "再往前，还有一桩更磨人的。1917年八家合并，各家都有自家的牌子，新公司用谁的？这件事从合并那天议起，议了二十三年，到1940年才定下来：连实力最强的那一支本家，也让出了用惯的名号，全体接受“龟甲万”。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "遵照宪章的决定，没有一个人不服。此后八家再没为品牌红过一次脸。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一张晚餐桌",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "爱马仕家也有自己的一套。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "现任掌门阿克塞尔·杜马斯，每年两次，把第七代的二十几位堂兄弟姐妹请来吃饭。这顿饭不谈生意。他讲家族的历史，讲家里信什么、不做什么，讲到兴起，就搬出巴尔扎克小说里那些败落的家族，敲打这群年轻人。他有一句口头禅：“我们每个人都排在第二位，真正的老大，永远是爱马仕。”",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "总部三楼，第三代掌门埃米尔的办公室原样留着。家族成员隔三差五带自己的孩子上去，看看曾祖辈工作过的桌子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一顿饭，一间旧办公室，一句翻来覆去讲的老话。2011年那个清晨，五十多个人几乎同时站起来的那一下，就是这些小事攒出来的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "没有会议桌的家族",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "而反例，我们在古驰家族中看到过。",
+          "related_node_ids": [
+            "company:gucci",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这个家族三代人的恩怨里，找不到一张能坐下来说事的桌子。祖父在的时候，一切他说了算。祖父不在了，谁的嗓门大、谁的律师狠，谁说了算。每一次纷争，最后都走到夺权、上法庭。家族留下的最接近“家族会议”的一份记录，是1982年7月的一场董事会：保罗和父亲、兄弟们当场扭打起来，他的口袋里，还揣着一台打开的录音机。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四年后，八十一岁的阿尔多因为儿子的检举进了监狱。再往后，是1995年米兰街头的那几声枪响。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "古驰家不缺聪明人，不缺钱，三代人里也不是没有过和好的机会。他们缺的是：一张定期坐下来沟通的桌子，一个吵架可以不出家门的地方。没有这些，等到非说不可的那天，能坐下来的地方，就只剩法庭了。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "这个会怎么开",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三星李家的人上一次到齐，是在2015年，一场葬礼上。长子李孟熙去世，早已分了家的兄弟姐妹，数十年来第一次聚齐。很多家族都是这样：平日各忙各的，真正坐到一起，不是红事就是白事。偏偏这两个场合，最不适合谈事。",
+          "related_node_ids": [
+            "person:lee-maeng-hee"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族会议要趁无事的时候开。至于具体怎么开，长寿家族的实践和家族治理领域的研究，已经沉淀出一套成熟的章法。归纳起来，是六条原则。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一，明确会议定位，区分治理层级。家族会议不是股东会，也不是董事会。企业的经营决策由董事会负责，家族会议处理的是家族自身的事务：成员关系、财富规则、下一代培养、共同的价值观。两类会议一旦混同，角色就会相互干扰，经营上的强势者会压过家族中的长辈，家事也会被当作业务来裁决。在规模上则要分层：成年成员十五人以内，可以召开全员会议直接议事；超过十五人，应当分设两层，即家族大会与家族理事会。家族大会覆盖全体成员，每年一到两次，职能是信息通报、成员教育与情感凝聚；家族理事会由五至九人组成，作为常设机构，负责制定家族政策、衔接企业董事会与家族办公室，每年召开四到六次。十五人的分层标准，来自哈佛商学院约翰·戴维斯的研究。洛克菲勒家族第三代的“兄弟会议”，实质就是一个家族理事会：五兄弟定期聚会协商重大事项，再向全家族的聚会通报。",
+          "related_node_ids": [
+            "tool:family-office",
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二，固定会议周期。家族大会每年至少一次，建议两次，并将日期固定下来。洛克菲勒家族定在六月和圣诞节，一百年未变。固定会期有三重作用：免除每次逐一协调时间的成本；让缺席成为一个需要郑重权衡的决定；让全体成员对家族的相聚形成稳定的预期。同时应确立一条配套原则：出席自愿，不因个别成员缺席而停开。会议的权威来自它的连续性，不来自每一次的到场率。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三，界定参与范围。谁有资格与会，应当事先成文，而不是每次临时斟酌。配偶原则上应当纳入：将姻亲排除在外，猜疑往往由此而生，何况他们是家族下一代的父母。通行的处理方式是把会议分为两个部分：涉及家族历史、教育与公共事务的部分，配偶与子女均可参加；涉及股权与财务的部分，仅限直系血亲或持股人。子女的参与要设定明确的年龄门槛：十二三岁起可以列席旁听，到约定的年龄正式获得席位。洛克菲勒家族把这个年龄定在二十一岁，新成员首次入席时要当众自我介绍。这道门槛的意义不在于限制，而在于让进入家族议事成为一项正式的成年资格。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四，设计均衡的议程。议程不能只有财务。家族企业研究者阿伦诺夫与沃德提出过“四等分”的议程结构：四分之一用于事务通报，包括企业经营与家族财务；四分之一用于学习，包括财富教育、信托与税务知识；四分之一用于家族本身，即历史与价值观的讲述和讨论；四分之一用于联谊与休闲。洛克菲勒家族的圣诞午餐就是这个结构：投资与慈善的通报是事务，长辈讲创业史是传承，新成员介绍与各房近况是联结，午餐本身是团聚。比例失衡的后果很明确：议程全部是财务，家族会议就退化为股东会；全部是叙旧，就退化为普通聚餐。两者都承担不了治理的功能。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第五，确立议事规则。规则宜少，但必须成文，并被全体遵守。核心的几条：发言不受打断；讨论对事不对人；公司职务止步于会议室门外，会上只有家族成员的身份，没有上下级；主持人轮值，让年轻一代轮流主导会议，防止会议演变为家长的一言堂。每次会议应形成纪要，记录三项内容：议定了什么、由谁执行、何时完成。下一次会议的第一项议程，就是核对上次决议的执行情况。有跟进，决议才成其为决议；没有跟进，开会只是聊天。洛克菲勒家族还有一条不成文的补充规则：成员之间不得为各自的慈善项目相互劝募。凡是可能带来人情负担的事项，都预先排除在这张桌子之外。",
+          "related_node_ids": [
+            "family:rockefeller-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第六，从低敏感议题启动。从未开过家族会议的家族，首次会议应当有意降低难度：议题避开钱与股权，从三类低敏感、高共识的内容切入，即家族历史、家族价值观、子女教育。场地选择中性地点，不在家中，也不在公司。若对会议的把控没有把握，前几次可以聘请外部引导人主持，由中立的第三方保证每位成员的发言机会。首次会议只须达成一个最低目标：把下一次会议的日期确定下来。会期一经确立，这项制度就立起来了；此后逐年运转，它的权威会随次数累积。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到巴黎那间会所。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "散了会，五十多位爱马仕家族的成员各自回去，回自己的国家，做自己的营生。他们中的很多人，这辈子不会去公司上一天班。可他们知道，往后还会再见，像他们的父辈、祖辈一样，一年两次，一直见下去。",
+          "related_node_ids": [
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "判断一个家族能不能传下去，不看血缘亲不亲，看一件事：他们有没有一张定期坐下来的桌子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 《爱马仕家族故事：一门手艺的六代传承》《百年洛克菲勒：从石油巨擘到慈善先驱的传奇之路》《八个家族，一碗酱油：龟甲万的360年共治奇迹》《金色双G的阴影：古驰家族百年兴衰》《三星家族故事：当一个王朝决定不再世袭》",
+          "related_node_ids": [
+            "story:kikkoman",
+            "story:samsung",
+            "story:rockefeller",
+            "story:hermes",
+            "company:kikkoman",
+            "company:gucci",
+            "company:hermes",
+            "family:hermes-family",
+            "family:gucci-family"
+          ]
+        },
+        {
+          "id": "family-council-governance-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Craig E. Aronoff & John L. Ward (2011) Family Meetings: How to Build a Stronger Family and a Stronger Business, Palgrave Macmillan",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Ivan Lansberg (1999) Succeeding Generations: Realizing the Dream of Families in Business",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Dennis T. Jaffe (2020) Borrowed from Your Grandchildren: The Evolution of 100-Year Family Enterprises",
+          "related_node_ids": []
+        },
+        {
+          "id": "family-council-governance-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- James E. Hughes Jr., Susan E. Massenzio & Keith Whitaker (2022) Complete Family Wealth: Wealth as Well-Being",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:rules-need-teeth",
+      "title": "光有家训不够，还得有家法",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 13,
+      "topic": "rules",
+      "source_files": [
+        "洞察/家族洞察 13：光有家训不够，还得有家法.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "rules-need-teeth-p-001",
+          "level": 1,
+          "title": "家族洞察 13：光有家训不够，还得有家法"
+        },
+        {
+          "id": "rules-need-teeth-p-008",
+          "level": 2,
+          "title": "家训不等于家法"
+        },
+        {
+          "id": "rules-need-teeth-p-014",
+          "level": 2,
+          "title": "一个人写的，和一家人写的"
+        },
+        {
+          "id": "rules-need-teeth-p-020",
+          "level": 2,
+          "title": "纸的牙齿"
+        },
+        {
+          "id": "rules-need-teeth-p-026",
+          "level": 2,
+          "title": "写完之后"
+        },
+        {
+          "id": "rules-need-teeth-p-030",
+          "level": 2,
+          "title": "家族宪章的起草要领"
+        },
+        {
+          "id": "rules-need-teeth-p-037",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "rules-need-teeth-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 13：光有家训不够，还得有家法",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么有的家规传了十代还管用，有的连一代人都守不住？大多数人会说：区别在条文写得周不周全。可未必。盛宣怀的遗命比范仲淹的十三条订得精密得多，一年多就被拆了；范家那十三条漏洞不少，倒管了九百年。家规的命，不在条文订得密不密。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1064年，开封。殿中侍御史范纯仁给宋英宗上了一道奏折，说的是自家的家事。",
+          "related_node_ids": [
+            "person:fan-chunren"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的父亲范仲淹去世十二年了。父亲晚年在苏州置下一千亩义田，亲手订了十三条规矩，供养全族。如今出了事。奏折里写得直白：“今诸房子弟有不遵规矩之人，州县既无敕条，本家难为申理，五七年间，渐至废坏。”家里有人不守规矩，官府没有法条可引，家族自己又治不了他，短短几年，义庄眼看要废。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十三条里写了怎么罚，没写罚不动了怎么办。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范纯仁请皇帝把这个窟窿补上：义庄子弟违反规矩的，准许官府受理。英宗批了。同一年，范纯仁把父亲的十三条刻上石头，立在天平山下。",
+          "related_node_ids": [
+            "person:fan-chunren"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一份家规，父亲写了条文，儿子补了牙齿。此后八百多年，这套规矩一直管用。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "家训不等于家法",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "传家的文本，其实有两种。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "曾国藩留下的是第一种。八本家训：读书以训诂为本，事亲以得欢心为本，居家以不晏起为本，居官以不要钱为本。加上孝、勤、恕三字，加上祖传的八字诀，再加上近一千五百封家书。曾家每天清晨诵读祖训，两百年里出了两百多位人才，家训功不可没。",
+          "related_node_ids": [
+            "person:zeng-guofan"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可是把这些文本翻遍，找不到一条讲怎么分产，找不到一条讲管事的人怎么选、犯了规怎么罚。曾国藩不需要：他不蓄积银钱，家里没有多少共同的产业要治理。",
+          "related_node_ids": [
+            "person:zeng-guofan"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹留下的是第二种。十三条里没有一句大道理，条条都在办事。米怎么发：逐房按人头，每口每天一升，不分嫡庶。钱怎么给：嫁女三十贯，再嫁二十贯；娶妇二十贯，再娶不支。账怎么对：各房手里一本领米的历子，掌管人手里一本总簿，每月月底两本一对。人怎么管：掌管人敢挪用，“许诸房觉察，勒赔填”，各房都有权揭发，查实了照数赔。荒年怎么办也排进了条文：丰年存下两年的粮；存粮不够，丧葬的支出排在嫁娶前面。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "曾家的文本教人怎么做人，范家的文本规定钱怎么走、账怎么对、犯了规怎么赔。前一种是家训，回答我们信什么；后一种是家法，回答出了事怎么办。一个家族两样都需要，多数家族只有前一样。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "一个人写的，和一家人写的",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1916年4月，上海。盛宣怀在弥留之际口授遗命：家产每年收益分作十份，五份做善举，五份分给五房；本金共有，永不拆分。执行机构他也设计好了：至善堂议会，八位名流任议员，另有八位顾问；董事会每周开会，重大决策须全体同意。",
+          "related_node_ids": [
+            "person:sheng-xuanhuai"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "论精密，这套设计远在范氏十三条之上。论下场：五房处处掣肘，数月之内，总经理和副经理双双辞职，议会停摆；一年多后，家族妥协，议定一半家产由五房抽签分领。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "毛病不在条文，在条文的来路。这套规矩从头到尾是一个人定的，五房子孙自始至终是被告知的人，不是商量的人。没有参与过的规则，就没有人真心认账。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "龟甲万的十六条，走的是另一条来路。1917年八个家族合并，家族宪章到1926年才定稿，中间隔了八九年。起草本身就是一场漫长的谈判：谁执笔，措辞听谁的，条文里会不会藏着哪一支的私心，一样一样都得谈拢。谈出来的十六条，八家都认。",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution",
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当代的例子，是香港的李锦记。2002年前后，李文达设立家族委员会，七个人，他们夫妇加五个子女，主席轮流做。委员会每季度开一次会，一次四天，一年合计十六天，迟到罚两千港元。李锦记的家族宪法，就是在这些会上一条一条议出来的：不准离婚，不准有婚外情，违者自动退出董事会；第五代要进公司，先在外面工作三到五年，应聘和考核的标准同外人完全一样；董事长必须是家族成员，行政总裁可以外聘。宪法要改，须家族委员会百分之七十五以上通过。",
+          "related_node_ids": [
+            "tool:family-council",
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "纸的牙齿",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "规矩议出来、写下来，还不算完。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范纯仁的办法，是借官府的牙齿：奏请朝廷，让私家的规矩接上国家的强制力。现代家族的办法，是把宪章里最要命的条款，落进有法律效力的文件里。",
+          "related_node_ids": [
+            "person:fan-chunren"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "福特家族1956年上市时，把家族的底线写进了公司章程：B类股只许家族成员、后代和家族信托持有，转让给外人，自动降级为普通股；只要家族手里的B股不跌破章程写定的数量，家族合计就握有百分之四十的投票权。这不是君子协定，是章程条款，七十年过去，无人撼动。爱马仕的H51也一样：一份一致行动人协议，家族百分之六十二点八的股权里，百分之五十点二锁死二十年，白纸黑字，违约有责。",
+          "related_node_ids": [
+            "tool:family-trust",
+            "concept:family-trust",
+            "company:hermes",
+            "family:ford-family"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "行业里对此有一套通行的分层：愿景和价值观写在宪章里，靠认同维持；涉及产权和利益的条款，必须落进有强制力的法律文件。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "普华永道2023年的全球家族企业调研里，百分之七十四的受访家族说成员之间有信任；建立了冲突解决机制的，只有百分之十九。剩下的八成，出了事只能临场发挥。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写完之后",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "宪章最常见的死法，是写完就锁进了抽屉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范氏义庄的九百年，是一边守一边改走过来的。1083年，有人钻了租佃的空子，族里补了一条：任何人不得租佃义田，冒名顶替的同罪。1196年重建义庄，新增了科举奖学金：子弟赴考有资助，反复应考的减半，报了名无故不去的，退钱。连“报名不考”这种事都想到了。到清末，规矩累积到上百条，范仲淹最初的十三条，一直放在卷首。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "玛氏家族的五大原则里，最核心的“互惠”一条，雏形是弗雷斯特·玛氏1947年写给公司的一封信，1980年代由第三代编纂成文。到了第四代，文本没动，动的是解释：同样的原则，用来回答上一代没遇到过的新问题。",
+          "related_node_ids": [
+            "person:forrest-mars-sr",
+            "concept:five-principles",
+            "family:mars-family"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "家族宪章的起草要领",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把这几家的经验归拢起来，落到操作层面，是五条要领。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一，区分家训与家法，分别成文。价值观、家风与行为期望属于家训层，用叙述性语言表达，不设罚则；就业、股权、分红、退出、冲突解决属于家法层，每一条都必须可执行、可裁决。两层内容可以合在同一部宪章之内，但条款性质必须分明。用家训的语言书写家法的事项，是常见的失败原因：条文只有期望而无标准，出了事无从裁决。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二，组成跨支系的起草小组，预留充分的周期。起草小组以五至八人为宜，覆盖各支系与各代际；行业通行的节奏，是每六至八周集中讨论一次，历时十二至十八个月成稿。起草过程本身就是建立共识的过程，其价值不低于文本本身；由家长单方面颁布的文件，无论条文如何周全，都难逃盛家的结局。分歧较大的议题，可聘请外部引导人主持，保证各方立场得到完整表达。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三，四类程序条款必须写入。其一，家族成员就业政策：进入企业的前提条件与考核标准。李锦记的做法，是先在外部工作三至五年，应聘与考核的标准同非家族成员完全一致。其二，股权与退出：谁有资格持股，退出时如何定价，家族是否享有优先回购权。其三，冲突解决与解释权：分歧须先经家族内部程序处理，处理不成，再诉诸外部法律途径；条文的最终解释权归属何处，应当写明。其四，修订程序：设定修订的提案与表决门槛，李锦记定为家族委员会百分之七十五以上通过。没有修订条款的宪章，要么僵死，要么被随意改写。",
+          "related_node_ids": [
+            "tool:family-council",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四，把关键条款落入法律文件。家族宪章本身在多数法域不具强制执行力，其中涉及产权与重大利益的条款，须分别落地为有法律效力的安排：股权与分红条款写入股东协议与公司章程，财产隔离通过信托完成，婚姻财产约定落入婚前协议，就业政策纳入公司人事制度。宪章负责凝聚共识，法律文件负责提供强制力，两层缺一不可。福特的B类股条款写在公司章程里，爱马仕的H51是一份股东协议，两家最硬的规矩，都没有停留在宪章层面。",
+          "related_node_ids": [
+            "tool:family-constitution",
+            "concept:family-constitution",
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第五，设定重温与修订机制。宪章应当每年至少一次在家族会议上重温，对照当年的实际事务检视执行情况；每三至五年做一次整体审视，按修订程序更新过时的条款。一次写就、永不再碰的宪章，与没有宪章相差无几。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "曾国藩说过：“凡家道所以可久者，不恃一时之官爵，而恃长远之家规。”",
+          "related_node_ids": [
+            "person:zeng-guofan"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这句话里的“家规”，曾家做了一半，用家训养出两百年的人才；范家做了全套，家训与家法并立，走了九百年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "判断一份家规管不管用，不看它写得多漂亮，看三件事：它是不是一家人一起议出来的，它有没有接上法律的牙齿，写完之后每年还有没有人把它拿出来对照着用。",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范纯仁那道奏折，补的就是第二件。",
+          "related_node_ids": [
+            "person:fan-chunren"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》《从耕读之家到中兴名臣：曾国藩的传世智慧》《晚清首富的荣耀与隐痛：盛宣怀家族的兴衰启示录》《八个家族，一碗酱油：龟甲万的360年共治奇迹》《一锅蚝汁熬出的百年家业：李锦记家族的传承之道》《福特家族：一只怀表、一个姓氏与五代传承的故事》《爱马仕家族故事：一门手艺的六代传承》《不上市的“甜蜜”帝国：揭秘玛氏家族掌控百年的隐秘之道》",
+          "related_node_ids": [
+            "story:kikkoman",
+            "story:sheng-xuanhuai",
+            "story:fan-yizhuang",
+            "story:zeng-guofan",
+            "story:mars",
+            "story:lee-kum-kee",
+            "story:hermes",
+            "story:ford-family",
+            "person:fan-zhongyan",
+            "person:sheng-xuanhuai",
+            "person:zeng-guofan",
+            "company:kikkoman",
+            "company:fan-yizhuang",
+            "company:lee-kum-kee",
+            "company:hermes",
+            "family:hermes-family",
+            "family:mars-family",
+            "family:ford-family"
+          ]
+        },
+        {
+          "id": "rules-need-teeth-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Craig E. Aronoff & John L. Ward (2011) Family Business Governance: Maximizing Family and Business Potential, Palgrave Macmillan",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- PwC (2023) Global Family Business Survey: Transform to Build Trust",
+          "related_node_ids": []
+        },
+        {
+          "id": "rules-need-teeth-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Ivan Lansberg (1999) Succeeding Generations: Realizing the Dream of Families in Business",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:exit-by-rules",
+      "title": "留人靠感情，放人靠规矩",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 14,
+      "topic": "conflict",
+      "source_files": [
+        "洞察/家族洞察 14：留人靠感情，放人靠规矩.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "exit-by-rules-p-001",
+          "level": 1,
+          "title": "家族洞察 14：留人靠感情，放人靠规矩"
+        },
+        {
+          "id": "exit-by-rules-p-007",
+          "level": 2,
+          "title": "没有门的房子"
+        },
+        {
+          "id": "exit-by-rules-p-016",
+          "level": 2,
+          "title": "两个价签"
+        },
+        {
+          "id": "exit-by-rules-p-024",
+          "level": 2,
+          "title": "到点就走的合伙人"
+        },
+        {
+          "id": "exit-by-rules-p-030",
+          "level": 2,
+          "title": "体面也是条款"
+        },
+        {
+          "id": "exit-by-rules-p-036",
+          "level": 2,
+          "title": "退出条款的设计要领"
+        },
+        {
+          "id": "exit-by-rules-p-043",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "exit-by-rules-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 14：留人靠感情，放人靠规矩",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为什么有的家族先后走了好几拨人，家业越传越稳；有的家族走一个人，就把整份家业撕成两半？答案听起来该是感情。可感情越好的家族，越不敢把散伙两个字摆上桌面，真到有人要走，反而毫无准备。留人靠感情，放人靠规矩。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "德国南部有个小镇，黑措根奥拉赫。一条奥拉赫河把镇子分成两岸，一岸的人穿阿迪达斯，一岸的人穿彪马。两岸的人很少通婚，各去各的酒馆，各买各的面包。镇上的人养成一个习惯：跟陌生人搭话之前，先低头看一眼对方脚上的鞋，再决定开不开口。这个镇因此得了个绰号，低头看鞋的城市。",
+          "related_node_ids": [
+            "company:puma",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两家公司出自同一间作坊、同一对兄弟。1924年，达斯勒兄弟在这里创办运动鞋厂，哥哥鲁道夫管销售，弟弟阿道夫管技术。1929年，兄弟俩签了一份合伙协议，分利润、定分工，写得清清楚楚。可它没写三件事：谁来拍板，配偶能不能插手生意，闹翻了怎么体面散伙。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来找上门的，全是协议里没写的事。妯娌不和，战时防空洞里一句听岔了的话，去纳粹化审查里的相互指证。1948年，兄弟俩分家：厂房、机器、专利一件件分清，销售人员跟着哥哥走，技术人员留给弟弟，连母亲和姐姐都各站了一边。哥哥带走的那间小厂，后来叫彪马。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "地盘分完了，规矩一条没立。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "没有门的房子",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1967年，古驰家做过一次干净的内部回购。三兄弟里的瓦斯科去世，没有子嗣，他那三分之一的股份到了遗孀手里。阿尔多和鲁道夫合资把她手里的股份买下，一人一半，股份没有流出家门。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那一次，退出的是死者的股份，钱一付，事就了了。到了下一代，想走的是活人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "保罗·古驰，阿尔多的次子，第三代里最有实权的人。1980年，他想做一个自己的品牌，被父亲逐出管理层，父亲还放话：哪家供应商敢跟保罗合作，就断哪家的货。保罗想走，走不掉；想留，留不下。他手里剩下百分之三点三的股份。被逐出门后，他一状接一状，把官司打到了自家人头上。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这百分之三点三，后来成了撬动整个家族的杠杆。1984年前后，堂弟毛里齐奥找上门。一年前鲁道夫去世，毛里齐奥继承了父亲那一半股份，差的就是过半的那一点。他出两千万美元买下保罗的股份，条件之一是保罗撤销对家族的全部诉讼。凑够表决权，毛里齐奥把伯父阿尔多赶下了台。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "剩下的事，一步接一步。1989年，阿尔多把剩下的约百分之十六，低价卖给了投资公司Investcorp。1993年，负债累累的毛里齐奥被同一家投资公司逼宫，交出董事长职务，把手里全部股份也卖了。七十二年的家族企业，到这一年，再没有一股在姓古驰的人手里。",
+          "related_node_ids": [
+            "company:gucci"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "黑措根奥拉赫那边，退场的方式更难看。彪马被一份天价代言合同拖进亏损，鲁道夫的两个儿子往公司里注了六千二百万德国马克的私人借款，没能填上窟窿。1987年9月，债主开口了。德意志银行的人对长子阿明说：“你失去了你的公司。”1989年，银行做主，把达斯勒家百分之七十二的彪马股份卖了出去，达斯勒家的继承人们最后分到手的，只有两千万马克出头。十八年后彪马再次易主，估值将近七十一亿美元。",
+          "related_node_ids": [
+            "company:puma"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿迪达斯那边，阿道夫的儿子霍斯特为了让四个妹妹退出日常管理，送了每人一份股权厚礼。1987年他猝然去世，四十八小时后，姐妹们到他子女的门口，逼着签继承文件。1990年，急于脱手的姐妹们把公司百分之八十的股份，卖给了法国商人贝尔纳·塔皮。塔皮的买款全靠银行贷款，卖价四亿四千万马克，只有外界估值的一半。签约那天，姐妹们提了最后一个请求，跟价格无关：她们希望确认，往后还能凭员工折扣，在公司商店里用八折买阿迪达斯的鞋。",
+          "related_node_ids": [
+            "person:bernard-tapie",
+            "company:adidas"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "中间人不敢相信自己的耳朵。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "两个价签",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "退出这道题，香港的李锦记做过两次，两次都是用钱硬答的。",
+          "related_node_ids": [
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一次在1972年前后。第三代李文达想把蚝油生意往前带，几位叔伯想守着现状，谈不拢，最后以钱了断：李文达和父亲李兆南联手，出约四百六十万港元，买断了叔伯们手里的股份。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-siu-nam"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二次在1986年前后。弟弟李文乐几年前查出鼻咽癌，身体每况愈下，太太开始为身后打算：与其把身家系在一家由大伯说了算的公司里，不如趁早套现离场。兄弟一度闹上法庭。为了凑买断的钱，李文达抵押了黄竹坑的厂房，四处举债，把自己逼到破产边缘，最后以约八千万港元，买下弟弟手里约四成的股权。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-man-lok"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "钱付清了。买断之后，兄弟俩再没有往来。父亲李兆南1988年去世，到死没等到两个儿子和好。李文达晚年在演讲里说：“我的弟弟因为家族业务与我意见分歧，以致不与我往来，我至今十分痛心难过。”",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "person:lee-siu-nam"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两次买断，两个价签：四百六十万，八千万。公司一年比一年值钱，买断的价钱也就一次比一次高。再来第三次，不管发生在谁和谁之间，可能谁也买不起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三次差点真的来了。1990年代末，李文达和儿子李惠森起了分歧。叔伯可以买断，弟弟可以买断，总不能连儿子也买断出局。这一次，父子俩换了个思路：不再事到临头谈价钱，把退出提前写进规矩。2002年前后，李锦记设立家族委员会，定出了一部家族宪法，其中写明：只有血缘家族成员能持股；家族成员想退出，股份由家族按事先约定的规矩回购，不能卖给外人。这些条款出自李惠森历年对外的介绍，真正落地执行，靠的是宪法底下配套的股东协议和公司章程。想走的人，从此可以带着钱、带着体面从容离场，不必把整条船凿沉。",
+          "related_node_ids": [
+            "tool:family-council",
+            "person:lee-man-tat",
+            "person:lee-wai-sum",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2021年，他们又设了股东委员会，把“家族成员”和“股东”两个身份进一步拆开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "到点就走的合伙人",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "日内瓦的百达银行，把退出的规矩定到了最死。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这家银行1805年创立，到今天由合伙人共同持有。规矩是这样的：合伙人到岁数必须退休，通常是六十五岁；退休时，股份不能在市场上卖给出价最高的人，也不能传给子女，只能按账面价值卖回给现任合伙人集体。没有市场溢价，也没有例外。哪怕你是百达家族的直系后代，也不能从父亲手里继承一股。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "退出的钱，来自新合伙人的买入。新人由现任合伙人集体挑选，靠贷款买入股权，用往后的分红慢慢偿还。老一代的退出款，就是新一代的入场费。配套还有一条：父子不能同时做合伙人，兄弟之间也不行；家族里的候选人，要由非家族合伙人来评估。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两百二十年，这家银行一共只有四十七位管理合伙人，平均四年多才进一个人。现任七位合伙人里，姓百达的只有两位。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "比这更狠的版本，写在1812年的一份遗嘱里。罗斯柴尔德家的老迈尔临终前，把生意里的全部股份和财产，以十九万古尔登的压低价格“卖”给五个儿子，遗嘱里另有两条硬规矩：合伙人想打官司解决内部纠纷，上庭之前先缴一笔罚款；谁有意叛离，只能拿法定最低份额，而且按十九万这个压低的基数来算，还要扣掉从前得过的一切赠与。半个世纪后，那不勒斯支系的当家人跟着他效忠的旧王朝一起退场，堂兄弟们把他赎买出局，分行清盘，人带着钱体面离开，定居日内瓦。他是这个家族第一个被赎买出局的合伙人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "体面也是条款",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "退出安排里最容易漏的一项，不是钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1987年李秉喆去世，集团传给第三子李健熙。落选的子女没有净身出户：长子一系分走CJ，长女分走韩松，五女分走新世界百货。主干企业免于分割，几个卫星集团各自上路，今天的CJ和新世界百货都是行业巨头。单看设计，这套分家挑不出毛病。",
+          "related_node_ids": [
+            "person:lee-byung-chul",
+            "person:lee-kun-hee"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可2012年，长子李孟熙还是把弟弟告上了法庭：2008年，特别检察官查出父亲留下的一批借名股份，他要分回自己的那一份，标的约四万亿韩元。官司打了两年，两审都是他输。从那以后，李秉喆的忌日要办两场祭祀。一个父亲，两处香火，同一个时辰。分家给了资产，没给名分。",
+          "related_node_ids": [
+            "person:lee-maeng-hee",
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同样是韩国财阀，LG家的具氏与许氏两姓合伙五十七年，2005年和平分家，韩国媒体称之为“漂亮的分手”。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "把体面落成白纸黑字，香港的郑家最近做过一次。2024年9月，新世界发展的第三代郑志刚辞任行政总裁。声明写得克制，实质是被迫退场，但退场的方式是设计过的：集团把他创办的K11品牌管理业务剥离出来，作价约两亿港元卖给他名下的私人公司，另签三十年商标许可。家族信托里的所有权一股没动，他交出经营权，带走了自己一手做起来的事业。2025年6月，他辞去剩下的董事职务，彻底退出新世界。",
+          "related_node_ids": [
+            "tool:family-trust",
+            "person:adrian-cheng",
+            "concept:family-trust",
+            "company:new-world-development"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "退出条款的设计要领",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这几家踩过的坑、立住的规矩，写到条款里是下面五条。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一，退出通道必须预设，触发情形逐项写明。退出不止“想走”一种。自愿退出、身故、失能、离婚、破产、违规除名，每一种都会让股份的去向悬而未决，每一种都应当预先写明处理程序。退出的规矩，要趁没人想走的时候立：达斯勒兄弟1929年的合伙协议写清了利润与分工，没写散伙的程序，等到用得上的时候，已经没有人能坐下来谈。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二，定价公式事先写定。退出争议的核心是价格，价格的争议只能靠事先约定的公式消解。可选的路径有三条：固定公式，如账面价值或利润倍数；定期评估，每年更新一次估值备用；争议时聘请第三方独立评估。百达银行选了最严的账面价值，价格从源头上失去了争议的余地；罗斯柴尔德家用压低的估值基数惩罚叛离者。公式未必让每个人满意，但公式先于冲突存在，价钱就吵不起来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三，买方顺位与资金来源一并写明。接手股份的顺序，通行的安排是家族其他股东优先，其次家族控股平台，最后公司回购。资金要提前备置：为身故情形配置人寿保险，为大额回购约定分期付款的年限与利息；爱马仕家族的控股公司，每年拿出利润的三分之一回购流通在外的股份。李锦记的教训就在这里：1986年那次买断，没有预设的资金安排，买方只能临时抵押厂房、四处举债。",
+          "related_node_ids": [
+            "company:lee-kum-kee",
+            "company:hermes",
+            "family:hermes-family"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四，防外流条款成套配置。回购承诺之外，还须写明：股份转让给家族以外的任何人之前，家族享有优先购买的权利；退出者使用公司商号、家族姓氏与商标的边界；必要的竞业与保密义务。爱马仕的教训在此：两百多位成员分散持股，没有一致行动协议，敞开的二级市场让外人悄悄买到近两成，摊牌之后又增持到两成多，家族亡羊补牢，才把过半股份一锁二十年。法国的穆里耶兹家族做得更彻底：上千名家族股东共同持有欧尚、迪卡侬等一批企业，公司一家不上市，股份只能在家族内部流转，未经家族集体同意不得卖给外人。防外流不能指望感情，要把分散的卖出权集中成一份协议。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第五，体面条款与经济条款并重。退出安排做到最后，剩下的是名分：对外口径由双方共同拟定；退出者保留的身份，如荣誉董事、家族大会的席位，写进条款；交接配一个正式的场合。三星的分家给足了资产，最后仍换来一场约四万亿韩元的官司，输就输在名分。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "判断一个家族的股权安排靠不靠得住，看它给想走的人留了怎样一扇门：什么时候能走，按什么价走，走了之后，还是不是一家人。这三件事写清楚了，走的人体面，留的人安心。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "黑措根奥拉赫的墓园里，鲁道夫和阿道夫的墓分在斜对角的两端，那是那块地能拉开的最远距离。",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 《低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场》《金色双 G 的阴影：古驰家族百年兴衰》《一锅蚝汁熬出的百年家业：李锦记家族的传承之道》《守夜人的誓约：百达家族220年的财富守望》《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》《三星家族故事：当一个王朝决定不再世袭》《周大福的金，新世界的债》《爱马仕家族故事：一门手艺的六代传承》",
+          "related_node_ids": [
+            "story:samsung",
+            "story:gucci",
+            "story:rothschild",
+            "story:lee-kum-kee",
+            "story:hermes",
+            "story:zhou-dafu",
+            "story:patek-philippe",
+            "story:dassler",
+            "company:puma",
+            "company:gucci",
+            "company:lee-kum-kee",
+            "company:hermes",
+            "company:adidas",
+            "company:chow-tai-fook",
+            "family:rothschild-family",
+            "family:hermes-family",
+            "family:gucci-family",
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "exit-by-rules-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Albert O. Hirschman (1970) Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States, Harvard University Press",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Craig E. Aronoff & John L. Ward (2011) Family Business Ownership: How to Be an Effective Shareholder, Palgrave Macmillan",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Ivan Lansberg (1999) Succeeding Generations: Realizing the Dream of Families in Business",
+          "related_node_ids": []
+        },
+        {
+          "id": "exit-by-rules-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- IMD Business School, The Mulliez Family Business: Unlocking the Secrets of Entrepreneurial DNA (A/B), case study",
           "related_node_ids": []
         }
       ]

@@ -1,6 +1,224 @@
 window.KNOWLEDGE_DATA = {
-  "generated_at": "2026-07-12",
+  "generated_at": "2026-08-28",
   "nodes": [
+    {
+      "id": "story:stanford",
+      "type": "story",
+      "title": "三个人的家，一百四十岁的继承人：斯坦福家族故事",
+      "summary": "斯坦福大学的法定全名是小利兰·斯坦福大学：一个 1884 年死于伤寒、差两个月满十六岁的少年。 铁路巨头夫妇没有第二个孩子，他们在创始捐赠文书里把儿子放在立遗嘱人的位置，自己退到执行人的位置， 给家产另找了一位继承人。丈夫死后遗产被冻结，简·斯坦福用每月一万美元的家用津贴替大学发薪五年， 带着珠宝渡海求售；1903 年她亲手签字放弃幸存创始人的特权，两年后死于士的宁投毒，凶手至今无名。 这位一百四十岁的继承人保留了父母的名字，却没有继承他们的沉默。",
+      "path": "knowledge/stories/stanford.md",
+      "frontmatter": {
+        "id": "story:stanford",
+        "type": "story",
+        "title": "三个人的家，一百四十岁的继承人：斯坦福家族故事",
+        "series_no": 37,
+        "families": [
+          "family:stanford-family"
+        ],
+        "regions": [
+          "美国",
+          "加州"
+        ],
+        "industries": [
+          "铁路",
+          "教育",
+          "大学"
+        ],
+        "core_questions": [
+          "唯一的继承人不在了，财产原本要替这个家完成的事，还能去哪里？",
+          "账面富有的机构为什么会在创始人死后立刻断粮，永久资本靠什么活过遗产诉讼？",
+          "贡献最大的人什么时候该交出最终决定权，交给谁，怎么交？"
+        ],
+        "concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance",
+          "concept:constraint-as-power",
+          "concept:separation-of-rights"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "family_governance_signature": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+        "risk_profile": "创校安排没拆掉学校对创始人信用与现金的依赖，利兰一死大学差点断粮； 创始人权力过大时，出资最多的人一句话就能决定教授去留、给女生人数画线， 规则寿命长并不自动证明规则写得好。",
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "story:lee-kum-kee",
+      "type": "story",
+      "title": "一锅蚝汁熬出的百年家业：李锦记家族的传承之道",
+      "summary": "1888 年，珠海南水的李锦裳煮蚝忘了看火，把一锅蚝汁熬成了蚝油。一百三十八年后，这门生意传到第五代， 蚝油在香港市占超过七成。中间隔着两次以钱了断的分家：买断叔伯花了四百六十万港元， 买断亲弟弟花了八千万，兄弟从此不相往来。第三次危机轮到父子，李文达终于明白买断治标不治本， 给家族立了一部连他自己也要遵守的宪法。每年四次，全家飞回香港把四天会议坐满， 用这种办法提醒自己：一家人坐在一起，不是一件理所当然的事。",
+      "path": "knowledge/stories/lee-kum-kee.md",
+      "frontmatter": {
+        "id": "story:lee-kum-kee",
+        "type": "story",
+        "title": "一锅蚝汁熬出的百年家业：李锦记家族的传承之道",
+        "series_no": 36,
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "regions": [
+          "香港",
+          "广东",
+          "澳门"
+        ],
+        "industries": [
+          "调味品",
+          "食品",
+          "保健品"
+        ],
+        "core_questions": [
+          "靠买断维系的团结一次比一次贵，第三次谁也买不起时，家族换什么活法？",
+          "一部管得住家长本人的家族宪法，和挂在墙上的家训，差别在哪里？",
+          "把血缘题改成能力题之后，怎么让不缺钱也不缺出路的下一代自己愿意回来？"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control",
+          "concept:separation-of-rights",
+          "concept:succession-training"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "family_governance_signature": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+        "risk_profile": "宪法原文从未公开，法律强制力存疑，全凭这一代人真信；价值观管得住家人管不住几十万经销商， 无限极风波烧掉六成业绩；第五代不太想接班，而自愿恰恰是制度设计不出来的东西。",
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "story:samsung",
+      "type": "story",
+      "title": "三星家族故事：当一个王朝决定不再世袭",
+      "summary": "1938 年大邱的三星商会卖干鱼和面条，八十二年后它的名字与一个国家绑在一起。 为了把三星传下去，第一代废长立幼，次子进过监狱、向青瓦台告发过父亲；第二代设计了教科书级的 环形持股，自己两次受审两次特赦；第三代为继承坐了两次牢。2020 年 5 月，李在镕当众鞠躬： 我不会把经营权传给我的子女。一个不惜一切代价完成世袭的家族，最终由第三代亲手按下王朝的停止键。",
+      "path": "knowledge/stories/samsung.md",
+      "frontmatter": {
+        "id": "story:samsung",
+        "type": "story",
+        "title": "三星家族故事：当一个王朝决定不再世袭",
+        "series_no": 35,
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "regions": [
+          "韩国",
+          "首尔",
+          "大邱"
+        ],
+        "industries": [
+          "半导体",
+          "电子",
+          "综合财阀"
+        ],
+        "core_questions": [
+          "一家干鱼铺变成三星共和国，家族在治理、传承、教育、关系四件事上各付了什么账？",
+          "以百分之一二的真实持股统治帝国的楔子，为什么每隔十年就与司法迎头相撞？",
+          "为什么按下王朝停止键的，是这个家族自己？"
+        ],
+        "concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity",
+          "concept:professionalization",
+          "concept:governance-complexity",
+          "concept:founder-shadow"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "family_governance_signature": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+        "risk_profile": "一人体制假设王座上的人永远清醒，控制中枢悬于公司法之外，权力无限而责任无址， 政商共生每十年与司法相撞一次，择贤制让每个落选者觉得自己被亏欠。",
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
     {
       "id": "story:dassler",
       "type": "story",
@@ -3772,6 +3990,77 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "family:samsung-lee-family",
+      "type": "family",
+      "title": "三星李氏家族",
+      "summary": "1938 年李秉喆在大邱用三万圆开出三星商会，把干鱼生意做成了占韩国股市两三成的三星共和国。 三代人为世袭付出的代价在财阀里无出其右：第一代废长立幼、次子告发父亲后被逐， 第二代两次受审两次特赦，第三代为继承坐牢约 560 天、缴清十二万亿韩元遗产税。 2020 年李在镕鞠躬承诺不再把经营权传给子女，第四代李智浩在海军服役，不会继承三星。 王朝八十八年，最后一课是学习放手。",
+      "path": "knowledge/families/samsung-lee-family.md",
+      "frontmatter": {
+        "id": "family:samsung-lee-family",
+        "type": "family",
+        "title": "三星李氏家族",
+        "regions": [
+          "韩国",
+          "首尔",
+          "大邱"
+        ],
+        "industries": [
+          "半导体",
+          "电子",
+          "综合财阀"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity",
+          "concept:professionalization",
+          "concept:governance-complexity",
+          "concept:founder-shadow"
+        ],
+        "source_stories": [
+          "story:samsung"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_signature": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+        "risk_profile": "一人体制假设王座上的人永远清醒，控制中枢悬于公司法之外，权力无限而责任无址， 政商共生每十年与司法相撞一次，择贤制让每个落选者觉得自己被亏欠。",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "family:toyoda-family",
       "type": "family",
       "title": "丰田家族",
@@ -4311,6 +4600,67 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "family:stanford-family",
+      "type": "family",
+      "title": "斯坦福家族",
+      "summary": "铁路四巨头之一利兰·斯坦福与妻子简结婚十八年才得独子，孩子十五岁死于伤寒。 这个只有三口人的家没有再指定亲属继承，而是在 1885 年的创始捐赠文书里给财产另找了一位继承人： 一所以儿子命名的大学。丈夫死后遗产被冻结五年，简用每月一万美元的生活津贴替学校发薪； 1903 年她在自己仍能签字时交出了幸存创始人的特权。家族陵墓在校园的树林里， 三口棺木齐了，以儿子名字命名的继承人今天有四百零八亿美元捐赠基金。",
+      "path": "knowledge/families/stanford-family.md",
+      "frontmatter": {
+        "id": "family:stanford-family",
+        "type": "family",
+        "title": "斯坦福家族",
+        "regions": [
+          "美国",
+          "加州"
+        ],
+        "industries": [
+          "铁路",
+          "教育",
+          "大学"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance",
+          "concept:constraint-as-power",
+          "concept:separation-of-rights"
+        ],
+        "source_stories": [
+          "story:stanford"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_signature": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+        "risk_profile": "创校安排没拆掉学校对创始人信用与现金的依赖，利兰一死大学差点断粮； 创始人权力过大时，出资最多的人一句话就能决定教授去留、给女生人数画线， 规则寿命长并不自动证明规则写得好。",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "family:zeng-family",
       "type": "family",
       "title": "曾氏家族",
@@ -4355,6 +4705,71 @@ window.KNOWLEDGE_DATA = {
         "governance_signature": "曾氏家族把修身、家书、教育和日常纪律组织成可复制的家族治理方法。",
         "risk_profile": "个人德性难以制度化、仕宦风险、家训被后代形式化执行、公共责任与家族利益混同。",
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "family:lee-kum-kee-family",
+      "type": "family",
+      "title": "李锦记李氏家族",
+      "summary": "1888 年李锦裳在珠海南水把一锅熬过头的蚝汁做成了蚝油，五代人之后，李锦记的酱料卖到一百多个国家， 蚝油随神舟飞船进了太空舱。这个家族真正的功课不在生意在人心：1972 年买断叔伯花了四百六十万港元， 1986 年买断亲弟弟花了八千万，兄弟从此不相往来。第三次危机轮到父子，李文达终于明白买断了断不了下一次， 于是立了一部连家长也要遵守的家族宪法，每季度雷打不动开四天家族委员会。 千年计划才走了一百多年，第五代接不接，还没有答案。",
+      "path": "knowledge/families/lee-kum-kee-family.md",
+      "frontmatter": {
+        "id": "family:lee-kum-kee-family",
+        "type": "family",
+        "title": "李锦记李氏家族",
+        "regions": [
+          "香港",
+          "广东",
+          "澳门"
+        ],
+        "industries": [
+          "调味品",
+          "食品",
+          "保健品"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control",
+          "concept:separation-of-rights",
+          "concept:succession-training"
+        ],
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_signature": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+        "risk_profile": "宪法原文从未公开，法律强制力存疑，全凭这一代人真信；价值观管得住家人管不住几十万经销商， 无限极风波烧掉六成业绩；第五代不太想接班，而自愿恰恰是制度设计不出来的东西。",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -6212,6 +6627,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:leland-stanford",
+      "type": "person",
+      "title": "利兰·斯坦福",
+      "summary": "加州铁路四巨头之一（1824-1893），做过加州州长和联邦参议员，1869 年在横贯大陆铁路合龙仪式上 举起银锤。政治、商业与公共工程挤在同一张桌上，是他财富上升最快的时期，也是家族史最难擦去的 阴影：他在州长就职演说里贬损华人移民，他的公司后来靠上万华工凿通内华达山脉。 独子死后，他与妻子创办大学，坚持校舍建在平地：往后更容易向四周扩展。",
+      "path": "knowledge/people/leland-stanford.md",
+      "frontmatter": {
+        "id": "person:leland-stanford",
+        "type": "person",
+        "title": "利兰·斯坦福",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:yue-kong-pao",
       "type": "person",
       "title": "包玉刚",
@@ -6727,6 +7168,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:leland-stanford-jr",
+      "type": "person",
+      "title": "小利兰·斯坦福",
+      "summary": "斯坦福夫妇唯一的孩子（1868-1884），大学以他命名。会抱回断腿的流浪狗、替女佣的侄子刷鞋， 在农场跟工人待一整天；收藏古物在家中三楼办小博物馆，十五岁就想在旧金山办一座向公众开放的 考古博物馆。父亲要求他学会计，理由是即使财富长了翅膀飞走也要养得活自己。 1884 年死于伤寒，距十六岁生日差两个月。大学奠基日选在他十九岁生日那天。",
+      "path": "knowledge/people/leland-stanford-jr.md",
+      "frontmatter": {
+        "id": "person:leland-stanford-jr",
+        "type": "person",
+        "title": "小利兰·斯坦福",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:thomas-j-watson-jr",
       "type": "person",
       "title": "小托马斯·J·沃森",
@@ -6914,6 +7381,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:frederick-terman",
+      "type": "person",
+      "title": "弗雷德里克·特曼",
+      "summary": "斯坦福工程学教授，战时主持大型军事研究实验室，1946 年回校面对一个朴素难题：学校有地，缺钱。 创始捐赠文书禁售土地，卖地走不通，他把路走成了九十九年的长期租约：1951 年斯坦福工业园 迎来第一个租户瓦里安，此后惠普、洛克希德、施乐陆续进入。硅谷这个名字 1971 年才出现， 实验室、租约、公司和工程师之间的往来已持续近二十年。",
+      "path": "knowledge/people/frederick-terman.md",
+      "frontmatter": {
+        "id": "person:frederick-terman",
+        "type": "person",
+        "title": "弗雷德里克·特曼",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:forrest-mars-sr",
       "type": "person",
       "title": "弗雷斯特·玛氏",
@@ -7020,6 +7513,32 @@ window.KNOWLEDGE_DATA = {
           "concept:succession-training"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:david-starr-jordan",
+      "type": "person",
+      "title": "戴维·斯塔尔·乔丹",
+      "summary": "斯坦福首任校长，四十岁的鱼类学家，从印第安纳大学受聘而来，把课程、师资与招生一手办起。 1900 年在简·斯坦福持续施压下要求经济学教授罗斯辞职，七名教授辞职抗议，风波进入 美国学术自由的制度史。1905 年简死后他赶到檀香山公开否定投毒结论、推动自然死亡说， 现代史家怀特认为这是一场保护学校利益的掩盖。他做校长到 1913 年。",
+      "path": "knowledge/people/david-starr-jordan.md",
+      "frontmatter": {
+        "id": "person:david-starr-jordan",
+        "type": "person",
+        "title": "戴维·斯塔尔·乔丹",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -7229,6 +7748,344 @@ window.KNOWLEDGE_DATA = {
           "concept:succession-training"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-kun-hee",
+      "type": "person",
+      "title": "李健熙",
+      "summary": "三星第二代会长（1942-2020），11 岁被送往东京，三年孤独期看了一千二百部电影、拆遍旧机器。 1974 年用私房钱买下濒破产的韩国半导体公司，1987 年接班，1993 年在法兰克福讲了 68 天 350 小时： 除了老婆孩子，一切都要换。1995 年把十五万台不良手机当众烧掉。 他把三星电子市值做大约四百倍，也留下爱宝债券的继承地道，两次受审两次特赦， 2014 年心梗后卧床六年半，再没说过一句传到外界的话。",
+      "path": "knowledge/people/lee-kun-hee.md",
+      "frontmatter": {
+        "id": "person:lee-kun-hee",
+        "type": "person",
+        "title": "李健熙",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-siu-nam",
+      "type": "person",
+      "title": "李兆南",
+      "summary": "李锦裳三子、李文达之父，第二代三兄弟各管一摊守成几十年。1972 年第一次分家时站在儿子一边， 父子同心买断几位叔伯，把所有权收拢到自己一房。他晚年眼睁睁看着文达、文乐两个儿子 因第二次买断形同陌路，1988 年带着这份遗憾去世。常给儿孙讲父亲除夕烧赊账单的故事。",
+      "path": "knowledge/people/lee-siu-nam.md",
+      "frontmatter": {
+        "id": "person:lee-siu-nam",
+        "type": "person",
+        "title": "李兆南",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-jae-yong",
+      "type": "person",
+      "title": "李在镕",
+      "summary": "三星第三代会长（1968 年生），27 岁拿到父亲 60.8 亿韩元种子资金，从爱宝债券起步走完继承管道， 也为这条管道付出约 560 天监禁和八年八个月司法纠缠，2025 年合并案终审全案无罪。 2020 年 5 月 6 日他鞠躬承诺不把经营权传给子女，随后认下十二万亿遗产税分五年缴清， 全程未卖一股三星电子。四大财阀总帅中唯一未进董事会的会长，权力无限，责任无址， 而他是这个体系里把账本看得最清楚的人。",
+      "path": "knowledge/people/lee-jae-yong.md",
+      "frontmatter": {
+        "id": "person:lee-jae-yong",
+        "type": "person",
+        "title": "李在镕",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-maeng-hee",
+      "type": "person",
+      "title": "李孟熙",
+      "summary": "李秉喆长子（1931-2015），东京大学出身，1966 年萨卡林案后以代理人身份接管集团， 十四个月后被废，父亲在自传里只给了他一句话，他在回忆录里逐字反驳。 韩国民间叫他三星的思悼世子。2012 年以 81 岁高龄起诉弟弟争夺遗产，败诉； 2015 年在北京离世，韩国媒体感慨家族数十年来第一次聚齐，场合是葬礼。",
+      "path": "knowledge/people/lee-maeng-hee.md",
+      "frontmatter": {
+        "id": "person:lee-maeng-hee",
+        "type": "person",
+        "title": "李孟熙",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-boo-jin",
+      "type": "person",
+      "title": "李富真",
+      "summary": "李健熙长女，新罗酒店掌门，2026 年六度连任 CEO，遗产分配中按三比二比一分得三星生命三分之一。 她与集团普通职员的婚姻曾被举国传颂为平民驸马童话，十五年后以离婚诉讼收场， 法院判给前驸马 141 亿韩元，不到她身家的百分之一。 财阀婚姻从联盟工具走到个人选择只用了两代人，但个人选择仍要以王朝的方式结算。",
+      "path": "knowledge/people/lee-boo-jin.md",
+      "frontmatter": {
+        "id": "person:lee-boo-jin",
+        "type": "person",
+        "title": "李富真",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-wai-sum",
+      "type": "person",
+      "title": "李惠森",
+      "summary": "李文达幼子，家族宪法与思利及人价值观最主要的设计者和布道者，无限极创始人。 年轻时因反对父亲卖掉一块亏钱生意与父亲僵持两年，一度想离开家族另起炉灶， 这场父子危机逼出了家族委员会。他提出让李锦记活一千年的千年计划：家族退出经营， 只留所有权与治理，把公司挂上自动波。他也承认这部宪法不刻在石头上，后代随时可以改写。",
+      "path": "knowledge/people/lee-wai-sum.md",
+      "frontmatter": {
+        "id": "person:lee-wai-sum",
+        "type": "person",
+        "title": "李惠森",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-wai-hung",
+      "type": "person",
+      "title": "李惠雄",
+      "summary": "李文达次子，主管海外市场。家族第三次危机后，父亲派他出去看看外国那些传了上百年的家族怎么办， 他跑了瑞士、英国、美国、日本，看了几年，回来搭起家族委员会的架子。 这套治理日后被弟弟李惠森讲成哲学、写成畅销书，当年取经搭台的是他。",
+      "path": "knowledge/people/lee-wai-hung.md",
+      "frontmatter": {
+        "id": "person:lee-wai-hung",
+        "type": "person",
+        "title": "李惠雄",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-man-lok",
+      "type": "person",
+      "title": "李文乐",
+      "summary": "李文达的亲弟弟，叔伯退出后公司仅有的两大股东之一。哥哥要扩张他要求稳， 1982 年前后查出鼻咽癌，太太为身后打算力主套现离场，兄弟谈不拢闹上法庭。 1986 年前后李文达以约八千万港元买下他约四成股权，此后兄弟再无往来。 被买断的这一房从家族对外的历史里消失了，父亲李兆南 1988 年带着遗憾去世。",
+      "path": "knowledge/people/lee-man-lok.md",
+      "frontmatter": {
+        "id": "person:lee-man-lok",
+        "type": "person",
+        "title": "李文乐",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-man-tat",
+      "type": "person",
+      "title": "李文达",
+      "summary": "李锦记第三代掌门（1929-2021），把一间上下二十来人的华埠蚝油铺做成全球最大蚝油生产商。 1972 年与父亲联手买断叔伯股份，1986 年抵押厂房举债约八千万港元买断亲弟弟，兄弟从此不往来， 他晚年说至今十分痛心难过。也正是他，肯把自己放进家族宪法的规矩里：开会迟到照样罚款， 决定可以被子女否决。2007 年央视问企业长久的秘诀，他在小黑板上写了五个字：家和万事兴。",
+      "path": "knowledge/people/lee-man-tat.md",
+      "frontmatter": {
+        "id": "person:lee-man-tat",
+        "type": "person",
+        "title": "李文达",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-chang-hee",
+      "type": "person",
+      "title": "李昌熙",
+      "summary": "李秉喆次子，1966 年替家族扛下萨卡林走私案入狱。出狱后被父亲冷落， 1969 年做出儒教伦理里等同于弑父的举动：向青瓦台递检举信举报父亲。 朴正熙没有立案，把信转给了李秉喆，政权要的是财阀的效忠而非家丑。 他被逐出家门远走美国，留下的集团 2000 年倒闭。家族为世袭付出的第一笔血税记在他名下。",
+      "path": "knowledge/people/lee-chang-hee.md",
+      "frontmatter": {
+        "id": "person:lee-chang-hee",
+        "type": "person",
+        "title": "李昌熙",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-ji-ho",
+      "type": "person",
+      "title": "李智浩",
+      "summary": "李在镕之子（2000 年生），按三代世袭的旧规矩本该是第四代总帅。 父亲 2020 年承诺不传经营权后，他 2025 年放弃美国国籍进入韩国海军军官候补生学校， 12 月授衔少尉，服役期 39 个月，选了周期最长的军官役。 股票会传下去，王冠不传了；他用一身军装回答了没人问过他的问题。",
+      "path": "knowledge/people/lee-ji-ho.md",
+      "frontmatter": {
+        "id": "person:lee-ji-ho",
+        "type": "person",
+        "title": "李智浩",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-byung-chul",
+      "type": "person",
+      "title": "李秉喆",
+      "summary": "三星创始人（1910-1987），宜宁地主家的小儿子，26 岁戒赌立志，28 岁在大邱挂出三星商会的招牌。 两次归零教会他两件事：敬畏杠杆，以及乱世里带得走的只有人，他自称一生八成时间花在招人育人上。 1957 年首创韩国公开招聘，1959 年设秘书室，1976 年胃癌手术前废长立幼指定三子接班， 1983 年以 73 岁高龄发东京宣言押注半导体：假设结果有何闪失，责任我来承担。",
+      "path": "knowledge/people/lee-byung-chul.md",
+      "frontmatter": {
+        "id": "person:lee-byung-chul",
+        "type": "person",
+        "title": "李秉喆",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:lee-kum-sheung",
+      "type": "person",
+      "title": "李锦裳",
+      "summary": "李锦记创始人，早年丧父随母流落珠海南水开小食肆。1888 年煮蚝忘了看火，把一锅蚝汁熬成浓酱， 尝出了蚝油，招牌取自己名字里的锦字。南水的店毁于大火后迁澳门再迁香港，一步步往有码头的地方挪。 他每年除夕把收不回的赊账单一把火烧掉：不能让赊账单成为下一代的负担。 思利及人四个字还没出现，意思他已经做在前头。",
+      "path": "knowledge/people/lee-kum-sheung.md",
+      "frontmatter": {
+        "id": "person:lee-kum-sheung",
+        "type": "person",
+        "title": "李锦裳",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -7497,6 +8354,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:hong-ra-hee",
+      "type": "person",
+      "title": "洪罗喜",
+      "summary": "李健熙之妻，中央日报会长洪璡基之女，这桩婚事是李秉喆姻亲网的核心一环。 丈夫身后她按法定比例受让三星电子股票，以 2.30% 成为最大个人股东，为儿子的控制权加上家族保险； 又在五年缴税工程里陆续卖股，2025 年把手中最后 1% 的三星物产股份赠给李在镕， 把他的控制支点推过 20% 安全线。捐出丈夫毕生收藏后，以名誉馆长身份回到 Leeum 美术馆。",
+      "path": "knowledge/people/hong-ra-hee.md",
+      "frontmatter": {
+        "id": "person:hong-ra-hee",
+        "type": "person",
+        "title": "洪罗喜",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:eva-madelung",
       "type": "person",
       "title": "爱娃·马德隆",
@@ -7755,6 +8638,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-control-unity"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:jane-stanford",
+      "type": "person",
+      "title": "简·斯坦福",
+      "summary": "斯坦福大学的守护者（1828-1905）。丈夫死后遗产被联邦追债冻结，她把法院核定的每月一万美元 家用津贴几乎悉数推给学校发薪，卖马、关宅、辞退佣人，带着珠宝渡海求售未果， 身后珠宝设成图书馆购书基金。她也用创始人特权把女生人数上限写成五百人、施压赶走过教授； 1903 年她在自己仍能签字时交出高于董事会的特权。1905 年死于士的宁投毒， 檀香山陪审团裁定谋杀，凶手至今没有司法结论。",
+      "path": "knowledge/people/jane-stanford.md",
+      "frontmatter": {
+        "id": "person:jane-stanford",
+        "type": "person",
+        "title": "简·斯坦福",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -9507,6 +10416,99 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:samsung-cnt",
+      "type": "company",
+      "title": "三星物产",
+      "summary": "三星的母体贸易公司，1938 年商会的直系后身。2015 年被第一毛织以 1 比 0.35 的比例吸收合并， 这场对物产股东明显不利的合并靠国民年金跳过程序的赞成票以 69.53% 惊险通过， 为合并放行的官员后来全部获刑，只有合并本身作为既成事实留了下来。 李在镕如今以超过 20% 的物产持股作为整个集团的控制支点。",
+      "path": "knowledge/companies/samsung-cnt.md",
+      "frontmatter": {
+        "id": "company:samsung-cnt",
+        "type": "company",
+        "title": "三星物产",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "半导体",
+          "电子",
+          "综合财阀"
+        ]
+      }
+    },
+    {
+      "id": "company:samsung-life",
+      "type": "company",
+      "title": "三星生命",
+      "summary": "三星控制链的枢纽保险公司，持有三星电子的大宗股份。李健熙遗产分配中它的股票不按法定比例分， 而是三比二比一：李在镕独得一半，全家联署了支配权归长子的声明。 悬在它头上的保险业法修正案一旦通过，将被迫抛售三星电子持股， 家族控制链最粗的一环会被法律亲手拆开。",
+      "path": "knowledge/companies/samsung-life.md",
+      "frontmatter": {
+        "id": "company:samsung-life",
+        "type": "company",
+        "title": "三星生命",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "半导体",
+          "电子",
+          "综合财阀"
+        ]
+      }
+    },
+    {
+      "id": "company:samsung-electronics",
+      "type": "company",
+      "title": "三星电子",
+      "summary": "1969 年与三洋合资造黑白电视机起家，1983 年东京宣言押注半导体，六个月建成器兴工厂， 1993 年成为韩国第一家年利润破万亿韩元的企业，长年是全球最大的手机、电视和存储芯片制造商， 营收相当于韩国 GDP 一成以上。2023 年半导体巨亏 14.9 万亿、HBM 落后 18 个月， 2026 年靠 HBM4 反超并创下单季利润纪录，同月普通股市值二十五年来首次被 SK 海力士反超。",
+      "path": "knowledge/companies/samsung-electronics.md",
+      "frontmatter": {
+        "id": "company:samsung-electronics",
+        "type": "company",
+        "title": "三星电子",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "半导体",
+          "电子",
+          "综合财阀"
+        ]
+      }
+    },
+    {
       "id": "company:citic-pacific",
       "type": "company",
       "title": "中信泰富",
@@ -9565,6 +10567,37 @@ window.KNOWLEDGE_DATA = {
           "建筑",
           "金融",
           "教育"
+        ]
+      }
+    },
+    {
+      "id": "company:central-pacific-railroad",
+      "type": "company",
+      "title": "中央太平洋铁路",
+      "summary": "1861 年铁路四巨头合办的公司，依靠联邦土地与债券修筑横贯大陆铁路西段。 工程高峰期雇用约一万至一万五千名华工，在多数施工阶段约占劳力九成，工资更低、食宿自理； 1867 年约三千名华工罢工八天，被断粮压服。它造就了斯坦福家的财富， 也留下政治特权、劳工不平等与巨额债务：利兰死后联邦政府向遗产索赔一千五百二十三万美元。",
+      "path": "knowledge/companies/central-pacific-railroad.md",
+      "frontmatter": {
+        "id": "company:central-pacific-railroad",
+        "type": "company",
+        "title": "中央太平洋铁路",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "铁路",
+          "教育",
+          "大学"
         ]
       }
     },
@@ -10670,6 +11703,37 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:stanford-university",
+      "type": "company",
+      "title": "斯坦福大学",
+      "summary": "1885 年创始捐赠文书设立、1891 年开学的私立大学，法定全名小利兰·斯坦福大学。 创校即男女同校、不隶属宗派、早期原则上不收学费。二十四位受托人执掌，决议需十三票； 帕洛奥图土地严格限售，逼出 1951 年起的工业园长租模式，与硅谷互相塑造。 截至 2025 年捐赠基金四百零八亿美元，九千四百多个独立永久基金， 年支出十九亿美元，约四分之三受捐赠用途限制。",
+      "path": "knowledge/companies/stanford-university.md",
+      "frontmatter": {
+        "id": "company:stanford-university",
+        "type": "company",
+        "title": "斯坦福大学",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "铁路",
+          "教育",
+          "大学"
+        ]
+      }
+    },
+    {
       "id": "company:stellantis",
       "type": "company",
       "title": "斯泰兰蒂斯",
@@ -10787,6 +11851,68 @@ window.KNOWLEDGE_DATA = {
           "story:delong"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "company:infinitus",
+      "type": "company",
+      "title": "无限极",
+      "summary": "1992 年李惠森与第一军医大学合创的保健品公司，原名南方李锦记，主打复合多糖口服液， 走直销模式，2015 年前后年业绩近两百六十亿元，一度追平百年酱料主业。 2019 年经销商夸大宣传致病童事件引爆舆论，业绩跌去六成。李锦记三个字早已从招牌上消失： 家族宪法管得住家人，管不住金字塔结构里的几十万经销商。",
+      "path": "knowledge/companies/infinitus.md",
+      "frontmatter": {
+        "id": "company:infinitus",
+        "type": "company",
+        "title": "无限极",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "调味品",
+          "食品",
+          "保健品"
+        ]
+      }
+    },
+    {
+      "id": "company:lee-kum-kee",
+      "type": "company",
+      "title": "李锦记",
+      "summary": "1888 年创于珠海南水的酱料公司，经澳门、香港两迁，李文达手里从蚝油单品扩到三百多种酱料， 卖到一百多个国家和地区，蚝油香港市占超七成、曾居全球销量第一，随神舟飞船进入太空。 坚持不上市，铁律是一百减一等于零。2020 年底酱料集团行政总裁首次交给家族以外的 职业经理人林碧宝，2021 年在家族委员会外增设股东委员会。",
+      "path": "knowledge/companies/lee-kum-kee.md",
+      "frontmatter": {
+        "id": "company:lee-kum-kee",
+        "type": "company",
+        "title": "李锦记",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "调味品",
+          "食品",
+          "保健品"
+        ]
       }
     },
     {
@@ -11032,6 +12158,37 @@ window.KNOWLEDGE_DATA = {
           "博彩",
           "地产",
           "综合投资"
+        ]
+      }
+    },
+    {
+      "id": "company:samsung-everland",
+      "type": "company",
+      "title": "爱宝乐园",
+      "summary": "名义上是游乐园运营商，实际站在三星环形持股的顶点：爱宝持三星生命，生命持三星电子， 电子持三星卡，卡再持回爱宝。1996 年它以每股 7,700 韩元发行可转债，税法评估价 127,750 韩元， 28 岁的李在镕用 48 亿韩元买下帝国钥匙，彭博测算这笔投资最终对应约 5.7 万亿韩元权益。 后改组为第一毛织，2015 年吞并三星物产完成继承拼图。",
+      "path": "knowledge/companies/samsung-everland.md",
+      "frontmatter": {
+        "id": "company:samsung-everland",
+        "type": "company",
+        "title": "爱宝乐园",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "半导体",
+          "电子",
+          "综合财阀"
         ]
       }
     },
@@ -11900,6 +13057,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:next-gen-engagement-program",
+      "type": "tool",
+      "title": "下一代吸引式培养",
+      "summary": "解决的问题：第五代不缺钱不缺出路，硬按着接班只会养出身在曹营心在汉的继承人。 机制：把要求改成吸引：董事会实习生列席集团和投资会议、带着出差见创业者做路演、 设幸福资本风投基金用年轻人感兴趣的科技把他们拉回生意现场，配合静修营与慈善参与。 局限：它最终依赖每一代人自己的选择，而自愿恰恰是制度设计不出来的东西； 李锦记第五代十四人到 2013 年前后只有两人进公司。案例：李锦记（第 36 期）。",
+      "path": "knowledge/tools/next-gen-engagement-program.md",
+      "frontmatter": {
+        "id": "tool:next-gen-engagement-program",
+        "type": "tool",
+        "title": "下一代吸引式培养",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:asymmetric-trust-clause",
       "type": "tool",
       "title": "不对称信托条款",
@@ -12082,6 +13265,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:outside-first-entry-rule",
+      "type": "tool",
+      "title": "先外后内准入",
+      "summary": "解决的问题：含着金汤匙的子弟理直气壮躺进公司当少爷，任人唯亲从入口开始。 机制：家族成员先读完大学，再在别人家的企业干满三到五年，回来应聘考核与外人同一标准； 进来后干不好给一次机会，再不行照样开除。前提：家族得真按标准执行，且外部历练的成绩 可核验。失败模式：门槛只对晚辈生效、对嫡系网开一面，规矩就成了摆设。 案例：李锦记（第 36 期）家族宪法准入条款。",
+      "path": "knowledge/tools/outside-first-entry-rule.md",
+      "frontmatter": {
+        "id": "tool:outside-first-entry-rule",
+        "type": "tool",
+        "title": "先外后内准入",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:charter-over-will",
       "type": "tool",
       "title": "公司章程高于遗嘱",
@@ -12101,6 +13310,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-conflict-as-innovation",
           "concept:succession-planning-gap",
           "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:open-recruitment",
+      "type": "tool",
+      "title": "公开招聘",
+      "summary": "1957 年第一制糖和第一毛织登报招考大学毕业生，韩国企业史上第一次公开招聘。 解决的问题：家族企业最常见的死法是任人唯亲，公开考试把人才入口从血缘地缘里解放出来， 三星由此垄断半岛最好的毕业生，三星出身成了职场通行证。 配套的用人铁律是疑人不用、用人不疑。局限：入口开放而出口集中， 谁升谁降仍由会长一支笔，亲与贤分开了，但贤者永远做不了主人。案例：三星（第 35 期）。",
+      "path": "knowledge/tools/open-recruitment.md",
+      "frontmatter": {
+        "id": "tool:open-recruitment",
+        "type": "tool",
+        "title": "公开招聘",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -12144,15 +13379,69 @@ window.KNOWLEDGE_DATA = {
         "type": "tool",
         "title": "分家与退出章法",
         "source_stories": [
-          "story:dassler"
+          "story:dassler",
+          "story:lee-kum-kee"
         ],
         "families": [
-          "family:dassler-family"
+          "family:dassler-family",
+          "family:lee-kum-kee-family"
         ],
         "related_concepts": [
           "concept:family-conflict-as-innovation",
           "concept:succession-planning-gap",
           "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:branch-spinoff-settlement",
+      "type": "tool",
+      "title": "分家排气阀",
+      "summary": "择贤立储后如何安放落选者：李秉喆给每个落选子女分走一个产业集团，长子系得 CJ， 次子系得新韩，长女得韩松，五女得新世界。主干企业免于分割，卫星集团各自上路， 今天的 CJ 与新世界都是行业巨头。失败模式在礼数：给了资产没给名分，给了退路没给体面， 长子憋了四十年的凭什么在 2012 年变成 4.08 万亿的诉讼。 对照 LG 具许两姓 2005 年的漂亮分手：分家可以不结仇，区别不在钱怎么分，在话怎么说。",
+      "path": "knowledge/tools/branch-spinoff-settlement.md",
+      "frontmatter": {
+        "id": "tool:branch-spinoff-settlement",
+        "type": "tool",
+        "title": "分家排气阀",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:founder-power-renunciation",
+      "type": "tool",
+      "title": "创始人交权",
+      "summary": "解决的问题：出资最多、贡献最大的人长期握有最终否决权，董事会和经理人永远学不会负责。 机制：1903 年简·斯坦福在自己仍有能力签字时，正式放弃幸存创始人的修宪特权， 身份权力退回职务权力：仍可争论、投票、任主席，但不能再凭我家的学校越过所有人。 压力测试在 1906 年地震后到来：董事会有权舍弃创始人珍爱的纪念拱门。 前提：交权要发生在创始人清醒且有替代治理结构时，不是弥留之际。案例：斯坦福（第 37 期）。",
+      "path": "knowledge/tools/founder-power-renunciation.md",
+      "frontmatter": {
+        "id": "tool:founder-power-renunciation",
+        "type": "tool",
+        "title": "创始人交权",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -12181,6 +13470,32 @@ window.KNOWLEDGE_DATA = {
           "concept:enterprise-independence"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:founding-trustee-board",
+      "type": "tool",
+      "title": "创始受托治理",
+      "summary": "解决的问题：没有直系后代（或不愿依赖血缘）时，谁替财产做决定。 机制：斯坦福创始文书把三处农场交给二十四位受托人，开会至少十五人到场、决议十三票通过， 亲属可以捐钱、管账、进董事会，但没有人因血缘自动获得职位或把机构分作家产。 前提：创始人交出财产后不能因失望随意收回，否则机构得到的只是期限很长的借用。 失败模式：早期隔离不彻底，学校仍依赖创始人随时注资担保，利兰一死立刻断粮。案例：斯坦福（第 37 期）。",
+      "path": "knowledge/tools/founding-trustee-board.md",
+      "frontmatter": {
+        "id": "tool:founding-trustee-board",
+        "type": "tool",
+        "title": "创始受托治理",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -12349,6 +13664,58 @@ window.KNOWLEDGE_DATA = {
           "concept:steward-ownership",
           "concept:foundation-ownership",
           "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:land-sale-restriction",
+      "type": "tool",
+      "title": "土地禁售条款",
+      "summary": "解决的问题：后人变卖不可再生的核心资产。机制：创始文书只授权董事会经营或出租土地， 帕洛奥图农场严格限售，出售需额外法律程序。它守方向不守办法：没规定土地永远养马， 也没规定租给谁，特曼因此仍有余地把它变成九十九年长租的工业园。 对照失败样本：同一份文书里五百名女生的上限把一个具体结果冻结成数字， 1973 年要经法院批准才删掉。能跨代的规则大多只守方向和底线。案例：斯坦福（第 37 期）。",
+      "path": "knowledge/tools/land-sale-restriction.md",
+      "frontmatter": {
+        "id": "tool:land-sale-restriction",
+        "type": "tool",
+        "title": "土地禁售条款",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:regional-specialist",
+      "type": "tool",
+      "title": "地域专家制度",
+      "summary": "每年选送百余名年轻职员出国一年，不背指标不设考核，前六个月只准闲逛：学语言、交朋友、 坐当地人的公交车。人均花费超一亿韩元，几乎所有高管反对，李健熙硬顶着推行二十多年， 累计送出五千多人，九十年代末攻占新兴市场的先头部队正是这批人。 适用前提：见效要十年，只有按代际思考的家族企业养得起， 对任期几年的职业经理人毫无吸引力。案例：三星（第 35 期）。",
+      "path": "knowledge/tools/regional-specialist.md",
+      "frontmatter": {
+        "id": "tool:regional-specialist",
+        "type": "tool",
+        "title": "地域专家制度",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -12792,10 +14159,12 @@ window.KNOWLEDGE_DATA = {
         "type": "tool",
         "title": "家族委员会",
         "source_stories": [
-          "story:rockefeller"
+          "story:rockefeller",
+          "story:lee-kum-kee"
         ],
         "families": [
-          "family:rockefeller-family"
+          "family:rockefeller-family",
+          "family:lee-kum-kee-family"
         ],
         "related_concepts": [
           "concept:philanthropy-as-governance",
@@ -12866,11 +14235,13 @@ window.KNOWLEDGE_DATA = {
         "reviewed": false,
         "source_stories": [
           "story:fan-yizhuang",
-          "story:rothschild"
+          "story:rothschild",
+          "story:lee-kum-kee"
         ],
         "families": [
           "family:fan-family",
-          "family:rothschild-family"
+          "family:rothschild-family",
+          "family:lee-kum-kee-family"
         ],
         "related_concepts": [
           "concept:family-constitution",
@@ -12989,6 +14360,32 @@ window.KNOWLEDGE_DATA = {
           "concept:standard-setting"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:si-li-ji-ren-motto",
+      "type": "tool",
+      "title": "思利及人家训",
+      "summary": "来历：1960 年代刘太希赠李文达字：修身岂为名传世，做事惟思利及人。他独把后四字裱起来 挂了几十年，自称它在人生里一直扮演闹钟：做每件事先问对方能得到什么好处。 机制：李惠森把它拆成换位思考、关注对方感受、直升机思维三条具体要求，加使命自律诚信等 合成九条通用价值观。边界：它管得住认这套价值观的家人和员工， 管不住利益结构相反的几十万经销商，无限极风波正是这条边界的实证。案例：李锦记（第 36 期）。",
+      "path": "knowledge/tools/si-li-ji-ren-motto.md",
+      "frontmatter": {
+        "id": "tool:si-li-ji-ren-motto",
+        "type": "tool",
+        "title": "思利及人家训",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -13269,6 +14666,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:perpetual-endowment-discipline",
+      "type": "tool",
+      "title": "永久基金纪律",
+      "summary": "解决的问题：一次性财富如何养活跨世纪的机构。机制：本金保持完整、靠收益维持； 今天的形态是九千四百多个用途各异的独立基金，董事会年度决定支取率， 收益一部分当年用、余下滚存维持未来购买力，约四分之三支出受捐赠用途约束。 简的珠宝变价与债券合成五十万美元购书基金，一百年后约两千万美元仍在买书。 要点：长期资本的长期，是人换了、市场变了，原任务仍有钱可用、每次支取仍有人负责。案例：斯坦福（第 37 期）。",
+      "path": "knowledge/tools/perpetual-endowment-discipline.md",
+      "frontmatter": {
+        "id": "tool:perpetual-endowment-discipline",
+        "type": "tool",
+        "title": "永久基金纪律",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:apprentice-crucible-succession",
       "type": "tool",
       "title": "烂摊子练手的接班人考验",
@@ -13326,6 +14749,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:circular-shareholding",
+      "type": "tool",
+      "title": "环形持股楔子",
+      "summary": "解决的问题：韩国遗产税实际税负可达六成，又不允许差别投票权股票，家族每传一代控制权就要减半。 机制：爱宝持生命、生命持电子、电子持卡、卡再持回爱宝，家族以百分之一二的真实出资 行使约两成表决权。代价：制度不给阳光通道，资本就自己挖地道， 这枚楔子换来两代人的刑事记录和三星共和国的骂名。对照：福特 B 类股写在招股书里， 瓦伦堡基金会传了五代，LG 2018 年申报九千亿遗产税无一日官司。地道非唯一的路，只是最便宜的路。",
+      "path": "knowledge/tools/circular-shareholding.md",
+      "frontmatter": {
+        "id": "tool:circular-shareholding",
+        "type": "tool",
+        "title": "环形持股楔子",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:related-diversification-system",
       "type": "tool",
       "title": "相关多元化",
@@ -13347,6 +14796,32 @@ window.KNOWLEDGE_DATA = {
           "concept:related-diversification"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:secretariat-control-tower",
+      "type": "tool",
+      "title": "秘书室中枢",
+      "summary": "解决的问题：子公司越开越多，家族之手如何延伸。机制：1959 年李秉喆在会长办公室下设秘书室， 替会长查账、考核经理人、在子公司间调配资金，与公开招聘配成一对：用最开放的方式选人， 用最集中的方式用人。会长管方向和人事，秘书室管协调监察，日常经营放给职业经理人， 速度与专业两样都要。失败模式：这个中枢在任何公司的组织架构图上都查无此部， 高效但无法被问责，六十年换了六个名字，每隔十年与司法相撞一次。案例：三星（第 35 期）。",
+      "path": "knowledge/tools/secretariat-control-tower.md",
+      "frontmatter": {
+        "id": "tool:secretariat-control-tower",
+        "type": "tool",
+        "title": "秘书室中枢",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -13878,6 +15353,84 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:oyster-sauce-accident-1888",
+      "type": "event",
+      "title": "一锅熬过头的蚝汁（1888）",
+      "summary": "李锦裳在南水的小食肆守灶煮蚝，走了神，清汤收成浓稠发亮的深褐色酱。 按理该倒掉，他用手指蘸了一点尝，蚝油就这么来了。意外里有多少实、多少后人追认的传奇 已分不清，确定的是蚝油这样东西是他先做出来、先卖出去的。 一个失误成就一门五代人的生意。",
+      "path": "knowledge/events/oyster-sauce-accident-1888.md",
+      "frontmatter": {
+        "id": "event:oyster-sauce-accident-1888",
+        "type": "event",
+        "title": "一锅熬过头的蚝汁（1888）",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:no-hereditary-pledge-2020",
+      "type": "event",
+      "title": "不再世袭的承诺（2020）",
+      "summary": "2020 年 5 月 6 日，李在镕鞠躬念出：我不会把经营权传给我的子女。 八个月后他仍被判实刑收监，法庭认定道歉尚不足以减刑；但那场道歉里的承诺此后逐条兑现， 无工会经营终结、继承灰色工程绝迹、不传子女成为社会既成约束。 一个为司法减刑而生的承诺，活得比司法程序更长。韩国财阀七十年，没有一位总帅说过这句话。",
+      "path": "knowledge/events/no-hereditary-pledge-2020.md",
+      "frontmatter": {
+        "id": "event:no-hereditary-pledge-2020",
+        "type": "event",
+        "title": "不再世袭的承诺（2020）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:tokyo-declaration-1983",
+      "type": "event",
+      "title": "东京宣言（1983）",
+      "summary": "1983 年 2 月 8 日，73 岁的李秉喆从东京大仓酒店打电话回首尔：不管谁说什么，三星要做半导体。 宣言全文算的是国家的账而非企业的账，事业报国从社训变成了决策框架。 内部反对、日本同行轻蔑，他只留一句：假设结果有何闪失，责任我来承担。 六个月建厂、夜行军六十四公里、凭记忆默画图纸，1989 年 16M DRAM 站上世界最前面。",
+      "path": "knowledge/events/tokyo-declaration-1983.md",
+      "frontmatter": {
+        "id": "event:tokyo-declaration-1983",
+        "type": "event",
+        "title": "东京宣言（1983）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:toyota-quality-crisis-2009",
       "type": "event",
       "title": "丰田召回危机（2009）",
@@ -14169,6 +15722,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:lkk-buyout-1986",
+      "type": "event",
+      "title": "兄弟决裂买断（1986）",
+      "summary": "弟弟李文乐患病求稳要退，兄弟对簿公堂，李锦记走到最接近散架的一刻。 李文达抵押黄竹坑厂房四处举债，以约八千万港元买下弟弟约四成股权，把自己逼到破产边缘。 生意保住了，兄弟从此不再往来，父亲带着遗憾去世。 论输赢他赢了，晚年记住的只有失去一个弟弟。",
+      "path": "knowledge/events/lkk-buyout-1986.md",
+      "frontmatter": {
+        "id": "event:lkk-buyout-1986",
+        "type": "event",
+        "title": "兄弟决裂买断（1986）",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:dassler-split-1948",
       "type": "event",
       "title": "兄弟分家（1948）",
@@ -14188,6 +15767,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-conflict-as-innovation",
           "concept:succession-planning-gap",
           "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:stanford-founding-grant-1885",
+      "type": "event",
+      "title": "创始捐赠文书（1885）",
+      "summary": "1885 年 11 月 11 日，斯坦福夫妇签署创始捐赠文书，把三处农场约八千一百八十英亩、 估值约两千万美元交给二十四位受托人，决议需十三票，无人能凭一纸指令影响学校； 本金保持完整，帕洛奥图土地严格限售。他们在文书里把死去的儿子放在立遗嘱人的位置， 自己退到执行人的位置：一个没有后代的家，给财产另找了一位继承人。",
+      "path": "knowledge/events/stanford-founding-grant-1885.md",
+      "frontmatter": {
+        "id": "event:stanford-founding-grant-1885",
+        "type": "event",
+        "title": "创始捐赠文书（1885）",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -14326,6 +15931,32 @@ window.KNOWLEDGE_DATA = {
         ],
         "date": "1955",
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:record-inheritance-tax-2021",
+      "type": "event",
+      "title": "十二万亿遗产税（2021）",
+      "summary": "李健熙身后留下约 26 万亿韩元遗产，家族把超过 12 万亿的税单全额认下，分五年六期缴清， 相当于韩国政府一整年遗产税收入的一倍半，世界税务史上无先例。 两万三千件艺术收藏整体捐出，一万亿韩元投入医疗。第一次继承走地道，换来二十年司法纠缠； 第二次继承走阳光下的路，用真金白银赎回一个家族的正当性。",
+      "path": "knowledge/events/record-inheritance-tax-2021.md",
+      "frontmatter": {
+        "id": "event:record-inheritance-tax-2021",
+        "type": "event",
+        "title": "十二万亿遗产税（2021）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -14669,6 +16300,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:lkk-nonfamily-ceo-2020",
+      "type": "event",
+      "title": "外姓行政总裁（2020）",
+      "summary": "2020 年底，李锦记酱料集团第一次把行政总裁交给家族以外的人：从毕马威、百事一路做上来的 职业经理人林碧宝。把传给谁的血缘题改成能力题，这一步与千年计划同向： 家族终有一天退出经营，只保留所有权与治理，让公司挂上自动波。",
+      "path": "knowledge/events/lkk-nonfamily-ceo-2020.md",
+      "frontmatter": {
+        "id": "event:lkk-nonfamily-ceo-2020",
+        "type": "event",
+        "title": "外姓行政总裁（2020）",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:dorabji-trust-deed-1932",
       "type": "event",
       "title": "多拉布吉信托契约签署（1932）",
@@ -14798,6 +16455,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:lkk-family-council-2002",
+      "type": "event",
+      "title": "家族委员会与宪法（2002）",
+      "summary": "第三次危机是父子失和：李惠森与父亲僵持两年，儿子总不能也买断出局。李惠雄出国取经数年后， 2002 年前后家族委员会成立并起草家族宪法：七人组成、每季度开满四天、全员必到、 迟到罚款连家长也不例外、主席轮值；修宪需四分之三多数。到 2017 年前后已开了近六十次。 趁家还没散，先把不让它散的法立起来。",
+      "path": "knowledge/events/lkk-family-council-2002.md",
+      "frontmatter": {
+        "id": "event:lkk-family-council-2002",
+        "type": "event",
+        "title": "家族委员会与宪法（2002）",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:dassler-family-final-exit-2018",
       "type": "event",
       "title": "家族彻底退场（2018）",
@@ -14817,6 +16500,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-conflict-as-innovation",
           "concept:succession-planning-gap",
           "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:leland-jr-death-1884",
+      "type": "event",
+      "title": "小利兰之死（1884）",
+      "summary": "1883 年一家三口欧洲之行，孩子在旅途中开始发烧，到佛罗伦萨确诊伤寒。 没有抗生素的年代只能用冰冷湿布降温，饭店经理命人在街面铺稻草让马车少一点声响。 1884 年 3 月 13 日他死在饭店里，距十六岁生日差两个月。原定盖家宅的土地上， 后来一边是陵墓，一边是大学。",
+      "path": "knowledge/events/leland-jr-death-1884.md",
+      "frontmatter": {
+        "id": "event:leland-jr-death-1884",
+        "type": "event",
+        "title": "小利兰之死（1884）",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -15064,6 +16773,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:stanford-industrial-park-1951",
+      "type": "event",
+      "title": "斯坦福工业园（1951）",
+      "summary": "创始文书禁售土地，缺钱的学校在特曼推动下改走长租：1951 年与校内研究孵出的瓦里安 签下十英亩九十九年租约，惠普、洛克希德、施乐帕洛奥图研究中心相继进驻， 1960 年园区四十多家公司。创始人没有预测未来，只是关掉了一条容易而不可逆的路， 土地因此留到后人手里，等他们发明新的用法。硅谷之名 1971 年才流传开。",
+      "path": "knowledge/events/stanford-industrial-park-1951.md",
+      "frontmatter": {
+        "id": "event:stanford-industrial-park-1951",
+        "type": "event",
+        "title": "斯坦福工业园（1951）",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:new-world-refinancing-2025",
       "type": "event",
       "title": "新世界发展大额贷款再融资",
@@ -15085,6 +16820,32 @@ window.KNOWLEDGE_DATA = {
           "segment:zhou-dafu-001"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "event:infinitus-crisis-2019",
+      "type": "event",
+      "title": "无限极风波（2019）",
+      "summary": "权健事件引爆保健市场整治，2019 年初陕西一位母亲公开投诉三岁女儿停药大量服用保健品后 查出心肌损害，全国哗然。分公司因虚假宣传被罚没，公司道歉整改，业绩从年近二百六十亿元 跌到百亿上下。监管的罚单几百万元，市场的罚单每年一百多亿： 家族宪法管得到家门之内，管不到它和消费者之间隔着的几十万经销商。",
+      "path": "knowledge/events/infinitus-crisis-2019.md",
+      "frontmatter": {
+        "id": "event:infinitus-crisis-2019",
+        "type": "event",
+        "title": "无限极风波（2019）",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -15186,6 +16947,32 @@ window.KNOWLEDGE_DATA = {
           "concept:institutionalized-trust"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:jane-stanford-death-1905",
+      "type": "event",
+      "title": "檀香山投毒案（1905）",
+      "summary": "1905 年 1 月简在旧金山喝下含士的宁的瓶装水，催吐逃生；2 月 28 日夜在檀香山饭店 毒发身亡，留下一句这是一种可怕的死法。验尸陪审团裁定士的宁蓄意投毒， 校长乔丹赶到后公开推动自然死亡说。一百年后斯坦福学者重读档案认定中毒证据确凿、 校方参与掩盖；凶手是谁，至今停在历史推论之中。",
+      "path": "knowledge/events/jane-stanford-death-1905.md",
+      "frontmatter": {
+        "id": "event:jane-stanford-death-1905",
+        "type": "event",
+        "title": "檀香山投毒案（1905）",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -15295,6 +17082,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:frankfurt-declaration-1993",
+      "type": "event",
+      "title": "法兰克福新经营宣言（1993）",
+      "summary": "一盘产线工人用美工刀削模具毛边的录像，把李健熙点燃。他把两百名高管召到法兰克福， 不用讲稿一讲八小时：除了老婆孩子，一切都要换。此后 68 天 48 场 350 小时，讲稿 8500 页。 此前五年他发布的是指示，这一次他上演的是危机；指示可以被归档，戏剧只能被记住。",
+      "path": "knowledge/events/frankfurt-declaration-1993.md",
+      "frontmatter": {
+        "id": "event:frankfurt-declaration-1993",
+        "type": "event",
+        "title": "法兰克福新经营宣言（1993）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:rockefeller-foundation-created-1913",
       "type": "event",
       "title": "洛克菲勒基金会成立（1913）",
@@ -15394,6 +17207,58 @@ window.KNOWLEDGE_DATA = {
           "concept:family-trust"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:everland-cb-1996",
+      "type": "event",
+      "title": "爱宝乐园可转债（1996）",
+      "summary": "每股 7,700 韩元对税法评估的 127,750 韩元，26 家法人股东集体弃购， 债券落到 28 岁的李在镕手里，48 亿韩元买下环形持股顶点的钥匙。 每个环节都有法律依据，连起来是一条总税负不足百分之一的继承管道。 43 名法学教授联名告发，韩国司法围着这张债券转了九年，最终定罪的是两名代签决议的社长。",
+      "path": "knowledge/events/everland-cb-1996.md",
+      "frontmatter": {
+        "id": "event:everland-cb-1996",
+        "type": "event",
+        "title": "爱宝乐园可转债（1996）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:samsung-merger-vote-2015",
+      "type": "event",
+      "title": "物产合并股东会（2015）",
+      "summary": "第一毛织以 1 比 0.35 吞并体量数倍于己的三星物产，埃利奥特反对，两大投票顾问建议否决， 五千名员工提着核桃糕登门拜访小股东。胜负手国民年金跳过外部委员会闭门表决， 明知损失约 1,388 亿韩元仍投赞成，8 比 4。69.53% 惊险过关， 放行的部长和投资本部长后来入狱，合并本身留了下来。十年后的同一天，大法院判李在镕全案无罪。",
+      "path": "knowledge/events/samsung-merger-vote-2015.md",
+      "frontmatter": {
+        "id": "event:samsung-merger-vote-2015",
+        "type": "event",
+        "title": "物产合并股东会（2015）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -15584,6 +17449,32 @@ window.KNOWLEDGE_DATA = {
         ],
         "date": "1958",
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:samsung-succession-switch-1976",
+      "type": "event",
+      "title": "病房立储废长立幼（1976）",
+      "summary": "李秉喆在东京确诊胃癌，手术前召集家人宣布三星由三子健熙带领。长子已废、次子已逐， 择贤制赎回了效率，代价是每个落选者都觉得被亏欠：长子的怨愤拖了四十六年， 直到 2012 年对簿公堂、祭祀分成两处。储君之德首在恭顺，选贤是真的， 选最不会挑战父亲的人恐怕也是真的。",
+      "path": "knowledge/events/samsung-succession-switch-1976.md",
+      "frontmatter": {
+        "id": "event:samsung-succession-switch-1976",
+        "type": "event",
+        "title": "病房立储废长立幼（1976）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -15822,6 +17713,58 @@ window.KNOWLEDGE_DATA = {
           "concept:family-control-unity"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:lkk-buyout-1972",
+      "type": "event",
+      "title": "第一次分家买断（1972）",
+      "summary": "李文达要扩张，叔伯们要守成，话谈不拢只能以钱了断：他和父亲李兆南联手出资约四百六十万港元 买断叔伯股份，第二代三兄弟共治就此翻页。股权第一次集中，公司第一次可以放开手脚， 但靠买断维系的团结开了先例，下一次的赌注会更大。",
+      "path": "knowledge/events/lkk-buyout-1972.md",
+      "frontmatter": {
+        "id": "event:lkk-buyout-1972",
+        "type": "event",
+        "title": "第一次分家买断（1972）",
+        "source_stories": [
+          "story:lee-kum-kee"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "related_concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:jane-power-transfer-1903",
+      "type": "event",
+      "title": "简·斯坦福交权（1903）",
+      "summary": "1903 年 6 月 1 日，简正式放弃创始捐赠文书留给幸存创始人的特权，包括修改文书的权力。 此前她用这份权力把女生上限写成五百人、施压赶走过批评铁路资本的教授。 交权后她仍是董事、仍能争论投票，只是不能再凭身份越过所有人。 替她起草文件的律师克罗瑟斯，是这所学校第一届毕业生。",
+      "path": "knowledge/events/jane-power-transfer-1903.md",
+      "frontmatter": {
+        "id": "event:jane-power-transfer-1903",
+        "type": "event",
+        "title": "简·斯坦福交权（1903）",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -16432,6 +18375,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:stanford-estate-crisis-1893",
+      "type": "event",
+      "title": "遗产冻结危机（1893-1898）",
+      "summary": "利兰猝逝撞上 1893 年金融恐慌，联邦政府向遗产追索铁路债务一千五百二十三万美元，资产冻结。 大学月开支约一万九千美元，法院核给简的家用津贴每月一万，她几乎悉数推给学校， 卖马、关宅、赴华盛顿陈情，自称只要能付大学所需，靠面包和清水也可以生活。 1896 年最高法院驳回追债，1898 年遗赠到账，五年危机才过：账面的富有，到工资单前派不上用场。",
+      "path": "knowledge/events/stanford-estate-crisis-1893.md",
+      "frontmatter": {
+        "id": "event:stanford-estate-crisis-1893",
+        "type": "event",
+        "title": "遗产冻结危机（1893-1898）",
+        "source_stories": [
+          "story:stanford"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "related_concepts": [
+          "concept:succession-contingency",
+          "concept:mission-locked-ownership",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:adrian-cheng-exit-2024",
       "type": "event",
       "title": "郑志刚辞任新世界发展行政总裁",
@@ -16662,6 +18631,32 @@ window.KNOWLEDGE_DATA = {
           "concept:patient-long-termism"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:gumi-bonfire-1995",
+      "type": "event",
+      "title": "龟尾手机火刑（1995）",
+      "summary": "新年贺礼手机通话不畅，追查发现不良率近八分之一。李健熙下令把流向市面的产品全部回收， 当着工厂员工的面烧掉：1995 年 3 月 9 日，龟尾运动场上十五万台手机被铁锤砸碎、浇油点火、 推土机碾过，造机器的人当场哭了。丰田用安灯绳管品质，三星用一场公开的火刑， 这家公司相信改变人心最快的通道是让人心疼一次。",
+      "path": "knowledge/events/gumi-bonfire-1995.md",
+      "frontmatter": {
+        "id": "event:gumi-bonfire-1995",
+        "type": "event",
+        "title": "龟尾手机火刑（1995）",
+        "source_stories": [
+          "story:samsung"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "related_concepts": [
+          "concept:separation-of-rights",
+          "concept:succession-training",
+          "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -17447,6 +19442,97 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:samsung-002",
+      "type": "segment",
+      "title": "2.1 一包白糖 / 2.2 考场与秘书室",
+      "summary": "1953 年 7 月停战协定签字，8 月李秉喆做了一件让贸易圈同行看不懂的事：把贸易赚来的巨额利润，投进一座工厂。当年年底，第一制糖的釜山工厂产出第一批国产白糖。在此之前，韩国市面上的每一粒糖都来自进口。 选糖不是拍脑袋。做进口贸易的人最清楚什么东西进口量最大、差价最肥：糖、面粉、棉布，当时并称“三白”。与其转卖别人的糖，为什么不自己造？设备从日本三井订购，建厂只用了半年。第一制糖投产后利润滚滚，两年后韩国的白糖自给率从零升到大半。这家公司后来独立出去，就是今天的 CJ 集团。 1954 年 9 月，他如法炮制，创办第一毛织。西装毛料当时全靠走私和进口，一套进口毛料西装的价钱抵得上公务员几个月薪水。第一毛织的“金塔”牌毛料上市后横扫市场，李秉喆本人从此得了个绰号，叫“全毛料先生”。美国《时代》周刊后来写他：“他 9 点整到首尔市中心的办公室，开冗长的计划会议，每周打两次高尔夫，5 点回到他有陶器和孔雀的宅邸，通常独自用餐，然后谋划新的生财之道。” 到 1950 年代末，这位独自用餐的绅士已被公认为全国首富。他的版图在制造业之外迅速铺开：1958 年收购安国火灾进入保险业，接着入股商业银行，买下百货公司，连创办于 1398 年...",
+      "path": "knowledge/segments/samsung-002.md",
+      "frontmatter": {
+        "id": "segment:samsung-002",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "2.1 一包白糖 / 2.2 考场与秘书室",
+        "order": 2,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "2.1 一包白糖 / 2.2 考场与秘书室",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:hu-xueyan-002",
       "type": "segment",
       "title": "2.1 战火撕开的制度套利 / 2.2 借力官本的金融版图",
@@ -17553,6 +19639,81 @@ window.KNOWLEDGE_DATA = {
           "tool:family-rules-and-frugality"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:stanford-002",
+      "type": "segment",
+      "title": "2.2 如果父亲的财富长了翅膀 / 2.3 三楼的小博物馆",
+      "summary": "利兰夫妇为儿子请了家庭教师。小利兰擅长法语、德语和历史，对课本上草草带过的解释很不耐烦。他总要再问一句：为什么这样做，这件东西怎样造出来，做事的人挣多少钱。 父亲还把他送到旧金山的希尔德学院学习会计。1877 年的报纸如此概括利兰的用意：要把孩子教得能够自立。即使父亲的财富有一天“长了翅膀飞走”，儿子也应当养得活自己。 夫妇无意让他假装清贫。小利兰仍享有普通孩子无法想象的旅行、师资和收藏经费。父亲只要求他学会记账、辨别真假，掌握即使家财散尽也能生活的本事。 旅行是他的另一间教室。十二岁那次欧洲之行，他上午上课，下午去博物馆、工坊与街市。看人做通心粉，他要问完整的工序。看工匠吹玻璃，他追问工资、工时和每一道动作。纳什说，这孩子很会从遇见的人那里，把对方知道的东西一点点问出来。 别人看完作坊便走，他却常停下来，想知道炉火后面的人一天做多久，挣多少钱。多年后留下的旅行记录里，除了风景与建筑之外，仍能找到这些问题。 小利兰收集硬币、埃及小铜像、希腊陶器和各种古物，把旧金山家中三楼布置成一间小博物馆，自己分类、编目。他买东西要记账，遇见仿品，也会把货物退还给古董商。 在巴黎卢浮宫的埃及展厅里，他伏在案边临摹象形文字，请教埃及学者怎样辨...",
+      "path": "knowledge/segments/stanford-002.md",
+      "frontmatter": {
+        "id": "segment:stanford-002",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "2.2 如果父亲的财富长了翅膀 / 2.3 三楼的小博物馆",
+        "order": 2,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "2.2 如果父亲的财富长了翅膀 / 2.3 三楼的小博物馆",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:patient-long-termism"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -17989,6 +20150,81 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:stanford-003",
+      "type": "segment",
+      "title": "3.3 十一月十一日 / 3.4 第一任校长",
+      "summary": "1885 年 3 月 9 日，加州通过专门法律，为私人捐赠创办大学、学院、博物馆和美术馆提供信托通道。八个月后的 11 月 11 日，利兰与简签署《创始捐赠文书》。 这份文件没有小说里的泪水。句子冷静、冗长，写满土地、水权、受托人、表决人数和管理权限。 夫妇把帕洛奥图、维纳和格里德利三处农场及其附属资产交入大学安排。按照斯坦福大学后来的官方口径，原始校园约八千一百八十英亩，创校捐赠的估值约两千万美元。 拿到这些财产的不是某一个亲属，而是二十四位受托人。名单里有利兰的弟弟、铁路伙伴、法官和社会名流。董事会开会至少十五人到场，一项决议要有十三票才能通过。没有哪一位叔伯、朋友或经理可以只凭一纸指令来影响学校。 文书规定，信托财产的本金应当保持完整，大学靠租金、收益与利润维持。董事会可以管理、改良、经营或出租土地。校园所在的帕洛奥图农场后来一直受到严格的出售限制。 夫妇还在文书中划出约十英亩，由大学永久维护，作为他们一家三口最终安葬的地方。 土地、学校、陵墓，被同一份文件收在一起。那座没有盖起来的家宅，在法律上变成了两种建筑：一处让一家人永远住在一起，一处让陌生的孩子不断进来学习，又不断学成离开。 利兰不是学者，简也没有受过东部名校...",
+      "path": "knowledge/segments/stanford-003.md",
+      "frontmatter": {
+        "id": "segment:stanford-003",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "3.3 十一月十一日 / 3.4 第一任校长",
+        "order": 3,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "3.3 十一月十一日 / 3.4 第一任校长",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:family-trust",
+          "concept:foundation-ownership",
+          "concept:steward-ownership",
+          "concept:professionalization"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:fan-yizhuang-003",
       "type": "segment",
       "title": "3.3 杭州救荒，义庄开局 / 3.4 皇祐二年的十三条",
@@ -18197,6 +20433,97 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:samsung-003",
+      "type": "segment",
+      "title": "3.4 次子的信 / 3.5 第三个儿子",
+      "summary": "比废长子更狠的戏码，出在次子身上。 替家族坐了半年牢的李昌熙出狱后，等待他的却是父亲的冷脸。多种记载指向同一个原因：李秉喆认为这个儿子在案发过程中自作主张，不可再用。1969 年，被拒之门外的李昌熙做出了那个在儒教伦理里等同于弑父的举动：他向青瓦台递交了一封检举信，举报自己的父亲藏匿资产、违犯外汇管理法，指认父亲才是走私的主谋。 朴正熙看完信，没有立案，而是把信转给了李秉喆。政权用这个动作表明了立场：它要的是财阀的效忠，而非财阀的家丑。李昌熙被逐出家门，带着日籍妻子远走美国。李秉喆疑心长子也参与了投书，李孟熙残存的机会就此清零。 一年之内，长子废，次子逐。而就在这个家族烈火烹油的 1969 年，一家新公司在水原挂牌：三星电子，与日本三洋合资，造黑白电视机。家变之年，恰是未来之年。历史偶尔喜欢这种不动声色的对仗。 现在，父亲的目光落到了第三个儿子身上。 李健熙 1942 年 1 月 9 日生于大邱，是李秉喆的第七个孩子、第三个儿子。生意繁忙的父母把他交给奶奶带大，朝鲜战争期间他小学转学五次。1953 年，父亲把 11 岁的他送往东京读书，只说了一句：“去看看先进国家。” 东京三年是这个孩子性格的铸模。他与留学早稻田的二哥同住，...",
+      "path": "knowledge/segments/samsung-003.md",
+      "frontmatter": {
+        "id": "segment:samsung-003",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "3.4 次子的信 / 3.5 第三个儿子",
+        "order": 3,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "3.4 次子的信 / 3.5 第三个儿子",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:dassler-003",
       "type": "segment",
       "title": "3.5 小镇开始低头 / 4.1 被鲁道夫赶走的教练",
@@ -18286,6 +20613,81 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:stanford-004",
+      "type": "segment",
+      "title": "4.2 三口之家以外 / 4.3 没卖掉的首饰",
+      "summary": "这段历史常被写成简一个人的英雄故事。她确实是中心，却不是孤身一人。 简的兄长查尔斯·莱思罗普长期参与学校的财务和事务管理，在大学的账目、农场与家族资产之间奔走。利兰的弟弟托马斯·韦尔顿·斯坦福常年住在澳大利亚，经商致富，也担任学校董事。他将三十万美元捐给大学，后来又捐书、艺术品和建设资金，去世后，其主要遗产也进入学校。 两个原生家庭的亲属网络，托住了三口之家已经无法独自承担的一角。可是，这些叔伯与兄长的支持没有变成世袭权。有人管账，有人捐钱，有人坐进董事会，没有人因为血缘自动成为下一任校长，也没有哪一支旁系把大学分作家产。 1896 年 3 月，美国最高法院否定了联邦政府直接向中央太平洋股东遗产追债的依据。危机并未立刻结束，遗产程序还要继续。1897 年，简又向大学交付面值九十万美元的债券，并把住宅赠给学校，只为自己保留终身使用权。到 1898 年，大学终于取得利兰遗赠的二百五十万美元，最危险的阶段才真正缓解。 从 1893 年丈夫去世到 1898 年遗产款进入学校，五年多时间里，一所看起来拥有巨额捐赠的大学，天天在为现金发愁。 这五年把“财富”拆成了几件不同的东西。土地是财富，却不能发薪；争讼中的股票是财富，却不能马上支付...",
+      "path": "knowledge/segments/stanford-004.md",
+      "frontmatter": {
+        "id": "segment:stanford-004",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "4.2 三口之家以外 / 4.3 没卖掉的首饰",
+        "order": 4,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "4.2 三口之家以外 / 4.3 没卖掉的首饰",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:hu-xueyan-004",
       "type": "segment",
       "title": "4.2 庞大基业与接班人断层 / 4.3 系于一人的星形人脉网",
@@ -18321,6 +20723,97 @@ window.KNOWLEDGE_DATA = {
           "person:luo-si-taitai"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:samsung-004",
+      "type": "segment",
+      "title": "4.4 输血与转机 / 4.5 二十四个问题",
+      "summary": "赌局中途，几乎全盘皆输。1984 到 1986 年，日本厂商发动价格战，64K DRAM 的市价跌破三星的成本线，芯片做一片亏一片。三星半导体的累积亏损越滚越大，靠制糖、毛纺等子公司的利润逐年输血。集团内部怨声四起：全体老业务勒紧裤带，供养一个看不到头的无底洞。 转机在 1986 年到来。美日半导体摩擦升级，华盛顿逼东京签下限产协议，DRAM 价格回升，等在门口的三星接住了整个市场的缺口。1987 年，半导体事业转亏为盈。又过了几年，这个当年的无底洞成为韩国历史上第一个年利润破万亿韩元的印钞机。 也是在 1987 年前后，一个技术岔路口考验了刚刚走到台前的储君。4M DRAM 的存储单元有两条技术路线：向硅片下挖的沟槽式，向上堆的堆叠式。IBM 与东芝、NEC 押注沟槽，三星内部争执不下，最后由李健熙拍板选堆叠，他的理由很简单，甚至像个外行：“越是复杂的问题越应该单纯化。建房子的时候，从上面堆要比往下面挖容易，可能性也大，电路也是如此。”几年后沟槽派深陷良率泥潭，堆叠成为行业标准。一个看了一千多部电影、拆了半辈子机器的人，用直觉替工程师们做了一道工程题。这道题答对了，质疑他的声音才渐渐减弱。 历史书写者常把这场胜利归结为眼光...",
+      "path": "knowledge/segments/samsung-004.md",
+      "frontmatter": {
+        "id": "segment:samsung-004",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "4.4 输血与转机 / 4.5 二十四个问题",
+        "order": 4,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "4.4 输血与转机 / 4.5 二十四个问题",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -18653,6 +21146,81 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:stanford-005",
+      "type": "segment",
+      "title": "5.3 罗斯风波 / 5.4 第一届学生写下的交权书",
+      "summary": "经济学教授爱德华·罗斯比五百人限额更直接地触碰了简的边界。 罗斯由乔丹聘来，讲课有感染力，喜欢公开讨论政治。1896 年美国大选时，他支持自由铸银，站在西部农民与平民主义者一边，批评垄断和铁路资本。斯坦福家的财富恰好来自铁路。简多次要求乔丹处理他，乔丹一直拖延。 1900 年 5 月，罗斯在旧金山一个工人组织的集会上发表排斥日本移民的言论。这些话带着清楚的种族主义，今天的读者无法把他简单写成言论自由的无瑕英雄。他既批评铁路利益，也传播排亚主张，复杂得让任何一方都难以把他完全收进自己的正义叙事。 当时校内冲突的焦点，却不只在言论内容，还在谁有权决定一位教授因为公开观点而去留。 同年 11 月，乔丹要求罗斯辞职。罗斯把经过告诉报界，风波迅速扩大。罗斯离校后，另有七名教授辞职抗议，约占当时师资的一成。哲学教授阿瑟·洛夫乔伊等人选择离开，学校在全国学界的声誉受到损害。 美国经济学会组织调查，认为有证据显示罗斯的离职与他的公开言论有关。十五年后，洛夫乔伊与约翰·杜威等人参与创建美国大学教授协会，推动学术自由和教职保障。罗斯案对协会诞生究竟有多直接的因果作用，学界没有一致结论；可以确定的是，同一批人都被卷进了这两段历史。 简没有亲自签发...",
+      "path": "knowledge/segments/stanford-005.md",
+      "frontmatter": {
+        "id": "segment:stanford-005",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "5.3 罗斯风波 / 5.4 第一届学生写下的交权书",
+        "order": 5,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "5.3 罗斯风波 / 5.4 第一届学生写下的交权书",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:professionalization",
+          "concept:separation-of-rights",
+          "concept:family-conflict-as-innovation",
+          "concept:succession-planning-gap"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:fan-yizhuang-005",
       "type": "segment",
       "title": "5.5 靖康之变 / 5.6 废墟上的重建",
@@ -18715,6 +21283,97 @@ window.KNOWLEDGE_DATA = {
           "tool:family-rules-and-frugality"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:samsung-005",
+      "type": "segment",
+      "title": "5.6 帝王术的成本 / 6.1 两个数字",
+      "summary": "第二代接班人发动激进改革而成功的案例，在家族企业史上屈指可数。多数二代要么萧规曹随，要么改革到一半被老臣和董事会架空。李健熙是例外。 他有别人没有的两样东西。一是时间：二十一年学徒期让他把集团的每一根筋络摸得烂熟，接班后又可以用五年时间蛰伏观察，没有任何力量能罢免他。二是绝对安全：家族控股结构下，他不需要讨好董事会，不需要看华尔街脸色，敢把两百名高管拉到八千公里外听八小时训话。这两样东西合起来，就是家族企业在变革时刻的独特武器：改革者不可撼动。 但同一枚硬币的另一面也在此铸成。这场改革自始至终是一个人的意志：一个人看录像，一个人发怒，一个人布道，十万人聆听。它把三星从平庸里拽了出来，也把“会长的话就是法律”刻进了组织。危机由会长定义，方向由会长指出，连员工几点上班都由会长决定。这套体制的效率与它的风险同源：它假设王座上的人永远清醒。 1993 年，三星凭半导体成为韩国第一家年利润破万亿韩元的企业。1996 年，李健熙当选国际奥委会委员，站上了他父亲一辈子没摸到的国际舞台。新经营的果实一年比一年沉。 他以为最难的日子过去了。1997 年 11 月，真正的考题送到，而且一次送来两张卷子：一张考企业，一张考家族。 1996 年 1...",
+      "path": "knowledge/segments/samsung-005.md",
+      "frontmatter": {
+        "id": "segment:samsung-005",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "5.6 帝王术的成本 / 6.1 两个数字",
+        "order": 5,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "5.6 帝王术的成本 / 6.1 两个数字",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -19049,6 +21708,253 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:samsung-006",
+      "type": "segment",
+      "title": "7.1 大邱的单独会面 / 7.2 会长缺席的帝国",
+      "summary": "2014 年 9 月 15 日，大邱创造经济革新中心开馆。仪式结束后，总统朴槿惠单独召见了三星电子副会长李在镕。没有幕僚在场记录，这场对话的内容后来由李在镕本人在法庭上复述。 总统先问候：“李健熙会长身体怎么样？”寒暄过后，话锋一转：“请三星负责韩国马术协会的运营。备战奥运，给选手买好马，支援野外训练。” 一位总统向一家公司要马，这个诉求古怪得让人摸不着头脑。真正的解码要等两年后检方查抄青瓦台，一份幕僚笔记浮出水面，上面写着这样的字句：“三星经营权继承局面，作为机会加以利用。摸清三星在继承问题上需要什么……解决三星眼下课题时，可行使重大的政府影响力。” 青瓦台看得很准。此刻的三星，恰好行进在王朝交接最脆弱的一段。 四个月前，2014 年 5 月 10 日深夜，72 岁的李健熙在汉南洞自宅突发急性心梗，送医途中做了心肺复苏，随后在三星首尔医院接受支架手术。他活了下来，但此后六年五个月再没有公开露面，再没有说过一句传到外界的话。 帝国进入一种前所未有的状态：会长活着，但缺席。病房成了集团最高机密，除家人和副会长崔志成外无人获准探视。2015 年春天，首尔金融圈两度盛传会长已经去世、三星秘不发丧，传言最盛的那几天，三星系股价不跌反...",
+      "path": "knowledge/segments/samsung-006.md",
+      "frontmatter": {
+        "id": "segment:samsung-006",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "7.1 大邱的单独会面 / 7.2 会长缺席的帝国",
+        "order": 6,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "7.1 大邱的单独会面 / 7.2 会长缺席的帝国",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:stanford-006",
+      "type": "segment",
+      "title": "7.2 不能轻易卖掉的土地 / 7.3 九十九年的租约",
+      "summary": "此后几十年，斯坦福慢慢建立法学院、医学院和教育学院。早期学生赫伯特·胡佛后来以校友和受托人身份参与学校事务。原先由创始人拍板的事，逐渐交给校长、董事会和年度预算。 二战结束时，斯坦福还不是后来那座与硅谷彼此塑造的研究型大学。校园周围多是果园，学校土地很多，现金仍不宽裕。 工程学教授弗雷德里克·特曼在战争期间主持过大型军事研究实验室。1946 年回校后，他想争取联邦科研经费，也希望高科技企业留在学校附近。他看见东海岸大学怎样把实验室、政府合同与企业连在一起，也不愿让斯坦福训练出的工程人才毕业后全部离开加州。 他面前有一个很朴素的难题：学校有地，缺钱。 按一般地主的做法，缺钱就卖地。《创始捐赠文书》却只授权董事会经营或出租土地。1902 年的修订放开了两处外地农场，帕洛奥图农场仍受严格约束。真的要出售，需要额外的法律程序。 卖地这条路走不通，租赁便成了可走的路。 1951年，学校获准筹建斯坦福工业园，并与瓦里安联合公司签下第一份租约。1953年，瓦里安的第一栋大楼落成，园区才真正开门。第一位租户是从校内研究中成长起来的瓦里安联合公司。1951 年 10 月，双方签下十英亩、九十九年的租约，瓦里安预付四万一千美元。第二年，伊士曼柯...",
+      "path": "knowledge/segments/stanford-006.md",
+      "frontmatter": {
+        "id": "segment:stanford-006",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "7.2 不能轻易卖掉的土地 / 7.3 九十九年的租约",
+        "order": 6,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "7.2 不能轻易卖掉的土地 / 7.3 九十九年的租约",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:family-consensus",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:lee-kum-kee-005",
+      "type": "segment",
+      "title": "7.2 传承：把血缘题改成能力题 / 7.3 教育：从要求改成吸",
+      "summary": "华人家族企业最难过的一道坎，是交棒。范博宏那笔“市值蒸发近六成”的账，算的就是这道坎，数字背后是一个个“富不过三代”的故事。他把病因归到两处。第一处是无形资产难传：创始人的价值观、判断力、几十年攒下的人脉和信誉，这些真正值钱的东西，没法像股票和厂房一样，一纸过户给下一代，老一辈一走，这些看不见的资产就跟着蒸发大半。第二处是家族和制度层面的种种障碍：人才流失、利益纷争、监管和政治环境的变动。 给李锦记写过教学案例的沃德（John Ward），是家族企业研究领域资深的学者。他和卡洛克（Randel Carlock）提出过一个叫“并行规划”的方法：家族企业做规划，要两条线一起做，一条规划生意，一条规划家族，只规划生意、不规划家族的企业，传承迟早出问题。对照这个方法，李锦记那套“家族委员会加董事会”的双层架构，就是并行规划的做法：董事会规划生意，家族委员会规划家族，而且四天的季度会议里，谈价值观、宪法和下一代培养的时间，比谈生意的多。 李锦记自己的解法，是尽量把“传给谁”这道血缘题，改成一道能力题：先在外历练，同标准考核，犯错照罚，董事长之外的经营岗位，都可以交给职业经理人。2020年底，这条路又往前走了一步：李锦记酱料集团第一次把...",
+      "path": "knowledge/segments/lee-kum-kee-005.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-005",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "7.2 传承：把血缘题改成能力题 / 7.3 教育：从要求改成吸",
+        "order": 5,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "7.2 传承：把血缘题改成能力题 / 7.3 教育：从要求改成吸引",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:tata-006",
       "type": "segment",
       "title": "7.3 五页信与十二月围剿 / 7.4 三回合",
@@ -19235,6 +22141,87 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:lee-kum-kee-006",
+      "type": "segment",
+      "title": "7.4 关系：守住财富之外的家族价值 / 7.5 他山之石",
+      "summary": "2007年，戈麦斯-梅希亚（Luis Gómez-Mejía）等几位学者研究西班牙的家族橄榄油坊，发现一个现象：加入合作社明明更赚钱，很多家族坊主就是不加入，宁可少赚，也要把油坊留在自家手里。他们给这种行为起了个名字，叫社会情感财富：家族企业算账，算的不只是钱，还有名声、掌控感、一家人的认同与和睦，为了这笔看不见的财富，家族愿意付出真金白银。 拿这个理论看李锦记，很多事就说得通了。八千万买断弟弟的股份，买的不只是四成股权，还有“这门生意还姓李”这件事本身。不上市、厂建回新会七堡、镇上那所李文达中学，看重的也都是同一类东西。家族宪法里那些不近人情的条款，说到底都在保同一样东西：这个家族作为一个家族，还能不能坐在一起。 维护这笔财富，李锦记的办法，是把最容易起争执的关系变成成文的规则，而规则的底子，是家训“思利及人”。它的来历，家族是这样讲的：1960年代，李文达在台湾结识了研究书画的刘太希老先生，获赠一幅字，上面写着两句话：“修身岂为名传世，做事惟思利及人。”修身，不是为了留名；做事，要想着让别人得利。李文达独独把后四个字裱起来，在办公室一挂几十年。他自己说过，这句箴言在他的人生里“一直扮演着闹钟的角色”，提醒他做每件事之前先...",
+      "path": "knowledge/segments/lee-kum-kee-006.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-006",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "7.4 关系：守住财富之外的家族价值 / 7.5 他山之石",
+        "order": 6,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "7.4 关系：守住财富之外的家族价值 / 7.5 他山之石",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:hu-xueyan-007",
       "type": "segment",
       "title": "7.4 暴富暴亡的家族生命线 / 7.5 留给当代基业的前车之鉴",
@@ -19340,6 +22327,81 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:stanford-007",
+      "type": "segment",
+      "title": "7.6 学校回头看创始人 / 8.1 先别问“给谁”",
+      "summary": "2022 年，理查德·怀特出版《谁杀了简·斯坦福？》。他是斯坦福大学历史学系荣休教授。书中不只重查创始人的死，也尖锐追问首任校长与校方如何让自然死亡说压过檀香山验尸陪审团的裁决。 这本书由校内学者写成，学校历史系介绍它，校史学会邀请作者演讲。简若能读到，大概不会喜欢其中许多判断，乔丹更不会。 变化最清楚的地方就在这里。1900 年，一位教授批评铁路资本，创始人的压力足以让他离开。一个多世纪后，教授可以研究铁路财富、创始人的种族观念、女性限额，甚至大学是否掩盖过一宗谋杀。 与此同时，学校也重新给予简公开的位置。2019 年，校园一条重要道路改名为“简·斯坦福路”，承认她在危机中守住大学的贡献。2026 年，坎托艺术中心又以她的礼服、珠宝、私人物品和精神世界为材料举办“简！”展览，展期持续到 2028 年。 这位特殊的继承人保留了“它”的父母的名字，却没有继承他们的沉默。 大多数家庭谈传承，最先出现的是一串“给谁”的问题：公司给哪个孩子，股份怎样分，谁进董事会，谁来负责家族基金会。这些问题都要回答。在它们之前，还有一问更容易被跳过：这些财产原本要替这个家完成什么？ 小利兰去世以后，斯坦福夫妇原先关于“给谁”的安排全部失效了。他们...",
+      "path": "knowledge/segments/stanford-007.md",
+      "frontmatter": {
+        "id": "segment:stanford-007",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "7.6 学校回头看创始人 / 8.1 先别问“给谁”",
+        "order": 7,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "7.6 学校回头看创始人 / 8.1 先别问“给谁”",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:medici-006",
       "type": "segment",
       "title": "8.1 联姻策略的四次蜕变 / 8.2 执掌法兰西的孤女太后",
@@ -19377,6 +22439,97 @@ window.KNOWLEDGE_DATA = {
           "tool:marriage-alliance"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:samsung-007",
+      "type": "segment",
+      "title": "8.3 美术馆与医院 / 8.4 十年长跑的终点",
+      "summary": "李健熙 2020 年 10 月 25 日去世，享年 78 岁。彭博社的讣闻给了他一句准确的墓志铭：他把一家模仿起家的家电厂，改造成了全球最大的智能手机、电视和存储芯片制造商。 半年后的遗产处理方案，成了他留给韩国的最后一件作品，尽管执笔的是他的家人。 两万三千件艺术收藏整体捐出：两万一千余件古美术进了国立中央博物馆，其中包括谦斋郑敾的《仁王霁色图》等六十件国宝级文物；一千四百八十八件近现代作品进了国立现代美术馆，清单上有金焕基、李仲燮、朴寿根，也有莫奈的《睡莲池》、夏加尔和毕加索。韩国的国立美术馆序列，一夜之间补齐了半部近现代美术史。此外还有一万亿韩元捐给医疗：七千亿用于传染病应对，含五千亿新建韩国第一家传染病专门医院；三千亿资助儿童癌症与罕见病，十年内惠及数万名患儿。 熟悉这个家族档案的人，读得出这份捐赠清单里的一句潜台词。2008 年特检风暴中，李健熙曾承诺把查出的借名财产“用于有益之事”，此后十三年没有下文。2021 年的一万亿医疗捐赠，被韩国媒体普遍解读为那张旧支票的迟到兑付。父亲开的空头支票，由儿子落地承兑，这既是还愿，也是切割：新时代的三星，要用旧时代欠下的账起誓。 股票的分配同样藏着设计。三星生命的股份没有按法...",
+      "path": "knowledge/segments/samsung-007.md",
+      "frontmatter": {
+        "id": "segment:samsung-007",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "8.3 美术馆与医院 / 8.4 十年长跑的终点",
+        "order": 7,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "8.3 美术馆与医院 / 8.4 十年长跑的终点",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -19624,6 +22777,97 @@ window.KNOWLEDGE_DATA = {
           "tool:family-exit-from-brand"
         ],
         "governance_insight": "这个片段服务于“达斯勒家族把产品和体育营销做到世界之巅，却从未为冲突、分权和传承立下规矩， 兄弟反目传了三代，两支血脉在 1989 和 ”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:samsung-008",
+      "type": "segment",
+      "title": "9.4 分开举行的祭祀 / 结语 承志园的灯",
+      "summary": "第四根柱子从一炷香看起。每年 11 月 19 日李秉喆的忌日，2012 年起要办两场祭祀：CJ 家的长孙李在贤在自宅设灵位，以宗家嫡孙的名分行祭；三星家在李秉喆故居改建的迎宾馆承志园另设一场。一个父亲，两处香火，同一个时辰。儒教家族最重的仪式，成了裂痕最直观的展品。 家族内部关系的总账，前面各章已经分头记过：废长立幼的长尾拖了四十六年，从 1966 年的代管，到 2012 年的对簿公堂，到 2015 年李孟熙在北京离世后，李在镕去灵堂鞠躬，韩国媒体感慨“数十年来家族第一次聚齐”，聚齐的场合是葬礼。女儿们的故事同样入账：长女李仁熙精明强干，父亲那句“她若是儿子，我还有什么可愁的”是夸奖，也是判决，她终究只分到造纸；幼女李尹馨 2005 年在纽约身亡，家族第一时间对外通报“车祸”，被美国媒体追问后才承认是自杀。连女儿的死讯都要先过公关，这个细节里藏着财阀家族最深的悲哀：家已经是机构，机构没有隐私，也就没有单纯的悲伤。 婚姻这本账，两代之间划出一道有意思的弧线。第一代八个子女的婚事张张都是社会资本的存单：法务部长官家、LG 家、东亚日报家、三护纺织家。到第三代，李富真嫁给了集团内一名普通职员，“平民驸马”的童话被举国传颂；十五年后...",
+      "path": "knowledge/segments/samsung-008.md",
+      "frontmatter": {
+        "id": "segment:samsung-008",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "9.4 分开举行的祭祀 / 结语 承志园的灯",
+        "order": 8,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "9.4 分开举行的祭祀 / 结语 承志园的灯",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
         "confidence": 0.62,
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -21120,6 +24364,87 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:lee-kum-kee-008",
+      "type": "segment",
+      "title": "参考文献",
+      "summary": "王国璋、郑宏泰、黄绍伦，《李文达传：酱料大王的传奇》，三联书店（香港）有限公司，2018 李惠森，《思利及人的力量》，中信出版社，2012 李惠森，《自动波领导模式》，中信出版社，2012 范博宏，《关键世代：走出华人家族企业传承之困》，东方出版社，2012 范博宏、张天健，《家族宪法：治家传业的根本法》，《新财富》，2011年第10期 John L. Ward, “Lee Kum Kee Co. Ltd (A): The Family Recipe”, IMD Case IMD-3-1617, 2005；“Lee Kum Kee Co. Ltd (B): Passing Down the Recipe”, IMD Case IMD-3-1618, 2005 Joachim Schwass, Anne-Catrin Glemser, Martin Králik, “Lee Kum Kee Co. Ltd (C): A Recipe for Shared Values”, IMD Case IMD-3-1623, 2014；Denise H. Kenyon-Rouvinez, Philip Whiteley, “Lee Kum...",
+      "path": "knowledge/segments/lee-kum-kee-008.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-008",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "参考文献",
+        "order": 8,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "参考文献",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:zeng-guofan-005",
       "type": "segment",
       "title": "另一位重要人物是倭仁",
@@ -22044,6 +25369,97 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:samsung-001",
+      "type": "segment",
+      "title": "序章 一次鞠躬 / 1.1 月光下的骰子",
+      "summary": "2020 年 5 月 6 日下午三点，首尔瑞草区三星电子大楼多功能厅。52 岁的李在镕（Lee Jae-yong）穿深色西装走上讲台，向台下的摄像机深深鞠了一躬。 他念了一份道歉文。其中一句是：“我不会把经营权传给我的子女。” 那天他一共做了三个承诺：不再因经营权继承引发争议，不再阻挠工会，不把经营权传给子女。前两个承诺是对过去的清算，第三个是对未来的处分。路透社当天的标题用了“王朝终结”这个词。首尔的评论员们连夜争论这份道歉的成色：有人称之为历史性转折，也有人提醒，八个月后就是量刑宣判，此刻的鞠躬难免有司法的考量。争论双方都同意一点：在韩国财阀七十年的历史上，还没有一位总帅当众说过这句话。 说这句话的时候，他的父亲李健熙（Lee Kun-hee）正躺在三星首尔医院的病床上，那是心梗后卧床的第七年。他自己身上还压着两场官司：一场行贿案发回重审，八个月后他将再次入狱；另一场合并案刚刚起诉，要再过五年才等来终审。他的儿子李智浩那年二十岁，女儿李元珠十六岁。这个家族的掌门位子传了三代，从没旁落；照这个规矩，这两个孩子本该是第四代。 这句话有多重，要看三星有多大。那一年，三星电子是全球最大的智能手机、电视机和存储芯片制造商，一家公司...",
+      "path": "knowledge/segments/samsung-001.md",
+      "frontmatter": {
+        "id": "segment:samsung-001",
+        "type": "segment",
+        "story": "story:samsung",
+        "title": "序章 一次鞠躬 / 1.1 月光下的骰子",
+        "order": 1,
+        "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+        "source_heading": "序章 一次鞠躬 / 1.1 月光下的骰子",
+        "entities": [
+          "family:samsung-lee-family",
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho",
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life",
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021",
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "families": [
+          "family:samsung-lee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:non-listing-control"
+        ],
+        "key_people": [
+          "person:lee-byung-chul",
+          "person:lee-maeng-hee",
+          "person:lee-chang-hee",
+          "person:lee-kun-hee",
+          "person:hong-ra-hee",
+          "person:lee-jae-yong",
+          "person:lee-boo-jin",
+          "person:lee-ji-ho"
+        ],
+        "key_companies": [
+          "company:samsung-electronics",
+          "company:samsung-cnt",
+          "company:samsung-everland",
+          "company:samsung-life"
+        ],
+        "key_events": [
+          "event:samsung-succession-switch-1976",
+          "event:tokyo-declaration-1983",
+          "event:frankfurt-declaration-1993",
+          "event:gumi-bonfire-1995",
+          "event:everland-cb-1996",
+          "event:samsung-merger-vote-2015",
+          "event:no-hereditary-pledge-2020",
+          "event:record-inheritance-tax-2021"
+        ],
+        "tools": [
+          "tool:secretariat-control-tower",
+          "tool:open-recruitment",
+          "tool:regional-specialist",
+          "tool:circular-shareholding",
+          "tool:branch-spinoff-settlement"
+        ],
+        "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:fan-yizhuang-001",
       "type": "segment",
       "title": "序章 天平山下的一笺纸 / 1.1 失去范姓的孩子",
@@ -22145,6 +25561,81 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:stanford-001",
+      "type": "segment",
+      "title": "序章 林子里的三口棺木 / 1.1 一场火以后，向西走",
+      "summary": "从斯坦福大学的棕榈大道向西北拐，有一条路钻进树林。学生的自行车从路口掠过，松鼠在落叶间翻找果实，再往里走，校园的声响便淡了。 林中立着一座花岗岩和大理石砌成的陵墓。门廊有四根柱子，四角各守着一只狮身人面的斯芬克斯。墓门平日不开，里面停着三口棺木。 第一口属于利兰·斯坦福。他做过加州州长、联邦参议员和中央太平洋铁路公司总裁，1869 年曾在横贯大陆铁路的合龙仪式上举起银锤。 第二口属于他的妻子简·莱思罗普·斯坦福。丈夫死后，她成为守住一所初创大学的核心人物。1905 年，她死在檀香山一家饭店里。当地验尸陪审团认定她遭人投毒，凶手至今没有得到司法确认。 第三口最小，属于他们唯一的孩子小利兰·斯坦福。1884 年，他在佛罗伦萨死于伤寒，十五岁零十个月。 这是一个三口之家的全部成员。斯坦福夫妇各有兄弟与亲族，后来也照顾过他们，并非世上再无亲人。只是他们没有第二个孩子，也没有直系后代。 从陵墓走回主校区，大约二十分钟。路的另一头，是七所学院、成排的教室和实验室。2025 年秋天，这里有一万七千三百一十四名本科生和研究生。年轻人抱着书穿过拱廊，争论一道题、一项实验，或一家尚未成立的公司。很少有人会拐进那片树林。 但他们毕业时领到的文凭，...",
+      "path": "knowledge/segments/stanford-001.md",
+      "frontmatter": {
+        "id": "segment:stanford-001",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "序章 林子里的三口棺木 / 1.1 一场火以后，向西走",
+        "order": 1,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "序章 林子里的三口棺木 / 1.1 一场火以后，向西走",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:debt-pressure"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:tata-001",
       "type": "segment",
       "title": "序章 没有继承人的送别 / 1.1 满到杯口的牛奶",
@@ -22235,6 +25726,87 @@ window.KNOWLEDGE_DATA = {
           "tool:cross-holding-defense"
         ],
         "governance_insight": "这个片段服务于“塔塔家族把约三分之二控股权锁进慈善信托，用无恒产的掌门和合同化的姓氏， 在不持股、少子嗣的条件下维持了一百五十八年的控制”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:lee-kum-kee-001",
+      "type": "segment",
+      "title": "序章 空着的那把椅子 / 第一章 忘掉的一锅火，熬出的百年味道",
+      "summary": "每年有四次，李锦记家族的成员会放下手上所有的事，飞回香港，围着同一张桌子坐下来。会议要开满四天，谁都不许缺席。 一个卖蚝油起家、传了五代、身家上千亿港元的家族，却要像开董事会一样开家庭会议，靠一部写在纸上的“宪法”来管自己人。据这个家族的第四代李惠森（Sammy Lee）历年对外介绍，这部宪法里的规矩，外人听来似乎会有点不近人情，比如家族成员想进公司，得先在别人家的企业干满三到五年，应聘和考核跟外人一模一样；进了公司犯了错照样罚，不因为姓李就网开一面；配偶不得参与经营，没有血缘的人不能持股；到六十五岁必须退休；甚至还有一条，不准离婚、不准有婚外情，违反了就退出董事会，只保留股份。 一个家族要给亲情立法，往往可能是被亲情伤过，伤得不敢再赤手空拳地信它。 1970年代到1980年代，李锦记先后闹过两次分家。头一次在1972年前后，掌门人李文达（Lee Man Tat）站在父亲一边，出钱买断了几位叔伯的股份；第二次在1986年前后，他的亲弟弟李文乐因为公司该不该扩产跟他闹翻，执意退股。李文达抵押了厂房、四处举债，拿出约八千万港元买下弟弟的股份。生意保住了，兄弟却从此不再往来。李文达晚年在一次演讲里说，弟弟因家族业务与他意见分歧，从...",
+      "path": "knowledge/segments/lee-kum-kee-001.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-001",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "序章 空着的那把椅子 / 第一章 忘掉的一锅火，熬出的百年味道",
+        "order": 1,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "序章 空着的那把椅子 / 第一章 忘掉的一锅火，熬出的百年味道",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:non-listing-control"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
         "confidence": 0.62,
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -28223,6 +31795,168 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:lee-kum-kee-002",
+      "type": "segment",
+      "title": "第二章 两次分家，买不回的亲情 / 第三章 从一瓶蚝油，到一个世",
+      "summary": "李文达接手时，李锦记是一家挣钱、却长不大的公司。挣钱，因为蚝油有口碑、有海外华人这块稳定的市场，一年到头总有进项。长不大，因为它被几房人分着，谁也不肯冒险，谁也不愿把到手的利润拿出来，投到看不见回报的地方去。守着蚝油这门老生意，对上一辈来说，安稳、体面、够吃，何必折腾。 李文达是个想折腾的人。他看得出蚝油市场有天花板，调料再好，一勺就够，做不成大生意。要想把李锦记做大，就得多做几样产品，把酱油、海鲜酱一样样铺开。那就得建新厂、扩产能，就得把牌子推到唐人街之外，让不吃广东菜的人也用上。这些主意，在一个求稳的家族里，每一条都是麻烦，每一条都要花钱、担风险、动老规矩。分歧一点点积起来，终于到了非摊牌不可的地步。 第一次分家，发生在1972年前后。 导火索是扩张。李文达要往前冲，几位叔伯不愿意，觉得守着蚝油这门稳当生意就够了，何必举债去赌一个没影的未来。话谈不拢，最后只能以钱了断：李文达和父亲李兆南联手，出钱买断了叔伯们手里的股份，把李锦记的所有权，从几房人分散持有，收拢到自己这一房手里。第二代三兄弟共治的那一页，就此翻了过去。这一年，四十出头的李文达正式成为李锦记的掌门人，手里第一次有了一家可以由自己说了算、放开手脚去干的公司。...",
+      "path": "knowledge/segments/lee-kum-kee-002.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-002",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "第二章 两次分家，买不回的亲情 / 第三章 从一瓶蚝油，到一个世",
+        "order": 2,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "第二章 两次分家，买不回的亲情 / 第三章 从一瓶蚝油，到一个世界品牌",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:lee-kum-kee-004",
+      "type": "segment",
+      "title": "第六章 千年计划 / 7.1 治理：让家族、所有权与经营各归其位",
+      "summary": "李惠森给这个家族定了一个听上去近乎狂想的目标：让李锦记活一千年。 放眼全世界，存活超过一千年的企业只有寥寥数家，大多是日本的寺庙、旅馆或酿造老铺，靠的是极特殊的行当和封闭的传承。在2018年李锦记130周年的宣传片里，年近九十的李文达说：“我们的宏愿是，把这盘家族生意无止境的持续，超越千年。” 李惠森对外讲过千年计划的构想：终有一天，让家族成员退出企业的“经营”，只保留“所有权”和“治理”，把公司日常的管理，彻底交给职业经理人。家族不再亲自下场做生意，只通过家族委员会和董事会把着方向，看着这门生意由外人替他们经营下去。 李惠森写过一本《自动波领导模式》。自动波是粤语里的自动挡：车挂上去，司机不用碰排挡，车自己换挡往前走。他说过，自己很少去公司，有时几个月不露面，生意照转。千年计划，等于要把整个李锦记挂上自动波。 上一期三星的故事，李在镕当众宣布“不把经营权传给子女”那一刻：一个攥了三代控制权、不惜让儿子入狱也要把位子传下去的家族，走到第三代，才终于松开经营的那只手。李锦记的千年计划，指向同一个方向：所有权与经营权分离，家族退居幕后，只当股东和守护者。区别在时机和姿态。三星是撞了南墙、坐了牢、缴了天价遗产税之后的止损；李锦记是...",
+      "path": "knowledge/segments/lee-kum-kee-004.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-004",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "第六章 千年计划 / 7.1 治理：让家族、所有权与经营各归其位",
+        "order": 4,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "第六章 千年计划 / 7.1 治理：让家族、所有权与经营各归其位",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:mars-008",
       "type": "segment",
       "title": "第四代与适度透明",
@@ -28251,6 +31985,243 @@ window.KNOWLEDGE_DATA = {
         "governance_insight": "私人企业的低调自由需要随时代调整，关键领域必须提高透明度，才能继续获得社会信任和人才吸引力。",
         "confidence": 0.86,
         "reviewed": false
+      }
+    },
+    {
+      "id": "segment:lee-kum-kee-003",
+      "type": "segment",
+      "title": "第四章 立一部法 / 第五章 另一门生意，一场价值观考验",
+      "summary": "买断弟弟之后十来年，李锦记又一次差点分崩离析。这一回，站到李文达对面的，是他自己最小的儿子，李惠森。 起因是一桩生意上的分歧。据后来的记述，李惠森反对父亲卖掉一块亏钱的生意，父子俩为此僵持了大约两年，谁也说服不了谁。年轻的李惠森一度动过念头，想干脆离开家族生意，自己出去另起炉灶。这已经是这个家族二十多年里，第三次走到“差点散”的边上了：先是叔伯，再是兄弟，这次轮到了父子。 前两次，李文达都是靠买断把裂缝按下去的。可这次不一样。叔伯可以买断，弟弟可以买断，儿子难道也买断出局？把儿子赶走，等于亲手掐断自己的传承，这条路走不通。第三次危机，逼着李文达和李惠森父子，去想一个比“买断”更彻底的办法。 他们想明白了一件事：只要这个家族还是靠“谁拳头硬谁说了算”来维系，冲突就会一代接一代地重演。今天是父子，明天就是堂兄弟，后天就是隔了房的叔侄。人性不会变，利益的纠葛不会断，指望每一代都恰好出一个既强势又公道的家长来压住场面，纯属碰运气。买断能了断一时的恩怨，了断不了将来的祸根。他们要的规矩，得连家长本人也管得住，并且当家长不在了，也还转得动。用李惠森后来的说法，这叫“治危机于未发”。趁家还没散，先把不让它散的法立起来。 据家族的讲述，这份...",
+      "path": "knowledge/segments/lee-kum-kee-003.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-003",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "第四章 立一部法 / 第五章 另一门生意，一场价值观考验",
+        "order": 3,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "第四章 立一部法 / 第五章 另一门生意，一场价值观考验",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:lee-kum-kee-007",
+      "type": "segment",
+      "title": "结语 一瓶酱和一部法 / 思想实验",
+      "summary": "回到序章的那张桌子。每年四次，一家人从世界各地飞回香港，关起门，把四天坐满。头一回听说的人，多半觉得隆重得过分。看完这一百三十八年就明白了，这个家族是在用这种办法提醒自己：一家人坐在一起，不是一件理所当然的事。 这个家族忙了五代人，说到底，做成了两样东西：一瓶酱，一部法。 酱是李锦裳留下的。他忘了看火，把一锅蚝汁熬成了浓酱，又把这门手艺传给了儿孙。这瓶酱跟着下南洋的广东人出海，进了唐人街的后厨，进了美国的超市，配方几十年不改，最后进了神舟飞船的太空舱。 法是李文达这一辈立下的。两次分家，买断叔伯花了四百六十万，买断弟弟花了八千万，还搭上一个再没往来的兄弟、一个带着遗憾去世的父亲。到第三次父子起分歧，他明白钱能了断恩怨，了断不了下一次，于是给家族立了一部法，把家长也放进规矩里，给想走的人留了一条体面的路。 写下本文的2026年，李文达已经走了五年。集团主席由老三李惠中接任，酱料集团的行政总裁，第一次交给了家族以外的人。第五代进不进公司、接不接这份家业，还没有答案。变了这么多，有一样没变：家族委员会的会，照旧每季度开四天。 一百三十八年了，酱还在一瓶一瓶地卖，会还在一季一季地开。千年计划才刚刚开了个头，这个家族能走多远，就看后面...",
+      "path": "knowledge/segments/lee-kum-kee-007.md",
+      "frontmatter": {
+        "id": "segment:lee-kum-kee-007",
+        "type": "segment",
+        "story": "story:lee-kum-kee",
+        "title": "结语 一瓶酱和一部法 / 思想实验",
+        "order": 7,
+        "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+        "source_heading": "结语 一瓶酱和一部法 / 思想实验",
+        "entities": [
+          "family:lee-kum-kee-family",
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum",
+          "company:lee-kum-kee",
+          "company:infinitus",
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020",
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "families": [
+          "family:lee-kum-kee-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:lee-kum-sheung",
+          "person:lee-man-tat",
+          "person:lee-man-lok",
+          "person:lee-siu-nam",
+          "person:lee-wai-hung",
+          "person:lee-wai-sum"
+        ],
+        "key_companies": [
+          "company:lee-kum-kee",
+          "company:infinitus"
+        ],
+        "key_events": [
+          "event:oyster-sauce-accident-1888",
+          "event:lkk-buyout-1972",
+          "event:lkk-buyout-1986",
+          "event:lkk-family-council-2002",
+          "event:infinitus-crisis-2019",
+          "event:lkk-nonfamily-ceo-2020"
+        ],
+        "tools": [
+          "tool:family-council",
+          "tool:family-constitution",
+          "tool:exit-and-split-protocol",
+          "tool:outside-first-entry-rule",
+          "tool:next-gen-engagement-program",
+          "tool:si-li-ji-ren-motto"
+        ],
+        "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:stanford-008",
+      "type": "segment",
+      "title": "结语 扉页上的珠宝 / 思想实验｜1903 年的那份文件",
+      "summary": "斯坦福图书馆有些旧书的扉页上，还贴着简献出珠宝的藏书票。 画中的简站在智慧女神雅典娜面前，双手托着首饰。钻石、珍珠和宝石被画得很小，像一捧刚刚从私人生活里取下来的东西。1897 年，伦敦没有人肯按她期待的价格买下它们，此后许多年，珠宝基金却一直在替图书馆买书。 书被买回来以后，便不再只服从捐赠者。有人借它学习工程，有人研究女性教育，有人翻查铁路工资册，也有人重新打开檀香山的验尸记录。简的珠宝支付的知识，最后甚至可以用来质疑简自己和她信任的校长。 小利兰没有长大。 以他名字命名的继承人长大了。它没有把父母忘掉，也没有永远留在父母怀里。 图书馆里，又有人翻开一本贴着珠宝藏书票的书。 把时间拨回 1903 年 6 月。你是七十四岁的简·斯坦福，丈夫死了十年，儿子死了十九年。桌上放着一份法律文件，只差签名。 签下去，你将放弃幸存创始人的特殊权力，包括修改创校文书的权力。此后，你仍可以坐在董事会里说话、投票，也可能继续担任主席；可是，你不能再以“这是我家的学校”为由，越过董事会改变最后的决定。 不签，也有充分理由。 学校最缺钱时，靠你的生活津贴开门。你关过宅邸、卖过马，带着珠宝横渡大西洋。许多建筑在你的督促下建起，校名属于你的孩子。你...",
+      "path": "knowledge/segments/stanford-008.md",
+      "frontmatter": {
+        "id": "segment:stanford-008",
+        "type": "segment",
+        "story": "story:stanford",
+        "title": "结语 扉页上的珠宝 / 思想实验｜1903 年的那份文件",
+        "order": 8,
+        "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+        "source_heading": "结语 扉页上的珠宝 / 思想实验｜1903 年的那份文件",
+        "entities": [
+          "family:stanford-family",
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman",
+          "company:stanford-university",
+          "company:central-pacific-railroad",
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951",
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "families": [
+          "family:stanford-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:professionalization"
+        ],
+        "key_people": [
+          "person:leland-stanford",
+          "person:jane-stanford",
+          "person:leland-stanford-jr",
+          "person:david-starr-jordan",
+          "person:frederick-terman"
+        ],
+        "key_companies": [
+          "company:stanford-university",
+          "company:central-pacific-railroad"
+        ],
+        "key_events": [
+          "event:leland-jr-death-1884",
+          "event:stanford-founding-grant-1885",
+          "event:stanford-estate-crisis-1893",
+          "event:jane-power-transfer-1903",
+          "event:jane-stanford-death-1905",
+          "event:stanford-industrial-park-1951"
+        ],
+        "tools": [
+          "tool:founding-trustee-board",
+          "tool:land-sale-restriction",
+          "tool:founder-power-renunciation",
+          "tool:perpetual-endowment-discipline"
+        ],
+        "governance_insight": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -65532,6 +69503,5105 @@ window.KNOWLEDGE_DATA = {
       "reviewed": false,
       "curation_stage": "story_spec_v1",
       "source_story": "story:dassler"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "concept:non-listing-control",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-001",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-002",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-003",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-004",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-005",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-006",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-007",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:samsung-008",
+      "target": "tool:secretariat-control-tower",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "family:samsung-lee-family",
+      "type": "mentions",
+      "label": "讲述家族",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "concept:family-control-unity",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "concept:professionalization",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "concept:governance-complexity",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "concept:founder-shadow",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:lee-byung-chul",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-byung-chul",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:lee-maeng-hee",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-maeng-hee",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:lee-chang-hee",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-chang-hee",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:lee-kun-hee",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-kun-hee",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:hong-ra-hee",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:hong-ra-hee",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:lee-jae-yong",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-jae-yong",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:lee-boo-jin",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-boo-jin",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "person:lee-ji-ho",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-ji-ho",
+      "target": "family:samsung-lee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "company:samsung-electronics",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-electronics",
+      "target": "family:samsung-lee-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "company:samsung-cnt",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-cnt",
+      "target": "family:samsung-lee-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "company:samsung-everland",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-everland",
+      "target": "family:samsung-lee-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "company:samsung-life",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-life",
+      "target": "family:samsung-lee-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:samsung-succession-switch-1976",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:tokyo-declaration-1983",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:frankfurt-declaration-1993",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:gumi-bonfire-1995",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:everland-cb-1996",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:samsung-merger-vote-2015",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:no-hereditary-pledge-2020",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "event:record-inheritance-tax-2021",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "tool:secretariat-control-tower",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "tool:open-recruitment",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "tool:regional-specialist",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "tool:circular-shareholding",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:samsung",
+      "target": "tool:branch-spinoff-settlement",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-byung-chul",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-byung-chul",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-maeng-hee",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-maeng-hee",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-chang-hee",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-chang-hee",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-kun-hee",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-kun-hee",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:hong-ra-hee",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:hong-ra-hee",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-jae-yong",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-jae-yong",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-boo-jin",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-boo-jin",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-ji-ho",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-ji-ho",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-electronics",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-electronics",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-cnt",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-cnt",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-everland",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-everland",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-life",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:samsung-life",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:samsung-succession-switch-1976",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:samsung-succession-switch-1976",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:tokyo-declaration-1983",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:tokyo-declaration-1983",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:frankfurt-declaration-1993",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:frankfurt-declaration-1993",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:gumi-bonfire-1995",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:gumi-bonfire-1995",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:everland-cb-1996",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:everland-cb-1996",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:samsung-merger-vote-2015",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:samsung-merger-vote-2015",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:no-hereditary-pledge-2020",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:no-hereditary-pledge-2020",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:record-inheritance-tax-2021",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:record-inheritance-tax-2021",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:secretariat-control-tower",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:secretariat-control-tower",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:open-recruitment",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:open-recruitment",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:regional-specialist",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:regional-specialist",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:circular-shareholding",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:circular-shareholding",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:branch-spinoff-settlement",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:branch-spinoff-settlement",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记录的代价，最终由第三代当众宣布世袭到此为止， 把家族企业的第一问从传给谁改写成传什么。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-byung-chul",
+      "target": "person:lee-maeng-hee",
+      "type": "parent_child",
+      "label": "废储父子",
+      "evidence": "1966 年长子以代理人身份接管集团，十四个月后被废，父亲自传只留一句所托即乱。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "person:lee-byung-chul",
+      "target": "person:lee-chang-hee",
+      "type": "conflict",
+      "label": "告发与放逐",
+      "evidence": "次子替家族入狱后被冷落，1969 年向青瓦台检举父亲，被逐出家门远走美国。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "person:lee-byung-chul",
+      "target": "person:lee-kun-hee",
+      "type": "successor",
+      "label": "病房立储",
+      "evidence": "1976 年胃癌手术前宣布三星由健熙带领，此后十一年贴身学徒，一幅倾听挂了一辈子。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "person:lee-maeng-hee",
+      "target": "person:lee-kun-hee",
+      "type": "conflict",
+      "label": "遗产诉讼",
+      "evidence": "2012 年 81 岁的长兄就父亲遗产起诉 70 岁的弟弟，索赔 4.08 万亿韩元，败诉。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "person:lee-kun-hee",
+      "target": "person:hong-ra-hee",
+      "type": "spouse",
+      "label": "姻亲联盟",
+      "evidence": "洪罗喜是中央日报会长洪璡基之女，这桩婚事是李秉喆权势姻亲网的核心一环。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "person:lee-kun-hee",
+      "target": "person:lee-jae-yong",
+      "type": "parent_child",
+      "label": "继承工程",
+      "evidence": "从 60.8 亿种子资金到爱宝债券再到物产合并，父亲为独子铺了三十年的继承管道。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "person:lee-kun-hee",
+      "target": "person:lee-boo-jin",
+      "type": "parent_child",
+      "label": "父女关系",
+      "evidence": "长女执掌新罗酒店，遗产分配按三比二比一，无人再触碰电子经营权但也没有人离场。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "person:lee-jae-yong",
+      "target": "person:lee-ji-ho",
+      "type": "parent_child",
+      "label": "不传之诺",
+      "evidence": "2020 年父亲当众承诺不把经营权传给子女，儿子 2025 年弃美籍入伍海军任少尉。",
+      "source_file": "文章/三星家族故事：当一个王朝决定不再世袭（执允“家族·故事”系列第 35 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:samsung"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "concept:non-listing-control",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-001",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-002",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-003",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-004",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-005",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-006",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-007",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:lee-kum-kee-008",
+      "target": "tool:family-council",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "family:lee-kum-kee-family",
+      "type": "mentions",
+      "label": "讲述家族",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "concept:non-listing-control",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "person:lee-kum-sheung",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-kum-sheung",
+      "target": "family:lee-kum-kee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "person:lee-man-tat",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-man-tat",
+      "target": "family:lee-kum-kee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "person:lee-man-lok",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-man-lok",
+      "target": "family:lee-kum-kee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "person:lee-siu-nam",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-siu-nam",
+      "target": "family:lee-kum-kee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "person:lee-wai-hung",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-wai-hung",
+      "target": "family:lee-kum-kee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "person:lee-wai-sum",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-wai-sum",
+      "target": "family:lee-kum-kee-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "company:lee-kum-kee",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:lee-kum-kee",
+      "target": "family:lee-kum-kee-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "company:infinitus",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:infinitus",
+      "target": "family:lee-kum-kee-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "event:oyster-sauce-accident-1888",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "event:lkk-buyout-1972",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "event:lkk-buyout-1986",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "event:lkk-family-council-2002",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "event:infinitus-crisis-2019",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "event:lkk-nonfamily-ceo-2020",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "tool:family-council",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "tool:family-constitution",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "tool:exit-and-split-protocol",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "tool:outside-first-entry-rule",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "tool:next-gen-engagement-program",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:lee-kum-kee",
+      "target": "tool:si-li-ji-ren-motto",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-kum-sheung",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-kum-sheung",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-man-tat",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-man-tat",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-man-lok",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-man-lok",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-siu-nam",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-siu-nam",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-wai-hung",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-wai-hung",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-wai-sum",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-wai-sum",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:lee-kum-kee",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:lee-kum-kee",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:infinitus",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:infinitus",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:oyster-sauce-accident-1888",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:oyster-sauce-accident-1888",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-buyout-1972",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-buyout-1972",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-buyout-1986",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-buyout-1986",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-family-council-2002",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-family-council-2002",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:infinitus-crisis-2019",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:infinitus-crisis-2019",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-nonfamily-ceo-2020",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:lkk-nonfamily-ceo-2020",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:family-council",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:exit-and-split-protocol",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:exit-and-split-protocol",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:outside-first-entry-rule",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:outside-first-entry-rule",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:next-gen-engagement-program",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:next-gen-engagement-program",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:si-li-ji-ren-motto",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:si-li-ji-ren-motto",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度四天的家族委员会、先外后内的准入门槛、按约定回购的退出条款， 连立法的家长本人也要低头遵守。规则没有取代血缘，规则是在保护血缘。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:lee-kum-sheung",
+      "target": "person:lee-siu-nam",
+      "type": "parent_child",
+      "label": "创业父子",
+      "evidence": "李兆南是李锦裳三子，第二代三兄弟各管一摊守成几十年，他常给儿孙讲父亲除夕烧赊账单的故事。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.85,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:lee-kum-kee"
+    },
+    {
+      "source": "person:lee-siu-nam",
+      "target": "person:lee-man-tat",
+      "type": "parent_child",
+      "label": "父子同心",
+      "evidence": "1972 年第一次分家，李兆南站在儿子一边出钱买断叔伯，把所有权收拢到自己一房。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:lee-kum-kee"
+    },
+    {
+      "source": "person:lee-man-tat",
+      "target": "person:lee-man-lok",
+      "type": "conflict",
+      "label": "买断决裂",
+      "evidence": "1986 年前后哥哥抵押厂房举债约八千万港元买断弟弟约四成股权，兄弟从此不再往来。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:lee-kum-kee"
+    },
+    {
+      "source": "person:lee-man-tat",
+      "target": "person:lee-wai-sum",
+      "type": "parent_child",
+      "label": "危机立宪",
+      "evidence": "父子因卖不卖亏损生意僵持两年，儿子一度想另起炉灶，这场第三次危机逼出了家族宪法。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:lee-kum-kee"
+    },
+    {
+      "source": "person:lee-man-tat",
+      "target": "person:lee-wai-hung",
+      "type": "parent_child",
+      "label": "取经搭台",
+      "evidence": "父亲派李惠雄赴瑞士英美日考察长寿家族数年，回来搭起家族委员会的架子。",
+      "source_file": "文章/一锅蚝汁熬出的百年家业：李锦记家族的传承之道（执允“家族·故事”系列第 36 期）.md",
+      "confidence": 0.82,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:lee-kum-kee"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "concept:debt-pressure",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-001",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "concept:patient-long-termism",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-002",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "concept:professionalization",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-003",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-004",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "concept:professionalization",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-005",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "concept:family-consensus",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-006",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-007",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "concept:professionalization",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:stanford-008",
+      "target": "tool:founding-trustee-board",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "family:stanford-family",
+      "type": "mentions",
+      "label": "讲述家族",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "concept:philanthropy-as-governance",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "concept:constraint-as-power",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "person:leland-stanford",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:leland-stanford",
+      "target": "family:stanford-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "person:jane-stanford",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jane-stanford",
+      "target": "family:stanford-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "person:leland-stanford-jr",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:leland-stanford-jr",
+      "target": "family:stanford-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "person:david-starr-jordan",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:david-starr-jordan",
+      "target": "family:stanford-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "person:frederick-terman",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:frederick-terman",
+      "target": "family:stanford-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "company:stanford-university",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:stanford-university",
+      "target": "family:stanford-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "company:central-pacific-railroad",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:central-pacific-railroad",
+      "target": "family:stanford-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "event:leland-jr-death-1884",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "event:stanford-founding-grant-1885",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "event:stanford-estate-crisis-1893",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "event:jane-power-transfer-1903",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "event:jane-stanford-death-1905",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "event:stanford-industrial-park-1951",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "tool:founding-trustee-board",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "tool:land-sale-restriction",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "tool:founder-power-renunciation",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:stanford",
+      "target": "tool:perpetual-endowment-discipline",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:leland-stanford",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:leland-stanford",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jane-stanford",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:jane-stanford",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:leland-stanford-jr",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:leland-stanford-jr",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:david-starr-jordan",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:david-starr-jordan",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:frederick-terman",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:frederick-terman",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:stanford-university",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:stanford-university",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:central-pacific-railroad",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:central-pacific-railroad",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:leland-jr-death-1884",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:leland-jr-death-1884",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:stanford-founding-grant-1885",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:stanford-founding-grant-1885",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:stanford-estate-crisis-1893",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:stanford-estate-crisis-1893",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:jane-power-transfer-1903",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:jane-power-transfer-1903",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:jane-stanford-death-1905",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:jane-stanford-death-1905",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:stanford-industrial-park-1951",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:stanford-industrial-park-1951",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:founding-trustee-board",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:founding-trustee-board",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:land-sale-restriction",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:land-sale-restriction",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:founder-power-renunciation",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:founder-power-renunciation",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:perpetual-endowment-discipline",
+      "target": "concept:succession-contingency",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:perpetual-endowment-discipline",
+      "target": "concept:mission-locked-ownership",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "一个没有直系后代的家把私人财产变成了公共机构：受托人制度替代血缘继承、土地禁售条款 关掉不可逆的近路、创始人在世时亲手放弃高于董事会的特权。财产离三个人越来越远， 离最初指定的用途仍然很近。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:leland-stanford",
+      "target": "person:jane-stanford",
+      "type": "spouse",
+      "label": "创校夫妇",
+      "evidence": "1850 年在奥尔巴尼结婚，1885 年共同签署创始捐赠文书，把家产交给一所以儿子命名的大学。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:stanford"
+    },
+    {
+      "source": "person:leland-stanford",
+      "target": "person:leland-stanford-jr",
+      "type": "parent_child",
+      "label": "十八年后的独子",
+      "evidence": "结婚近十八年才得子，父亲送他学会计：即使财富长了翅膀飞走，儿子也应当养得活自己。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:stanford"
+    },
+    {
+      "source": "person:jane-stanford",
+      "target": "person:leland-stanford-jr",
+      "type": "parent_child",
+      "label": "病房讲述",
+      "evidence": "母亲头痛卧于暗室，孩子每天把外面的世界带回来讲给她听，这个习惯到欧洲之行仍没有变。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:stanford"
+    },
+    {
+      "source": "person:jane-stanford",
+      "target": "person:david-starr-jordan",
+      "type": "conflict",
+      "label": "施压与疑云",
+      "evidence": "她多次施压乔丹处理罗斯教授；她死后乔丹赶到檀香山推动自然死亡说压过投毒裁定。",
+      "source_file": "文章/三个人的家，一百四十岁的继承人：斯坦福家族故事（执允“家族·故事”系列第 37 期）.md",
+      "confidence": 0.82,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:stanford"
     }
   ]
 };
