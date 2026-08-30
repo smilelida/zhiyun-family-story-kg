@@ -1,5 +1,5 @@
 window.ARTICLE_DATA = {
-  "generated_at": "2026-08-28",
+  "generated_at": "2026-08-30",
   "articles": [
     {
       "story_id": "story:sheng-xuanhuai",
@@ -117450,6 +117450,2180 @@ window.ARTICLE_DATA = {
       ]
     },
     {
+      "story_id": "story:vanderbilt",
+      "title": "一百年花完一个国库：范德比尔特家族的六代人",
+      "series_no": 38,
+      "source_files": [
+        "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md"
+      ],
+      "related_node_ids": [
+        "family:vanderbilt-family",
+        "person:cornelius-vanderbilt",
+        "person:william-henry-vanderbilt",
+        "person:cornelius-jeremiah-vanderbilt",
+        "person:cornelius-vanderbilt-ii",
+        "person:william-kissam-vanderbilt",
+        "person:alva-vanderbilt",
+        "person:consuelo-vanderbilt",
+        "person:gloria-vanderbilt",
+        "person:anderson-cooper",
+        "company:new-york-central",
+        "company:biltmore-estate",
+        "company:whitney-museum",
+        "event:gibbons-v-ogden-1824",
+        "event:vanderbilt-will-clause8-1877",
+        "event:public-be-damned-1882",
+        "event:vanderbilt-ball-1883",
+        "event:consuelo-marriage-1895",
+        "event:the-breakers-1895",
+        "event:gloria-custody-1934",
+        "event:nyc-last-seat-1954",
+        "concept:dispersed-succession",
+        "concept:succession-planning-gap",
+        "concept:third-generation-risk",
+        "concept:family-control-unity",
+        "concept:philanthropy-as-governance",
+        "tool:residuary-concentration",
+        "tool:spendthrift-trust",
+        "tool:equal-division-inheritance",
+        "tool:mansion-tourism-conversion"
+      ],
+      "toc": [
+        {
+          "id": "vanderbilt-p-001",
+          "level": 1,
+          "title": "一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）"
+        },
+        {
+          "id": "vanderbilt-p-002",
+          "level": 2,
+          "title": "序章 下午四点"
+        },
+        {
+          "id": "vanderbilt-p-011",
+          "level": 2,
+          "title": "第一章 港口"
+        },
+        {
+          "id": "vanderbilt-p-012",
+          "level": 3,
+          "title": "1.1 落地钟里的一百美元"
+        },
+        {
+          "id": "vanderbilt-p-017",
+          "level": 3,
+          "title": "1.2 吉本斯船上的十二年"
+        },
+        {
+          "id": "vanderbilt-p-022",
+          "level": 3,
+          "title": "1.3 从轮船到铁路"
+        },
+        {
+          "id": "vanderbilt-p-027",
+          "level": 3,
+          "title": "1.4 铁路留给了长子"
+        },
+        {
+          "id": "vanderbilt-p-036",
+          "level": 2,
+          "title": "第二章 遗嘱第八条"
+        },
+        {
+          "id": "vanderbilt-p-037",
+          "level": 3,
+          "title": "2.1 最后一份遗嘱"
+        },
+        {
+          "id": "vanderbilt-p-043",
+          "level": 3,
+          "title": "2.2 法庭里的家史"
+        },
+        {
+          "id": "vanderbilt-p-050",
+          "level": 3,
+          "title": "2.3 八十号房"
+        },
+        {
+          "id": "vanderbilt-p-054",
+          "level": 2,
+          "title": "第三章 威廉的八年"
+        },
+        {
+          "id": "vanderbilt-p-055",
+          "level": 3,
+          "title": "3.1 罢工中的继承人"
+        },
+        {
+          "id": "vanderbilt-p-060",
+          "level": 3,
+          "title": "3.2 报纸上的四个单词"
+        },
+        {
+          "id": "vanderbilt-p-065",
+          "level": 3,
+          "title": "3.3 摩根进场"
+        },
+        {
+          "id": "vanderbilt-p-069",
+          "level": 3,
+          "title": "3.4 遗嘱第二十二条"
+        },
+        {
+          "id": "vanderbilt-p-078",
+          "level": 2,
+          "title": "第四章 名片与婚约"
+        },
+        {
+          "id": "vanderbilt-p-080",
+          "level": 3,
+          "title": "4.1 一张迟到的名片"
+        },
+        {
+          "id": "vanderbilt-p-087",
+          "level": 3,
+          "title": "4.2 十八英寸的腰"
+        },
+        {
+          "id": "vanderbilt-p-093",
+          "level": 3,
+          "title": "4.3 婚礼和两笔信托"
+        },
+        {
+          "id": "vanderbilt-p-099",
+          "level": 3,
+          "title": "4.4 康苏埃洛进议会，阿尔瓦争取选举权"
+        },
+        {
+          "id": "vanderbilt-p-102",
+          "level": 2,
+          "title": "第五章 房子与铁路"
+        },
+        {
+          "id": "vanderbilt-p-103",
+          "level": 3,
+          "title": "5.1 一栋房子的两种价格"
+        },
+        {
+          "id": "vanderbilt-p-108",
+          "level": 3,
+          "title": "5.2 海边的七十个房间"
+        },
+        {
+          "id": "vanderbilt-p-116",
+          "level": 3,
+          "title": "5.3 想自己挣钱的庄园"
+        },
+        {
+          "id": "vanderbilt-p-120",
+          "level": 3,
+          "title": "5.4 最后一个董事席位"
+        },
+        {
+          "id": "vanderbilt-p-123",
+          "level": 2,
+          "title": "第六章 信托里的孩子"
+        },
+        {
+          "id": "vanderbilt-p-124",
+          "level": 3,
+          "title": "6.1 一只毛绒大象"
+        },
+        {
+          "id": "vanderbilt-p-130",
+          "level": 3,
+          "title": "6.2 一个婴儿的账户"
+        },
+        {
+          "id": "vanderbilt-p-136",
+          "level": 3,
+          "title": "6.3 车窗外的苹果"
+        },
+        {
+          "id": "vanderbilt-p-142",
+          "level": 3,
+          "title": "6.4 铜像与存折"
+        },
+        {
+          "id": "vanderbilt-p-152",
+          "level": 2,
+          "title": "第七章 钱去了哪里"
+        },
+        {
+          "id": "vanderbilt-p-153",
+          "level": 3,
+          "title": "7.1 校园里的午餐"
+        },
+        {
+          "id": "vanderbilt-p-157",
+          "level": 3,
+          "title": "7.2 股票分开以后"
+        },
+        {
+          "id": "vanderbilt-p-165",
+          "level": 3,
+          "title": "7.3 十六美元三十四美分"
+        },
+        {
+          "id": "vanderbilt-p-171",
+          "level": 3,
+          "title": "7.4 被拒绝的礼物"
+        },
+        {
+          "id": "vanderbilt-p-175",
+          "level": 2,
+          "title": "尾声 圣诞夜的守夜人"
+        },
+        {
+          "id": "vanderbilt-p-183",
+          "level": 2,
+          "title": "思想实验：分完以后"
+        },
+        {
+          "id": "vanderbilt-p-197",
+          "level": 2,
+          "title": "参考文献"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "vanderbilt-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）",
+          "related_node_ids": [
+            "family:vanderbilt-family"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "序章 下午四点",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2018年3月30日，耶稣受难日。下午四点以前，格拉迪丝·萨帕里（Gladys Szapary）要把留在听涛山庄（The Breakers）的东西搬完。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三月底的罗德岛纽波特还很冷。海风从悬崖下吹上来，楼下照常开放。游客沿着围绳走过大客厅、餐厅和镀金的天花板时，楼上正有人把纸箱装进老式奥的斯电梯。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "格拉迪丝是科尼利厄斯·范德比尔特二世的曾孙女。小时候，她和弟弟保罗从厨房拿来托盘，坐在上面滑下大理石楼梯，母亲小时候也这样玩。1998年母亲去世以后，姐弟俩继续使用三楼。那里不对游客开放，房间里放着四代人的照片、婴儿车、洗礼服和普通家具。楼下的场景停在1895年，楼上仍过着日常生活：灯泡会坏，水管会漏，抽屉里塞着一时舍不得扔的东西。",
+          "related_node_ids": [
+            "person:cornelius-vanderbilt",
+            "person:cornelius-vanderbilt-ii"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为三楼的居住权，格拉迪丝一家与纽波特县保护协会争了几年。保护协会担心老旧电线、管道和消防设施危及整栋建筑。格拉迪丝一家说，家人多年承担税费和部分维修，也愿意自费整改。2017年底，她已搬出山庄。此后几个周末，她和弟弟、朋友回来收拾余下的东西。最后一天，几个人在朝海的露台上开了一瓶香槟。格拉迪丝擦过地板，关灯，从侧门坐车离开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "听涛山庄常同两个数字一起出现。1895年，科尼利厄斯二世与妻子艾丽斯重建这所房子，造价通常估为七百万美元。1972年，后人把它卖给保护协会，成交价三十六万五千美元。交易还包括家具、家族继续居住的安排和此后的维护责任。房子卖出以后，范德比尔特家的人在三楼又住了近半个世纪，楼下则成了每年接待几十万游客的博物馆。单看这两个数字，算不出家族在这座房子上\"败掉\"了多少钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1877年，科尼利厄斯二世的祖父、家族创始人科尼利厄斯·范德比尔特留下约一亿美元。史学家T. J.斯泰尔斯估算，若连银行活期存款也算进去，这笔钱约等于当时全美货币的二十分之一，若只算流通的纸币和硬币，则接近九分之一。此后一个多世纪，钱陆续流向大学、博物馆、森林、豪宅和游艇，也付掉了许多家庭的日常开支。",
+          "related_node_ids": [
+            "person:cornelius-vanderbilt"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这笔钱没有在某一天从所有支系的账上同时消失。往后的遗嘱、出售和日常开支，把它带到越来越多的人和机构手里，仍在共同经营铁路的人却越来越少。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "要看清这笔财产如何聚拢，又怎样散到后人手里，得先回到纽约港。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第一章 港口",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.1 落地钟里的一百美元",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范德比尔特这个后来出现在大学、车站和大宅门前的姓，最初来自荷兰乌得勒支附近的德比尔特（De Bilt）。十七世纪中叶，扬·阿尔茨松（Jan Aertszn）以契约劳工身份来到新尼德兰，用若干年劳动换取船票和立足之地。\"van der Bilt\"原意是\"来自德比尔特\"，进入英语世界后逐渐合成Vanderbilt。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯·范德比尔特（Cornelius Vanderbilt）的父亲种地，也驾宽底帆船往返斯塔滕岛和曼哈顿，运木材、农产品和乘客。岛上还没有桥，港口就是这家人的生计。科尼利厄斯只断续读过几年书，十一岁以后，大部分时间都在父亲的船上。",
+          "related_node_ids": [
+            "person:cornelius-vanderbilt"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "关于第一条船，家族后来一直这样讲：十六岁的科尼利厄斯向母亲菲比借一百美元。母亲让他在生日以前清理一块满是石头和树根的贫地。他找来同伴，按时干完，菲比便从落地钟里取出钱。少年用它买了一条小帆船，在斯塔滕岛和曼哈顿之间摆渡。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯很年轻时便独自在港口揽客。潮水、风向和天气直接决定一天的收入。风停了就撑篙，风浪大了也得设法准时靠岸。乘客误了行程，下一次会去找别的船，货物淋湿，当天就有人索赔。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.2 吉本斯船上的十二年",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1817年11月，二十三岁的科尼利厄斯受雇于托马斯·吉本斯（Thomas Gibbons），替他开蒸汽船。纽约州早已把州内蒸汽航运的专营权给了另一家公司。吉本斯持有联邦沿海航运执照，认定跨州航运应由国会管理，纽约州的专营权拦不住自己的船。双方为此打起了官司。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯负责新不伦瑞克到纽约的航线，除了要管船员、乘客和航线，也要应付拿着禁令登船的执法人员。妻子索菲亚（Sophia Johnson）在码头边开客栈，给下船换马车的旅客吃饭、住宿。船继续开，官司也一层层往上打。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1824年3月2日，美国最高法院对\"吉本斯诉奥格登案\"作出判决。首席大法官约翰·马歇尔（John Marshall）裁定，跨州商业归国会管理，纽约州授予的垄断权不能阻挡持联邦执照的船。判决以后，纽约到奥尔巴尼的票价从七美元降到三美元，水面上的蒸汽船也多了起来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "吉本斯1826年去世。三年后，科尼利厄斯离开船队，经营自己的航线。他会突然降价，把对手拖入亏损，对方若肯付钱请他退出，他便拿着补偿去做别处的生意。低价给乘客省了钱，也常是逼对手退让的手段。从二十三岁到三十五岁，他在船队里学会了开船，也学会了怎样用价格、合同和诉讼争一条航线。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.3 从轮船到铁路",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1833年11月，科尼利厄斯乘坐的火车在新泽西脱轨翻覆。他断了两根肋骨，肺部被刺伤，卧床一个月。三十年后，他卖掉大部分航运资产，把钱投进铁路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "船可以临时改线，铁轨铺下去以后，车站、货源和发车时间都会围着它安排。他先后取得纽约与哈莱姆铁路、哈德逊河铁路和纽约中央铁路的控制权。1869年，纽约中央与哈德逊河铁路合并。1871年，第一代大中央车站（Grand Central Depot）启用，几条向北的铁路开始从同一个门厅出发。",
+          "related_node_ids": [
+            "company:new-york-central"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "生意转到铁路以后，科尼利厄斯每天打交道的，多半是会计报表、经理的汇报和电报。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一位英国访客曾问他，各个部门设在哪里。科尼利厄斯指了指角落里坐在凳子上的书记员。桌子抽屉里放着支票簿和雪茄，许多财产数字记在他随身的小册子上。公司已有调度员、会计和经理，可收购线路、发行证券和重要任免，仍由他在这间简陋的办公室里决定。晚年卧床以后，长子威廉每天至少两次从大中央车站赶来汇报，再带着父亲的答复回去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "1.4 铁路留给了长子",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯自己在吉本斯的船队做了十余年。轮到孩子们，他没有给每个人同样的机会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长子威廉·亨利体弱，性情也不如父亲强硬，很早就被认定不适合管核心生意，随后去了斯塔滕岛经营一处农场。为改良土地，威廉抵押借来六千美元。父亲得知后把他叫去，当面说他迟早会给全家丢脸。第二天，父亲又送来一张六千美元的支票，命他立刻还掉抵押。此后又过了很久，威廉才获准进入铁路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来，科尼利厄斯安排威廉接管已经破产的斯塔滕岛铁路。那条小铁路只有三台机车、六节客车和十三英里轨道。威廉削减开支，又用渡船把铁路接到纽约。几年后公司的债务已经还清，原本几乎无人问津的股票也涨了起来。父亲这才让他逐步进入更重要的铁路业务。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "次子科尼利厄斯·杰里迈亚，家里叫他科尼尔，自少年起患有癫痫，成年后沉迷赌博，欠下许多债。十九世纪的人常把癫痫、精神疾病、意志薄弱和道德缺陷混为一谈。父亲替科尼尔还过债，也曾以精神问题为由将他收容，后来用监视和信托管住他的生活。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼尔每月从父亲那里领一百美元，几次请求到铁路做事，始终没有得到职位。1877年的庭审报道记载，他还请哥哥替自己说情。威廉回答，他不敢插手父亲和弟弟之间的事。父亲继续替科尼尔付账，也把他留在办公室外。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "女儿们得到财产和生活保障，同样进不了铁路。当时的婚姻财产制度和父系观念，使科尼利厄斯担心股份随着女儿的婚姻转到别姓手中。铁路最终交给长子威廉，科尼尔始终没有得到职位。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1873年，在第二任妻子弗兰克·克劳福德推动下，科尼利厄斯先后承诺捐出合计一百万美元，在纳什维尔建一所大学。学校用了他的姓，他本人一生没有去过那里。这是他一生中少见的一笔大额公益捐赠。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到晚年，科尼利厄斯把铁路股份集中在自己手中。对身后之事，他采用的也是同一个办法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第二章 遗嘱第八条",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.1 最后一份遗嘱",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1877年1月4日上午，纽约下着雪。八十二岁的科尼利厄斯死在华盛顿坊（Washington Place）十号二楼的卧室里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "亲友回忆、医生报告和次日的报纸，对他最后几个月留下了几个不完全相同的版本。流传最广的一种说法是，他临终前嘱咐长子威廉把钱归在一起，让纽约中央继续留在家族手里。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他担心铁路股份散到女儿和女婿手里，日后有人出售，外部投资者便可能取得控制权。他对朋友说过，想让财产成为这个姓氏的纪念碑。一位熟人还记得，他生前已料到遗嘱公布后会\"有得闹\"。为此，他接连签下意旨相近的遗嘱，反复更换律师和见证安排。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1月7日葬礼结束。第二天中午，家人来到女婿威廉·K·索恩家中，听律师查尔斯·A·拉帕洛宣读遗嘱。第二任妻子弗兰克·克劳福德获得住宅、现金和债券。女儿们分别得到铁路债券、现金或信托收益，科尼尔的份额则进入由哥哥管理的信托。决定主要财产去向的是第八条：前面各项遗赠分完以后，余下的一切财产全部归长子威廉·亨利。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "余产通常估为九千万至九千五百万美元，其中包括足以控制纽约中央铁路的股份。女儿们分得的几十万美元足以维持富足生活，与长子的份额相比仍相差悬殊。律师读完遗嘱时，家中已有三个孩子准备起诉。",
+          "related_node_ids": [
+            "company:new-york-central"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.2 法庭里的家史",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "提出异议的是科尼尔、姐姐埃塞琳达和妹妹玛丽。他们主张父亲晚年精神失常，威廉施加了不当影响，遗嘱的签署程序也有问题。只要有一项得到法院支持，余产就可能重新分配。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1877年11月，案件在纽约开审。记者看见科尼尔穿着一件已经起毛的棕色大衣，威廉身穿黑色礼服，戴丝质礼帽。兄弟俩坐得很近，椅子各朝一边。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "审理持续一年多。原告一方找来医生、仆人和熟人，试图说明老人立遗嘱时已经不能自由作决定。威廉的律师则把科尼尔的生活摊在法庭上，逐一追问他的赌博、借债、空头支票和官司。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼尔的癫痫从少年时开始发作。成年以后，他长期赌博，频繁借债，曾因空头支票、伪造签名和欠款被捕，也动用过妻子的首饰。他在证人席上说，父亲要求他维持配得上范德比尔特姓氏的生活，却不给一份足以负担这类开支的工作和收入。律师接着让他承认，许多债是赌博留下的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "庭审报道还记下一个问答。律师问，赌博怎样成了习惯，科尼尔答，这在家里不算稀奇。他又说，自己一直以为父亲迟早会给他一门生意，让他把借来的钱挣回来。威廉坐在一旁记下弟弟提到的债务数字，递给律师，下一轮追问随即开始。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1879年3月，一位曾替科尼利厄斯起草遗嘱的律师带来一连串旧遗嘱。这些遗嘱的分法大体一致，都只给科尼尔有限的财产，并用信托加以约束。科尼尔一方更难证明父亲只在晚年突然改变了心意。威廉随后同科尼尔和玛丽和解，另给两人现金和信托；父亲的遗嘱没有被推翻。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "2.3 八十号房",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1882年4月2日，科尼尔住在纽约格伦汉姆酒店八十号房。他从五斗柜里拿出一支史密斯威森手枪，开枪自杀，于傍晚去世。他没有留下遗书。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他长期受癫痫、赌博和债务困扰，父亲替他还过债，两次以精神问题为由将他收容。信托保住了一笔不易被债主拿走的钱，也把他的经济生活交给哥哥管理。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "遗嘱第八条使足以控制纽约中央的股份留在威廉手里。科尼尔按月领取哥哥管理的信托收益，女儿们则被排除在铁路控制权之外。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第三章 威廉的八年",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.1 罢工中的继承人",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1877年夏天，威廉·亨利·范德比尔特刚继承父亲留下的近一亿美元，华尔街不相信他能管好纽约中央。威廉早已在公司任职，熟悉经理和账目，但过去几十年的重大决定一直由父亲作出。如今，铁路上的大小事务都由他决定。",
+          "related_node_ids": [
+            "person:william-henry-vanderbilt"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1873年金融恐慌造成的萧条还未结束。1877年7月，巴尔的摩与俄亥俄铁路再次降薪，西弗吉尼亚的司炉工停工。罢工沿铁轨传到匹兹堡、芝加哥和圣路易斯，车厢被焚，铁轨被拆，州民兵与人群交火。海斯总统调动联邦军队。这是美国第一次波及多个州的大规模铁路罢工。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "纽约中央也削减了一成工资。公司当年有上千万美元净收益，股息照常发放。机械工一天约挣一美元二十美分，扳道工和养路工挣得更少。新主人刚继承巨额财产，工人的工资却又少了一成，铁路上的不满很快蔓延。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉没有马上调民兵。公司拿出十万美元，分给愿意继续工作的员工，司机、列车长、扳道工、制动工和力工按岗位各领一笔。纽约中央的客运大体维持，货运停了约三天。10月3日，公司补回被扣工资的一半。直到1880年2月，原来的工资才全部恢复。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.2 报纸上的四个单词",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1882年10月，威廉乘专列去芝加哥。途中，两名记者登上私人车厢，问起一趟由纽约开往芝加哥的快速邮车。这趟车给沿途民众寄送邮件，速度很快，但长期亏损，威廉准备停运。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "记者接着问，一趟对公众有用的列车，是否该只看盈亏来决定停不停运。第二天，多家报纸刊出一句很快传遍全国的话：\"去他的公众。\"英文后来常写作\"The public be damned\"。威廉回到纽约后公开否认，称记者歪曲了谈话，两名记者坚持自己的记录没错。采访没有录音，原话已经无从核对。有一点没有争议：威廉确实准备停掉那趟亏损快车。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "报纸配上漫画：威廉挺着肚子，背心画着美元符号，脚踩铁路工人。那句话被政客、牧师和报纸主笔一再引用。五年前的罢工中，威廉曾拿出十万美元维持运营，后来也恢复了工资。公众记住了报纸标题上的四个英文单词和那幅漫画。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "铁路有政府授予的特许，铁轨穿过城镇和农场，车上还运送邮件。围绕那趟快车的争论，早已不只是一列车该不该赚钱。人们还在问，一家控制主要交通线的公司，对沿线居民应当承担什么责任。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.3 摩根进场",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1883年初，威廉估计自己的财产已接近一亿九千四百万美元。到1885年去世时，通常估为两亿美元左右。家族传记保存的一份账显示，他持有的证券一年带来一千多万美元收入，家庭年支出约二十万美元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "早在1879年，威廉已经开始把一部分资产从纽约中央移出。他请J. P.摩根主持财团，把大批纽约中央股票配售给英国投资者。同期记录留下了几种不同的股数，家族传记采用三十万股、所得约三千五百万美元的说法。摩根和财团的代表随后进入董事会，威廉用出售所得买入年息4%的美国政府债券。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉公开解释，卖出的股票远不到所持股份的一半。他仍是纽约中央的大股东，董事会里第一次有了这批外部投资者的代表。他持有的资产不再全部压在一家公司上，铁路的日常事务也逐步交给儿子和职业经理。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "3.4 遗嘱第二十二条",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1883年，威廉辞去主要铁路职务。长子科尼利厄斯二世负责纽约中央，次子威廉·基萨姆管理其他线路，各公司的经理接手日常经营。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉年轻时在斯塔滕岛经营农场，后来在父亲身边等了几十年，真正独自当家只有六年。这期间，他处理了1877年罢工，卖出部分纽约中央股票，也受到\"The public be damned\"一语带来的舆论攻击。名下财产从约一亿美元增至接近两亿美元。六十岁出头时，他的身体已明显吃不消，便退出办公室，把更多时间留给画作、马匹和个人投资。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "据亲友转述，威廉曾羡慕一位资产不到自己百分之一的邻居。两人的房子一样舒适，马一样好，歌剧院包厢也挨在一起；不同的是，邻居身体更好，对身边的朋友也少一些疑心。威廉觉得，两亿美元已经拖垮了自己的身体，不愿再照父亲的办法，把这副担子全压在一个儿子身上。去世前六年，他至少九次修改遗嘱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1885年12月8日下午，威廉在第五大道六百四十号住宅的书房里，同巴尔的摩与俄亥俄铁路总裁罗伯特·加勒特谈话。仆人刚为壁炉添过火，加勒特发现主人脸色发红，说话也开始含混。片刻后，威廉倒下，死于中风，终年六十四岁。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最后一份遗嘱签于1884年9月25日。1885年12月11日，葬礼结束以后，八个成年子女回到父亲在第五大道六百四十号的住宅，听律师宣读遗嘱。妻子玛丽亚·路易莎终身使用这所住宅、马厩、家具和大部分艺术品，另有年金。四个女儿得到父亲为她们准备的住宅，大笔政府债券和铁路债券进入信托，为四子四女分别支付收益。每个孩子另有直接遗赠。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长子科尼利厄斯二世得到额外财产，并接下家族和纽约中央里的主要位置。余产由他与弟弟威廉·基萨姆平分。这份遗嘱的分法很清楚：八个孩子都有足以独立生活的财产，两个在铁路任职的儿子所得更多，长子继续居于家族和公司的中心。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "老科尼利厄斯在遗嘱第八条把余产留给一个儿子。威廉在遗嘱第二十二条把余产分给两个儿子。这一次，八个孩子接受了父亲的分配。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这次分家没有让家族立刻变穷。两个儿子仍在经营铁路，八个孩子也都有足以独立生活的财产。此后，信托分别向各支支付收益，直接遗赠的证券和其他财产则由各家处置。遗嘱也没有要求分给各家的财产以后重新合在一起。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第四章 名片与婚约",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉·亨利有四子四女。长子科尼利厄斯二世和次子威廉·基萨姆接管铁路。威廉·基萨姆的妻子阿尔瓦婚前姓史密斯，两人有三个孩子，康苏埃洛是长女，下面还有两个弟弟。丈夫在铁路任职，阿尔瓦操持宴会和宅邸，也管着孩子们的生活和教育。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.1 一张迟到的名片",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "时间回到1883年3月26日，星期一。入夜以后，马车一辆接一辆停在纽约第五大道660号门前。这里是威廉·基萨姆与阿尔瓦落成不久的新宅。男仆穿着号衣拉开车门，客人扮成玛丽·安托瓦内特、黎塞留、威尼斯公主，还有戴天鹅绒王冠的路易十六。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿尔瓦为这场化装舞会发出约一千三百张请帖，据报到场约一千二百人。舞会前六个星期，城里的裁缝已经忙着赶制服装。两支乐队轮流演奏，德尔莫尼科的厨师在三楼准备宵夜。报纸估计，鲜花就花了一万一千美元。整场舞会耗费二十五万美元的说法也来自当时报刊，已经没有完整账本可供核对。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当时，纽约旧社交圈公认的女主人是卡罗琳·阿斯特，人们通常只称她为阿斯特夫人。她和阿尔瓦都扮成威尼斯公主。阿尔瓦穿黄白锦缎，饰以金线和珍珠。阿斯特夫人穿深蓝天鹅绒，几乎把自己的钻石全戴在身上。科尼利厄斯二世的妻子艾丽斯，也就是阿尔瓦的妯娌，扮成\"电灯\"，火炬由藏在衣服里的电池供电。另有一位女宾穿着猫装，裙上缝着白猫尾，胸前排着猫头，颈链系有铃铛。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来流传最广的说法是，舞会前，阿斯特夫人的女儿凯丽已经为\"星辰四对舞\"排练了许多天，却迟迟没有收到请帖。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "故事里，阿尔瓦给出的理由是，阿斯特夫人从未正式拜访过她。按当时的登门规矩，她不能绕过母亲邀请女儿。最后，阿斯特夫人派男仆把自己的名片送到660号，放进范德比尔特家男仆捧着的银盘。阿尔瓦随后回访，请帖才进了阿斯特家。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这套完整的名片故事没有留下同期记录。可以确认的是，3月26日晚上，阿斯特夫人和凯丽都到了。凯丽参加\"星辰四对舞\"，额前戴着小电灯。凌晨两点，宾客走进用棕榈、玫瑰和纸灯布置的体育室，两座临时喷泉还在流水。最后一支舞结束时，窗外已经发白。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.2 十八英寸的腰",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿尔瓦与威廉·基萨姆的长女康苏埃洛出生于1877年。她的名字取自阿尔瓦最亲近的朋友康苏埃洛·伊兹纳加。伊兹纳加也是美国人，后来嫁给曼彻斯特公爵。阿尔瓦很早便把这位朋友的婚姻，当成女儿可以走的一条路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "女儿康苏埃洛没有进过普通学校。八岁时，她已能读写英、法、德三种语言，家中日常只许说法语。每到星期六，她要背诵三种语言的长诗。家庭教师除了管功课，还要把她的想法和交往报告给阿尔瓦。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "康苏埃洛后来在回忆录里写到一根贴着脊背的钢条。钢条固定腰和肩，另一条带子绕过额头。做功课时，她必须戴着这套装置，把书举高，不能低头。年龄稍长，鲸须高领和紧身胸衣又把腰束到十八英寸。阿尔瓦要求她站直，走路缓慢，将来进入舞厅时不能显得匆忙。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些童年细节都来自康苏埃洛1952年出版的回忆录。她也记得母亲的另一面。九岁那年，小马受惊，车子冲向消防栓，是阿尔瓦扑上去抓住缰绳，把她从翻车的危险中拉开。兴致好的时候，阿尔瓦见多识广，也很会带孩子玩；另一些时候，她会用马鞭惩罚孩子，还当着客人的面评论女儿的鼻尖。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个弟弟渐渐可以骑马、旅行、结交朋友。康苏埃洛的日子仍由法语诗、钢条、家庭教师和鲸须胸衣排满。她学的是怎样在客厅和舞厅里成为一位公爵夫人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.3 婚礼和两笔信托",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1895年初，阿尔瓦起诉丈夫威廉·基萨姆·范德比尔特。两人早已分居，威廉同其他女人的关系也不是秘密。离婚案从1月审到3月，威廉承担过错，阿尔瓦获得三个孩子的监护权、赡养安排和数处房产。",
+          "related_node_ids": [
+            "person:william-kissam-vanderbilt"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "按阿尔瓦晚年的回忆，律师最初劝她放弃。她还是把官司打了下去。离婚以后，她在纽波特的教堂和宴会上受到冷落。一次宴会上，满桌女客里只有女主人肯同她说话。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "康苏埃洛想嫁的是温斯罗普·拉瑟弗德。他出身纽约旧家族，比她年长。1895年春天，两人秘密订婚。康苏埃洛晚年回忆，温斯罗普追到她在欧洲的住处，却被仆人挡在门外，两人的信件也遭扣留。回到纽波特后，她出门总有人陪同。姨母后来告诉她，如果继续反抗，母亲下次心脏病发作可能会致命。康苏埃洛只得答应母亲安排的婚事，开始接待第九代马尔伯勒公爵。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "11月6日，康苏埃洛在纽约圣托马斯教堂嫁给第九代马尔伯勒公爵。她后来回忆，婚礼当天自己在房里哭了很久，眼睛哭肿了，临出门前还敷洗了很久。巴黎送来的婚纱是高领长袖，用布鲁塞尔蕾丝和厚重白缎制成，拖尾绣有银线和珍珠。八位伴娘由母亲挑选，婚期也不是她定的。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "婚约也写进了财产安排：价值二百五十万美元的铁路股票交给受托人，收益先由公爵终身领取。威廉·基萨姆与女儿都在世时，他每年再向女儿的受托人支付十万美元；自己去世后，另设二百五十万美元信托，供康苏埃洛终身受益。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "4.4 康苏埃洛进议会，阿尔瓦争取选举权",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "康苏埃洛到了英国后生下两个儿子，也开始走访庄园佃户，参与食品卫生、儿童教育和贫困救济。1906年，她与公爵分居。第一次世界大战期间，她主持战时救济。1918年10月，她获增补进入伦敦郡议会，次年3月正式当选。1921年离婚后，她嫁给法国飞行先驱雅克·巴尔桑。她晚年写到第二段婚姻时，用了\"完全自由\"几个字。温斯罗普的照片，她保存了一生。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "阿尔瓦后来投身妇女参政运动。1909年，她在纽波特的大理石宫举办参政会议。1912年，她带着游行队伍沿第五大道向北走，队伍里既有穿白衣的上流社会妇女，也有女工、裁缝、洗衣工和文员。她亲自列名单、筹款、联络报纸，也为全国妇女党及其前身提供房屋和资金。第十九修正案在1920年获批以后，她仍继续写信、出钱，催促组织办事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第五章 房子与铁路",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.1 一栋房子的两种价格",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1927年，拆房工人来到第五大道与五十七街。这座宅子属于威廉·亨利的长子科尼利厄斯二世，他和妻子艾丽斯在这里住了四十多年。宅子由乔治·B·波斯特设计，几经扩建，最后占去大半个街区。浅色的卡昂石一直铺到门厅高处，里面有图书室、画廊、两层高的舞厅，还有一间摩尔式吸烟室。家里最热闹的时候，要三十多名佣人才能照料过来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯二世去世后，艾丽斯独自在这里住了二十八年。舞厅很少再有客人，商店、酒店和写字楼却沿着第五大道一路向北。富人当年相中的住宅区，已经成了商人眼里的好地段。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "建宅时，土地约值三十七万五千美元，房屋约值三百万美元。到1925年前后，土地估到近四百七十万美元，房子只剩十万美元左右。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1926年，艾丽斯把地产卖掉。拆除前，宅门一度向普通人开放，五十美分便能进去看一眼，所得捐给慈善机构。随后工人进场，吊灯、壁炉、护墙板和家具各自找买主，余下的墙体被拆掉。曾经只能凭请帖进入的房间，最后靠一张门票向全城开放。伯格多夫·古德曼百货此后占据了部分原址。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.2 海边的七十个房间",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "纽波特的听涛山庄没有被拆掉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1892年，科尼利厄斯二世原有的住宅失火。他请理查德·莫里斯·亨特重建。三年后，一座七十个房间的新宅立在海边。钢、砖、石灰岩和进口大理石被运到悬崖上，锅炉等设备另设一处，以免一场火再烧掉整幢房子。屋后便是大西洋，浪声终日从悬崖下传来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "建造费通常估为七百万美元。比造价更容易核对的是日常开支：三十三名仆役、十三名马夫、十二名园丁。每到冬天，锅炉还要烧掉一百五十吨煤，才能保护房里的艺术品。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯二世去世后，艾丽斯用信托收入负担听涛山庄和纽约住宅。两处房产越来越贵，她不再同一年开放两座大宅，而是今年住一处，明年再开另一处。在听涛山庄居住时，她只使用一个侧翼。关闭房间可以少用一些人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1913年以后，所得税、战争税、遗产税、州税和房产税一项项增加。大萧条压低证券收入和房地产价格，煤、人工和维修费照常支付。住家佣工有了更多工作选择，几十名佣人常年住在一座宅子里的日子也过去了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-114",
+          "index": 114,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1948年，家族把听涛山庄的一楼和二楼以每年一美元租给纽波特县保护协会，供游客参观。家人搬到三楼，把一间佣人房改成厨房，又在大楼梯口装了一道小门，免得游客误闯上去。楼下的人隔着绳栏看宴会厅，楼上则保留了家人的厨房和起居空间。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-115",
+          "index": 115,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1972年，后人以三十六万五千美元把房屋卖给协会，协议还涉及家具、居住权和维修责任。2018年，三楼的电线、管道和消防要求引起争议。3月30日，最后一位仍住在三楼的家族后人收拾完东西，从日常进出的服务门离开。第二天，游客照常进场。三楼的小厨房关了，夜里也不再有人逐间熄灯。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-116",
+          "index": 116,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.3 想自己挣钱的庄园",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-117",
+          "index": 117,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉·亨利最小的儿子乔治·华盛顿·范德比尔特在北卡罗来纳州阿什维尔附近买地时，还不到三十岁。他从十九世纪八十年代末开始购地，庄园面积最大时约有十二万至十四万英亩。1895年圣诞，约二百五十个房间的比尔特莫主宅正式迎客。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-118",
+          "index": 118,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "比尔特莫并不只是一座豪宅。乔治也想让这片土地自己挣钱。庄园开设苗圃，经营林场、锯木、奶业和农场，同时修复周围已经退化的山林。这里后来成为美国大规模科学森林管理的早期试验场之一。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-119",
+          "index": 119,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但这些经营收入仍不足以覆盖庄园的全部开销。房屋还没有完全建成，一些房间便停在裸露的砖墙阶段，原定的园林工程也被取消。乔治削减维修和改造开支，关掉亏损项目，账面依然吃紧。1914年他去世后，妻子接下房屋、债务和所剩不多的现金，随后把八万多英亩土地卖给联邦政府。这片土地后来成为皮斯加国家森林的一部分。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-120",
+          "index": 120,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "5.4 最后一个董事席位",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-121",
+          "index": 121,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "豪宅的煤、人工和税费主要靠证券收入支付，铁路股票也在一代代继承和出售中分散。威廉·亨利在世时已经卖出一部分纽约中央股票。到了子女和孙辈手里，有人继续在公司任职，有人把股票换成别的资产。到1954年，已经没有哪一家能单独左右董事名单。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-122",
+          "index": 122,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那一年，威廉·基萨姆与阿尔瓦的小儿子、康苏埃洛的弟弟哈罗德，仍坐在纽约中央董事会里。金融家罗伯特·扬向股东征集委托票，想改组董事会，哈罗德领头抵抗。股东投票后，罗伯特·扬获胜。哈罗德离开董事会，范德比尔特家在公司里的最后一个席位也随之失去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-123",
+          "index": 123,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第六章 信托里的孩子",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-124",
+          "index": 124,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.1 一只毛绒大象",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-125",
+          "index": 125,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1925年9月，科尼利厄斯二世最小的儿子雷金纳德去世。家里都叫他雷吉。清理遗产时，住所里的物品被逐一登记，准备拍卖。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-126",
+          "index": 126,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "雷吉出生时，祖父威廉·亨利还在，纽约中央也牢牢握在家族手中。成年后，他没有进入家族铁路。据家族传记记载，二十一岁生日那晚，他刚拿到继承份额，便在坎菲尔德的赌场输掉七万美元。他去世时四十四岁，书桌上还留着许多未付账单。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-127",
+          "index": 127,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "债主中有街角报摊、书商、洗衣女工和蒂芙尼。报摊等着二百六十九美元，书商等着近四千美元，洗衣女工的七百多美元也没结，蒂芙尼的欠款接近九千美元，税款另算。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-128",
+          "index": 128,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "清单从纽约住宅写到桑迪角农场，马匹、汽车、家具和床单都在上面。编到儿童房，一岁女儿的毛绒大象也被列入拍卖清单。雷吉的母亲艾丽斯来到拍卖场，举牌买回儿子的马术奖杯和两幅祖先肖像。这两幅画像原先跟着家中\"家长\"的身份一代代传下去，如今却被列进偿债拍卖的清单。艾丽斯要重新出钱，才能把它们带回家。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-129",
+          "index": 129,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "还有五百万美元没有进入清单。科尼利厄斯二世生前为子女设立的信托规定，雷吉只能领收益，无权动用本金，债权人也拿不到。雷吉去世后，信托转给两个女儿，凯瑟琳和一岁的格洛丽亚各得二百五十万美元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-130",
+          "index": 130,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.2 一个婴儿的账户",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-131",
+          "index": 131,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "报纸后来把女儿叫作\"小格洛丽亚\"。她的母亲格洛丽亚·摩根嫁给雷吉时不到二十岁，丈夫去世时刚满二十一岁。她几乎没有自己的财产，对遗产和监护程序也不熟悉，可怀里抱着的女儿名下已有二百五十万美元本金。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-132",
+          "index": 132,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "母女的房租、佣人工资、汽车、旅行和日常开支，每一项都要先提出申请，再从孩子的信托收益中支取。律师最初申请每月四千一百六十五美元，法院准许约四千美元。申请明细中，佣人工资为九百二十五美元，佣人伙食另列二百五十美元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-133",
+          "index": 133,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1934年，格洛丽亚十岁，姑母格特鲁德·范德比尔特·惠特尼向法院申请监护权，指责孩子的母亲生活失当。母亲一方则说，有钱而强势的姑母要把女儿夺走。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-134",
+          "index": 134,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "佣人、医生和亲友轮流出庭。报纸追着卧室、欧洲旅行、酒精和女性亲密关系写。多项指控没有得到法院确认，其中还夹杂着当时社会对女性生活方式和同性关系的污名。法官随后清空法庭，在法官室单独询问十岁的格洛丽亚。她说自己害怕母亲。被问到怕什么，她答不出来，只记得母亲常常外出参加聚会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-135",
+          "index": 135,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "11月21日，法院把主要监护权判给格特鲁德，母亲只保留有限探视，从女儿信托中领取的数额也大幅减少。报纸给格洛丽亚取了一个跟随她多年的名字：\"可怜的小富家女孩\"。本金仍在受托人手中，格洛丽亚跟谁生活、何时见母亲，连最依恋的保姆能否留下，都由成年人决定。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-136",
+          "index": 136,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.3 车窗外的苹果",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-137",
+          "index": 137,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1934年圣诞，监护权官司刚结束不久。格洛丽亚坐车去看母亲。汽车停在红灯前，一个女人忽然拉开车门，跪在踏板边。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-138",
+          "index": 138,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "格洛丽亚多年后记得，女人从围巾、旧皮衣到松垮的袜子都是灰的，手里那只苹果成了眼前唯一鲜明的颜色。她把苹果递到孩子面前，一遍遍喊：\"小格洛丽亚，帮帮我。\"司机下车，把女人拉回装苹果的纸箱旁，关门开走。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-139",
+          "index": 139,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "格洛丽亚成年后回忆，她当时不知道该怎样帮，也不明白那个女人为什么认得自己。那几年，她的信托每年带来十万美元以上收入，每月开支仍由律师和法院经手。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-140",
+          "index": 140,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "二十一岁时，格洛丽亚取得财产控制权。她没有去铁路公司，也不想照祖母辈的方式过纽波特生活。她做演员、模特、画家和作家，结过四次婚。到1970年代，她把自己的名字和一只天鹅绣在牛仔裤后袋，送进普通商店。品牌一度卖得很旺，这门牛仔裤生意第一次让她在信托之外挣到大笔收入。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-141",
+          "index": 141,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "她管钱依然常出问题。她控告律师和财务顾问侵吞、失职，自己也陷入税务和现金困难。媒体常把品牌销售额、授权收入和她个人的财产混在一起，相关数字因此相差很大。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-142",
+          "index": 142,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "6.4 铜像与存折",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-143",
+          "index": 143,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1967年，格洛丽亚与第四任丈夫怀亚特·库珀有了第二个儿子，取名安德森。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-144",
+          "index": 144,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "怀亚特来自密西西比一个普通家庭，在大萧条中长大。安德森六岁时，父亲带他去大中央总站外看科尼利厄斯·范德比尔特的铜像。祖先留着络腮胡子，站在高处，脚下的人群赶着进站。怀亚特告诉儿子，这个人做生意手段强硬，死时是美国最富有的人。安德森只听懂了一部分。此后好几个星期，他以为祖父母去世后都会变成铜像。",
+          "related_node_ids": [
+            "person:cornelius-vanderbilt"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-145",
+          "index": 145,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲还告诉他，没有一笔范德比尔特家的遗产等着他成年继承。八岁时，安德森有了自己的储蓄账户，存入和取出都写在存折上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-146",
+          "index": 146,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1978年，怀亚特在心脏手术中去世，安德森十岁。母亲的牛仔裤品牌正卖得很旺。安德森回忆，父亲一走，家里少了那个平日拿主意的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-147",
+          "index": 147,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十三岁以后，安德森通过福特模特公司接零星工作。放学后，他在公用电话上询问当天有没有试镜，有就坐公交车去，自己带着作品册。别的孩子多由母亲陪着，他一个人去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-148",
+          "index": 148,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲去世十年后，哥哥卡特自杀。此后，安德森去战乱地区做记者，再成为电视新闻主持人。他一直使用父亲的姓。有人提起他是范德比尔特家的后代，他往往先补一句：自己姓库珀。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-149",
+          "index": 149,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2019年6月，九十五岁的格洛丽亚去世。关于她留下多少遗产，媒体很快有了各种猜测。她生前拿这种猜测开过玩笑，曾同安德森说，等数字公布，大家大概会很吃惊。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-150",
+          "index": 150,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "安德森在书中称母亲为\"最后一个范德比尔特\"。他说的不是族谱。格洛丽亚小时候住过尚属私宅的听涛山庄，坐过有司机和保镖的汽车，也亲眼看着那种旧日生活一点点消失。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-151",
+          "index": 151,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "格洛丽亚年过九十还每天画画，把作品放到网上出售。去世后，她留下的主要是画、照片、信件和私人物品。安德森整理这些东西时，没有发现公众想象中的家族金库。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-152",
+          "index": 152,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第七章 钱去了哪里",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-153",
+          "index": 153,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.1 校园里的午餐",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-154",
+          "index": 154,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1973年，范德比尔特大学庆祝建校一百周年。大学留存的一张合影说明写着，约八十名后代来到校园；亚瑟·T·范德比尔特二世则把配偶和家属一并算入，记为约一百二十人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-155",
+          "index": 155,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族传记作者亚瑟·T·范德比尔特二世后来写道，到场的人里\"找不出一位百万富翁\"。但书中没有列出每个人的财产，也没有说明调查依据。这句话后来却常被当成家族败落的证据。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-156",
+          "index": 156,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "午餐就在祖先捐资创办的大学里举行。1873年，科尼利厄斯先后拿出合计一百万美元建校。他一生没有到过纳什维尔。学校后来同卫理公会争夺办学权，法院最终确认董事会独立于教会。一个世纪以后，后人坐在校园里吃饭，教学楼里照常有人上课。那一百万美元早已不在家族账户里，也不再受家族遗嘱支配。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-157",
+          "index": 157,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.2 股票分开以后",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-158",
+          "index": 158,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯留下的约一亿美元，主要不是现金，而是纽约中央等铁路公司的股票。列车每天运送乘客、谷物、煤和工业品，股息来自车票和运费。机车、线路与员工工资也要由这门生意支付。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-159",
+          "index": 159,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的遗嘱把铁路控制权集中给威廉·亨利，另外九个子女得到现金、证券或信托收益。遗嘱只解决了眼前的分配，没有规定这些股份传到下一代后怎样继续集中。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-160",
+          "index": 160,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉在世时，持股已经开始分散。1879年的那次大宗配售让摩根财团的代表进入董事会，他把所得换成政府债券。债券按约付息，不能用来表决铁路事务。威廉仍是大股东，纽约中央也还由他掌握。从那以后，重大事务的会议桌旁多了家族以外的股东。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-161",
+          "index": 161,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1885年，威廉把大笔政府债券和铁路债券设成信托，为四子四女分别支付收益，孩子们另有直接遗赠。长子科尼利厄斯二世拿到额外财产，接下家族和纽约中央里的主要位置。其他子女及其后人分别选择留在公司、只领股息或卖出股票。家族持股一轮轮分开，职业经理人逐渐接过经营。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-162",
+          "index": 162,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从航运和铁路聚起的钱，后来变成了第五大道和纽波特的房子、子女信托、游艇、旅行和舞会。大学校舍、博物馆藏品和后来成为国家森林的山地，也从这笔财产中来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-163",
+          "index": 163,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一场舞会办完，钱也就花掉了。房产出售后，土地和陈设还能换回现金。设立信托时，本金仍以证券形式存在，只是分到了不同受益人名下。捐给大学和博物馆的财产，则由学校和馆方继续使用。乔治家卖给联邦政府的八万多英亩山地，后来成了皮斯加国家森林。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-164",
+          "index": 164,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "房产税本来就年年要付；1913年联邦所得税制度确立以后，所得税和遗产税又相继成为持续负担。大萧条压低证券收入和房产价格，公路与航空后来又分走铁路客货。豪宅和日常生活也一直在花钱。现有材料里，找不到某一场灾难把整笔家产一次花完。遗产在一次次继承中分到更多家庭，继续经营铁路的人也越来越少。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-165",
+          "index": 165,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.3 十六美元三十四美分",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-166",
+          "index": 166,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乔治·华盛顿·范德比尔特1914年去世时，比尔特莫留下了房屋、债务和不多的现金。他的妻子伊迪丝很快把八万多英亩土地卖给联邦政府，余下的庄园继续缩小。1930年，主宅开始售票开放。私人奶场、农场和林地仍在运转，可那点门票收入，还是抵不过整座大宅的开销。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-167",
+          "index": 167,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1960年，乔治·华盛顿·范德比尔特的外孙威廉·A. V.塞西尔回到阿什维尔，同哥哥一起管理比尔特莫。他接手的是一座已开放参观三十年的大宅，以及一份长期亏损的账。庄园公开资料称，那三十年里，参观业务只有一年赚过钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-168",
+          "index": 168,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塞西尔从门票、餐饮、工资和维修费查起。账终于有一年转正。他晚年记得那是1968年，庄园官方时间线写作1969年。年份虽差一年，两处记下的利润却一样：十六美元三十四美分。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-169",
+          "index": 169,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十六美元三十四美分只说明那一年没有亏钱。第二年，门票还要继续卖，工资和屋顶也照常要付。1971年，塞西尔开始试种葡萄。1983年成立葡萄酒公司，两年后酒庄开放。后来又有住宿、餐饮、零售、农场和花园，原来的奶场也有了新用途。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-170",
+          "index": 170,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1995年，塞西尔退出日常管理，把工作交给下一代。为了维持比尔特莫，后人先后出售大片山林，把主宅开放给游客，并陆续增加酒庄、住宿和餐饮等业务。庄园至今仍由乔治的后人参与经营。它是一家私人公司，没有公开足以推算每位后代财产的完整账目。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-171",
+          "index": 171,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "7.4 被拒绝的礼物",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-172",
+          "index": 172,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "科尼利厄斯二世的女儿格特鲁德·范德比尔特·惠特尼，从小住在第五大道的大宅里，成年后却常待在自己的工作室。她学雕塑，也给那些进不了学院和大博物馆的美国艺术家提供展览和资助。到20世纪20年代末，她已收藏数百件美国现代艺术作品，便打算把收藏连同建新馆的钱一起送给大都会艺术博物馆。大都会拒绝了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-173",
+          "index": 173,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1931年，格特鲁德创办的惠特尼美国艺术博物馆在纽约开门。收藏从家中客厅搬进展厅，之后的收购和展览由博物馆按自己的章程决定。",
+          "related_node_ids": [
+            "company:whitney-museum"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-174",
+          "index": 174,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "大学、国家森林和惠特尼博物馆都还在，比尔特莫也仍由乔治的后人经营。钱没有全都消失，却再也没有回到同一本家族账上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-175",
+          "index": 175,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "尾声 圣诞夜的守夜人",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-176",
+          "index": 176,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1930年圣诞节，纽约报纸刊登消息：斯塔滕岛摩拉维亚公墓里的范德比尔特家族陵墓遭到破坏。",
+          "related_node_ids": [
+            "family:vanderbilt-family"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-177",
+          "index": 177,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两家报纸对闯入者人数的估计不同，一家说二三人，另一家说五六人。外门被破坏，铜质浮雕留下敲击痕迹，里层墓门没有打开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-178",
+          "index": 178,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1883至1884年，威廉·亨利分批买下公墓旁的土地，请理查德·莫里斯·亨特设计家族陵墓。工程尚未完成，威廉本人先在1885年去世，便暂葬在一旁，等墓室完工后再迁入。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-179",
+          "index": 179,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "陵墓建成以后，家族曾雇平克顿守卫昼夜巡查。守卫按时走到各个巡更点打卡。到1930年，全天值守已经停止。破坏案发生后，家族重新雇了守卫。报道没有说明闯入者为何砸门，只估计损失约三千美元。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-180",
+          "index": 180,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "五十三年间，遗产分给子女，证券陆续卖出，房屋的税费和维修费也年年支付。原先集中在一个人手里的钱，渐渐进了许多家庭各自的生活。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-181",
+          "index": 181,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当时报纸还写道，圣诞夜有两名穿制服的人守在墓前。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-182",
+          "index": 182,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夜深以后，两名守卫继续在墓门外走动。远处只能看见烟头的火光一明一暗，隔一会儿，传来几下拍手取暖的声音。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-183",
+          "index": 183,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "思想实验：分完以后",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-184",
+          "index": 184,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1884年9月25日，纽约。你是六十三岁的威廉·亨利·范德比尔特。面前是你最后一份遗嘱。",
+          "related_node_ids": [
+            "person:william-henry-vanderbilt"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-185",
+          "index": 185,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "七年前，父亲把通常估为九千万至九千五百万美元的余产留给你，其中包括足以控制纽约中央的股份。控制权留住了，弟弟和两个姐妹却因此走进法庭。如今，你把家产增至接近两亿美元，身体也已明显吃不消。过去六年，你至少九次修改遗嘱，不愿再把这副担子原样压在一个儿子身上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-186",
+          "index": 186,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你有四个儿子、四个女儿。两个儿子已经在铁路任职，其他孩子也有各自的生活。现在轮到你决定，这两亿美元该怎样分给八个孩子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-187",
+          "index": 187,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你可以沿用父亲的办法，把主要财产和铁路控制权交给长子。这样做，家族在纽约中央的持股仍会集中在一个人手中，公司里也仍有一个明确的家族代表；另外七个孩子则要接受父亲替他们排定的位置。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-188",
+          "index": 188,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你也可以让八个孩子都得到足以独立生活的财产。这样分，家里也许不会再为一份遗嘱走进法庭，也没有一个孩子要独自照看两亿美元。代价不会立刻出现。一笔财产会变成八个家庭的财产；等八个孩子再把钱留给自己的孩子，它还会继续分下去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-189",
+          "index": 189,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "哪一种选择更好？",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-190",
+          "index": 190,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "先别用后来发生的事替1884年的你回答。你不知道铁路将来会怎样，也不知道后人是否愿意一直守着它。眼下只能先想清楚一件事：除了每个人分多少，你还想让八个家庭共同保留什么？",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-191",
+          "index": 191,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可你也不能只写一句\"不许分\"。八个孩子里，有人经营铁路，有人从未参与；有人愿意留下，也会有人想走。若把他们都锁在同一份财产里，父亲遗嘱留下的争执，也许只会晚几年再来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-192",
+          "index": 192,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "现在，把遗嘱上的八个名字换成你自己的孩子。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-193",
+          "index": 193,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你为孩子安排财产时，是不是主要在想怎样分得公平？等每个人都拿到自己的那一份，家里还有没有什么，需要他们继续共同照看？如果没有，你愿意接受吗？",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-194",
+          "index": 194,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉最后没有照搬父亲的遗嘱。他给八个孩子都留了信托收益和直接遗赠，又把大部分余产交给两个经营铁路的儿子。遗嘱公布后，没有再引发父亲遗嘱那样的诉讼。两个儿子继续经营铁路，八个孩子也都很富有。至少在1885年，这看上去是一个稳妥的安排。",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-195",
+          "index": 195,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "变化发生得很慢。证券陆续卖出，房屋年年花钱，遗产一次次分给更多后人，留在铁路里的人越来越少。1954年，范德比尔特家族失去纽约中央最后一个董事席位。1973年，家族后代及其家属来到范德比尔特大学聚会。他们仍因同一位祖先聚到一起，这个庞大的家族却已不再围绕一笔共同财产作决定。",
+          "related_node_ids": [
+            "family:vanderbilt-family"
+          ]
+        },
+        {
+          "id": "vanderbilt-p-196",
+          "index": 196,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "威廉未必做错了。他让八个孩子各自富足，也给了他们离开铁路的自由。可当每一代都把自己的那一份继续分下去，分完以后，这个家还准备把什么留在一起？",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-197",
+          "index": 197,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "参考文献",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-198",
+          "index": 198,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "1.  T. J. Stiles, \"The First Tycoon: The Epic Life of Cornelius Vanderbilt\", Alfred A. Knopf, 2009.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-199",
+          "index": 199,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "2.  Anderson Cooper and Katherine Howe, \"Vanderbilt: The Rise and Fall of an American Dynasty\", Harper, 2021.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-200",
+          "index": 200,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "3.  Arthur T. Vanderbilt II, \"Fortune's Children: The Fall of the House of Vanderbilt\", William Morrow and Company, 1989.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-201",
+          "index": 201,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "4.  Consuelo Vanderbilt Balsan, \"The Glitter and the Gold\", Harper & Brothers, 1952.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-202",
+          "index": 202,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "5.  William H. Vanderbilt, \"The Last Will and Testament of the Late William H. Vanderbilt\", Taggart & Miller, 1886.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-203",
+          "index": 203,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "6.  \"Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824)\".",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-204",
+          "index": 204,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "7.  \"Vanderbilt v. Balsan, 190 Misc. 824, 77 N.Y.S.2d 403 (N.Y. Sup. Ct. 1948)\".",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-205",
+          "index": 205,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "8.  Alfred D. Chandler Jr., \"The Railroads: Pioneers in Modern Corporate Management\", Business History Review, vol. 39, no. 1, Spring 1965, pp. 16--40.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-206",
+          "index": 206,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "9.  Cornelius Vanderbilt, \"Cornelius Vanderbilt Correspondence, 1873--1885\", MssCol 3147, Manuscripts and Archives Division, The New York Public Library, accessed August 26, 2026.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-207",
+          "index": 207,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "10. Archives of American Art, Smithsonian Institution, \"Gertrude Vanderbilt Whitney Papers, circa 1851--1975, bulk 1888--1942\", accessed August 26, 2026; Whitney Museum of American Art, \"Whitney History\", accessed August 26, 2026.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-208",
+          "index": 208,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "11. Vanderbilt University, \"History of Vanderbilt University\", accessed August 26, 2026; J. Clark Thomas, \"Group Photograph of Cornelius Vanderbilt Descendants\", March 17, 1973, Vanderbilt University Photographic Archive, accessed August 26, 2026; Vanderbilt University Special Collections and University Archives, \"Verley Archer Collection\", MSS.0254, accessed August 26, 2026.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-209",
+          "index": 209,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "12. William A. V. Cecil, \"Testimony of Mr. William A. V. Cecil\", in Charles H. Taylor, \"Biltmore Estate in Asheville, NC\", Congressional Record, vol. 137, pt. 10, June 11, 1991, pp. 14253--14255; Biltmore, \"The Vanderbilt Family\", accessed August 26, 2026; Biltmore, \"Our Mission\", accessed August 26, 2026.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-210",
+          "index": 210,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "13. The Preservation Society of Newport County, \"History of The Breakers\", accessed August 26, 2026.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-211",
+          "index": 211,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "14. Library of Congress, \"Benefactor: Alva Belmont (1853--1933)\", in \"Women of Protest: Photographs from the Records of the National Woman's Party\", accessed August 26, 2026.",
+          "related_node_ids": []
+        },
+        {
+          "id": "vanderbilt-p-212",
+          "index": 212,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "15. New York City Landmarks Preservation Commission, \"Bergdorf Goodman\", LP-0735, December 13, 2016, accessed August 26, 2026; New York City Landmarks Preservation Commission, \"Vanderbilt Mausoleum\", LP-1208, April 12, 2016, accessed August 26, 2026.",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
       "story_id": "insight:surname-as-brand",
       "title": "姓氏的力量，家族的品牌",
       "series_no": null,
@@ -126603,7 +128777,9 @@ window.ARTICLE_DATA = {
           "kind": "paragraph",
           "level": null,
           "text": "我们来看看另外一个同时期的家族，铁路大王范德比尔特家，老科尼利厄斯咽气的时候是全美国最有钱的人，家底不输洛克菲勒。可他一走，各房就散了，没有人继承那张桌子的规矩，也没有人觉得需要聚在一起。1973年，范德比尔特家族历史上头一回开家庭聚会，到场的后代里，找不出一位百万富翁。",
-          "related_node_ids": []
+          "related_node_ids": [
+            "family:vanderbilt-family"
+          ]
         },
         {
           "id": "family-council-governance-p-015",

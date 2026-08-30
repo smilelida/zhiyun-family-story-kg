@@ -194,7 +194,7 @@ const topics = [
     thesis: "接班不是把职位交出去，而是提前设计训练、授权、试错和意外继承预案。",
     concepts: ["concept:succession-training", "concept:gradual-succession", "concept:succession-contingency", "concept:third-generation-risk"],
     stories: ["story:zhou-dafu", "story:agnelli", "story:lego", "story:toyoda", "story:tata", "story:samsung", "story:stanford"],
-    cautions: ["story:gucci", "story:stanley-ho", "story:dassler"],
+    cautions: ["story:gucci", "story:stanley-ho", "story:dassler", "story:vanderbilt"],
     tools: ["tool:son-in-law-professional-succession", "tool:family-letters-as-governance", "tool:toji-succession"],
   },
   {
@@ -214,7 +214,7 @@ const topics = [
     thesis: "信托和家族办公室不是装饰，而是把受益、控制、经营和沟通拆开的基础设施。",
     concepts: ["concept:family-trust", "concept:separation-of-rights", "concept:institutionalized-trust", "concept:family-trust-substituting-governance"],
     stories: ["story:pao-family", "story:tata", "story:zhou-dafu", "story:rockefeller"],
-    cautions: ["story:stanley-ho", "story:hu-xueyan", "story:delong"],
+    cautions: ["story:stanley-ho", "story:hu-xueyan", "story:delong", "story:vanderbilt"],
     tools: ["tool:pao-family-trust", "tool:family-office", "tool:family-trust", "tool:family-council"],
   },
   {
@@ -224,7 +224,7 @@ const topics = [
     thesis: "好的所有权设计会给家族权力加边界，把企业使命、控制权和经营权重新排列。",
     concepts: ["concept:foundation-ownership", "concept:mission-locked-ownership", "concept:steward-ownership", "concept:family-as-guardian"],
     stories: ["story:bosch", "story:tata", "story:ikea", "story:lego", "story:hermes"],
-    cautions: ["story:delong", "story:gucci", "story:samsung"],
+    cautions: ["story:delong", "story:gucci", "story:samsung", "story:vanderbilt"],
     tools: ["tool:foundation-ownership-structure", "tool:kirkbi-family-holding", "tool:holding-company-stewardship", "tool:family-holding-defense"],
   },
   {

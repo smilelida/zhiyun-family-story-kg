@@ -1,6 +1,81 @@
 window.KNOWLEDGE_DATA = {
-  "generated_at": "2026-08-28",
+  "generated_at": "2026-08-30",
   "nodes": [
+    {
+      "id": "story:vanderbilt",
+      "type": "story",
+      "title": "一百年花完一个国库：范德比尔特家族的六代人",
+      "summary": "2018 年耶稣受难日下午四点前，最后一位住在听涛山庄三楼的家族后人收拾完东西，从服务门离开， 第二天游客照常进场。一百四十一年前，她的高祖辈留下约一亿美元，接近当时全美流通货币的九分之一。 第一代把余产钉在一个儿子身上，第二代分给八个孩子，此后每代再分一次。 1954 年家族失去纽约中央最后一个董事席位。钱去了大学、博物馆、国家森林和许多家庭的日常开支， 没有在哪一天消失，只是再也没有回到同一本账上。",
+      "path": "knowledge/stories/vanderbilt.md",
+      "frontmatter": {
+        "id": "story:vanderbilt",
+        "type": "story",
+        "title": "一百年花完一个国库：范德比尔特家族的六代人",
+        "series_no": 38,
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "regions": [
+          "美国",
+          "纽约",
+          "纽波特"
+        ],
+        "industries": [
+          "航运",
+          "铁路"
+        ],
+        "core_questions": [
+          "一笔接近全美货币九分之一的财产，怎样在没有任何灾难的情况下散掉？",
+          "集中给一个人换来诉讼，均分给八个人换来消散，两代遗嘱之间有没有第三条路？",
+          "等每个人都分到自己的那一份，家里还有没有什么需要后人共同照看？"
+        ],
+        "concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk",
+          "concept:family-control-unity",
+          "concept:philanthropy-as-governance"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "family_governance_signature": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+        "risk_profile": "分而不聚：每代再分一次，留在共同事业里的人越来越少；挥霍者信托保住了本金， 也把孩子的生活交给成年人和法院决定；当每个人都拿到自己的那一份， 家族只剩下同一个姓和同一座陵墓。",
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
     {
       "id": "story:stanford",
       "type": "story",
@@ -5443,6 +5518,74 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "family:vanderbilt-family",
+      "type": "family",
+      "title": "范德比尔特家族",
+      "summary": "1877 年科尼利厄斯·范德比尔特留下约一亿美元，按斯泰尔斯的估算接近当时全美流通货币的九分之一。 第一代用遗嘱第八条把余产钉在一个儿子身上，换来一场兄妹对簿公堂；第二代九次改遗嘱， 用第二十二条分给八个孩子，此后每一代都把自己那一份继续分下去。1954 年家族失去纽约中央 最后一个董事席位，1973 年约八十名后代回到祖先捐建的大学吃午餐。钱去了大学、博物馆、 国家森林和许多家庭的日常开支，没有在哪一天消失，只是再也没有回到同一本账上。",
+      "path": "knowledge/families/vanderbilt-family.md",
+      "frontmatter": {
+        "id": "family:vanderbilt-family",
+        "type": "family",
+        "title": "范德比尔特家族",
+        "regions": [
+          "美国",
+          "纽约",
+          "纽波特"
+        ],
+        "industries": [
+          "航运",
+          "铁路"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk",
+          "concept:family-control-unity",
+          "concept:philanthropy-as-governance"
+        ],
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_signature": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+        "risk_profile": "分而不聚：每代再分一次，留在共同事业里的人越来越少；挥霍者信托保住了本金， 也把孩子的生活交给成年人和法院决定；当每个人都拿到自己的那一份， 家族只剩下同一个姓和同一座陵墓。",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "family:fan-family",
       "type": "family",
       "title": "范氏家族",
@@ -7143,6 +7286,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:william-henry-vanderbilt",
+      "type": "person",
+      "title": "威廉·亨利·范德比尔特",
+      "summary": "第二代掌门（1821-1885），年轻时因抵押借款六千美元被父亲当面斥为迟早丢脸， 靠救活十三英里的斯塔滕岛小铁路才获准入局，在父亲身边等了几十年，独自当家只有六年。 他处理了 1877 年大罢工，请摩根配售股票分散持仓，也背上了去他的公众四个单词。 八年把家产从约一亿做到近两亿，身体垮掉，六年至少九次改遗嘱， 最终用第二十二条把余产分给八个孩子：他不愿再把这副担子原样压在一个儿子身上。",
+      "path": "knowledge/people/william-henry-vanderbilt.md",
+      "frontmatter": {
+        "id": "person:william-henry-vanderbilt",
+        "type": "person",
+        "title": "威廉·亨利·范德比尔特",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:william-kissam-vanderbilt",
+      "type": "person",
+      "title": "威廉·基萨姆·范德比尔特",
+      "summary": "威廉·亨利次子，与兄长平分父亲余产，管理纽约中央以外的线路。1895 年阿尔瓦起诉离婚， 他承担过错；同年在女儿康苏埃洛的婚约里写进两笔各二百五十万美元的信托， 收益先由公爵终身领取。他这一支的小儿子哈罗德 1954 年在委托票之争中败给罗伯特·扬， 范德比尔特家在纽约中央的最后一个董事席位就此失去。",
+      "path": "knowledge/people/william-kissam-vanderbilt.md",
+      "frontmatter": {
+        "id": "person:william-kissam-vanderbilt",
+        "type": "person",
+        "title": "威廉·基萨姆·范德比尔特",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:anna-maria-luisa-de-medici",
       "type": "person",
       "title": "安娜·玛丽亚·路易莎·德·美第奇",
@@ -7163,6 +7358,32 @@ window.KNOWLEDGE_DATA = {
           "concept:cultural-legitimacy"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:anderson-cooper",
+      "type": "person",
+      "title": "安德森·库珀",
+      "summary": "格洛丽亚与怀亚特·库珀之子（1967 年生），六岁时父亲带他在大中央总站外看高祖的铜像， 告诉他没有一笔范德比尔特家的遗产等着他成年继承；八岁有了自己的储蓄账户和存折。 十三岁起自己坐公交去试镜，后来去战乱地区做记者，成为电视新闻主持人。 有人提起他是范德比尔特家的后代，他往往先补一句：自己姓库珀。",
+      "path": "knowledge/people/anderson-cooper.md",
+      "frontmatter": {
+        "id": "person:anderson-cooper",
+        "type": "person",
+        "title": "安德森·库珀",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -7320,6 +7541,32 @@ window.KNOWLEDGE_DATA = {
           "concept:funding-boundary"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:consuelo-vanderbilt",
+      "type": "person",
+      "title": "康苏埃洛·范德比尔特",
+      "summary": "阿尔瓦长女（1877-1964），童年被钢条固定脊背、鲸须胸衣束到十八英寸的腰， 八岁能读写三种语言，学的是怎样成为一位公爵夫人。1895 年她的秘密订婚被母亲拆散， 婚礼当天在房里哭肿了眼睛，嫁给第九代马尔伯勒公爵。到英国后她走访佃户、主持战时救济， 1919 年当选伦敦郡议会议员；1921 年离婚再嫁，用了完全自由四个字。 初恋温斯罗普的照片，她保存了一生。",
+      "path": "knowledge/people/consuelo-vanderbilt.md",
+      "frontmatter": {
+        "id": "person:consuelo-vanderbilt",
+        "type": "person",
+        "title": "康苏埃洛·范德比尔特",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -8146,6 +8393,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:gloria-vanderbilt",
+      "type": "person",
+      "title": "格洛丽亚·范德比尔特",
+      "summary": "报纸叫她小格洛丽亚（1924-2019），一岁继承二百五十万美元信托本金，房租和保姆工资 都要向法院申请。1934 年监护权案里，法官在法官室单独问十岁的她怕母亲什么，她答不出来。 成年后她做演员、画家、作家，1970 年代把名字和天鹅绣上牛仔裤后袋， 第一次在信托之外挣到大笔收入。儿子安德森·库珀称她为最后一个范德比尔特： 她身后留下的主要是画、照片和信件，没有公众想象中的家族金库。",
+      "path": "knowledge/people/gloria-vanderbilt.md",
+      "frontmatter": {
+        "id": "person:gloria-vanderbilt",
+        "type": "person",
+        "title": "格洛丽亚·范德比尔特",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:angela-leong",
       "type": "person",
       "title": "梁安琪",
@@ -8587,6 +8860,84 @@ window.KNOWLEDGE_DATA = {
           "concept:family-control-unity"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:cornelius-jeremiah-vanderbilt",
+      "type": "person",
+      "title": "科尼利厄斯·杰里迈亚·范德比尔特",
+      "summary": "科尼利厄斯次子，家里叫他科尼尔，自少年患癫痫，成年沉迷赌博。父亲替他还债、 两次以精神问题为由将他收容，每月给一百美元，几次求职铁路始终没有位置。 他在遗嘱庭审的证人席上说：父亲要求他维持配得上这个姓氏的生活， 却不给一份负担得起这种生活的工作。1882 年他在格伦汉姆酒店八十号房开枪自杀，没有遗书。 家族为世袭集中付出的第一笔代价，记在他名下。",
+      "path": "knowledge/people/cornelius-jeremiah-vanderbilt.md",
+      "frontmatter": {
+        "id": "person:cornelius-jeremiah-vanderbilt",
+        "type": "person",
+        "title": "科尼利厄斯·杰里迈亚·范德比尔特",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:cornelius-vanderbilt",
+      "type": "person",
+      "title": "科尼利厄斯·范德比尔特",
+      "summary": "家族创始人（1794-1877），斯塔滕岛船夫之子，十六岁向母亲借一百美元买下第一条帆船， 在吉本斯船队十二年里学会用价格、合同和诉讼争航线，晚年把航运换成铁路， 建起纽约中央和第一代大中央车站。他想让财产成为这个姓氏的纪念碑， 临终把约一亿美元的余产用遗嘱第八条钉在长子身上，生前已料到身后会有得闹。 1873 年捐一百万美元建了一所他一生没去过的大学。",
+      "path": "knowledge/people/cornelius-vanderbilt.md",
+      "frontmatter": {
+        "id": "person:cornelius-vanderbilt",
+        "type": "person",
+        "title": "科尼利厄斯·范德比尔特",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:cornelius-vanderbilt-ii",
+      "type": "person",
+      "title": "科尼利厄斯·范德比尔特二世",
+      "summary": "第三代长子（1843-1899），父亲遗嘱里得到额外财产，接下家族和纽约中央的主要位置。 他和妻子艾丽斯在第五大道的宅子占去大半个街区，1895 年重建的听涛山庄有七十个房间、 三十三名仆役，冬天要烧一百五十吨煤保护艺术品。他死后妻子独居二十八年， 纽约宅 1927 年被拆，原址后来立着百货公司；听涛山庄 1972 年以三十六万五千美元 卖给保护协会，家人在三楼又住了近半个世纪。",
+      "path": "knowledge/people/cornelius-vanderbilt-ii.md",
+      "frontmatter": {
+        "id": "person:cornelius-vanderbilt-ii",
+        "type": "person",
+        "title": "科尼利厄斯·范德比尔特二世",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -9914,6 +10265,32 @@ window.KNOWLEDGE_DATA = {
           "concept:credit-capital"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:alva-vanderbilt",
+      "type": "person",
+      "title": "阿尔瓦·范德比尔特",
+      "summary": "威廉·基萨姆之妻。1883 年用一场一千二百人的化装舞会撬开纽约旧社交圈， 流传的版本里，阿斯特夫人的名片被送进她家男仆捧着的银盘。1895 年她顶着律师劝阻起诉离婚， 随后用扣留信件、软禁和心脏病的暗示把女儿康苏埃洛推进公爵婚约。 晚年她投身妇女参政运动，在大理石宫开会、沿第五大道游行、为全国妇女党出钱出房， 第十九修正案通过后仍在写信催促。同一双手，逼过婚，也争过投票权。",
+      "path": "knowledge/people/alva-vanderbilt.md",
+      "frontmatter": {
+        "id": "person:alva-vanderbilt",
+        "type": "person",
+        "title": "阿尔瓦·范德比尔特",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -11703,6 +12080,36 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:whitney-museum",
+      "type": "company",
+      "title": "惠特尼美国艺术博物馆",
+      "summary": "科尼利厄斯二世之女格特鲁德学雕塑、资助进不了学院的美国艺术家， 二十年代末她要把数百件收藏连同建馆的钱送给大都会博物馆，被拒绝了。 1931 年她自己的博物馆在纽约开门，收藏从家中客厅搬进展厅， 之后的收购和展览由博物馆按自己的章程决定。钱没有消失，只是再也不回家族的账上。",
+      "path": "knowledge/companies/whitney-museum.md",
+      "frontmatter": {
+        "id": "company:whitney-museum",
+        "type": "company",
+        "title": "惠特尼美国艺术博物馆",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "航运",
+          "铁路"
+        ]
+      }
+    },
+    {
       "id": "company:stanford-university",
       "type": "company",
       "title": "斯坦福大学",
@@ -11974,6 +12381,36 @@ window.KNOWLEDGE_DATA = {
           "农牧",
           "食品",
           "零售"
+        ]
+      }
+    },
+    {
+      "id": "company:biltmore-estate",
+      "type": "company",
+      "title": "比尔特莫庄园",
+      "summary": "威廉·亨利幼子乔治在北卡建的约二百五十间房的庄园，附带苗圃、林场、奶业， 是美国大规模科学森林管理的早期试验场，经营收入却始终填不平开销。乔治死后遗孀把 八万多英亩山地卖给联邦政府，成了皮斯加国家森林的一部分。外孙塞西尔 1960 年回来接手 一份亏了三十年的账，第一次转正的年利润是十六美元三十四美分；此后靠酒庄、住宿和门票 把庄园养活，至今仍由乔治的后人经营，是家族里少数把资产做成生意的支系。",
+      "path": "knowledge/companies/biltmore-estate.md",
+      "frontmatter": {
+        "id": "company:biltmore-estate",
+        "type": "company",
+        "title": "比尔特莫庄园",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "航运",
+          "铁路"
         ]
       }
     },
@@ -12409,6 +12846,36 @@ window.KNOWLEDGE_DATA = {
         "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
+      }
+    },
+    {
+      "id": "company:new-york-central",
+      "type": "company",
+      "title": "纽约中央铁路",
+      "summary": "科尼利厄斯合并哈莱姆、哈德逊河等线路建起的铁路帝国，1871 年第一代大中央车站启用。 遗嘱第八条把控制权集中给威廉·亨利；1879 年摩根财团配售三十万股给英国投资者， 董事会第一次有了外部代表。此后家族持股一轮轮分开，1954 年哈罗德在委托票之争中败北， 家族失去最后一个董事席位。公路与航空后来分走客货，铁路的世纪也随之翻页。",
+      "path": "knowledge/companies/new-york-central.md",
+      "frontmatter": {
+        "id": "company:new-york-central",
+        "type": "company",
+        "title": "纽约中央铁路",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "航运",
+          "铁路"
+        ]
       }
     },
     {
@@ -13213,6 +13680,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:residuary-concentration",
+      "type": "tool",
+      "title": "余产集中条款",
+      "summary": "解决的问题：股权分散到女儿女婿手里，外部投资者迟早取得控制权。 机制：遗嘱先分完各房的现金、债券与信托，再用一条余产条款把剩下的一切（含控制性持股） 交给指定的一个继承人；配合一串分法一致的旧遗嘱，让翻案几乎不可能。 代价：每个落选者都觉得被亏欠，范德比尔特家换来一年半的庭审和次子的自杀。 对照：三星的择贤立储付过同类账单。案例：范德比尔特（第 38 期）。",
+      "path": "knowledge/tools/residuary-concentration.md",
+      "frontmatter": {
+        "id": "tool:residuary-concentration",
+        "type": "tool",
+        "title": "余产集中条款",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:daily-cultivation-rules",
       "type": "tool",
       "title": "修身日课",
@@ -13748,6 +14241,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-constitution"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:equal-division-inheritance",
+      "type": "tool",
+      "title": "均分式传承",
+      "summary": "解决的问题：余产集中制让上一代打进了法庭，也把两亿美元的担子压垮了一个人的身体。 机制：威廉·亨利的遗嘱第二十二条给八个孩子都留足以独立生活的信托与遗赠， 两个经营铁路的儿子多得，余产平分；结果没有诉讼，八家都富足。 失败模式：遗嘱没有规定分出去的财产如何再聚拢，每一代照此再分一次， 七十年后家族在共同事业里一个席位也不剩。分得公平，不等于留得住共同。案例：范德比尔特（第 38 期）。",
+      "path": "knowledge/tools/equal-division-inheritance.md",
+      "frontmatter": {
+        "id": "tool:equal-division-inheritance",
+        "type": "tool",
+        "title": "均分式传承",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -14465,6 +14984,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:spendthrift-trust",
+      "type": "tool",
+      "title": "挥霍者信托",
+      "summary": "解决的问题：不能自控的家族成员会把本金败光，债主也会追上门。 机制：受益人只领收益、无权动用本金，债权人拿不到信托财产；科尼尔按月领钱， 雷吉死后债主分他的毛绒大象和奖杯，五百万信托本金却完好转给两个女儿。 副作用：钱保住了，人被管住了。孩子的房租要向法院申请，跟谁生活由成年人决定， 报纸给这种安排起的名字叫可怜的小富家女孩。案例：范德比尔特（第 38 期）。",
+      "path": "knowledge/tools/spendthrift-trust.md",
+      "frontmatter": {
+        "id": "tool:spendthrift-trust",
+        "type": "tool",
+        "title": "挥霍者信托",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:holding-company-stewardship",
       "type": "tool",
       "title": "控股平台守门",
@@ -14900,6 +15445,32 @@ window.KNOWLEDGE_DATA = {
           "concept:enterprise-independence"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:mansion-tourism-conversion",
+      "type": "tool",
+      "title": "豪宅开放经营",
+      "summary": "解决的问题：税、煤、人工年年上涨，证券收入在大萧条里缩水，豪宅成了吞钱的机器。 机制：把不可分割的房产变成能自己挣钱的资产：听涛山庄一二层以年租一美元交给保护协会 售票开放、家人保留三楼居住权；比尔特莫靠门票、酒庄、住宿和农场多元经营， 第一年转正的利润是十六美元三十四美分。前提：接受私人生活让位给围绳和游客。 案例：范德比尔特（第 38 期）。",
+      "path": "knowledge/tools/mansion-tourism-conversion.md",
+      "frontmatter": {
+        "id": "tool:mansion-tourism-conversion",
+        "type": "tool",
+        "title": "豪宅开放经营",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -16120,6 +16691,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:public-be-damned-1882",
+      "type": "event",
+      "title": "去他的公众（1882）",
+      "summary": "两名记者在私人车厢里问威廉·亨利：一趟对公众有用的亏损邮车，是否该只看盈亏停运？ 第二天报纸标题是四个英文单词：The public be damned。他否认原话，记者坚持记录无误， 采访没有录音。漫画里他背心画着美元符号，脚踩铁路工人。争论早已越过一趟车： 一家握着特许、穿过城镇、运着邮件的公司，对沿线的人到底欠什么。",
+      "path": "knowledge/events/public-be-damned-1882.md",
+      "frontmatter": {
+        "id": "event:public-be-damned-1882",
+        "type": "event",
+        "title": "去他的公众（1882）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:gucci-family-exit-1993",
       "type": "event",
       "title": "古驰家族出局（1993）",
@@ -16167,6 +16764,84 @@ window.KNOWLEDGE_DATA = {
           "concept:enterprise-before-family"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:gibbons-v-ogden-1824",
+      "type": "event",
+      "title": "吉本斯诉奥格登案（1824）",
+      "summary": "马歇尔大法官裁定跨州商业归国会管理，纽约州的蒸汽航运垄断拦不住持联邦执照的船。 判决后纽约到奥尔巴尼的票价从七美元降到三美元。三十岁的科尼利厄斯在这场官司的 当事船队里管船、管乘客、也应付登船执法的人：他的第一所商学院教的就是 价格、合同与诉讼。",
+      "path": "knowledge/events/gibbons-v-ogden-1824.md",
+      "frontmatter": {
+        "id": "event:gibbons-v-ogden-1824",
+        "type": "event",
+        "title": "吉本斯诉奥格登案（1824）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:vanderbilt-ball-1883",
+      "type": "event",
+      "title": "名片舞会（1883）",
+      "summary": "阿尔瓦为新宅的化装舞会发出约一千三百张请帖，鲜花花了一万一千美元。 流传最广的版本里，旧社交圈领袖阿斯特夫人的女儿排练了多日却没有请帖， 理由是母亲从未正式拜访；最后阿斯特夫人的名片被男仆送进 660 号的银盘。 3 月 26 日晚母女都到了场。新钱用一场舞会买下了旧圈子的门票。",
+      "path": "knowledge/events/vanderbilt-ball-1883.md",
+      "frontmatter": {
+        "id": "event:vanderbilt-ball-1883",
+        "type": "event",
+        "title": "名片舞会（1883）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:the-breakers-1895",
+      "type": "event",
+      "title": "听涛山庄（1895）",
+      "summary": "科尼利厄斯二世火灾后重建的七十间房海边大宅，造价通常估为七百万美元， 三十三名仆役、十三名马夫、十二名园丁，冬天烧一百五十吨煤保护艺术品。 1948 年一二层以每年一美元租给保护协会开放参观，1972 年整座以三十六万五千美元售出， 家人在三楼又住了近半个世纪。2018 年最后一位后人搬走，第二天游客照常进场。",
+      "path": "knowledge/events/the-breakers-1895.md",
+      "frontmatter": {
+        "id": "event:the-breakers-1895",
+        "type": "event",
+        "title": "听涛山庄（1895）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -16558,6 +17233,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:gloria-custody-1934",
+      "type": "event",
+      "title": "小格洛丽亚监护权案（1934）",
+      "summary": "姑母格特鲁德与母亲争夺十岁的格洛丽亚，佣人医生轮流出庭，报纸追着卧室与旅行写， 多项指控未获法院确认，还夹着那个时代对女性生活方式的污名。法官清空法庭单独询问孩子， 她说怕母亲，又说不出怕什么。监护权判给姑母，母亲的探视和从信托领取的钱都被削减。 本金安然无恙；孩子跟谁生活、见谁、保姆能否留下，全由成年人决定。",
+      "path": "knowledge/events/gloria-custody-1934.md",
+      "frontmatter": {
+        "id": "event:gloria-custody-1934",
+        "type": "event",
+        "title": "小格洛丽亚监护权案（1934）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:watson-jr-succession",
       "type": "event",
       "title": "小沃森接班（1956）",
@@ -16630,6 +17331,32 @@ window.KNOWLEDGE_DATA = {
         ],
         "date": "1478",
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:consuelo-marriage-1895",
+      "type": "event",
+      "title": "康苏埃洛婚约（1895）",
+      "summary": "秘密订婚被拆散，信件被扣，姨母警告继续反抗母亲的心脏病可能致命。 11 月 6 日康苏埃洛在圣托马斯教堂嫁给第九代马尔伯勒公爵，婚纱来自巴黎， 眼睛是哭肿的。婚约写进财产安排：二百五十万美元铁路股票的收益由公爵终身领取， 岳父每年再付十万美元。头衔与财产各取所需，代价由十八岁的新娘支付。",
+      "path": "knowledge/events/consuelo-marriage-1895.md",
+      "frontmatter": {
+        "id": "event:consuelo-marriage-1895",
+        "type": "event",
+        "title": "康苏埃洛婚约（1895）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -16895,6 +17622,32 @@ window.KNOWLEDGE_DATA = {
           "concept:succession-training"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:nyc-last-seat-1954",
+      "type": "event",
+      "title": "最后一个董事席位（1954）",
+      "summary": "金融家罗伯特·扬向纽约中央股东征集委托票改组董事会，哈罗德·范德比尔特领头抵抗， 股东投票后败北离场。距离曾祖父用遗嘱第八条锁住控制权，过去了七十七年。 此前每一代都有人卖出股票、有人只领股息、有人离开公司， 这一天只是给一个缓慢的过程盖了章：家族与它的事业正式分手。",
+      "path": "knowledge/events/nyc-last-seat-1954.md",
+      "frontmatter": {
+        "id": "event:nyc-last-seat-1954",
+        "type": "event",
+        "title": "最后一个董事席位（1954）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -18401,6 +19154,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:vanderbilt-will-clause8-1877",
+      "type": "event",
+      "title": "遗嘱第八条（1877）",
+      "summary": "前面各项遗赠分完之后，余下的一切归长子威廉·亨利：约九千万美元， 含足以控制纽约中央的股份。科尼尔、埃塞琳达和玛丽随即起诉，庭审持续一年多， 次子的赌债、空头支票和收容史被摊在法庭上。一串分法一致的旧遗嘱让翻案无望， 威廉另给现金与信托和解。控制权保住了，五年后科尼尔在酒店房间里开枪自杀。",
+      "path": "knowledge/events/vanderbilt-will-clause8-1877.md",
+      "frontmatter": {
+        "id": "event:vanderbilt-will-clause8-1877",
+        "type": "event",
+        "title": "遗嘱第八条（1877）",
+        "source_stories": [
+          "story:vanderbilt"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "related_concepts": [
+          "concept:dispersed-succession",
+          "concept:succession-planning-gap",
+          "concept:third-generation-risk"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:adrian-cheng-exit-2024",
       "type": "event",
       "title": "郑志刚辞任新世界发展行政总裁",
@@ -18727,6 +19506,95 @@ window.KNOWLEDGE_DATA = {
           "company:medici-bank"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:vanderbilt-002",
+      "type": "segment",
+      "title": "1.4 铁路留给了长子 / 2.1 最后一份遗嘱",
+      "summary": "科尼利厄斯自己在吉本斯的船队做了十余年。轮到孩子们，他没有给每个人同样的机会。 长子威廉·亨利体弱，性情也不如父亲强硬，很早就被认定不适合管核心生意，随后去了斯塔滕岛经营一处农场。为改良土地，威廉抵押借来六千美元。父亲得知后把他叫去，当面说他迟早会给全家丢脸。第二天，父亲又送来一张六千美元的支票，命他立刻还掉抵押。此后又过了很久，威廉才获准进入铁路。 后来，科尼利厄斯安排威廉接管已经破产的斯塔滕岛铁路。那条小铁路只有三台机车、六节客车和十三英里轨道。威廉削减开支，又用渡船把铁路接到纽约。几年后公司的债务已经还清，原本几乎无人问津的股票也涨了起来。父亲这才让他逐步进入更重要的铁路业务。 次子科尼利厄斯·杰里迈亚，家里叫他科尼尔，自少年起患有癫痫，成年后沉迷赌博，欠下许多债。十九世纪的人常把癫痫、精神疾病、意志薄弱和道德缺陷混为一谈。父亲替科尼尔还过债，也曾以精神问题为由将他收容，后来用监视和信托管住他的生活。 科尼尔每月从父亲那里领一百美元，几次请求到铁路做事，始终没有得到职位。1877年的庭审报道记载，他还请哥哥替自己说情。威廉回答，他不敢插手父亲和弟弟之间的事。父亲继续替科尼尔付账，也把他留在办公室外。 女儿们得到财产和生...",
+      "path": "knowledge/segments/vanderbilt-002.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-002",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "1.4 铁路留给了长子 / 2.1 最后一份遗嘱",
+        "order": 2,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "1.4 铁路留给了长子 / 2.1 最后一份遗嘱",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:family-consensus",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -20150,6 +21018,95 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:vanderbilt-003",
+      "type": "segment",
+      "title": "3.1 罢工中的继承人 / 3.2 报纸上的四个单词",
+      "summary": "1877年夏天，威廉·亨利·范德比尔特刚继承父亲留下的近一亿美元，华尔街不相信他能管好纽约中央。威廉早已在公司任职，熟悉经理和账目，但过去几十年的重大决定一直由父亲作出。如今，铁路上的大小事务都由他决定。 1873年金融恐慌造成的萧条还未结束。1877年7月，巴尔的摩与俄亥俄铁路再次降薪，西弗吉尼亚的司炉工停工。罢工沿铁轨传到匹兹堡、芝加哥和圣路易斯，车厢被焚，铁轨被拆，州民兵与人群交火。海斯总统调动联邦军队。这是美国第一次波及多个州的大规模铁路罢工。 纽约中央也削减了一成工资。公司当年有上千万美元净收益，股息照常发放。机械工一天约挣一美元二十美分，扳道工和养路工挣得更少。新主人刚继承巨额财产，工人的工资却又少了一成，铁路上的不满很快蔓延。 威廉没有马上调民兵。公司拿出十万美元，分给愿意继续工作的员工，司机、列车长、扳道工、制动工和力工按岗位各领一笔。纽约中央的客运大体维持，货运停了约三天。10月3日，公司补回被扣工资的一半。直到1880年2月，原来的工资才全部恢复。 1882年10月，威廉乘专列去芝加哥。途中，两名记者登上私人车厢，问起一趟由纽约开往芝加哥的快速邮车。这趟车给沿途民众寄送邮件，速度很快，但长期亏损，威廉准备...",
+      "path": "knowledge/segments/vanderbilt-003.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-003",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "3.1 罢工中的继承人 / 3.2 报纸上的四个单词",
+        "order": 3,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "3.1 罢工中的继承人 / 3.2 报纸上的四个单词",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:stanford-003",
       "type": "segment",
       "title": "3.3 十一月十一日 / 3.4 第一任校长",
@@ -20613,6 +21570,95 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:vanderbilt-004",
+      "type": "segment",
+      "title": "4.1 一张迟到的名片 / 4.2 十八英寸的腰",
+      "summary": "时间回到1883年3月26日，星期一。入夜以后，马车一辆接一辆停在纽约第五大道660号门前。这里是威廉·基萨姆与阿尔瓦落成不久的新宅。男仆穿着号衣拉开车门，客人扮成玛丽·安托瓦内特、黎塞留、威尼斯公主，还有戴天鹅绒王冠的路易十六。 阿尔瓦为这场化装舞会发出约一千三百张请帖，据报到场约一千二百人。舞会前六个星期，城里的裁缝已经忙着赶制服装。两支乐队轮流演奏，德尔莫尼科的厨师在三楼准备宵夜。报纸估计，鲜花就花了一万一千美元。整场舞会耗费二十五万美元的说法也来自当时报刊，已经没有完整账本可供核对。 当时，纽约旧社交圈公认的女主人是卡罗琳·阿斯特，人们通常只称她为阿斯特夫人。她和阿尔瓦都扮成威尼斯公主。阿尔瓦穿黄白锦缎，饰以金线和珍珠。阿斯特夫人穿深蓝天鹅绒，几乎把自己的钻石全戴在身上。科尼利厄斯二世的妻子艾丽斯，也就是阿尔瓦的妯娌，扮成\"电灯\"，火炬由藏在衣服里的电池供电。另有一位女宾穿着猫装，裙上缝着白猫尾，胸前排着猫头，颈链系有铃铛。 后来流传最广的说法是，舞会前，阿斯特夫人的女儿凯丽已经为\"星辰四对舞\"排练了许多天，却迟迟没有收到请帖。 故事里，阿尔瓦给出的理由是，阿斯特夫人从未正式拜访过她。按当时的登门规矩，她不能绕过母亲...",
+      "path": "knowledge/segments/vanderbilt-004.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-004",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "4.1 一张迟到的名片 / 4.2 十八英寸的腰",
+        "order": 4,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "4.1 一张迟到的名片 / 4.2 十八英寸的腰",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:family-trust",
+          "concept:foundation-ownership",
+          "concept:steward-ownership",
+          "concept:dispersed-succession"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:stanford-004",
       "type": "segment",
       "title": "4.2 三口之家以外 / 4.3 没卖掉的首饰",
@@ -20919,6 +21965,95 @@ window.KNOWLEDGE_DATA = {
           "event:pazzi-conspiracy-1478"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:vanderbilt-005",
+      "type": "segment",
+      "title": "5.1 一栋房子的两种价格 / 5.2 海边的七十个房间",
+      "summary": "1927年，拆房工人来到第五大道与五十七街。这座宅子属于威廉·亨利的长子科尼利厄斯二世，他和妻子艾丽斯在这里住了四十多年。宅子由乔治·B·波斯特设计，几经扩建，最后占去大半个街区。浅色的卡昂石一直铺到门厅高处，里面有图书室、画廊、两层高的舞厅，还有一间摩尔式吸烟室。家里最热闹的时候，要三十多名佣人才能照料过来。 科尼利厄斯二世去世后，艾丽斯独自在这里住了二十八年。舞厅很少再有客人，商店、酒店和写字楼却沿着第五大道一路向北。富人当年相中的住宅区，已经成了商人眼里的好地段。 建宅时，土地约值三十七万五千美元，房屋约值三百万美元。到1925年前后，土地估到近四百七十万美元，房子只剩十万美元左右。 1926年，艾丽斯把地产卖掉。拆除前，宅门一度向普通人开放，五十美分便能进去看一眼，所得捐给慈善机构。随后工人进场，吊灯、壁炉、护墙板和家具各自找买主，余下的墙体被拆掉。曾经只能凭请帖进入的房间，最后靠一张门票向全城开放。伯格多夫·古德曼百货此后占据了部分原址。 纽波特的听涛山庄没有被拆掉。 1892年，科尼利厄斯二世原有的住宅失火。他请理查德·莫里斯·亨特重建。三年后，一座七十个房间的新宅立在海边。钢、砖、石灰岩和进口大理石被运到悬崖上...",
+      "path": "knowledge/segments/vanderbilt-005.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-005",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "5.1 一栋房子的两种价格 / 5.2 海边的七十个房间",
+        "order": 5,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "5.1 一栋房子的两种价格 / 5.2 海边的七十个房间",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -21377,6 +22512,95 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:vanderbilt-006",
+      "type": "segment",
+      "title": "6.1 一只毛绒大象 / 6.2 一个婴儿的账户",
+      "summary": "1925年9月，科尼利厄斯二世最小的儿子雷金纳德去世。家里都叫他雷吉。清理遗产时，住所里的物品被逐一登记，准备拍卖。 雷吉出生时，祖父威廉·亨利还在，纽约中央也牢牢握在家族手中。成年后，他没有进入家族铁路。据家族传记记载，二十一岁生日那晚，他刚拿到继承份额，便在坎菲尔德的赌场输掉七万美元。他去世时四十四岁，书桌上还留着许多未付账单。 债主中有街角报摊、书商、洗衣女工和蒂芙尼。报摊等着二百六十九美元，书商等着近四千美元，洗衣女工的七百多美元也没结，蒂芙尼的欠款接近九千美元，税款另算。 清单从纽约住宅写到桑迪角农场，马匹、汽车、家具和床单都在上面。编到儿童房，一岁女儿的毛绒大象也被列入拍卖清单。雷吉的母亲艾丽斯来到拍卖场，举牌买回儿子的马术奖杯和两幅祖先肖像。这两幅画像原先跟着家中\"家长\"的身份一代代传下去，如今却被列进偿债拍卖的清单。艾丽斯要重新出钱，才能把它们带回家。 还有五百万美元没有进入清单。科尼利厄斯二世生前为子女设立的信托规定，雷吉只能领收益，无权动用本金，债权人也拿不到。雷吉去世后，信托转给两个女儿，凯瑟琳和一岁的格洛丽亚各得二百五十万美元。 报纸后来把女儿叫作\"小格洛丽亚\"。她的母亲格洛丽亚·摩根嫁给雷吉时不到二...",
+      "path": "knowledge/segments/vanderbilt-006.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-006",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "6.1 一只毛绒大象 / 6.2 一个婴儿的账户",
+        "order": 6,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "6.1 一只毛绒大象 / 6.2 一个婴儿的账户",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:medici-005",
       "type": "segment",
       "title": "6.2 埋葬共和与加冕大公 / 6.3 乌菲齐宫殿的权力投影",
@@ -21792,6 +23016,95 @@ window.KNOWLEDGE_DATA = {
           "tool:branch-spinoff-settlement"
         ],
         "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:vanderbilt-007",
+      "type": "segment",
+      "title": "7.1 校园里的午餐 / 7.2 股票分开以后",
+      "summary": "1973年，范德比尔特大学庆祝建校一百周年。大学留存的一张合影说明写着，约八十名后代来到校园；亚瑟·T·范德比尔特二世则把配偶和家属一并算入，记为约一百二十人。 家族传记作者亚瑟·T·范德比尔特二世后来写道，到场的人里\"找不出一位百万富翁\"。但书中没有列出每个人的财产，也没有说明调查依据。这句话后来却常被当成家族败落的证据。 午餐就在祖先捐资创办的大学里举行。1873年，科尼利厄斯先后拿出合计一百万美元建校。他一生没有到过纳什维尔。学校后来同卫理公会争夺办学权，法院最终确认董事会独立于教会。一个世纪以后，后人坐在校园里吃饭，教学楼里照常有人上课。那一百万美元早已不在家族账户里，也不再受家族遗嘱支配。 科尼利厄斯留下的约一亿美元，主要不是现金，而是纽约中央等铁路公司的股票。列车每天运送乘客、谷物、煤和工业品，股息来自车票和运费。机车、线路与员工工资也要由这门生意支付。 他的遗嘱把铁路控制权集中给威廉·亨利，另外九个子女得到现金、证券或信托收益。遗嘱只解决了眼前的分配，没有规定这些股份传到下一代后怎样继续集中。 威廉在世时，持股已经开始分散。1879年的那次大宗配售让摩根财团的代表进入董事会，他把所得换成政府债券。债券按约付息，...",
+      "path": "knowledge/segments/vanderbilt-007.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-007",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "7.1 校园里的午餐 / 7.2 股票分开以后",
+        "order": 7,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "7.1 校园里的午餐 / 7.2 股票分开以后",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
         "confidence": 0.62,
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -25248,6 +26561,95 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:vanderbilt-008",
+      "type": "segment",
+      "title": "尾声 圣诞夜的守夜人 / 思想实验：分完以后",
+      "summary": "1930年圣诞节，纽约报纸刊登消息：斯塔滕岛摩拉维亚公墓里的范德比尔特家族陵墓遭到破坏。 两家报纸对闯入者人数的估计不同，一家说二三人，另一家说五六人。外门被破坏，铜质浮雕留下敲击痕迹，里层墓门没有打开。 1883至1884年，威廉·亨利分批买下公墓旁的土地，请理查德·莫里斯·亨特设计家族陵墓。工程尚未完成，威廉本人先在1885年去世，便暂葬在一旁，等墓室完工后再迁入。 陵墓建成以后，家族曾雇平克顿守卫昼夜巡查。守卫按时走到各个巡更点打卡。到1930年，全天值守已经停止。破坏案发生后，家族重新雇了守卫。报道没有说明闯入者为何砸门，只估计损失约三千美元。 五十三年间，遗产分给子女，证券陆续卖出，房屋的税费和维修费也年年支付。原先集中在一个人手里的钱，渐渐进了许多家庭各自的生活。 当时报纸还写道，圣诞夜有两名穿制服的人守在墓前。 夜深以后，两名守卫继续在墓门外走动。远处只能看见烟头的火光一明一暗，隔一会儿，传来几下拍手取暖的声音。 1884年9月25日，纽约。你是六十三岁的威廉·亨利·范德比尔特。面前是你最后一份遗嘱。 七年前，父亲把通常估为九千万至九千五百万美元的余产留给你，其中包括足以控制纽约中央的股份。控制权留住了，弟弟和...",
+      "path": "knowledge/segments/vanderbilt-008.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-008",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "尾声 圣诞夜的守夜人 / 思想实验：分完以后",
+        "order": 8,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "尾声 圣诞夜的守夜人 / 思想实验：分完以后",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:delong-009",
       "type": "segment",
       "title": "崩盘、归来与兜底",
@@ -25453,6 +26855,95 @@ window.KNOWLEDGE_DATA = {
           "tool:branch-spinoff-settlement"
         ],
         "governance_insight": "这个片段服务于“三星李氏用秘书室中枢、病房立储的择贤制和环形持股的百分之一楔子统治全球最大的电子帝国， 三代人为世袭付出兄弟决裂与刑事记”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:vanderbilt-001",
+      "type": "segment",
+      "title": "序章 下午四点 / 1.1 落地钟里的一百美元",
+      "summary": "2018年3月30日，耶稣受难日。下午四点以前，格拉迪丝·萨帕里（Gladys Szapary）要把留在听涛山庄（The Breakers）的东西搬完。 三月底的罗德岛纽波特还很冷。海风从悬崖下吹上来，楼下照常开放。游客沿着围绳走过大客厅、餐厅和镀金的天花板时，楼上正有人把纸箱装进老式奥的斯电梯。 格拉迪丝是科尼利厄斯·范德比尔特二世的曾孙女。小时候，她和弟弟保罗从厨房拿来托盘，坐在上面滑下大理石楼梯，母亲小时候也这样玩。1998年母亲去世以后，姐弟俩继续使用三楼。那里不对游客开放，房间里放着四代人的照片、婴儿车、洗礼服和普通家具。楼下的场景停在1895年，楼上仍过着日常生活：灯泡会坏，水管会漏，抽屉里塞着一时舍不得扔的东西。 为三楼的居住权，格拉迪丝一家与纽波特县保护协会争了几年。保护协会担心老旧电线、管道和消防设施危及整栋建筑。格拉迪丝一家说，家人多年承担税费和部分维修，也愿意自费整改。2017年底，她已搬出山庄。此后几个周末，她和弟弟、朋友回来收拾余下的东西。最后一天，几个人在朝海的露台上开了一瓶香槟。格拉迪丝擦过地板，关灯，从侧门坐车离开。 听涛山庄常同两个数字一起出现。1895年，科尼利厄斯二世与妻子艾丽斯重建这所...",
+      "path": "knowledge/segments/vanderbilt-001.md",
+      "frontmatter": {
+        "id": "segment:vanderbilt-001",
+        "type": "segment",
+        "story": "story:vanderbilt",
+        "title": "序章 下午四点 / 1.1 落地钟里的一百美元",
+        "order": 1,
+        "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+        "source_heading": "序章 下午四点 / 1.1 落地钟里的一百美元",
+        "entities": [
+          "family:vanderbilt-family",
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper",
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum",
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954",
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "families": [
+          "family:vanderbilt-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:founder-shadow"
+        ],
+        "key_people": [
+          "person:cornelius-vanderbilt",
+          "person:william-henry-vanderbilt",
+          "person:cornelius-jeremiah-vanderbilt",
+          "person:cornelius-vanderbilt-ii",
+          "person:william-kissam-vanderbilt",
+          "person:alva-vanderbilt",
+          "person:consuelo-vanderbilt",
+          "person:gloria-vanderbilt",
+          "person:anderson-cooper"
+        ],
+        "key_companies": [
+          "company:new-york-central",
+          "company:biltmore-estate",
+          "company:whitney-museum"
+        ],
+        "key_events": [
+          "event:gibbons-v-ogden-1824",
+          "event:vanderbilt-will-clause8-1877",
+          "event:public-be-damned-1882",
+          "event:vanderbilt-ball-1883",
+          "event:consuelo-marriage-1895",
+          "event:the-breakers-1895",
+          "event:gloria-custody-1934",
+          "event:nyc-last-seat-1954"
+        ],
+        "tools": [
+          "tool:residuary-concentration",
+          "tool:spendthrift-trust",
+          "tool:equal-division-inheritance",
+          "tool:mansion-tourism-conversion"
+        ],
+        "governance_insight": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
         "confidence": 0.62,
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -74602,6 +76093,1884 @@ window.KNOWLEDGE_DATA = {
       "reviewed": false,
       "curation_stage": "story_spec_v1",
       "source_story": "story:stanford"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "concept:founder-shadow",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-001",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "concept:family-consensus",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-002",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-003",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-004",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-005",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-006",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-007",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:vanderbilt-008",
+      "target": "tool:residuary-concentration",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "mentions",
+      "label": "讲述家族",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "concept:family-control-unity",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "concept:philanthropy-as-governance",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:cornelius-vanderbilt",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:william-henry-vanderbilt",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:william-henry-vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:cornelius-jeremiah-vanderbilt",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-jeremiah-vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:cornelius-vanderbilt-ii",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-vanderbilt-ii",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:william-kissam-vanderbilt",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:william-kissam-vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:alva-vanderbilt",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:alva-vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:consuelo-vanderbilt",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:consuelo-vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:gloria-vanderbilt",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:gloria-vanderbilt",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "person:anderson-cooper",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:anderson-cooper",
+      "target": "family:vanderbilt-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "company:new-york-central",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:new-york-central",
+      "target": "family:vanderbilt-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "company:biltmore-estate",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:biltmore-estate",
+      "target": "family:vanderbilt-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "company:whitney-museum",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:whitney-museum",
+      "target": "family:vanderbilt-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:gibbons-v-ogden-1824",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:vanderbilt-will-clause8-1877",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:public-be-damned-1882",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:vanderbilt-ball-1883",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:consuelo-marriage-1895",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:the-breakers-1895",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:gloria-custody-1934",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "event:nyc-last-seat-1954",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "tool:residuary-concentration",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "tool:spendthrift-trust",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "tool:equal-division-inheritance",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:vanderbilt",
+      "target": "tool:mansion-tourism-conversion",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:william-henry-vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:william-henry-vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-jeremiah-vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-jeremiah-vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-vanderbilt-ii",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-vanderbilt-ii",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:william-kissam-vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:william-kissam-vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:alva-vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:alva-vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:consuelo-vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:consuelo-vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:gloria-vanderbilt",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:gloria-vanderbilt",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:anderson-cooper",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:anderson-cooper",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:new-york-central",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:new-york-central",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:biltmore-estate",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:biltmore-estate",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:whitney-museum",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:whitney-museum",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:gibbons-v-ogden-1824",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:gibbons-v-ogden-1824",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:vanderbilt-will-clause8-1877",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:vanderbilt-will-clause8-1877",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:public-be-damned-1882",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:public-be-damned-1882",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:vanderbilt-ball-1883",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:vanderbilt-ball-1883",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:consuelo-marriage-1895",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:consuelo-marriage-1895",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:the-breakers-1895",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:the-breakers-1895",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:gloria-custody-1934",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:gloria-custody-1934",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:nyc-last-seat-1954",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:nyc-last-seat-1954",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:residuary-concentration",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:residuary-concentration",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:spendthrift-trust",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:spendthrift-trust",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:equal-division-inheritance",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:equal-division-inheritance",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:mansion-tourism-conversion",
+      "target": "concept:dispersed-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:mansion-tourism-conversion",
+      "target": "concept:succession-planning-gap",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "两代人写下两种遗嘱：第八条把余产和铁路控制权集中给一个儿子，保住了公司，撕裂了家； 第二十二条让八个孩子都足以独立生活，避免了诉讼，也拆掉了共同财产。 遗嘱只解决眼前的分配，没有规定分出去的财产如何再聚拢， 于是一笔接近全美货币九分之一的家产，在没有任何一场灾难的情况下慢慢散掉。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:cornelius-vanderbilt",
+      "target": "person:william-henry-vanderbilt",
+      "type": "successor",
+      "label": "迟到的接班",
+      "evidence": "长子因借六千美元被斥迟早丢脸，靠救活斯塔滕岛小铁路才获准入局，最终独得遗嘱第八条的余产。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "person:cornelius-vanderbilt",
+      "target": "person:cornelius-jeremiah-vanderbilt",
+      "type": "conflict",
+      "label": "门外的次子",
+      "evidence": "父亲替他还债、两次收容、每月给一百美元，却始终不给铁路职位，庭审后五年他开枪自杀。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "person:cornelius-jeremiah-vanderbilt",
+      "target": "person:william-henry-vanderbilt",
+      "type": "conflict",
+      "label": "遗嘱之诉",
+      "evidence": "科尼尔与两位姐妹起诉遗嘱无效，庭审一年多，威廉记下弟弟的债务数字递给律师，终以现金与信托和解。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "person:william-henry-vanderbilt",
+      "target": "person:cornelius-vanderbilt-ii",
+      "type": "successor",
+      "label": "长子居中",
+      "evidence": "遗嘱第二十二条给他额外财产，接下家族与纽约中央的主要位置，余产与弟弟平分。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "person:william-henry-vanderbilt",
+      "target": "person:william-kissam-vanderbilt",
+      "type": "parent_child",
+      "label": "平分余产",
+      "evidence": "次子管理纽约中央以外的线路，与兄长平分父亲的余产。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "person:william-kissam-vanderbilt",
+      "target": "person:alva-vanderbilt",
+      "type": "spouse",
+      "label": "离婚案",
+      "evidence": "1895 年阿尔瓦顶着律师劝阻起诉离婚，威廉承担过错，她获得三个孩子的监护权与房产。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "person:alva-vanderbilt",
+      "target": "person:consuelo-vanderbilt",
+      "type": "conflict",
+      "label": "婚约安排",
+      "evidence": "母亲拆散秘密订婚、扣留信件，姨母暗示反抗会致母亲心脏病发，女儿哭着嫁给马尔伯勒公爵。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "person:gloria-vanderbilt",
+      "target": "person:anderson-cooper",
+      "type": "parent_child",
+      "label": "存折与铜像",
+      "evidence": "父亲带六岁的他看高祖铜像并告知没有遗产等着他，八岁起他有自己的存折，成年后先说自己姓库珀。",
+      "source_file": "文章/一百年花完一个国库：范德比尔特家族的六代人（执允“家族·故事”系列第 38 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:vanderbilt"
     }
   ]
 };
