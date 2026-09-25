@@ -1,5 +1,5 @@
 window.ARTICLE_DATA = {
-  "generated_at": "2026-08-30",
+  "generated_at": "2026-09-25",
   "articles": [
     {
       "story_id": "story:sheng-xuanhuai",
@@ -119624,6 +119624,4544 @@ window.ARTICLE_DATA = {
       ]
     },
     {
+      "story_id": "story:li-ka-shing",
+      "title": "长江流向何处：李嘉诚家族的创业与传承",
+      "series_no": 39,
+      "source_files": [
+        "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md"
+      ],
+      "related_node_ids": [
+        "family:li-ka-shing-family",
+        "person:li-ka-shing",
+        "person:li-yun-jing",
+        "person:chong-yuet-ming",
+        "person:victor-li",
+        "person:richard-li",
+        "person:canning-fok",
+        "person:michael-sandberg",
+        "person:bill-wyllie",
+        "person:solina-chau",
+        "person:michelle-li",
+        "company:cheung-kong",
+        "company:hutchison-whampoa",
+        "company:star-tv",
+        "company:pccw",
+        "company:li-ka-shing-foundation",
+        "company:shantou-university",
+        "event:cheung-kong-founded-1950",
+        "event:cheung-kong-ipo-1972",
+        "event:hutchison-acquisition-1979",
+        "event:hongkong-electric-purchase-1985",
+        "event:star-tv-sale-1993",
+        "event:victor-li-kidnapping-1996",
+        "event:pccw-privatisation-2009",
+        "event:succession-plan-announced-2012",
+        "event:li-ka-shing-retirement-2018",
+        "event:panama-ports-seizure-2026",
+        "concept:gradual-succession",
+        "concept:succession-training",
+        "concept:philanthropy-as-governance",
+        "concept:enterprise-independence",
+        "concept:funding-boundary",
+        "concept:credit-capital",
+        "tool:company-to-one-son-cash-to-other",
+        "tool:foundation-as-third-child",
+        "tool:split-accounts-allowance",
+        "tool:long-overlap-succession",
+        "tool:family-deal-vs-corporate-procedure"
+      ],
+      "toc": [
+        {
+          "id": "li-ka-shing-p-001",
+          "level": 1,
+          "title": "长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）"
+        },
+        {
+          "id": "li-ka-shing-p-002",
+          "level": 2,
+          "title": "序章 父亲的分法"
+        },
+        {
+          "id": "li-ka-shing-p-015",
+          "level": 2,
+          "title": "第一章 先把一家人养活"
+        },
+        {
+          "id": "li-ka-shing-p-016",
+          "level": 3,
+          "title": "少年当家"
+        },
+        {
+          "id": "li-ka-shing-p-028",
+          "level": 3,
+          "title": "没有放下的书"
+        },
+        {
+          "id": "li-ka-shing-p-033",
+          "level": 3,
+          "title": "二十二岁的厂主"
+        },
+        {
+          "id": "li-ka-shing-p-046",
+          "level": 3,
+          "title": "卖到美国的塑胶花"
+        },
+        {
+          "id": "li-ka-shing-p-059",
+          "level": 2,
+          "title": "第二章 从厂房到中环"
+        },
+        {
+          "id": "li-ka-shing-p-060",
+          "level": 3,
+          "title": "厂主成了房东"
+        },
+        {
+          "id": "li-ka-shing-p-065",
+          "level": 3,
+          "title": "留下来买地"
+        },
+        {
+          "id": "li-ka-shing-p-073",
+          "level": 3,
+          "title": "与庄月明成家"
+        },
+        {
+          "id": "li-ka-shing-p-077",
+          "level": 3,
+          "title": "每股三港元"
+        },
+        {
+          "id": "li-ka-shing-p-086",
+          "level": 3,
+          "title": "生意场上的老朋友"
+        },
+        {
+          "id": "li-ka-shing-p-091",
+          "level": 3,
+          "title": "走进中环"
+        },
+        {
+          "id": "li-ka-shing-p-097",
+          "level": 2,
+          "title": "第三章 入主和记黄埔"
+        },
+        {
+          "id": "li-ka-shing-p-098",
+          "level": 3,
+          "title": "最后才知道的人"
+        },
+        {
+          "id": "li-ka-shing-p-112",
+          "level": 3,
+          "title": "不留笔记的谈判"
+        },
+        {
+          "id": "li-ka-shing-p-130",
+          "level": 3,
+          "title": "主席的椅子"
+        },
+        {
+          "id": "li-ka-shing-p-143",
+          "level": 3,
+          "title": "买下港灯"
+        },
+        {
+          "id": "li-ka-shing-p-154",
+          "level": 2,
+          "title": "第四章 同一个父亲，两条路"
+        },
+        {
+          "id": "li-ka-shing-p-155",
+          "level": 3,
+          "title": "父亲的课堂"
+        },
+        {
+          "id": "li-ka-shing-p-165",
+          "level": 3,
+          "title": "从求学到做事"
+        },
+        {
+          "id": "li-ka-shing-p-172",
+          "level": 3,
+          "title": "相册里的母亲"
+        },
+        {
+          "id": "li-ka-shing-p-180",
+          "level": 3,
+          "title": "李泽楷回港"
+        },
+        {
+          "id": "li-ka-shing-p-188",
+          "level": 2,
+          "title": "第五章 长子在异乡"
+        },
+        {
+          "id": "li-ka-shing-p-189",
+          "level": 3,
+          "title": "温哥华的售楼风波"
+        },
+        {
+          "id": "li-ka-shing-p-205",
+          "level": 3,
+          "title": "纽约合伙人的困局"
+        },
+        {
+          "id": "li-ka-shing-p-212",
+          "level": 3,
+          "title": "赫斯基还在等钱"
+        },
+        {
+          "id": "li-ka-shing-p-220",
+          "level": 2,
+          "title": "第六章 次子成名，长子遇险"
+        },
+        {
+          "id": "li-ka-shing-p-221",
+          "level": 3,
+          "title": "科西嘉的游艇"
+        },
+        {
+          "id": "li-ka-shing-p-235",
+          "level": 3,
+          "title": "等儿子回来"
+        },
+        {
+          "id": "li-ka-shing-p-250",
+          "level": 3,
+          "title": "生意还要继续"
+        },
+        {
+          "id": "li-ka-shing-p-258",
+          "level": 2,
+          "title": "第七章 另立门户以后"
+        },
+        {
+          "id": "li-ka-shing-p-259",
+          "level": 3,
+          "title": "买下香港电讯"
+        },
+        {
+          "id": "li-ka-shing-p-267",
+          "level": 3,
+          "title": "想走的那一年"
+        },
+        {
+          "id": "li-ka-shing-p-278",
+          "level": 3,
+          "title": "多出来的股东"
+        },
+        {
+          "id": "li-ka-shing-p-289",
+          "level": 3,
+          "title": "富卫的十二年"
+        },
+        {
+          "id": "li-ka-shing-p-293",
+          "level": 2,
+          "title": "第八章 “第三个儿子”"
+        },
+        {
+          "id": "li-ka-shing-p-296",
+          "level": 3,
+          "title": "故乡的一所大学"
+        },
+        {
+          "id": "li-ka-shing-p-304",
+          "level": 3,
+          "title": "校园里的名字"
+        },
+        {
+          "id": "li-ka-shing-p-308",
+          "level": 3,
+          "title": "留给公益的那一份"
+        },
+        {
+          "id": "li-ka-shing-p-319",
+          "level": 3,
+          "title": "接下父亲的承诺"
+        },
+        {
+          "id": "li-ka-shing-p-323",
+          "level": 2,
+          "title": "第九章 父亲退下以后"
+        },
+        {
+          "id": "li-ka-shing-p-324",
+          "level": 3,
+          "title": "共事三十三年"
+        },
+        {
+          "id": "li-ka-shing-p-332",
+          "level": 3,
+          "title": "李泽钜面前的难题"
+        },
+        {
+          "id": "li-ka-shing-p-340",
+          "level": 3,
+          "title": "孙辈长大以后"
+        },
+        {
+          "id": "li-ka-shing-p-347",
+          "level": 2,
+          "title": "第十章 家业与家事之间"
+        },
+        {
+          "id": "li-ka-shing-p-368",
+          "level": 3,
+          "title": "关系：一家人怎样商量"
+        },
+        {
+          "id": "li-ka-shing-p-375",
+          "level": 2,
+          "title": "结语"
+        },
+        {
+          "id": "li-ka-shing-p-382",
+          "level": 2,
+          "title": "思想实验"
+        },
+        {
+          "id": "li-ka-shing-p-398",
+          "level": 2,
+          "title": "参考文献"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "li-ka-shing-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）",
+          "related_node_ids": [
+            "family:li-ka-shing-family",
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "序章 父亲的分法",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "“叫他同 Richard 换啰。”",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2012 年 5 月 25 日下午，长实和和黄的股东周年大会散会后，李嘉诚留在长江集团中心见记者。这样的场合，他每年都来，谈楼价，谈利率，也谈集团在海外的生意。这一次，记者追问起两个儿子的将来：按他刚公布的安排，长子会不会觉得吃亏？",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "八十三岁的父亲开玩笑说，让他同 Richard 换好了。Richard 是次子李泽楷的英文名。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在这场记者会上，李嘉诚先说出了外界猜测多年的分法。长子李泽钜将来接掌家族所持的长实、和黄权益，以及赫斯基能源的权益；次子李泽楷在集团以外发展，由父亲提供资金支持。给多少？他没有给出金额，只说资助会是次子当时所拥有资产的数倍，帮助他收购公司、拓展新业务。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个将接掌父亲经营了大半辈子的公司，一个将得到资金，继续做自己的生意。记者喜欢追问哪一份更值钱，但这却不容易比较。上市公司的股价实时可查，李嘉诚准备给次子的资金却没有公开。长子接到手的也不只是一批股票，还有往后每年要交的业绩，以及许多不能由他一个人决定的事。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这一年，李家旗下的企业已遍及五十多个国家。若只看股价，仿佛一笔巨产正在等父亲点头，随即转到儿子名下。可四十七岁的李泽钜已经在集团工作二十七年，同一批执行董事共同管理日常经营。四十五岁的李泽楷也早已有自己的公司：他十三岁去美国，二十三岁回港做卫星电视，三十三岁买下香港电讯。父亲公开分法时，两个人都已人到中年。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:richard-li",
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们小时候坐在同一间会议室的角落里，那里放着两张小椅子，大人商量土地、贷款和施工，两个孩子在旁边听。去美国读大学以后，父亲给两兄弟定下了同样的用钱规矩，他们还曾合用一辆车。长大后的去向却不同。哥哥学土木工程，回港后留在集团。弟弟在加拿大投行做过事，回港办卫星电视，卖掉以后又另立门户。",
+          "related_node_ids": [
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "市场曾猜测，长实归哥哥，和黄归弟弟。这样分，看起来对称，却忽略了两兄弟此前二十多年各自的经历。父亲公布安排时，一个已在集团承担多年经营责任，另一个在外面有了自己的事业。这次分家，也就顺着他们各自的去向，把往后的安排说清楚了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "记者会过后七个星期，家族信托架构中的两家公司调整股权。李泽钜的持股增加，李泽楷退出了这两家公司的股东名单，但仍是相关家族信托的受益人之一。兄弟各自经营事业，财产上的联系却没有全部分开。父亲究竟准备给次子多少资金，仍没有公开的数字。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "股权开始调整，父亲却没有就此退休。此后六年，他继续担任主席，长子仍在身边参与集团经营。等到李泽钜接任主席时，他已经在集团工作了三十三年。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "除了两个儿子的事业，李嘉诚还有基金会需要安排。他称它为“第三个儿子”，把一部分个人财产拨进去，用于教育、医疗及其他公益事业。这笔钱不供家人分配，基金会的运作却同样需要有人接手。投资如何管理，承诺的捐款如何支付，对汕头大学的支持怎样延续，都是往后要继续做的事。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些关于交班的安排，是很久以后的事了。1940 年，十二岁的李嘉诚随家人来到香港时，一家人只盼能躲过战乱，让日子维持下去。那时，长江还没有创办。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第一章 先把一家人养活",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "少年当家",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1943 年，李嘉诚的父亲李云经病重，给家乡的兄弟写了一封信。他已没有钱继续求医，也不再指望自己能够康复，只求亲人日后照看妻子和孩子。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:li-yun-jing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这位教过书、当过校长的父亲，没有多少东西可以留给家人。妻子和几个小孩子远在潮州，身边只有长子。李嘉诚还没念完中学，已经要想办法让一家人活下去。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三年前，他们来香港，原是为了躲避战乱。李家住在潮州城北门街面线巷，1939 年日军轰炸潮汕，学校停课，李云经失去了工作。一家人在乡间寄居一阵，第二年才赴港投奔妻弟庄静庵。十二岁的李嘉诚进了一所政府津贴的中学，课堂用英文和粤语，他听不惯，便要早起补课。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:li-yun-jing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "香港沦陷后，学校开始教日语，英文被禁，日子也越来越难维持。李云经不愿长久依靠妻弟，把妻子、女儿和两个小儿子送回潮州，只留下长子。李云经后来患上肺病，治病的药很难买，营养不足，又无钱求医，李嘉诚只得离开学校照料他。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:li-yun-jing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚找来有关肺病的书，却发现书上写的病征，自己身上也有。他没有钱看医生，想到母亲和弟妹，只觉得自己还不能死。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李云经临终仍惦记着儿子的学业，儿子却已经决定，要学做生意，养活家人。父亲去世后，葬在义冢。",
+          "related_node_ids": [
+            "person:li-yun-jing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "母亲和弟妹还在潮州等着生活费，李嘉诚顾不上自己的身体，便开始找工作。他一开始在舅舅的钟表行扫地、泡茶，看师傅修表，也看柜台前怎样招呼客人。抗战结束时，他在另一家钟表店做店员，月薪二十五港元，此后转到一家生产塑胶皮带和表带的五金厂。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "十七岁那年，厂里想让他做掌柜，他却要求出去跑推销。小时候没有玩具，他常拿观察别人当游戏：看一个人怎样说话、怎样迟疑，想一想换成自己，会做什么选择。他觉得自己适合做推销，做好了，收入也能多一些。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "真正出去跑生意，找到买家还只是开头。白天他到客户的办公室推销，拿到订单，收工后又回厂跟进生产。货送出去，还得把货款收回来。客户下次再找他，前一批货是否按时送到、质量好不好，都算在这名推销员身上。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当时厂里有七个推销员，他的业绩居首。李嘉诚说，别人一天做八小时，他做十六小时。切塑胶表带伤过手指，包扎后还要接着干。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不到二十岁，他升任总经理，收入终于能养家，也能供弟妹念书了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "没有放下的书",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每周有两个晚上，李嘉诚得赶在老师来以前回家。课通常到十点半以后才开始，白天是留给工厂和客户的。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "买不起多少新书，他就去旧书摊找老师用过的课本，照着书上划出的重点和批改过的答案自学。他也从图书馆借中国文学作品，读熟了背下来。英文则要另下功夫。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "做生意以后，客户的英文来信、产品资料，他都得读懂。遇到不明白的地方，就找书查，或向人请教。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "多年后，李泽钜在大学修中国文学，背诵课文时，发现父亲对这些文章也很熟悉。那些是李嘉诚三十多年前读过的书。李泽钜后来形容，父亲把一座图书馆装在了脑子里。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "二十二岁的厂主",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1950 年，二十二岁的李嘉诚凑齐约五万港元，开办长江工业。钱里有自己的积蓄，也有向亲友筹借的部分。十几个工人，几台机器，做的是塑胶日用品。他给厂子取名“长江”。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚承认，年轻时自己有个毛病：表面上待人客气，心里却很自负。大江能够容纳细流，他用这个名字提醒自己，也要容得下别人的意见。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "办厂以后，采购、管理、推销都由他一人兼着，月底还要付工资和租金。夜深了，他就睡在厂房阁楼上。楼下机器响着，厂子还在生产，他反倒睡得安稳些。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他为省租金租过一间货仓。开业不到两个月，接连下雨，水淹了新买的塑胶机器，只得另找地方，把能用的设备搬走。省下的租金不够弥补损失，搬迁还耽搁了生产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长江开办的那一年，朝鲜战争爆发。1951 年起，对华战略物资出口管制收紧，香港的转口贸易和部分制造业受到冲击。香港一些塑胶厂转用英国仍能供应的醋酸纤维素，重新计算成本、调整工艺。长江生产的梳子、肥皂盒等日用品仍有买家，原料和成本却都要重新安排。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "有一次，供应商的货款到了该付的日子，李嘉诚的钱还没凑齐。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "原先是算好的：客户给他一张期票，约定将来某日付款，他照着这个收款日期，给原料商也开了一张期票。没想到日子到了，客户的钱没有进来，自己开出的票却已经要兑现。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他四处筹措，钱却还差一点。他想起平日随手搁进包装盒里的硬币，把这些零钱凑起来，才补足了货款。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1955 年，李嘉诚准备扩大生产，几个月的订单已经接好，新机器也订了。他看中了士美菲路一处约两万平方英尺的厂房，原来在这里经营的工厂却正面临倒闭。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "得知李嘉诚要接下厂房，原厂一名员工劝他不要搬来。那人说，自己的老板当初也满怀信心，如今却快要经营不下去，附近几家工厂的情况也不好。他劝李嘉诚趁年轻，宁可损失订金，也别把积蓄赔进去。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚谢过对方，却没有改变计划。他解释，订单已经接下，机器也已订购，如果此时不安装设备生产，就会失信于客户。他仍按原定计划搬了进去。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那些年，他每天工作十六个钟头。租住的家在十二楼，深夜回去，累得睁不开眼，便扶着栏杆，闭眼数着梯级往上走。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "卖到美国的塑胶花",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塑胶花是一种用塑料制成的仿真花，用来装饰居室。它不用浇水，也不会很快凋谢，可以在花瓶里摆放很久。五十年代，欧美家庭对这类装饰品的需求渐多，意大利厂商已经做出了销路。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但能做梳子和肥皂盒，未必就能把一朵花做好。花瓣要有模具，颜色要调得合适，叶片和花梗还得逐件装配。1957 年，李嘉诚到罗马和那不勒斯参观花厂，学习这些工艺，回港后选了绣球花投入生产。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "产品做出来，还得让买家相信，长江有能力按时、按量交货。纽约一家经营人工花的公司看过报价，决定派代表到香港考察。客人到来以前，李嘉诚搬进厂里，监督各项准备，代表抵港时，他亲自到启德机场迎接。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到了工厂，客人除了看样品，还检查了设备、生产过程和成品的细部处理。考察之后，他下了订单。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1958 年前后，长江已与美国人工花进口商建立长期业务，“塑胶花大王”的称号也由此传开。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "老客户的介绍，也为长江带来了美国订单。二十二岁创业时，一家贸易公司向长江订购了一批出口玩具。货已经装船，外国买家却出了财务问题，无法收货。贸易公司愿意赔偿，李嘉诚觉得这批货还能另找买家，损失有限，便没有收这笔钱。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "几年后，长江转做塑胶花，那家贸易公司的负责人向一位美国商人推荐它，说这是一家值得信任的工厂。美国人找上门，先下了六个月的订单，后来成为长期客户。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长江的大客户中，有一位马素先生，几乎包下了全部产品。订单集中在一个客户手里，长江省去了四处找销路的奔波，却也更依赖这位买家。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "即使其他买家肯出更高价格，李嘉诚仍按原有条件向马素供货。后来，马素聘请的新总裁前来压价，对长江员工的态度也不好。李嘉诚拍了桌子，请对方出去。他说，这是自己第一次拍桌子。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那时长江并非没有退路。别的买家愿意出价，公司也留有现金，即使与大客户谈不拢，一时也不至于停产。马素得知消息后赶来，将采购价提高三成，事情在几个钟头内解决，两人的往来此后维持多年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1957 年前后，李嘉诚在半山买下第一所自住的房子，三间卧室、两个客厅。母亲有自己的房间，弟妹不用再挤住。他买了一台唱片机，放母亲熟悉的潮州唱片。搬进去的第一夜，他没有睡着，一家人总算不用再怕明天没钱了。只是父亲已经不在，没能住进这所房子。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "塑胶花赚来的钱改善了家里的生活，李嘉诚却没有把以后的打算全押在花上。六十年代初，他判断这门生意受潮流支配，美国消费者以后可能重新喜欢鲜花。长江仍接订单，1963 年还在柴湾兴建第二家工厂，他本人却已把一部分资金和时间放到地产上。七十年代，石油危机抬高了原料价格，长江也逐渐退出塑胶业务。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第二章 从厂房到中环",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "厂主成了房东",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1958 年，租来的厂房不够用了。李嘉诚在北角英皇道投得一块地，随后建起十二层的长江工业大厦，一部分自用，一部分出租。过去他是房客，每月要付租金，现在工厂有了自己的地方，还能从别的租户那里收租。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "经营塑胶厂，他得不断接单、生产、交货，才能有收入；厂房出租以后，只要租户按约缴租，就能定期收到钱。他一边管工厂，一边学着建楼、招租、处理租约。起初买地是为工厂找地方，此后才逐渐成为独立的业务。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "早年看地，李嘉诚有一个笨办法：带一只秒表，从巴士站或人多的地方走过去，量一量要花多久，沿路看行人，也看附近住着什么人。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-064",
+          "index": 64,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "卖方所说的“交通方便”，究竟是步行几分钟，还是十几分钟，会影响住户的选择，也影响这块地的价值。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-065",
+          "index": 65,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "留下来买地",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-066",
+          "index": 66,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1965 年，香港发生银行挤提风潮。明德银号因资金周转困难而倒闭，其他华资银行的存户也担心自己的积蓄取不出来，纷纷赶去提款。恐慌蔓延，越来越多的银行门外排起了长队。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-067",
+          "index": 67,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "银行收到的存款，有一部分已经作为贷款借了出去，无法随时收回。其中借给地产商买地建楼的钱，往往要等楼售出后才能偿还。平日陆续有人提款，银行尚能应付，大批存户突然同时来取钱，手头的现金就可能不够了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-068",
+          "index": 68,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年后的 1967 年，香港又陷入社会动荡。5 月以后，示威、警民冲突和土制炸弹袭击接连发生，局势持续数月未能平息。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-069",
+          "index": 69,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "报纸上出现了移民广告，一些急于离港的业主开始降价出售工厂、商铺和住宅。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-070",
+          "index": 70,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚选择留下，买入别人急于出售的土地。他认为，动荡会过去，香港作为港口和商业城市的条件仍在。不过，买下土地以后，还得有钱等到市场恢复。贷款要付利息，工厂也有日常开支，土地却未必能马上带来收入。长江早年的负债较低，这时还有余力买地。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-071",
+          "index": 71,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "买地的同时，塑胶厂仍在生产。1967 年，长江接到一种玩具的订单，所需的新机器只能从欧洲空运，等机器运到又怕赶不上交货。李嘉诚着手改装厂里现有的机器。二十四小时后，产量提高了一倍，再继续改进，一部机器的产量最后达到原来的四倍。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-072",
+          "index": 72,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1973 年，长江已有四十个发展项目。早年买下的土地陆续进入设计、施工和销售阶段。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-073",
+          "index": 73,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "与庄月明成家",
+          "related_node_ids": [
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-074",
+          "index": 74,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "庄月明是庄静庵的女儿，也是李嘉诚的表妹。李家逃难到香港时，投奔的正是她的父亲。两人的青年时代很不相同，李嘉诚离校谋生，往来于店铺和车间。庄月明则继续读书，从香港大学文学院毕业。她熟悉英文，而李嘉诚还得在工作之余补课。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-075",
+          "index": 75,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1963 年，两人结婚。庄月明此后参与公司的财务和其他事务，也养育两个孩子。到长实筹备上市时，她已与丈夫共事多年。",
+          "related_node_ids": [
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-076",
+          "index": 76,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "结婚那年，深水湾道七十九号以庄月明的名义购入，价款六十五万港元。李嘉诚早先在半山买房，安顿的是母亲和弟妹，如今，他和庄月明有了自己的家，两个儿子在这里长大。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-077",
+          "index": 77,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "每股三港元",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-078",
+          "index": 78,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "七十年代初，香港人认购新股的热情，曾把银行挤得难以正常做生意。认购文件和现金大量涌进汇丰，汇丰的浦伟士只得另找地方分流人群。借教堂没借成，后来找到圣约翰救护站。他还盼着那段上坡路能让一些人打消念头，认购者却照样来了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-079",
+          "index": 79,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长实走进证券市场时，赶上的正是这样的热潮。1971 年，李嘉诚成立长江地产，次年改名长江实业，准备上市。股票该卖多少钱，包销商与他的意见并不相同。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:cheung-kong"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-080",
+          "index": 80,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "双方为定价开了几次会。李嘉诚提议每股三港元，包销商认为至少可以定十一元。见他不答应，对方退到八元，他仍坚持三元。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-081",
+          "index": 81,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的解释是，那时许多投资者更信任英资企业，对华资公司抱有戒心。长实第一次向公众募资，如果价钱定得太高，往后业绩跟不上，新股东先吃亏。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-082",
+          "index": 82,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最后发行价定在三港元，获得大幅超额认购，当年利润也高于上市时的预计。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-083",
+          "index": 83,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "有了上市公司的股票，李嘉诚买楼的办法也变了。1973 年 12 月，长实用新发行的股票换入皇后大道中和德辅道中的两幢商厦，每年添了八九百万港元租金。卖方收下股份，也成了长实的股东。此后十年，这类以股换物业的交易一再发生。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-084",
+          "index": 84,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "另外，还有地主愿意拿地合作开发。1976 年，长实与伙伴在寿臣山建别墅、在坚尼地道建凤凰台；后来，纱厂、洋行和电力公司也拿出土地与它联营。对方出地，长实负责开发，先付地基工程等费用，再预售尚未建成的房屋，也就是香港所说的“楼花”，收回部分资金，最终按约分享收益。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-085",
+          "index": 85,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些办法让长实能够同时开发更多项目。合作的地主等着分配收益，预付房款的买家等着交楼，项目仍须按约完成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-086",
+          "index": 86,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "生意场上的老朋友",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-087",
+          "index": 87,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1970 年，浦伟士代表汇丰到北角拜访李嘉诚。厂房光线不亮，一间小办公室用玻璃隔开，桌上有纸张和空茶杯，地上放着痰盂。谈完，李嘉诚送他到楼下车旁。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-088",
+          "index": 88,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "浦伟士日后成为汇丰主席。他谈起那次拜访时，说自己为银行争取到了一位好客户。等到李嘉诚收购和记黄埔时，他与汇丰已有多年的业务往来。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:hutchison-whampoa"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-089",
+          "index": 89,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "七十年代，李嘉诚把湾仔伊利沙伯大厦的一项物业卖给英资企业英之杰。双方握手说定后，有人出了更高的价，他没有反悔，告诉对方，自己已经说了 yes，就不会再找理由说 no。后来，英之杰又同长实合作开发港灯的土地。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-090",
+          "index": 90,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1975 年经济低迷，长实以八千五百万港元买下太古位于北角赛西湖的地盘，与加拿大帝国商业银行合作开发。两年后，楼市回暖，项目推出，双方赚到了钱。此后，这家银行继续与李嘉诚合作，参与温哥华等海外项目，李家两个儿子也陆续加入相关投资。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-091",
+          "index": 91,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "走进中环",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-092",
+          "index": 92,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1977 年，三十多个财团来争中环和金钟地铁站上方的物业发展权。最被看好的，是长期在中环经营地产的英资公司置地。长实也递了标书。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-093",
+          "index": 93,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "地铁公司要解决的，是另一道难题。铁路建设耗资大，债务在身，物业的收益还没收到，工程款却已经要付。它需要这些楼尽早建成、卖出，把现金收回来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-094",
+          "index": 94,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长实的方案把物业完工与通车时间配合起来，使地铁公司能够更早回款。竞标结果出来，胜出的是长实。1978 年 5 月，中环站上方的环球大厦预售，五亿九千万港元的物业，八小时内售完。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-095",
+          "index": 95,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "车站、铁路和日后不断抵达的人流，也抬高了这些物业的价值。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-096",
+          "index": 96,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "环球大厦还没落成，一笔更大的买卖已经在商谈。1979 年 9 月，李嘉诚与汇丰谈妥买入和记黄埔股份。和记黄埔的前身可追溯到十九世纪，经营港口、零售等业务，还持有船坞土地。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:hutchison-whampoa"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-097",
+          "index": 97,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第三章 入主和记黄埔",
+          "related_node_ids": [
+            "company:hutchison-whampoa"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-098",
+          "index": 98,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "最后才知道的人",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-099",
+          "index": 99,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1979 年 9 月 25 日下午，和记黄埔行政总裁韦理接到汇丰主席沈弼的电话。沈弼没有说是什么事，只问他下班以后能不能联系上。",
+          "related_node_ids": [
+            "person:michael-sandberg",
+            "person:bill-wyllie",
+            "company:hutchison-whampoa"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-100",
+          "index": 100,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "傍晚，第二通电话来了。汇丰已经决定，把手里的和黄股份卖给李嘉诚，当晚就要公布消息。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-101",
+          "index": 101,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "几年来，韦理一直主持和黄的整顿，公司已经恢复盈利。如今，出售股份的谈判已经结束，他才被告知，公司将迎来一个新的大股东。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-102",
+          "index": 102,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他打电话约见李嘉诚。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-103",
+          "index": 103,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四年前，汇丰请韦理来时，老和记几乎撑不下去了。前任掌门祈德尊借钱四处收购，把航运、快餐、羊毛等互不相干的生意装进一家公司。旗下企业多达几百家，结构复杂。市场一变，多项业务同时亏损，借款却到了要还的时候。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-104",
+          "index": 104,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "汇丰注资救了和记，也把韦理请了进来。这个澳大利亚人开过赛车，经营过汽车生意，以善于整顿经营不善的企业闻名。他砍掉空壳和亏损业务，又推动和记与黄埔船坞合并，到了 1978 年，公司已经恢复盈利。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-105",
+          "index": 105,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但银行从出手救和记时起，就说过不会永远持有这些股份。等公司好转，它要找机会退出。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-106",
+          "index": 106,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "汇丰随时可能出售的大批股票，让市场担心和黄股价受压，也一直是韦理关心的事。银行何时卖、卖给谁，关系到和黄今后的经营，却由不得他来决定。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-107",
+          "index": 107,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚看中的，是一家做地产的人很难从头建起来的公司。和黄经营货柜码头，拥有百佳、屈臣氏，还有红磡黄埔船坞的大片土地。船舶靠岸卸货，商店每天营业，这些业务已经运转多年，也各有熟悉门道的人在经营。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-108",
+          "index": 108,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他不必把和黄的股票全部买下来。汇丰所持的约两成二股份，已经是公司最大的一份。接过这批股票，长实就会成为最大股东，有机会在和黄董事会中争取更大的影响。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-109",
+          "index": 109,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可想买的人不止他一个。其他买家也找过汇丰，其中还有美国公司。银行要收回投资，也要判断，谁接手之后能让刚刚救活的和黄继续经营下去。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-110",
+          "index": 110,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1979 年，李嘉诚几次向沈弼提出收购，沈弼都没有答应。到八月底，他又找到汇丰旗下负责企业融资的公司，请负责人再向沈弼提出收购。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:michael-sandberg"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-111",
+          "index": 111,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这一次，沈弼愿意往下谈了。",
+          "related_node_ids": [
+            "person:michael-sandberg"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-112",
+          "index": 112,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "不留笔记的谈判",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-113",
+          "index": 113,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这场谈判，李嘉诚没有告诉长实的董事，也没有告诉妻子庄月明。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-114",
+          "index": 114,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他与汇丰已经打了近十年交道，银行熟悉他的生意，也清楚他的财务状况。但他报出的价钱，沈弼没有接受，双方还得通过财务顾问继续磋商。",
+          "related_node_ids": [
+            "person:michael-sandberg"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-115",
+          "index": 115,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "消息一旦传出去，和黄的股价就可能上涨，还可能有人赶来竞买。李嘉诚算过，每股只涨一角，他就得多付九百万港元。谈了这么久的买卖，也可能就此落空。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-116",
+          "index": 116,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "沈弼同样担心泄密。在他看来，消息若从银行漏出去，毁掉的是客户对汇丰的信任，整笔交易都可能得中止。",
+          "related_node_ids": [
+            "person:michael-sandberg"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-117",
+          "index": 117,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "保密一直延伸到谈判的纸张上。汇丰内部用代号称呼公司，草稿用完通常便销毁。李嘉诚不留下谈判记录，也不让秘书经手。沈弼提前知会了港督，和黄自己的董事会却仍未被征询意见。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:michael-sandberg"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-118",
+          "index": 118,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "9 月 19 日晚上，沈弼来到李嘉诚在中国大厦的顶层套间，两个人单独吃饭。这顿饭上，他第一次明确表示，银行原则上同意出售。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:michael-sandberg"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-119",
+          "index": 119,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不过，李嘉诚还没能把价钱谈下来。沈弼没有在饭桌上接着议价，细节仍交给财务顾问。又过了两天，双方才谈妥。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:michael-sandberg"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-120",
+          "index": 120,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "总价六亿三千九百万港元，长实先付两成，便能取得这批股份，余款可以在两年内付清。连首期的钱，李嘉诚也是以股份作抵押，向汇丰取得个人贷款，再借给长实。卖股票的银行，还借给他钱来完成这笔收购。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-121",
+          "index": 121,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那批和黄股票，在款项付清以前仍要押给汇丰。若到约定期限仍未付清，长实还得按约加付。李嘉诚争取到的是筹钱的时间，往后的款项仍要一笔笔付。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-122",
+          "index": 122,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到了 9 月 25 日，李嘉诚才打电话请律师夏佳理来办公室，约在下午股市收市后见面。电话里，他没有说是什么事。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-123",
+          "index": 123,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "夏佳理到了，才知道他要买汇丰手里的和黄股份。谈判没有留下笔记，李嘉诚凭记忆把条件逐项告诉律师。其他董事随后被叫来，这才知道买卖已经谈到哪一步。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-124",
+          "index": 124,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可还不能签字，得等汇丰董事会批准出售。董事们此时还在开会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-125",
+          "index": 125,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "傍晚六点左右，电话来了，汇丰董事会同意出售。李嘉诚和律师前往银行，签下协议。回到长实办公室不久，韦理又打来电话，请他过去见面。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-126",
+          "index": 126,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "韦理刚知道汇丰卖掉了股份。此前的谈判没有问过他，现在协议已经签订，两人谈起了长实将派谁进入和黄董事会。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-127",
+          "index": 127,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两人谈着，电话又打进来了。同事告诉韦理，记者已经知道交易价格，连分期付款的条件也知道，正在找和黄确认。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-128",
+          "index": 128,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "消息没能继续瞒住。和黄一名公关人员被上司要求摘下听筒，让电话暂时打不进来；李嘉诚离开后，记者又直接找到了韦理。晚上八点左右，韦理打给沈弼，告诉他消息已经泄露。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:michael-sandberg",
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-129",
+          "index": 129,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此时离公告发出还有几个小时，买卖双方的协议倒是已经签好。晚上十一点半，等伦敦股市收市，消息正式公布。香港一家从塑胶厂做起来的华资公司，买下了老牌英资洋行最大的一份股份。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-130",
+          "index": 130,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "主席的椅子",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-131",
+          "index": 131,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "韦理最不服的，是汇丰连让他出价的机会都没有给。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-132",
+          "index": 132,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "和黄是他花了几年工夫救回来的。那些曾经拖累公司的生意已经清理掉，码头、商店和大片土地还在。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-133",
+          "index": 133,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长实付的价格虽高于当日市价，韦理仍觉得便宜。他看的，是那些资产将来能值多少钱。多年后谈起这笔买卖，他还是说，自己也很想有机会买下汇丰的股份。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-134",
+          "index": 134,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "汇丰却没有把股份拿出来公开竞投。银行给出的解释是，它要找一个愿意长期持有、帮助和黄发展的股东。韦理认为值得再争一争的价钱，汇丰已经接受了，他想继续经营的公司，也从此多了一个要亲自掌舵的人。",
+          "related_node_ids": [
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-135",
+          "index": 135,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不过，李嘉诚并没有在签约之后就坐上主席的椅子。他先进入董事会，继续增持股份，到 1981 年才接任主席。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-136",
+          "index": 136,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他对管理层说，主席的头衔可以不在乎，执行委员会却要由他主持，旗下公司的重大决定，他要有最后发言权。经理们可以继续经营码头、商店，决定买下哪家公司、把大笔资金投到哪里，他要亲自过问。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-137",
+          "index": 137,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "和黄派发特别股息时，分歧显了出来。李嘉诚主张把一笔现金分给股东，几名高管却想把钱留在公司，继续发展和黄的业务。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-138",
+          "index": 138,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "更让他们不安的，是长实与和黄之间的安排。当时传出的说法是，李嘉诚打算把长实旗下的一家公司并入和黄，几名高管反对。他们担心，和黄赚来的钱，往后会被拿去应付长实和李嘉诚其他公司的需要。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-139",
+          "index": 139,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两家公司虽然都由李嘉诚主导，各自还有其他股东。买了和黄股票的人，并不一定也持有长实。长实需要资金，并不能成为和黄拿出钱来的充分理由。经理们担心的，是和黄股东的利益会不会因此受损。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-140",
+          "index": 140,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1984 年，和黄的行政总裁、副手和财务主管先后离开。这是韦理离任之后的又一次人事变动。李嘉诚仍掌握重大投资的决定权，原来的几名经理没有继续留下。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:bill-wyllie"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-141",
+          "index": 141,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接掌日常经营的是马世民。他后来形容自己与李嘉诚的分工，说自己是开卡车的人，李嘉诚坐在后面，告诉他往哪儿走。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-142",
+          "index": 142,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "马世民在这个位置上做了近十年。码头、零售等业务由各自的经理经营，他负责把和黄的日常工作管起来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-143",
+          "index": 143,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "买下港灯",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-144",
+          "index": 144,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接过和黄以后，李嘉诚看中的那片黄埔船坞，并没有马上变成住宅。船坞用地要改作住宅用途，还得向港府补交一笔地价。八十年代初，双方在金额上谈不拢，后来楼市下跌，谈判又中断了。大片土地握在手里，开发的日子却定不下来。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-145",
+          "index": 145,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那时，李嘉诚还在争取更多的地。1982 年 2 月，中环一幅地皮招标，长实出了高价，仍输给置地。那里后来建起了交易广场。置地赢了，接下来还得为这幅地投入大笔资金。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-146",
+          "index": 146,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "几个月后，中英开始商谈香港前途，楼市急跌。长实的利润也受到冲击。置地除了这幅地，还有其他几项大额地产投资，此前又买入港灯的股份。借来的钱投了进去，市场却变了，原先指望项目赚回的钱，一时收不回来。债务压上来，置地开始出售资产。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-147",
+          "index": 147,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚手里的旧船坞，到 1984 年底才有了进展。和黄与港府重新谈妥补地价，黄埔花园的开发终于可以往前走。但这是一个要分期建造、分批出售的大项目，钱还得随着一批批住宅售出，逐渐收回来。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-148",
+          "index": 148,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "次年，置地出售港灯的大笔股份。三年前，两家公司争夺中环的地皮，置地胜出。而这一次，置地要卖掉资产还债，李嘉诚通过和黄，成了它的买家。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-149",
+          "index": 149,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚早就留意着港灯。他事先搜集过资料，研究过这家供电公司的生意，等置地愿意卖，便开始谈条件。李嘉诚后来算过，这笔作价二十九亿港元的买卖，前后用了十七个小时；若扣掉中间睡觉的八小时，实际只花了九小时。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-150",
+          "index": 150,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他买下的生意，与等着开工、售楼的船坞地皮很不一样。港灯向香港岛和南丫岛供电，已有电厂、供电网络和长期用电的客户。新楼可以卖不动，居民和商户却仍要用电、缴电费。电厂和设备也要不断花钱维护、更新，但电费收入不必等下一批房子卖出去才有。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-151",
+          "index": 151,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "黄埔船坞此后逐步建成住宅和商场，港灯则加入了和黄原有的码头、零售业务。楼市起伏仍会影响李嘉诚的公司，不过，他已经有了几门可以长年经营、各自带来收入的生意。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-152",
+          "index": 152,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "等到两个儿子开始负责项目，父亲能交给他们的，也已经远远超出一家地产公司的家底。李泽钜去加拿大做地产，李泽楷回香港办卫星电视，身后都有集团的资金、人手，以及父亲多年合作的银行。他们仍要自己作决定，却不必像父亲创业时那样，从租厂房、找订单开始。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:richard-li",
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-153",
+          "index": 153,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不过，在受命负责这些项目以前，两个儿子已经跟着父亲听了多年的生意经。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-154",
+          "index": 154,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第四章 同一个父亲，两条路",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-155",
+          "index": 155,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "父亲的课堂",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-156",
+          "index": 156,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长实董事会的会议室里，曾在角落放过两张小椅子。李泽钜和李泽楷从八九岁起便来旁听，大人商量土地、贷款、施工，他们坐在旁边。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-157",
+          "index": 157,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不只是董事会，家里几乎每顿饭也在谈生意。不过，从旁听到亲自负责项目，兄弟俩还要经历海外求学和最初几年的工作。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-158",
+          "index": 158,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个儿子上大学以前，李嘉诚每逢星期日推掉应酬，带他们乘小游艇出海。他后来说，离开岸边再讲道理，孩子想先走也走不了。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-159",
+          "index": 159,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "兄弟在斯坦福念书时，最初各骑一辆自行车。有一次，李嘉诚在九楼公寓等他们吃饭，看见一个儿子背着重物冒雨骑回，到家已经湿透。翌日，他让两人学车、考牌，买来一辆结实的新车，选的是上一年的款式，由兄弟共用。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-160",
+          "index": 160,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "兄弟在外念书，父亲把学费和生活费分存在不同的账户。学费备足，不许随意动用；取用生活费之前，须写信说明用途。李嘉诚答应收到信后二十四小时内回复。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-161",
+          "index": 161,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来功课加重，兄弟觉得来回写信耽误时间，提出改用电话，父亲同意了。不过，取钱前仍要向他说明用途。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-162",
+          "index": 162,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1982 年，李嘉诚陪李泽钜到斯坦福，父子沿棕榈大道走向校园中央的椭圆草坪。他告诉儿子，自己生平第一次羡慕他的福分，因为他能够成为这所大学的一员。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-163",
+          "index": 163,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父子随后分开。李泽钜去办新生事务，李嘉诚独自在校园闲走，发现路旁有一只西蓝鸲。他蹲下，举相机取景，回过头才看到，一群骑自行车的学生停在后面。他挡住了路。学生没有催促，有人以手指贴唇，示意同伴不要惊动鸟儿，等他拍完，才继续往前骑。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-164",
+          "index": 164,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2010 年，李嘉诚再到斯坦福，为以他名字命名的知识研究中心出席典礼。他在致辞里讲了这件事。二十八年过去，照片已经遗失，那个学生们耐心等他给鸟拍照的下午却还留在他的记忆中。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-165",
+          "index": 165,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "从求学到做事",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-166",
+          "index": 166,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜生于 1964 年。长实上市时，他还在念小学；和黄易主时，他十五岁。到他准备工作时，父亲已经有了一家规模庞大的企业。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-167",
+          "index": 167,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他在斯坦福读土木工程，硕士阶段攻读结构工程。1985 年回香港，先到建筑事务所见习，再加入长实。他所学的专业与地产开发有关，但买地、融资、申请批文和售楼，还得在工作中熟悉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-168",
+          "index": 168,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜曾称父亲为最好的商学教授。父亲很少直接说教，更多时候是带着他一起工作，核算成本、询问项目细节。李嘉诚做成一件自己满意的事，也会叫儿子来看，告诉他自己为此骄傲。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-169",
+          "index": 169,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1987 年 4 月，和黄通过子公司，以四亿八千四百万加元收购加拿大赫斯基能源百分之四十三股权，加拿大帝国商业银行持百分之五，李泽钜个人持百分之九。这是第一笔以他个人名字公开出现的大额投资。李嘉诚说，买股的钱由自己提供，投票则由儿子决定。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-170",
+          "index": 170,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "弟弟李泽楷生于 1966 年，十三岁被送到加州一所预科学校。他没有住校，自己租住公寓，也没有家里的佣人照料。多年以后，他用“像地狱”形容最初的生活：英文不好，过了一星期才开始学着煎蛋，熟悉的反而是冷冻快餐的品牌与口味。他说自己一点也不快乐。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-171",
+          "index": 171,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来李泽楷进入斯坦福，修读计算机相关课程和经济学，没有完成学位；又上过哈佛及伦敦商学院的短期课程，继而到多伦多的戈登投资公司，从事投资银行业务。三年间，他做到执行董事和合伙人。哥哥回港以后，他仍留在北美求学、工作。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-172",
+          "index": 172,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "相册里的母亲",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-173",
+          "index": 173,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1990 年元旦，庄月明病逝，尚不到六十岁。",
+          "related_node_ids": [
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-174",
+          "index": 174,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "年轻时的庄月明，是英华女校里一个活跃的学生。她参加辩论队，也参加各种课外活动。到了暑假，她还为家境贫困的学生义务教课。",
+          "related_node_ids": [
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-175",
+          "index": 175,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "五十年代，她离开香港，到日本留学，回来后继续在香港大学读书，1961 年取得文学士学位。她珍惜自己受过的教育，以母校为荣，往后也一直想为学校做些事。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-176",
+          "index": 176,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1963 年，她与李嘉诚结婚，随后几年，两个儿子先后出生。她常协助丈夫处理财务，长实筹备上市时，也与他一起商量方案。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-177",
+          "index": 177,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从结婚到她离世，两人共同生活了二十六年多。塑胶厂扩成了跨国集团，两个儿子也离家读书、开始工作。李嘉诚此后还有许多年可以陪儿子做事，庄月明却没能看到两个儿子后来的事业。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-178",
+          "index": 178,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2012 年，李泽楷来到英华女校，参加学生们的早会。这一次，他代表基金会设立以母亲名字命名的学生发展基金，支持学生到海外交流、参与社会服务。他向面前的学生讲起，自己的母亲当年也在这里读书，参加辩论，还在暑假给别人当小老师。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-179",
+          "index": 179,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那天，校长送给他一本相册，里面收着庄月明学生时代的旧照片。母亲已经离开二十二年，相册里留下的，还是她年轻时的模样。",
+          "related_node_ids": [
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-180",
+          "index": 180,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "李泽楷回港",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-181",
+          "index": 181,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1990 年 1 月，李泽楷从多伦多回香港，到父亲的公司工作。李嘉诚在电话里提醒过他，离职前最后一笔薪水最好多领一些，因为回港后的薪水只相当于原来的十分之一。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-182",
+          "index": 182,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他进入和黄的企业基金管理部门，接手约二十三亿港元投资。他很快与旧东家合作，尝试收购美国一家储蓄贷款机构持有的大批高收益债券：买方拟投入三亿美元资本，取得三十亿美元资产，其余由卖方提供长期融资。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-183",
+          "index": 183,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这类债券收益高，借款人无法还款的风险也高，常被称为“垃圾债券”。买方只投入三亿美元，其余依靠融资，资产价值一旦下降，偿还融资的压力也会增大。当时美国正经历储蓄贷款机构危机，香港有分析师质疑，两家买方虽然出色，究竟有多了解这类债券？",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-184",
+          "index": 184,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1990 年 9 月，美国监管部门否决了这项交易，收购未能完成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-185",
+          "index": 185,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲交给他的另一项业务是卫星电视。项目使用的卫星曾经入轨失败，后来被航天飞机回收。李嘉诚、中信、大东电报局等组成的财团买下它，重新整备，命名为“亚洲一号”，于 1990 年 4 月 7 日由中国长征火箭送入轨道。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-186",
+          "index": 186,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "卫星升空，电视台却还没有办起来。二十三岁的李泽楷开始负责电视业务，可以借助和黄的资金与人手，但申请牌照、寻找节目和销售广告，都是新的工作。原有的电讯部门无法直接承担这些工作，他得审看商业计划，处理与政府的牌照争议，再组建管理层。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-187",
+          "index": 187,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此时，哥哥已在温哥华负责世博会旧址开发。一个面对当地政府、土地合同和购房者，一个面对电视牌照、节目供应和广告客户。父亲仍是两个项目背后的出资人，兄弟各自负责的业务却有不同的难处。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-188",
+          "index": 188,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第五章 长子在异乡",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-189",
+          "index": 189,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "温哥华的售楼风波",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-190",
+          "index": 190,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三百九十六套公寓，几个小时就卖完了。李泽钜和合伙人许知仁在温哥华开发的两个住宅项目，1988 年 12 月 9 日先在香港开售，一处三小时售罄，另一处只用了两小时。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-191",
+          "index": 191,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "温哥华的买家还在等通知。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-192",
+          "index": 192,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "《省报》记者马克·埃奇也是其中一个。他已经把名字留在发展商的等候名单上，对方答应开售时通知他，却一直没有来消息。他后来才知道，房子已经在香港卖光了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-193",
+          "index": 193,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公关人员出面解释，两地原定同日发售，却因为时差，没有协调好实际开售的时间。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-194",
+          "index": 194,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这次售楼引起的争议，也波及李泽钜负责的世博会旧址开发。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-195",
+          "index": 195,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "几个月前，李家参与的协平世博买下了温哥华世博会旧址。二百零四英亩土地，首期付款五千万加元。父亲与郑裕彤、李兆基和加拿大帝国商业银行共同投资，由二十出头的李泽钜出任开发公司总裁。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-196",
+          "index": 196,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这笔交易公布时，就有人批评省政府把地卖便宜了，也有市议员担心，将来盖出的房子，本地人还是买不起。李嘉诚为此解释，财团会带来海外资金，聘用卑诗省的建筑师、工程师和承包商。李泽钜与许知仁的两个住宅项目是在另外的地块上开发的，但当地等候通知的买家没能买到房子，人们对世博会旧址开发也更加不放心。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-197",
+          "index": 197,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜出来认错。他承认自己对当地人的感受不够敏感，也误判了市场反应和需求。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-198",
+          "index": 198,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1989 年 1 月，卑诗省省长范德赞姆提出，要重新审视世博会旧址的土地交易。此时，财团与省政府已经签好了合同。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-199",
+          "index": 199,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范德赞姆担心财团转手卖地获利，土壤污染的清理费用却要由政府承担。世博会之前，这里曾是工业用地，土壤里残留着铅、砷等污染物，清理费用估计高达数千万加元。他希望李家承担这笔开支。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-200",
+          "index": 200,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜没有答应重谈合同。公司有律师和专家协助处理争议，他也决定亲自去见省长。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-201",
+          "index": 201,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个星期一早晨，他开车来到范德赞姆经营的“梦幻花园”。他向省长表示，公司愿意承担在当地经营的责任，同时要求省政府履行已经签订的合同。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-202",
+          "index": 202,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当地地产界也有人反对翻案。如果政府可以随意重审签过的合同，以后就很难再让投资者放心。范德赞姆随后表示，自己并没有打算重新谈判。土地交易得以继续。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-203",
+          "index": 203,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接下来，开发方案还要取得温哥华市政府的批准。协平世博原先想把这里建成一座“西海岸威尼斯”，在设计中安排了水道，一些当地人却担心，这会把住宅区围起来，成为富人独享的地方。公司随后修改方案、缩减规模。到 1989 年 11 月，原拟四十二层的办公楼已降到三十四层。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-204",
+          "index": 204,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "此后，财团出售部分土地，又引起了对原先买地价格的争论。开发就在这些争议中陆续推进，到 1996 年，已有二千一百个住宅单位售出。李泽钜后来把它列为自己最自豪的项目之一。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-205",
+          "index": 205,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "纽约合伙人的困局",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-206",
+          "index": 206,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "曼哈顿百老街六十号（60 Broad Street）是一栋三十九层的写字楼。大租户德崇证券破产后，楼里只剩约三成面积租了出去，翻新时还得清除建筑中的石棉。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-207",
+          "index": 207,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1991 年 10 月，李泽钜牵头，和黄买下这栋楼百分之四十九的权益，并计划再投六千万美元翻新。与李家合作的，是加拿大地产集团奥林匹亚约克。它背后的赖希曼家族是加拿大著名地产商，保罗·赖希曼也与李家相识多年。李泽钜谈起这次合作时，说双方已认识五六年，近来经常交流，熟悉彼此做事的方式，合作起来会容易些。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-208",
+          "index": 208,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这时，奥林匹亚约克已被伦敦的金丝雀码头项目拖累，资金紧张。李家的投入可以帮它缓一口气，双方再一起翻新纽约这栋楼，等待租赁市场好转。这笔合作还涉及楼宇的贷款，李家一方既持有股权，也成了债权人，奥林匹亚约克须向它还本付息。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-209",
+          "index": 209,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但不到一年，奥林匹亚约克就陷入了破产危机。它的美国子公司连当月应付给李家的一笔利息，也没能按时支付。两名负责人飞到香港，向李嘉诚解释，希望商量出一个办法。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-210",
+          "index": 210,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚这才发现，合作伙伴的财务状况比自己原先了解的更糟。追究违约，可以把对方告上法庭，可一旦美国子公司也被迫进入破产程序，双方共同持有的这栋楼就可能受到牵连。和黄已经投了钱，还有翻新计划要往下做。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-211",
+          "index": 211,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "几个月后，李嘉诚另行控制的一家公司接下对方持有的其余权益，作价约二千万美元。这笔价款用来抵扣对方欠款，李家还补缴了这栋楼拖欠的税款。接手以后，翻新和招租也都由李家一方负责。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-212",
+          "index": 212,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "赫斯基还在等钱",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-213",
+          "index": 213,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "加拿大的赫斯基也需要继续投入。李家入股几年后，公司虽然仍在开采油气，利润增长却慢了下来，重油加工和天然气项目还等着资金。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-214",
+          "index": 214,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当初选择这家公司，李嘉诚很看重它的主席鲍勃·布莱尔。布莱尔在能源业做了三十六年，李嘉诚表示信任他的判断，也愿意听取他的意见。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-215",
+          "index": 215,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到了 1991 年，另一大股东 Nova 公司自己也遇上财务困难，准备卖掉赫斯基的股份，把资金集中到天然气输送业务上。李嘉诚决定接下来，以三亿二千五百万加元收购它持有的百分之四十三权益。交易后来获得加拿大方面批准。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-216",
+          "index": 216,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "收购股份以外，李嘉诚还准备投入三亿加元，支持赫斯基的重油加工和天然气开发。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-217",
+          "index": 217,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1992 年上半年，赫斯基仍录得约一千二百万加元亏损，其中一部分是此前买入的资产需要减记价值。入股已过去五年，李家还得继续为它安排资金。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-218",
+          "index": 218,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "温哥华的售楼风波要由李泽钜出面解释，纽约的项目出了问题，又需要父亲来帮忙。这几年里，父子已经一起做过生意，也一起处理过难处。此后，李泽钜继续在集团工作，接手长江基建，参与澳洲电力资产收购。他后来接过的那份家业，有不少是自己从年轻时便参与经营的。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-219",
+          "index": 219,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "同一时期，李泽楷也在父亲的公司里工作。他正在香港筹办卫星电视，要让不同国家的观众看到同一家电视台的节目。",
+          "related_node_ids": [
+            "person:richard-li",
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-220",
+          "index": 220,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第六章 次子成名，长子遇险",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-221",
+          "index": 221,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "科西嘉的游艇",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-222",
+          "index": 222,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1993 年 7 月，二十六岁的李泽楷登上了默多克停在科西嘉附近的游艇。对面除了这位传媒大亨，还有他手下经营卫星电视和美国电视业务的高管。双方要谈的卫星电视台，从筹办算起已有三年。",
+          "related_node_ids": [
+            "person:richard-li",
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-223",
+          "index": 223,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "默多克想买，李家也愿意卖，但价钱一直没有谈拢。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-224",
+          "index": 224,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三年前，李泽楷接到这项工作时，连电视台的牌照都还没有拿到。他改写商业计划，向父亲提出，启动大约需要一亿美元。李嘉诚答应自己承担一半投资，另一半由和黄出资。牌照迟迟未批，父亲又在香港报纸上刊登整版广告，表示香港若不允许经营，地面站就迁到别处。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-225",
+          "index": 225,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 1990 年 12 月，牌照拿到了，限制也随之而来：初期不能播粤语节目，也不能向观众收费。电视台要维持下去，得有人买广告。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-226",
+          "index": 226,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "霍建宁帮忙设计了筹资办法：请广告客户预付二百万港元，买下未来两年的广告时段，再给他们日后认购少量股份的机会。电视台还没开播，客户就得先付钱。麦肯广告香港负责人金斯利·史密斯说：“现在还不知道买到的是什么。”",
+          "related_node_ids": [
+            "person:canning-fok"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-227",
+          "index": 227,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最初肯投广告的公司，不少与李嘉诚有业务往来。李泽楷还得让人相信，这家电视台值得继续投。他聘用有广播和销售经验的人，新闻节目与 BBC 合作，体育和音乐节目由专业频道提供，再让节目合作方参与广告销售，减轻购买节目的开支。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-228",
+          "index": 228,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1991 年 8 月 26 日，卫星电视转播美国网球公开赛。音乐、普通话等频道随后陆续加入，到翌年，五个频道已经齐备。不同国家的观众向电视台索取每周节目表，电视台便通过传真免费发给他们。可口可乐、耐克等品牌也开始购买广告。",
+          "related_node_ids": [
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-229",
+          "index": 229,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "然而，观众增加了，广告收入还不足以支付开支。要转做收费电视，节目和系统又需要大笔投入。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-230",
+          "index": 230,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父子起初只想找人买一部分股份，带来资金和节目，电视台仍由自己经营。默多克要的却是控制权，双方一度谈不下去。他转头接触无线电视，李家也通过高盛继续寻找买家，培生等传媒集团都来谈过。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-231",
+          "index": 231,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "默多克收购无线的打算没有成功，谈判又回到卫星电视。他此前报过四亿二千五百万美元，李泽楷没有接受。这一次，李家愿意让出控制权，但李泽楷仍坚持要一个更好的价格。",
+          "related_node_ids": [
+            "person:richard-li",
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-232",
+          "index": 232,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "最后双方议定，默多克旗下的新闻集团以五亿二千五百万美元取得百分之六十三点六权益。李家同意交出控制权，保留余下股份。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-233",
+          "index": 233,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽楷把谈好的协议带回香港。父亲看过后，在清晨打电话给他，表示这笔生意可以做。1995 年，新闻集团又买下余下权益。电视台尚未摆脱亏损，李家已经通过出售取得回报。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-234",
+          "index": 234,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一次谈成出售时，李泽楷才二十六岁。同年，他成立盈科拓展，一批旧同事跟着过去。他仍在和黄保留职务，工作的重心却转到了自己的公司。办电视台时，资金和最早的客户都离不开父亲。如今，他已经带着团队经营过一家公司，也谈成了一笔大买卖。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-235",
+          "index": 235,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "等儿子回来",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-236",
+          "index": 236,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1996 年 5 月 23 日傍晚，张子强接到了盯梢同伙的电话，得知李泽钜的行踪。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-237",
+          "index": 237,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们为这场绑架准备了几个月。从上一年年底起，一伙人多次在深圳商量，派人观察行踪，备下枪支、车辆，连关押人质的农场房屋也租好了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-238",
+          "index": 238,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接到电话后，张子强与同伙带着枪支和铁锤出动。傍晚六时左右，他们在深水湾道劫走了李泽钜，连司机也一并带走。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-239",
+          "index": 239,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "接着，张子强亲自到了李家。儿子仍在绑匪手里，父亲要直接面对上门索款的人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-240",
+          "index": 240,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚后来回忆，张子强一开口就是二十亿港元。他当场答应筹钱，说能够拿出的现金只有十亿，需要的话，可以去银行提取。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-241",
+          "index": 241,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "张子强问他：“你为何这么冷静？”",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-242",
+          "index": 242,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "“因为这次是我错了。”李嘉诚回答。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-243",
+          "index": 243,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他说起自己一家人的日常防范。全家在香港这样出名，他却还会在清早独自开车去新界打球。路上只要有几辆车围过来，他就没有办法。他认为自己一直疏于防备，需要好好检讨。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-244",
+          "index": 244,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李家最终交出了十亿三千八百万港元赎金。张子强和同伙收款后，释放了李泽钜和司机。李家没有向香港警方报案。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-245",
+          "index": 245,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚还劝过张子强，拿到的钱已经足够往后生活，应该离开，重新做人。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-246",
+          "index": 246,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来，张子强又打来了电话。李嘉诚问他：“怎么还打电话？”",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-247",
+          "index": 247,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "张子强说自己好赌，钱输掉了，想请教他有没有稳妥的投资。李嘉诚拒绝给他出主意，又劝他离开，不要再走犯罪这条路。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-248",
+          "index": 248,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年后，案件在内地审理，绑架经过引起了公众的追问。1998 年 11 月，香港警务处处长呼吁受害人家属报案。第二天，李嘉诚与两个儿子出席沙田的和黄家庭运动日，记者又问起了这件事。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-249",
+          "index": 249,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚表示，警方工作做得好，他不会批评警方，但反复追问已经近乎骚扰。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-250",
+          "index": 250,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "生意还要继续",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-251",
+          "index": 251,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1998 年 5 月，一批地产代理来到长实售楼处门口抢客，李泽钜为此出面交涉。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-252",
+          "index": 252,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "金融风暴以后，香港楼市下跌，发展商都在减价争客。青衣的晓峰园刚推出，长实便以更低价格发售盈翠半岛。长实开售当天卖完一千三百个单位，新鸿基那边只卖出约八十个，于是再降价，请地产代理大规模促销。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-253",
+          "index": 253,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一批代理聚到中区和记大厦门外，拦下前来买盈翠半岛的客人，向他们推销晓峰园。李泽钜给新鸿基副主席郭炳江打电话投诉，郭炳江下令让代理撤走。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-254",
+          "index": 254,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲在欧洲经营的电讯业务，则等来了愿意出高价的买家。和黄早年在英国做过 Rabbit 通信业务，后来关停，继续发展新的流动电话网络，1994 年推出 Orange。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-255",
+          "index": 255,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Orange 创办前，和黄也考虑过出售这项英国电讯投资。李嘉诚讲起早年的洽谈时，提到对方管理人员待自己的同事傲慢，他得知后很反感，把办公室锁上，独自待了十五分钟。他重新考虑这个行业有没有前途，和黄有没有足够的资金和人手做下去。想过之后，他决定继续投入。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-256",
+          "index": 256,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到了 1999 年，科技、电讯股受到追捧，Orange 的身价大涨。德国曼内斯曼提出收购，和黄这一次同意出售。和黄当年分两次售出所持的 Orange 股份，合计获利约一千一百八十亿港元。曼内斯曼用现金、票据和自家股份支付。和黄随后又把资金投向第三代流动通信，继续购买牌照、建设网络。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-257",
+          "index": 257,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽楷也在寻找新的机会。卫星电视出售以后，他开始以盈科的名义做生意。几年后，他提出收购香港电讯，交易规模远远超过此前出售卫星电视的那笔生意。",
+          "related_node_ids": [
+            "person:richard-li",
+            "company:star-tv"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-258",
+          "index": 258,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第七章 另立门户以后",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-259",
+          "index": 259,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "买下香港电讯",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-260",
+          "index": 260,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2000 年 2 月底，盈科数码动力副主席袁天凡已经交了报价，答完了卖方的问题，等着收购香港电讯的消息。英国大东电报局却说，还要再开一次董事会。竞争对手新加坡电信又请来默多克出资，准备另提报价。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-261",
+          "index": 261,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽楷的公司前一年才借壳上市。这时，市场追捧互联网和科技公司，盈科的股价随之上涨。香港电讯则有现成的电话网络和客户，大东电报局准备出售这家香港子公司，新加坡电信已经来谈，李泽楷也想买。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-262",
+          "index": 262,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他的方案是发行盈科新股，再加上现金支付收购价款，现金部分则须向银行筹借。袁天凡去找汇丰和中国银行，两家都要求给四十八小时作决定。后来又有两家银行加入，贷款才安排下来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-263",
+          "index": 263,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "面对新加坡电信的竞争，盈科没有再改报价。袁天凡回到家，半睡半醒间接到李泽楷的电话，得知大东电报局同意了这笔交易。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-264",
+          "index": 264,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 8 月完成收购时，三十三岁的李泽楷接下了香港最大的电话公司，合并后的公司更名为电讯盈科，简称电盈。但科技股热潮已经退去，电盈股价此后大幅下跌。",
+          "related_node_ids": [
+            "person:richard-li",
+            "company:pccw"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-265",
+          "index": 265,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "收购时，电盈动用了约一百二十亿美元短期贷款。为了还钱，公司与澳洲电讯合作，出售部分业务权益，再借入期限较长的贷款，偿还眼前到期的借款。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-266",
+          "index": 266,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "困难的时候，李嘉诚曾与儿子一同在公众面前吃午饭。父亲出面支持，李泽楷仍要带着同事处理公司重组、偿债和裁员。收购时约一万六千名员工，到 2003 年初已减至约一万二千人。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-267",
+          "index": 267,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "想走的那一年",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-268",
+          "index": 268,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2006 年，李泽楷开始为电盈寻找买家。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-269",
+          "index": 269,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "澳洲麦格理和美国新桥资本都对它的电讯及媒体业务有兴趣。可是，中国网通不愿接受。网通已经是电盈第二大股东，反对把这些业务卖给海外投资者。出售业务的计划推不下去，李泽楷转而商量出售自己一方持有的股份。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-270",
+          "index": 270,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "出面接手的是投资银行家梁伯韬。他打算筹集资金，以约九十二亿港元买入两成多电盈股份。这批股份由李泽楷控制、在新加坡上市的盈科亚洲拓展持有，能否出售，还要交给这家公司的股东表决。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-271",
+          "index": 271,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "协议签了，梁伯韬也付了五亿港元订金。但这笔订金，是用李嘉诚借给他的钱付的。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-272",
+          "index": 272,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "梁伯韬解释，这笔借款早于电盈交易，原本并非为了收购，付过订金后也已经归还。但新加坡交易所仍要求李泽楷回避表决。他在盈科亚洲拓展控制约四分之三股份，这次却不能用这些股份投票。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-273",
+          "index": 273,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "梁伯韬原想找投资者组成基金，一起接下电盈股份。有人不愿把钱放进不易退出的私人基金，他便改为安排几家投资者分别买入。到 11 月，李嘉诚在香港和加拿大的两家基金会准备接手合计百分之十二的电盈股份，西班牙电信也参与其中。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-274",
+          "index": 274,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽楷不希望父亲的基金会成为买家。他给香港立法会写信，说签约前曾问过梁伯韬父亲有没有参与，得到的答复是没有。梁伯韬随后发声明，说自己并未承诺不把股份转售给某个人。筹组基金遇到困难后，他已告诉李泽楷，可能请李嘉诚的基金会买入。双方商量过其他办法，最终都没有落实。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-275",
+          "index": 275,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽楷随后表示，如果小股东否决方案，自己会感到高兴，也愿意继续掌管电盈。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-276",
+          "index": 276,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "即使交易完成，售股所得也先归盈科亚洲拓展，能分给小股东多少，仍没有保证。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-277",
+          "index": 277,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "11 月 30 日，盈科亚洲拓展的小股东在新加坡表决。约四分之三的票投了反对，交易被否决。梁伯韬没有接下这批股份，两家基金会也没有买入。李泽楷继续掌管电盈。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-278",
+          "index": 278,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "多出来的股东",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-279",
+          "index": 279,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两年后，李泽楷一方与网通旗下公司联手，提出私有化电盈，准备买下公众股东的股份，让公司退市。这份方案要交给电盈的股东表决。收购价提到每股四港元五角，仍有人不愿接受。有些老股东当年买得贵，宁愿继续持有，等公司和股价好转。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-280",
+          "index": 280,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "大会召开前，投资者大卫·韦伯收到匿名消息：有人打算向保险代理人送电盈股票，请他们支持私有化。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-281",
+          "index": 281,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "韦伯把消息转给香港证监会，又在 2009 年 1 月 29 日到合和中心查看股东名册。他发现，几百个新名字在同一天登记，每人持有一千股。他再拿这些名字与保险代理人的名册核对，其中许多人在富通保险工作。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-282",
+          "index": 282,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "当时，这项方案要取得独立股东的支持，李泽楷等买方不能用自己的股份投赞成票。表决既要按股份算，也要按人数算：出席并投票的人，过半数须赞成；赞成票所代表的股份，须达到投票股份的四分之三，反对票又不能超过全部独立股东股份的一成。即使过了这些门槛，仍须法院批准。把一大笔股票分到许多人名下，便可能增加支持方案的人数。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-283",
+          "index": 283,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2 月 4 日，大会仍按计划举行。一位姓陈的女股东说：“我宁愿把钱扔进海里，也不愿把股票卖给李泽楷。”",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-284",
+          "index": 284,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "表决结果是赞成占多数。按人数和所持股份计算，赞成票都超过了规定的门槛。大会结束后，证监会人员取走了投票记录。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-285",
+          "index": 285,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "其中一批股票来自富通保险经理林孝华。他买入五十万股，拆成每份一千股，让秘书分发股票和投票委托书。他解释说，这是给代理人的奖金。调查发现，收到股票的还有代理人的配偶、亲友等人。到表决时，四百九十四名受赠者委托投下了赞成票。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-286",
+          "index": 286,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "连同其他拆分股份的安排，证监会质疑的赞成人数超过八百。如果不计这些票，赞成的人数便不过半。调查人员询问证人、核查投票及交易记录，再把证据交到法院。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-287",
+          "index": 287,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "原讼庭先批准了私有化，证监会随即上诉。4 月 22 日，上诉庭三名法官一致推翻原判：这样的投票过程，不能使法院信服表决公平。没有法院批准，这项私有化便无法完成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-288",
+          "index": 288,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这次裁决处理的是私有化能否获准，并未裁判李泽楷个人的刑事责任。私有化没能办成，电盈继续上市，李泽楷也继续经营这家公司。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-289",
+          "index": 289,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "富卫的十二年",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-290",
+          "index": 290,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2013 年，李泽楷的投资集团买下 ING 在香港、澳门及泰国的保险业务，创立富卫。公司原先打算在纽约上市，未能实现，转到香港后又等了几年。直到 2025 年 7 月，富卫才挂牌，李泽楷已经五十八岁。这门生意，他和团队经营了十二年。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-291",
+          "index": 291,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到这时，父亲已经退休多年，李泽钜接掌长和系，李泽楷仍在集团之外经营自己的事业。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-292",
+          "index": 292,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "兄弟各自经营公司，也都参与着基金会的事务。李泽楷在父亲退休后接下的另一份工作，是与基金会同仁继续支持汕头大学。",
+          "related_node_ids": [
+            "person:richard-li",
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-293",
+          "index": 293,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第八章 “第三个儿子”",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-294",
+          "index": 294,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1986 年，汕头大学礼堂落成，有人提议叫“嘉诚堂”，李嘉诚没有同意。最后挂上的是“大礼堂”，这个名字沿用下来。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-295",
+          "index": 295,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学校那时才办五年，学生已经上课，校园仍在建设。李嘉诚起初关心工程和设备，后来更多地过问教师和课程。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-296",
+          "index": 296,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "故乡的一所大学",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-297",
+          "index": 297,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "筹办汕头大学时，选址图上连校名都没有。筹办人员陈仲豪在桑浦山一带踏勘，山下是稻田和柑园。他把现场情况记下来，油印成《规划筹建 XX 大学地址示意图》。多年后拿给校方看，纸上仍是那两个字母。",
+          "related_node_ids": [
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-298",
+          "index": 298,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1979 年，阔别近四十年的李嘉诚回乡，提出捐资办大学。广东省也有在汕头办大学的打算。次年，他到拟建校址看过，捐出首笔三千万港元筹建基金。1981 年，汕头大学获准成立；两年后，第一届本科生入学，校舍还在修建。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-299",
+          "index": 299,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "办校的头十年，李嘉诚到汕大参加会议、找教师座谈，常忙到凌晨两三点，回香港又请教学者。李泽钜后来谈起父亲办学，认为他花在大学上的时间，比捐出的钱更值得重视。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-300",
+          "index": 300,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1990 年 2 月 8 日，学校举行落成典礼，李嘉诚与时任国务委员兼国家教委主任的李铁映为新校门揭牌。这时，学校已经送走了三届本科毕业生，校园却还没有全部建成。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-301",
+          "index": 301,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "多年后，从加拿大卡尔加里大学来到汕大任职的顾佩华，他曾向财务处问起教师工资：学校有基金会资助，为什么有些广东高校的教职工工资，反而涨得比汕大快？",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-302",
+          "index": 302,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "财务处查了支出，处长邹志波解释，汕大把更多经费用在了学生身上。新闻学院就曾送学生到美国住上三个月，做文字、图片和视频报道。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-303",
+          "index": 303,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 2012 年，教育部、广东省政府与李嘉诚基金会签署共建协议，教育部和广东省增加经费、提供政策支持，基金会继续资助学校。李嘉诚在签约现场重申，支持汕大的承诺不以自己的生命为止。他参与筹办这所大学，已经三十多年了。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:li-ka-shing-foundation"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-304",
+          "index": 304,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "校园里的名字",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-305",
+          "index": 305,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚并不总在捐赠上留下自己的名字。1991 年，他向中国残疾人福利基金会捐出一亿港元，不愿张扬，这笔捐款过了两年才公开。汕大的大礼堂没有冠名，也留下了类似的选择。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-306",
+          "index": 306,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但在香港大学，他的名字引起过争论。2005 年 5 月，李嘉诚捐赠十亿港元，校方宣布将医学院改名为香港大学李嘉诚医学院，翌年生效。三十名医学院校友联署反对，认为旧名承载着学院的百年历史，改名前应充分听取校友意见。有人提议向全球校友募款，把旧名“赎回来”。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-307",
+          "index": 307,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "港大以李嘉诚家人命名的建筑，则出现得更早。1994 年 12 月 13 日，校方为庄月明物理楼、化学楼及文娱中心举行揭幕仪式。李嘉诚在典礼上说，妻子为自己受过的教育自豪，也一直盼着回馈母校。她从文学院毕业三十三年以后，名字留在母校几座供学生使用的建筑上。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:chong-yuet-ming"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-308",
+          "index": 308,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "留给公益的那一份",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-309",
+          "index": 309,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚讲过这样一段往事。有一次吃饭时，他告诉家人，自己还有一个孩子。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-310",
+          "index": 310,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家人起先没听明白。他说的是基金会。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-311",
+          "index": 311,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基金会早在 1980 年就已成立。那顿饭的前一晚，李嘉诚一直在想：如果自己不在了，这项事业怎样还有稳定的资源？想了很久，他有了一个办法：把基金会也当作自己的孩子，为它安排往后的生活。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-312",
+          "index": 312,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在饭桌上，他还告诉家人，这个“儿子”的财产，家人没有份。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-313",
+          "index": 313,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2006 年在新加坡领取《福布斯》终身成就奖时，他又谈起这位“儿子”，说基金会已拥有自己相当一部分资产。这部分财产用于公益，不再留给两个儿子分配。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-314",
+          "index": 314,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他将拨入基金会的财产概括为个人资产的约三分之一。这是他公开讲述的大致比例，并不是一张列尽家产的分配表。他还说，两个儿子没有反对。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-315",
+          "index": 315,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2013 年时，基金会仍只接受李嘉诚的捐款，不向社会募捐，也不将收益分给他本人、家族或董事。项目先由同事调查、各部门讨论，他保留最后否决权。要让资助在自己身后继续，他还得安排由谁接手这些决定。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-316",
+          "index": 316,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "为了给公益事业增加收入，李嘉诚也通过基金会参与科技投资。其中一位合作伙伴是周凯旋。她与李嘉诚合作多年，也担任基金会董事。2002 年，她和多年的生意伙伴张培薇创办维港投资，寻找值得投资的年轻科技公司。两年后，李嘉诚开始通过基金会参与这些投资，将自己所得的收益用于公益。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:solina-chau"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-317",
+          "index": 317,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "团队参与过 Facebook 等科技公司的早期投资，投资增值给公益事业增添了收入。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-318",
+          "index": 318,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "寻找投资、考察项目、同学校沟通，已经有家族以外的工作人员参与。基金会的许多日常事务，由这支团队处理。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-319",
+          "index": 319,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "接下父亲的承诺",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-320",
+          "index": 320,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2018 年，李嘉诚从长和系退休。6 月，他最后一次以汕头大学校董会名誉主席身份出席毕业典礼，将继续推动教育改革的工作交托给李泽楷和基金会同仁。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li",
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-321",
+          "index": 321,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他们接下的是支持办学的工作。汕大有自己的校董会、管理人员和教师，也在公共教育制度下办学，基金会的交接不能替代学校自身的决策程序。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-322",
+          "index": 322,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "后来，基金会是否继续支持汕大，又成为公众关心的问题。2026 年 6 月，网上出现李嘉诚不再支持汕大的说法。校方在招生媒体见面会上澄清，基金会的投入没有减少，当年支持达到二亿六千万元人民币。校方同时解释，学费奖励办法已有调整：从 2023 年起，改为选取约一成优秀新生，给予全额学费奖励。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-323",
+          "index": 323,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第九章 父亲退下以后",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-324",
+          "index": 324,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "共事三十三年",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-325",
+          "index": 325,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2018 年 3 月 16 日，李嘉诚在业绩会上宣布，将在股东大会后退休，改任资深顾问，由李泽钜接任长和及长实主席。记者追问，做了顾问以后，还会不会继续决定公司的事？他反问，如果什么都要顾问决定，自己为什么还要辞职？",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-326",
+          "index": 326,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "说到儿子，他说自己看了对方工作几十年，不可能没有信心。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-327",
+          "index": 327,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "六年前，他已经公开说定，长子接掌核心集团，次子在外发展，由父亲提供资金支持。持股调整随后发生，主席的位置却没有马上交出去。李泽钜负责日常经营，重要决定仍与父亲商量。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-328",
+          "index": 328,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2013 年，和黄旗下香港国际货柜码头的外包工人因薪酬与工作条件停工，抗议从码头延伸到长江集团中心门外。父亲办公室里放着一张小笺：“邀千人之欢，不如释一人之怨。”面对记者，他仍要回应工潮，也要解释集团出售资产的打算。外界知道接班人是谁，许多问题却仍追着父亲问。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-329",
+          "index": 329,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "交接以前，公司也作了一次大调整。2015 年，长实与和黄重组。非地产业务归入长江和记实业，简称长和；地产业务归入长江实业地产，后来更名为长江实业集团，仍简称长实。原先由长实持有和黄股份，重组后，家族分别持有两家公司的股份。",
+          "related_node_ids": [
+            "company:cheung-kong"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-330",
+          "index": 330,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "到 2018 年 5 月 10 日，李泽钜正式接任。父亲仍可到办公室，就重大事项提出意见，却不再以董事身份表决。从加入长实算起，儿子已经在集团工作三十三年。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-331",
+          "index": 331,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "他身边还有霍建宁、陆法兰、黎启明等多年共事的管理人员。父亲退下来以后，这些人继续同他处理财务、投资和各地业务。",
+          "related_node_ids": [
+            "person:canning-fok"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-332",
+          "index": 332,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "李泽钜面前的难题",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-333",
+          "index": 333,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2026 年 2 月 23 日，巴拿马政府人员进入巴尔博亚港和克里斯托瓦尔港，接管两港的管理和运营。起重机、车辆、电脑和软件都列在接管范围内。长和旗下的巴拿马港口公司失去了两港的实际运营权。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-334",
+          "index": 334,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不到一年前，李泽钜原本准备把这项业务卖掉。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-335",
+          "index": 335,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长和已与贝莱德等组成的财团初步谈妥，拟出售大部分海外港口权益，巴拿马两港也在交易安排之中。双方还没有完成交割，争议已经接踵而来。美国总统特朗普把中国的影响力与巴拿马运河联系起来，内地舆论从国家利益角度批评出售，监管部门也要求依法审查。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-336",
+          "index": 336,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两座港口位于运河两端，运河本身由巴拿马管理，但港口的买卖也卷入了这场争论。长和声明，交易不会在不合法或不合规的情况下进行，后来又讨论引入内地投资者、调整买方安排。买方名单和出售安排，都还没有定下来。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-337",
+          "index": 337,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "巴拿马当地的法院同时审查港口经营合同。2026 年 1 月，最高法院宣布，批准有关合同的法律及相关文件违宪。2 月 23 日，裁决刊登公报并生效，政府人员随即进入两港。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-338",
+          "index": 338,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "巴拿马当局称这是临时占用，长和则指责当局违法接管和没收。港口公司在接管前已启动合同仲裁，长和在同年 8 月又提出投资条约仲裁，要求赔偿损失。截至 2026 年 9 月 7 日，仲裁尚未传来最终裁决或和解的消息，海外港口出售也尚未宣布整体完成。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-339",
+          "index": 339,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜要与同事、律师继续处理争议，集团别处的生意也不能停下来。同年，长江系旗下公司组成的财团，把英国配电企业 UK Power Networks 卖给法国能源公司 ENGIE。这项业务在父亲任主席时买入，经营十六年后，在儿子任内出售。独立股东批准方案，交易于 5 月完成。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-340",
+          "index": 340,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "孙辈长大以后",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-341",
+          "index": 341,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "在家里，李嘉诚也会向孙辈解释自己的做法。有一次，服务多年的佣人烫坏了他的西装，他没有责骂。孩子们问为什么，他说，对方远道来港工作，收入有限，衣服的损失是自己的，自己承担得起。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-342",
+          "index": 342,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "说到公司，他告诉孩子们，若是工作出了差错，损失还可能由同事和股东承担，就要指出来，要求改正。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-343",
+          "index": 343,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜的女儿李思德已经开始工作。她于 2016 年加入长江集团，后来负责业务管理和投资者关系，也成为基金会董事。她入职时，父亲还没有接任主席，祖父仍在公司。将来会不会由她接掌集团，尚无定论。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:michelle-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-344",
+          "index": 344,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽楷则继续经营自己的事业，同时与基金会同仁参与教育工作。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-345",
+          "index": 345,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2026 年 6 月，汕头大学的毕业生录了一段视频，向李嘉诚致谢。他写信回应。毕业典礼上，他没有到场，校方宣读了这封回信。信里仍谈认识自己、锻炼能力、守住原则，也谈关心他人。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-346",
+          "index": 346,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个儿子小时候坐在会议室的角落，如今已各自带领团队，孙女也进入了公司。回看这场交接，许多安排在分家以前就已开始：孩子怎样花钱，第一份工作做什么，想离开父亲的公司时，家里能不能商量。最后的分工，也延续着一家人多年来的相处方式。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-347",
+          "index": 347,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "第十章 家业与家事之间",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-348",
+          "index": 348,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚没有让两个儿子共同接掌同一个集团。长子留在公司，经过多年历练接任主席，次子在外经营，父亲继续给予支持。兄弟的事业分开了，公益事务仍有共同参与的地方。这份安排照顾了两个人的差异，也留下了一个问题：父亲能够替他们协调的事情，往后由谁来商量、怎样作决定？",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-349",
+          "index": 349,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "治理：家里的安排，公司的规矩",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-350",
+          "index": 350,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李家的治理，需要分清家人之间的安排与公司里的权力。父亲可以决定怎样支持儿子，却不能因为一家人谈妥了，就替上市公司的其他股东作决定。家族持有股份、儿子担任主席，也不意味着公司里的钱都可以按家里的意思使用。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-351",
+          "index": 351,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2006 年的电盈售股风波，已经把这种区别摆到了父子面前。李泽楷控制盈科亚洲拓展，却不能独自决定卖出这家公司持有的电盈股份。李嘉诚曾借钱给梁伯韬，后来两家基金会又成为拟议买家，由于梁伯韬付订金时用了父亲提供的借款，交易所要求李泽楷回避表决。能否出售，由其他股东决定，结果交易被否决。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-352",
+          "index": 352,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚能用自己的钱帮助儿子，上市公司的资产怎样处置，则须遵守公司的程序。把这两件事分清，既是保护其他股东，也能避免把经营上的反对都理解成对家人的不信任。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-353",
+          "index": 353,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "基金会又有不同的用途。李嘉诚把它称为“第三个儿子”，明确说这份财产不供家人分配。儿孙可以参与管理，款项却要继续用于公益事业。公司股份怎样传给孩子，与公益财产怎样继续支持学校和医疗，需要分别作安排。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-354",
+          "index": 354,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜接班时，还有一批多年共事的专业管理人员继续留任。他接过主席职务，也要接着与这些人合作。家族可以商定接班人选，正式任职仍须经过公司的程序；接班以后，也要接受董事会和股东的约束。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-355",
+          "index": 355,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但兄弟若有共同投资，或有人希望获得更多家族支持，就还需要家人商量条件、处理分歧。这类家事由谁召集、意见不合时怎么办，公开材料未说明完整的内部安排。父亲不再居中协调时，家人也需要有商量的办法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-356",
+          "index": 356,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "传承：做事，也要能作主",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-357",
+          "index": 357,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李家的持股、职位和日常工作，是分开交接的。李泽钜早已参与经营，2012 年家族持股调整以后，父亲又过了六年才退休。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-358",
+          "index": 358,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这段共同工作的经历，使父亲有机会判断儿子能处理什么，也让同事逐渐熟悉新主席。温哥华和纽约的项目中，李泽钜既有自己的工作，也经历过需要父亲出面解决的困难。接班前暴露出的问题，还有两代人一起处理的时间。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-359",
+          "index": 359,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜接任时，熟悉业务的管理人员继续留任，日常经营不必从头安排。对准备交班的家族来说，除了培养继承人，还得考虑这些人的去留，以及他们与新掌门如何合作。",
+          "related_node_ids": [
+            "person:victor-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-360",
+          "index": 360,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不过，长期共事也有代价。如果儿子已经承担工作，最终决定却仍要由父亲作出，同事就很难判断哪些事可以交给儿子定夺。2018 年李嘉诚退任董事，改作顾问，才把职务上的界限进一步说清：父亲可以给意见，却不再以董事身份表决。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-361",
+          "index": 361,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李家的做法可供借鉴之处，是在交班前让下一代承担实际工作，并逐步交出相应的决定权。三十三年本身不是标准答案。它需要父亲的健康、儿子的耐心，也需要公司有足够的岗位和项目。更难复制的，是父亲在多年亲自决定以后，愿不愿意接受儿子作出与自己不同的选择。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-362",
+          "index": 362,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "教育：给支持，也给选择",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-363",
+          "index": 363,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚把两个儿子的学费和生活费分开，存入不同的账户。学费预先备足，不能随意动用。兄弟要取用生活费，得先写信告诉父亲，这笔钱准备怎么花。父亲答应，收到信后二十四小时内回复。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-364",
+          "index": 364,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学费有保障，日常花销则要自己考虑，再向父亲说明。父亲也给自己定了回复的时间，不能让孩子一直等着。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-365",
+          "index": 365,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "规矩还能调整。兄弟觉得写信耽误功课，父亲便同意改打电话。他也给兄弟买了车，只是让两人共用。生活变了，可以换一种做法，取钱前要说明用途的要求则继续保留。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-366",
+          "index": 366,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但父亲认为有益的锻炼，孩子未必有同样的感受。李泽楷十三岁独自赴美，连日常起居都要重新学习，多年后仍用“像地狱”来形容。后来事业有成，不能据此认定当年的每一项教育安排都合适。家族培养下一代，除了看孩子最后做成了什么，也需要听他们怎样理解自己经历过的生活。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-367",
+          "index": 367,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "兄弟接受过相近的家庭教育，最后选择了不同的事业。李嘉诚支持次子在外发展，至少在事业选择上，没有要求两人走同一条路。教育若只以孩子是否回来接班作为成败标准，李泽楷的经历便很难放进去；若看他能否找到愿意投入的工作，能否承担自己的决定，就能容纳更多种成长的结果。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-368",
+          "index": 368,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 3,
+          "text": "关系：一家人怎样商量",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-369",
+          "index": 369,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "兄弟各管一门生意，减少了在同一集团内争夺职位和决定权的机会。李泽钜可以继续经营熟悉的业务，李泽楷也不必回到父亲的公司，才有机会获得家族支持。这种分工承认了两人的差异，避免要求他们为了维持一家公司的完整，长期迁就同一种生活。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-370",
+          "index": 370,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可事业分开，并不会自动消除父子之间的分歧。2006 年，李泽楷愿意出售电盈股份，却不希望父亲的基金会接手。这是一项拟议的投资，不能直接当作父亲给儿子的资助。但它也提醒人们，家人对一桩买卖的期待可能不同：一个人准备退出，另一个人打算买入，双方都需要先知道对方的意思。成年子女需要怎样的支持，也应由他们参与商量。",
+          "related_node_ids": [
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-371",
+          "index": 371,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家人之间也需要有经营之外的联系。李家的公益事务，给不同分支留下了共同参与的事情。李泽楷已经离开长和，仍与基金会同仁参与教育工作；李思德进入公司后，也担任基金会董事。家族成员不必在同一家企业任职，仍可以一起讨论学校、捐款和长期承诺。",
+          "related_node_ids": [
+            "person:richard-li",
+            "person:michelle-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-372",
+          "index": 372,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这些联系也来自母亲。庄月明年轻时义务教课，后来协助丈夫处理财务、商量上市方案。李泽楷在她去世多年后，以她的名字支持母校的学生发展基金。家庭文化因此不只包括父亲的创业经验，也包括母亲怎样生活、怎样待人，以及子女愿意怎样纪念她。",
+          "related_node_ids": [
+            "person:chong-yuet-ming",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-373",
+          "index": 373,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "公益参与还不能直接等同于后辈已经认同长辈的全部想法。李嘉诚经历过贫病，儿孙的生活不同，他们可能关心新的问题，也可能希望采用不同的捐助方式。若要让这份共同事业延续，后辈就需要有机会参与决定，而不只是执行长辈留下的任务。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-374",
+          "index": 374,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李家的安排，把两兄弟的经营责任分开，又保留了家人共同参与的事务。往后更难的，是让这种相处方式不再只靠父亲协调：无论是想合作、退出，还是改变捐助的方式，一家人仍能坐下来商量。传承走到这一代，除了把公司交好，还要给下一代留下处理彼此分歧的办法。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-375",
+          "index": 375,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "结语",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-376",
+          "index": 376,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李泽钜接任以前，已经和父亲、同事一起做过许多项目。他们知道他怎样工作，也知道他遇上困难时怎样应对。李泽楷则在集团之外继续经营，做过买卖，也经历过想退出却未能如愿的时刻，后来又和团队做起了保险。",
+          "related_node_ids": [
+            "person:victor-li",
+            "person:richard-li"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-377",
+          "index": 377,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "父亲的安排顺着他们此前走过的路，也给各自的事业留下了继续发展的条件。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-378",
+          "index": 378,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "少年李嘉诚离开学校时，父亲已经病重。后来，他为两个儿子备好学费，提供工作的机会和投资的资金，也在他们遇到困难时给予支持。这些条件，是他少年时不曾有过的。等到退休，他还需要放手，让儿子承担最后作决定的责任。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-379",
+          "index": 379,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "汕头大学那张印着“XX 大学”的旧图，已经成为校史资料。曾经需要筹钱盖起的教室，如今一届届学生在里面上课。毕业以后，他们各有去处。",
+          "related_node_ids": [
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-380",
+          "index": 380,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "上一代的努力，能让后来的人有书可读、有事可做，也有选择怎样生活的余地。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-381",
+          "index": 381,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两个儿子小时候在会议室角落旁听，如今也有了白发。父亲不再坐在主席台上。新的文件送到他们面前，由他们来签。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-382",
+          "index": 382,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "思想实验",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-383",
+          "index": 383,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "回到 2012 年 5 月，香港。你站在李嘉诚的位置，准备公开往后的家业安排。两个儿子都已成年：长子在集团工作多年，次子在外面有自己的事业，你还希望基金会继续支持教育与医疗。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-384",
+          "index": 384,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "以下借这个处境作一次推演。孩子的请求、争议和临时变化都是假设，不是李家发生过的谈话。你也不知道后来的生意会怎样，只能根据眼前的情况作决定。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-385",
+          "index": 385,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一件事：两个儿子，两种期待",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-386",
+          "index": 386,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长子愿意接集团，但希望往后重要决定能由自己和团队作出，不能出了分歧，大家仍去请父亲重新定夺。次子愿意独立经营，却想知道，离开集团是否意味着日后家里的重要事情与自己无关。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-387",
+          "index": 387,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你希望两个人都安心。但若把每项经营决定都交给全家商量，长子便很难负责；若只有经营公司的人能够发言，次子的疑问也没有得到回答。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-388",
+          "index": 388,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "请各写一句话回应他们。说清楚你愿意交出什么，也说清楚哪些事情仍需要一起商量。暂时不要用“我对你们一视同仁”代替具体安排。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-389",
+          "index": 389,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二件事：分好家业，又要一笔钱",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-390",
+          "index": 390,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "假设次子的项目遇到困难，提出追加支持。继续投入，可能保住已经形成的业务，也可能扩大损失。你还需要了解，项目的问题能否解决，新投入的钱究竟能改变什么。你个人可自由支配的资金只够支持这一次，无法承诺不断追加。公司的钱和已拨作公益用途的钱，不属于这笔预算。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-391",
+          "index": 391,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "长子没有反对帮助弟弟，只问了一句：这次支持与原先分好的财产是什么关系？如果以后自己需要同样的帮助，家里还拿不拿得出来？",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-392",
+          "index": 392,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你可以给，可以借，可以要求找新伙伴，也可以拒绝。先写下你的选择，以及作决定前还缺少的一项信息。然后换到另一位儿子的位置，写出他最有理由提出的一项异议。若这项异议成立，你准备改哪里？",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-393",
+          "index": 393,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三件事：你不在时，谁来决定",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-394",
+          "index": 394,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "再假设，财产分配以后，一家人自愿留下了一笔共同投资的钱。现在，你有两个月无法参与家里的事务，其间出现了一项合作机会。两个儿子意见不同，外部伙伴只给一周答复。机会可能很好，仓促答应也可能把这笔共同资金长期占住。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-395",
+          "index": 395,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "你会让谁有权批准？如果他也是直接获益的人，其他人怎样提出反对？若必须等所有人同意，你是否愿意接受错过机会的代价？",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-396",
+          "index": 396,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "请为这件事拟一个临时办法，约定由谁决定、怎样听取不同意见，以及试行多久后再作调整。你不必在今天解决未来五十年的问题，但要让家人知道，下周意见不同时，可以怎么办。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-397",
+          "index": 397,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "再想想你自己的家庭或团队。选一件大家总要等你拿主意的事，考虑一下：如果你不在，谁可以作决定？意见不一致时怎么办？把你的想法告诉相关的家人或同事，听听他们觉得哪些地方行不通，再一起商量是否先试一试。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-398",
+          "index": 398,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "参考文献",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-399",
+          "index": 399,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Anthony B. Chan. Li Ka-shing: Hong Kong’s Elusive Billionaire. Macmillan Canada, 1996.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-400",
+          "index": 400,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "馮邦彥：《香港地產業百年》，三聯書店（香港）有限公司，2001年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-401",
+          "index": 401,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "潘慧娴：《地产霸权》，中国人民大学出版社，2011年。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-402",
+          "index": 402,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "《半拿铁｜商业沉浮录》播客：《德国双心｜No.65 李嘉诚的前半生》《德国双心｜No.67 李嘉诚的后半生》，2023年8月23日、9月6日。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-403",
+          "index": 403,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "《商業周刊》：《李嘉誠傳奇》专题，第1047期，2007年12月17日。",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-404",
+          "index": 404,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Insider Dealing Tribunal. Report of the Insider Dealing Tribunal: Hutchison Whampoa Limited. Paras. 14–65.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-405",
+          "index": 405,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "南方报系集团：《南方报系集团专访李嘉诚先生（撮要）》，2013年11月22日。",
+          "related_node_ids": [
+            "person:li-ka-shing"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-406",
+          "index": 406,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Hutchison Whampoa Limited. Annual Report 1999: Chairman’s Statement. 23 March 2000.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-407",
+          "index": 407,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Hutchison Whampoa Limited. Annual Report 2012: Information on Directors. 2013, p. 101.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-408",
+          "index": 408,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "CK Hutchison Holdings Limited. Annual Report 2018. 2019.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-409",
+          "index": 409,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "Court of Appeal, High Court of Hong Kong. Re PCCW Ltd, CACV 85/2009. Judgment: 22 April 2009; reasons: 11 May 2009.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-410",
+          "index": 410,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚：《建立自我 追求无我：汕头大学毕业典礼致词》，李嘉诚基金会，2018年6月29日。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:li-ka-shing-foundation",
+            "company:shantou-university"
+          ]
+        },
+        {
+          "id": "li-ka-shing-p-411",
+          "index": 411,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "FWD Group. FWD Group begins trading as a publicly listed company. 7 July 2025.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-412",
+          "index": 412,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "CK Hutchison Holdings Limited. Unaudited Results for the Six Months Ended 30 June 2026. 13 August 2026.",
+          "related_node_ids": []
+        },
+        {
+          "id": "li-ka-shing-p-413",
+          "index": 413,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "CK Hutchison Holdings Limited. CK Hutchison Commences Investment Treaty Arbitration Against the Republic of Panama for Destruction of Port Investments. 20 August 2026.",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
       "story_id": "insight:surname-as-brand",
       "title": "姓氏的力量，家族的品牌",
       "series_no": null,
@@ -126847,6 +131385,7 @@ window.ARTICLE_DATA = {
           "text": "几年之后，这句轻慢竟成了远见。航运业的寒冬一步步逼近，包玉刚却早已掉头登岸：1980年他入主九龙仓，1985年为拿下会德丰，这位六十七岁的老人一举卖掉环球航运大半船队，套现约25亿港元，把漂在海上的船悉数换成了立在岸上的码头与楼宇。那一年他身家逾400亿港元，而同时期的李嘉诚，不过40亿上下。",
           "related_node_ids": [
             "person:yue-kong-pao",
+            "person:li-ka-shing",
             "company:wharf-holdings",
             "company:wheelock",
             "company:world-wide-shipping"
@@ -130280,6 +134819,1299 @@ window.ARTICLE_DATA = {
           "kind": "list",
           "level": null,
           "text": "- IMD Business School, The Mulliez Family Business: Unlocking the Secrets of Entrepreneurial DNA (A/B), case study",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:hall-outlives-land",
+      "title": "田散了，祠堂还在",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 15,
+      "topic": "legitimacy",
+      "source_files": [
+        "洞察/家族洞察 15：田散了，祠堂还在.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "hall-outlives-land-p-001",
+          "level": 1,
+          "title": "家族洞察 15：田散了，祠堂还在"
+        },
+        {
+          "id": "hall-outlives-land-p-006",
+          "level": 2,
+          "title": "九千九百银元买下的园子"
+        },
+        {
+          "id": "hall-outlives-land-p-010",
+          "level": 2,
+          "title": "同样的怀表和读本"
+        },
+        {
+          "id": "hall-outlives-land-p-014",
+          "level": 2,
+          "title": "大院里的访客"
+        },
+        {
+          "id": "hall-outlives-land-p-018",
+          "level": 2,
+          "title": "四个家族的共同线"
+        },
+        {
+          "id": "hall-outlives-land-p-024",
+          "level": 2,
+          "title": "家史怎么管"
+        },
+        {
+          "id": "hall-outlives-land-p-044",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "hall-outlives-land-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 15：田散了，祠堂还在",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家里的族谱、老照片、祖屋，多数人当作念想，年节时想起来翻一翻，平日搁着蒙尘。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "钱和股权可以写进遗嘱，请律师办得妥妥帖帖，但家里的老故事渐渐“遗失”，长辈不讲，下一代就不知道了。能够传得久的家族，在这件事上都花过功夫。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹（那时还叫朱说）二十九岁那年回苏州，是来认祖归宗的。他两岁丧父，随母亲改嫁到朱家，一直姓朱，中进士刚两年，才从北方回来。族里的长辈很警惕，有人把话传了出去，说这位进士是来分家产的。据说他再三保证，只要恢复范姓，不要范家一分产业，又到祖坟前焚香跪拜，把来意说给先人听，长老们这才点头。据范仲淹文集中的书信记载，那年他给三哥写信，说了一句“姑苏风俗太薄”。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三十二年后他已做过参知政事（即副宰相，相当于今天的国务院副总理），那两年正带着富弼、韩琦推庆历新政，从邓州调任杭州，顺路回苏州，办了四件事：置义田，修祖坟，托三哥和次子起草义庄的规矩，再一件，续修家谱。序是他自己写的，把这一支的来路交代清楚，说祖上是唐朝宰相范履冰，咸通年间有一支渡江南来，做了处州丽水县丞，名叫范隋。另写了一封《告子弟书》，说吴中的宗族这么多，于他自然有亲有疏，“然吾祖宗视之，则均是子孙，固无亲疏也”。规矩誊清了几份，苏州祠堂和杭州书房各存一份。祠堂里还收着一件东西，韩愈手书的《伯夷颂》，他生前当作传家的宝物。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "九千九百银元买下的园子",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "苏州城里另一个家族，贝家，祠堂是烧掉以后重建的。太平天国的兵打进苏州那年，贝家第十代贝墉几十年攒下的万卷善本、千幅名人墨迹，连同祖宅一起烧成了焦土。战后，第十二代贝康侯从左宗棠幕府回到苏州，在狮林寺巷买下近百间房屋重建祠堂，又捐出五百亩良田设了留余义庄，族里无力自存的人每月可以领二十多斤米，义塾免费，子弟考中秀才另有赏银。",
+          "related_node_ids": [
+            "person:zuo-zongtang"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "吃这份月米长大的孩子里有一个叫贝润生，他属于人丁稀少、早已败落的另一支，跟贝康侯的血缘隔了五代以上，贝康侯照样把他当一家人。十六岁那年义庄给他置办了一身行囊，送他去上海一家颜料行当学徒，那家小店只收过两个徒弟，前一个叫虞洽卿。后来贝润生成了上海的颜料大王，四十五岁上花九千九百银元从李家手里买下荒废多年的狮子林，又陆续把园子周围的地和房子买下来连成一片，前后修了九年。周围的地花了多少钱，各家的说法对不上。能确定的是园子修好以后他没有拿来做私宅，全族的祠堂、学校，还有新设的承训义庄，办公都在这里，承训两个字，取的是承续先人教训。那些年苏州人说起贝家，直接叫“狮子林”。",
+          "related_node_ids": [
+            "person:bei-runsheng"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三十多年后，狮子林由他的孙子以捐赠的名义交给了国家，五十年代中期对公众开放。义庄和祠堂在后来的运动里废除了，贝家在大陆的这一支被打散。贝润生的女儿贝娟林嫁在上海，住的那栋大宅叫绿房子，运动后期政策松动，当局提出归还，她不要，说就算拿回来，也找不回当年的气派。海外那一支出了建筑大师贝聿铭。贝聿铭给三个儿子取名定中、建中、礼中，连起来是稳定中国、建设中国、礼仪中国。他八十九岁那年，苏州博物馆新馆在狮子林隔壁开馆，他叫它“心爱的小女儿”。",
+          "related_node_ids": [
+            "person:i-m-pei",
+            "person:bei-runsheng"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "同样的怀表和读本",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "亨利·福特十三岁那年夏天，在密歇根迪尔伯恩的农舍里，把父亲送他的怀表拆开研究，零件摊开摆在油灯下。那年春天他的母亲死于难产，年仅三十七岁。他后来回忆，那段日子的家像一只失去发条的怀表，齿轮还在，却不再走时。母亲生前用一本《麦加菲读本》教他识字，少年时他白天当学徒，夜里给珠宝店修表。",
+          "related_node_ids": [
+            "person:henry-ford"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "七十一年后他去世，葬礼前夜，儿媳埃莉诺的书桌上放着两件东西：一只沃尔瑟姆怀表，型号和当年父亲送给少年亨利的那只相同；一本翻旧了的《麦加菲读本》。表不是原件，原件去了哪里，家族的记载里没有说。能确定的是亨利没有留下成文的家训，也没有写过公司怎么传的章程。范仲淹留了义庄规矩，乔致庸留了家训，贝康侯留了祠堂和义庄，福特什么都没留。出殡那天下午两点半，福特的所有工厂同时停工一分钟，那时公司有十余万雇员。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "person:qiao-zhiyong"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "但一只怀表和一本读本传了下去。曾孙比尔·福特没有见过曾祖，他拆过同型号的表，读过同一本读本。他在普林斯顿写的毕业论文题目是《亨利·福特与劳工：一次重新评价》，从五美元日薪写到工会合同。一个没有家训的家族，靠两件实物把叙事传了四代。传承的载体可以是一份刻在石头上的规矩，也可以是一只拆了又装回去的怀表。",
+          "related_node_ids": [
+            "person:henry-ford",
+            "person:bill-ford"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "大院里的访客",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "山西祁县的乔家大院，乾隆年间开始建，六大院，二十个小院，三百多间房，堂屋里挂着一副对联：货财广聚凭信义，基业长青仗忠诚。正中的厅堂叫在中堂，是乔致庸起的名字，家族的大事都在这里商定。大院里设过家塾，专聘名儒授课，宗旨是读书不为做官，只为经商。乔致庸自己说过一句：“吾虽将产业分予诸子，然家风家训不可不遵。”",
+          "related_node_ids": [
+            "person:qiao-zhiyong",
+            "company:qiao-family-compound"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "民国十九年乔家分家，各房各业各管，各算各的账，在中堂从此不再管事。八年后日军逼近，族人弃守祖宅四散他乡，抗战胜利后有人短暂回来过一次，然后彻底迁出山西，再没回去。五十年代初清产核资，据传最后一代当家人把剩下的现金分成两份，一半留给各房，一半分给老员工，房舍和田地也赠给了多年效力的掌柜。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乔家如今传到第九代，七十多口人，多数是普通的工薪阶层，乔致庸的二十位直系后裔里，两人有博士学位，三人硕士，十二人本科。每隔几年他们相约回一趟祁县，站在祖先牌位前鞠躬，鞠完躬，跟别的游客一样走出大门，大院早就是博物馆了。",
+          "related_node_ids": [
+            "person:qiao-zhiyong"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "四个家族的共同线",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹置义田、修祖坟、续家谱，义庄在他身后撑了近九百年。贝康侯战后重建祠堂、设留余义庄，养出了贝润生，贝润生买下狮子林做全族的公共空间。福特没有留下家训和章程，一只怀表和一本读本传了四代，曾孙用论文重新回溯曾祖。乔致庸把产业分给诸子，但留下一句话：家风家训不可不遵。",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "person:qiao-zhiyong",
+            "person:bei-runsheng"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "四个家族，跨越九百年，故事各不相同，但分水岭不在钱多钱少。贝家的祠堂烧过，乔家分了家，范氏义庄的田散了，福特什么都没留下，只有一只怀表和一本读本。钱会散，权会变，制度会废。但只要故事和规矩能流传下去了，家族的身份感就还在。",
+          "related_node_ids": [
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范烟桥交出账册那天说，田散了，精神没散，祠堂还在，子孙都还在。贝娟林说，就算拿回绿房子，也找不回当年的气概，她丢的不是一栋楼，是那个家族还在的感觉。乔家后人站在祖先牌位前鞠躬，跟别的游客一样走出大门，大院早就是博物馆了，但他们知道自己是谁。",
+          "related_node_ids": [
+            "person:fan-yanqiao"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "传承的核心不是把钱和权安排好，而是把故事和规矩传下去。钱和权解决的是分配问题，叙事和制度解决的是身份问题。是解决知道自己是谁，来自于哪里，要去往何方的问题。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "一个家族如果只剩钱，分完就散了。如果故事还在、规矩还在，哪怕钱散了、祠堂烧了，仍然有一代代的后人在讲述和传颂。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "家史怎么管",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "美国埃默里大学的两位心理学家给一批孩子出了二十个问题，问他们知不知道父母在哪里认识，祖父母在哪里长大，家里有谁生过重病、谁犯过错。答得出来的越多，孩子的自尊越高，遇到挫折越扛得住。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "两位研究者还发现，最好的家史是有起有落，最后跨越风雨见到彩虹的叙事，比一路向上或一路向下的都强。换句话说，只讲光鲜的家史反而不如连失败都记下来的家史更能让孩子具有韧性，因为后者告诉孩子，这个家族经历过低谷，挺过来了，你也可以。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一，定期修谱，每代补录。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹续修家谱之后近一百五十年，他的五世孙在废墟上重建义庄，清完田产接着就续谱，把南渡七十年里散失的族人一个个补回来。今天的家族可以把谱修得更宽泛，一年一册家族年鉴，记这一年谁出生、谁成家、谁做了什么，二三十年后回头看，就是一部现成的家史。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二，建立档案，分级保管。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家史留在三类东西上：",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 文件，族谱、契约、家书、账册；",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 影像，照片、录音、录像；",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 实物，老宅、器物、匾额。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "每一类指定保管人，写明谁可以查看、什么情况下可以外借，备份要放在两个地方。范氏义庄到乾隆年间每三年把账册大修一次，刻成册子。抗战前夕，族人把账册、族谱、拓本这些核心档案秘密转移到上海法租界，抗战胜利那年才运回苏州。",
+          "related_node_ids": [
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三，建立口述记录，按年采集。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范仲淹的玄孙范公偁把父亲讲的家中旧事一一记下来，成了《过庭录》，是后世研究范氏最要紧的史料之一。今天可以做的是每年给家中长者做一次录音访谈，按人、按事编目，先存起来，写不写成书另说。谁来写也要事先定下：掌门人自己写，外人受托写，后人自己写，三种可以并存。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四，固定祭祖场所与纪念日期。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "泰国正大集团谢家的祖籍在汕头外砂，每年农历九月十五，海内外的宗亲回谢氏大宗祠祭祖，宗祠里专门辟出一块地方，展的是正大在中国的发展史。集团的企业大学把家族的创业故事当教材，每年春节，家族给全球员工写一封公开信。",
+          "related_node_ids": [
+            "company:cp-group"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三星的做法是，李秉喆去世三个月后，三星第一块四兆内存芯片的工程样品下线，高管们捧着它去了京畿道的墓园，供在他的墓前。",
+          "related_node_ids": [
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第五，完整记述，负面史实不删。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "福特家的曾孙在普林斯顿写论文重新审视曾祖的劳工政策，家族没有拦着。",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "宋朝也有过一桩删改的事：欧阳修给范仲淹写神道碑，写到范吕两家晚年和好，范纯仁不认，刻石时径自把这一段削去，欧阳修大怒，两家几乎绝交。",
+          "related_node_ids": [
+            "person:fan-chunren",
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三星的家史是李秉喆自己写的，他晚年的《湖岩自传》写长子李孟熙只有一句：“曾把集团一部分交给长子孟熙经营，不到六个月，所托企业乃至集团全体陷入混乱，其本人自请退出。”七年后李孟熙出回忆录《埋藏的故事》，逐字反驳：不是六个月，是七年。",
+          "related_node_ids": [
+            "person:lee-maeng-hee",
+            "person:lee-byung-chul"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "范烟桥是范仲淹的二十八世孙，也是范氏义庄最后一任掌庄人。苏州解放后的第二天他到军管会报到，递交了义庄的全部账册、田产登记簿和《义庄规矩》刻石的拓本，他做这件事的方式很平静，把账册一一交清，签字画押。此后他在苏州又住了许多年，女儿出嫁那年他写信说：“苏州范氏的故事，到我这里就要结束了。但范文正公留下的精神，不会结束。”私人笔记里还有一段：“义庄的田散了，先公的精神没散。先公在天平山的祠还在。子孙不分支系都还在。这就是九百年没白活。”",
+          "related_node_ids": [
+            "person:fan-zhongyan",
+            "person:fan-yanqiao",
+            "company:fan-yizhuang"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "那卷《伯夷颂》，靖康之乱里散失，宋亡后流到北方，元朝有位官员出守苏州，到任头一件事是去范文正公祠拜谒，州衙的公事排在后头，他在祠里打听到这卷字辗转到了自己手上，便寻访范氏后人，物归原主。五百年后义庄失火，先世手泽烧了个精光，这一卷被烤焦，没有烧毁。天平山上，范公祠和范文正公墓都还在，每年范仲淹诞辰，海内外的范氏后人到天平山公祭，九十年代初来的不过几十人，到了2010年代，每年超过一千人。",
+          "related_node_ids": [
+            "person:fan-zhongyan"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 《一千亩义田，九百年契约：范仲淹与范氏义庄的漫长传承》《贝氏家族：从苏州到世界的六百年》《福特家族：一只怀表、一个姓氏与五代传承的故事》《红灯笼下的乔家大院：一个晋商家族的百年兴衰与治理智慧》《三星家族故事：当一个王朝决定不再世袭》《一粒种子，正大百年：从潮汕种子铺到亚洲农牧帝国》",
+          "related_node_ids": [
+            "story:qiao-family",
+            "story:samsung",
+            "story:fan-yizhuang",
+            "story:pei-family",
+            "story:cp-group",
+            "story:ford-family",
+            "person:fan-zhongyan",
+            "company:fan-yizhuang",
+            "company:qiao-family-compound",
+            "family:pei-family",
+            "family:ford-family"
+          ]
+        },
+        {
+          "id": "hall-outlives-land-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Marshall P. Duke, Amber Lazarus & Robyn Fivush (2008) Knowledge of Family History as a Clinically Useful Index of Psychological Well-Being and Prognosis: A Brief Report, Psychotherapy: Theory, Research, Practice, Training 45(2), 268-272",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Bruce Feiler (2013) The Stories That Bind Us, The New York Times, March 15, 2013",
+          "related_node_ids": []
+        },
+        {
+          "id": "hall-outlives-land-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Dennis T. Jaffe (2020) Borrowed from Your Grandchildren: The Evolution of 100-Year Family Enterprises, Wiley",
+          "related_node_ids": []
+        }
+      ]
+    },
+    {
+      "story_id": "insight:listing-is-a-tool",
+      "title": "上市是工具，莫作成人礼",
+      "series_no": null,
+      "kind": "insight",
+      "insight_no": 16,
+      "topic": "ownership",
+      "source_files": [
+        "洞察/家族洞察 16：上市是工具，莫作成人礼.md"
+      ],
+      "related_node_ids": [],
+      "toc": [
+        {
+          "id": "listing-is-a-tool-p-001",
+          "level": 1,
+          "title": "家族洞察 16：上市是工具，莫作成人礼"
+        },
+        {
+          "id": "listing-is-a-tool-p-007",
+          "level": 2,
+          "title": "挂牌前后"
+        },
+        {
+          "id": "listing-is-a-tool-p-011",
+          "level": 2,
+          "title": "说不的人"
+        },
+        {
+          "id": "listing-is-a-tool-p-017",
+          "level": 2,
+          "title": "谁能发新股"
+        },
+        {
+          "id": "listing-is-a-tool-p-023",
+          "level": 2,
+          "title": "退回去的路"
+        },
+        {
+          "id": "listing-is-a-tool-p-028",
+          "level": 2,
+          "title": "这些家族的共同线"
+        },
+        {
+          "id": "listing-is-a-tool-p-034",
+          "level": 2,
+          "title": "上市怎么用"
+        },
+        {
+          "id": "listing-is-a-tool-p-054",
+          "level": 2,
+          "title": "写在最后"
+        }
+      ],
+      "paragraphs": [
+        {
+          "id": "listing-is-a-tool-p-001",
+          "index": 1,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 1,
+          "text": "家族洞察 16：上市是工具，莫作成人礼",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-002",
+          "index": 2,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "企业做到一定规模，上市两个字就会被人提起。多数人把它当成一道关口，过了，公司就长大了，家族就体面了。上市改变的，首先是股东名册上多了谁。名册一变，家里说了算的规矩就得重写。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-003",
+          "index": 3,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1986 年 7 月，法兰克福。德国网球手鲍里斯·贝克尔刚在温布尔登卫冕，球鞋上的彪马标志全世界都看见了，几天后，彪马在法兰克福交易所挂牌，这次发行被叫作“贝克尔行情”。股价从发行价一百三十马克一路飙到一千四百多马克。当家人阿明·达斯勒是创始人鲁道夫·达斯勒的长子，那年五十六岁。",
+          "related_node_ids": [
+            "person:rudolf-dassler",
+            "person:armin-dassler",
+            "company:puma"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-004",
+          "index": 4,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "风光没有维持多久。贝克尔那份合同要付他未来五年每年至少五百万美元外加提成，贝克尔随后状态下滑，据说移居摩纳哥去躲税和兵役，德国人对他的好感一夜散尽，零售商说，要是贝克尔系列的鞋上没有他的名字，会卖得好得多。合同成了越滚越大的负债。三年后，股份落进债主德意志银行手里，被整体卖给了外人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-005",
+          "index": 5,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "从那以后，创立这家公司的家族在它的股东名册上，一股都没有了。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-006",
+          "index": 6,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "股东名册是一份真实存在的文件。上市公司把它交给过户登记处保管，谁持多少股，随交易更新，按规矩可以查阅。上市之前，这份名册上只有自家人和几个老伙计；上市之后，名字一天天多起来，多出来的人，家里一个也不认识。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-007",
+          "index": 7,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "挂牌前后",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-008",
+          "index": 8,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "龟甲万的八个酿酱油家族，合成一家公司的时候几乎握有全部股权。战后为了筹重建的钱，公司 1949 年在东京证券交易所挂牌，此后一轮轮发新股、员工持股、机构进场，到今天，八家的直接持股加起来估计只剩个位数的百分比。公司还叫龟甲万，持有它的已经是市场。",
+          "related_node_ids": [
+            "company:kikkoman"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-009",
+          "index": 9,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "让·路易·杜马斯是爱马仕的第五代掌门，1993 年他把公司送进巴黎证券交易所，家族保留了约七成五的股份和投票权。他在股东大会上说过一句话：“钱可以来自市场，但灵魂必须属于家族。”那七成五分散在两百多位后代手里，各人持一点，二级市场上可以一点一点买走，十几年后 LVMH 的老板阿尔诺就是这么进来的。",
+          "related_node_ids": [
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-010",
+          "index": 10,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "土豆网的申请递到美国证监会的第二天，创始人王微的前妻向法院起诉分割财产，法院冻结了他名下的土豆股权，上市停住了。那是 2010 年 11 月。二十八天后，对手优酷抢先在纽约上市，首日涨了百分之一百六十一，市值超过三十亿美元。土豆拖到第二年八月才挂牌，首日下跌，市值七亿多美元，再过半年多，被优酷并购。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-011",
+          "index": 11,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "说不的人",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-012",
+          "index": 12,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "玛氏第三代的三兄妹 1973 年接班，定下的第一条基调是：玛氏继续做私人家族企业，绝不上市融资，免得外人插手家族对公司的控制。后来，第四代的帕梅拉·玛氏在一次家族商业论坛上重复了一遍：“无论时代如何变化，我们永远不会让玛氏公司上市。”2018 年，时任董事会主席斯蒂芬·巴杰对记者说，好处是我们知道自己的股东是谁，真要开会，把他们装进一个小房间都够。",
+          "related_node_ids": [
+            "person:stephen-badger",
+            "company:mars-incorporated"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-013",
+          "index": 13,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李锦记第三代掌门李文达生前不止一次说，李锦记不上市。不上市，所有权的圈里就全是自家人，没有外部股东逼着按季度交业绩，家族宪法里的每一条，才能在这个圈里说了算。老干妈创始人陶华碧说得倒更直，她接受贵州广播电视台采访时说：“不但是我，我要教育我的儿子、孙子，不要贷款、不要参股、不融资、不上市。这样子好，我有多少钱就做多少。”方太创始人茅忠群算的是另一笔账：不上市，他只要说服自己每年增长两成就够了，一旦上市，董事会至少要两成五，他不希望有杂音来干扰方太的战略。",
+          "related_node_ids": [
+            "person:lee-man-tat",
+            "company:lee-kum-kee"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-014",
+          "index": 14,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "不上市不等于不花大钱。2008 年玛氏收购箭牌口香糖花了二百三十亿美元，其中约一百一十亿是玛氏自己的钱，高盛借了五十七亿，伯克希尔借了四十四亿，另外出二十一亿买下箭牌这家子公司的少数股权。没有一分钱来自发新股，伯克希尔拿到的也只是箭牌的股份，进不了玛氏的股东名册；乐高 2003 到 2004 年最难的时候每天烧掉约一百万美元，负债接近八亿美元，撑住家族的是控股公司 KIRKBI 手里的非玩具资产，不是哪家券商。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-015",
+          "index": 15,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "乐高的克里斯蒂安森家族把七成五的股权放在 KIRKBI 里，乐高基金会持另外两成五。家族里有人想走，可以把自己那份股份回售给 KIRKBI，拿到钱，不影响整体控制权，也不必逼公司上市换流动性。宜家创始人坎普拉德走得更远，把核心业务放进基金会，基金会在法律上没有股东，零售板块从结构上就几乎不可能被出售或上市。",
+          "related_node_ids": [
+            "company:ikea"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-016",
+          "index": 16,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "印度的塔塔集团旗下有二十多家上市公司，顶层的塔塔之子却至今不上市，约三分之二的股份属于一组慈善信托。2004 年，塔塔把软件公司 TCS 送上市，募资十一亿七千万美元，是当时印度最大的一宗上市，这笔钱用来增持，把塔塔之子在各运营公司的持股拉过百分之二十六的否决线，印度公司法上持股过四分之一就能否决特别决议。2022 年，印度央行把塔塔之子列入必须上市的名单，塔塔的对策是清偿两千多亿卢比债务、申请注销牌照。今年 9 月，央行拒绝了这项申请，要求塔塔之子按规矩上市。宁可拆掉杠杆也不交出股权结构的这一仗，还没有打完。",
+          "related_node_ids": [
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-017",
+          "index": 17,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "谁能发新股",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-018",
+          "index": 18,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "李嘉诚的长江实业 1972 年赶上香港股市的牛市上市，发行价三港元，大幅超额认购。有了上市公司的股票，他买楼的办法就变了。第二年 12 月，长实用新发行的股票换来皇后大道中和德辅道中两幢商厦，每年多了八九百万港元租金，卖方收下股份，也成了长实的股东。此后十年，这类以股换楼的交易一再发生。四十多年后，长实与和记黄埔重组，地产归一家新公司，其余业务归另一家，家族分别持有两家公司的股份。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:cheung-kong",
+            "company:hutchison-whampoa"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-019",
+          "index": 19,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "周大福珠宝 2011 年 12 月在香港上市，招股价十五港元，集资一百五十七亿港元，郑氏家族通过两间离岸信托层层控股。家族穿透下来到底持多少，公开报道的口径其实对不上，能确定的是控股链的顶端是那两间信托。家族信托在上面提供长期承诺，上市公司在下面提供透明度和流动性，这套双轨制看起来两头都占，前提是家族守住信托和上市公司之间的边界。",
+          "related_node_ids": [
+            "tool:family-trust",
+            "concept:family-trust",
+            "company:chow-tai-fook",
+            "family:zheng-family"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-020",
+          "index": 20,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "2024 财政年度，同属郑家的新世界发展亏损约一百九十六亿港元，是 1970 年创立以来最大的亏损，综合净债务约一千二百三十七亿港元。市场的疑问不止对着一家公司，也对着信托后面的家族。",
+          "related_node_ids": [
+            "company:new-world-development"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-021",
+          "index": 21,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "国美 2010 年那场争夺，可以只看两场股东大会。5 月 11 日的年度股东大会上，创始人黄光裕投票否决了美国私募基金贝恩资本提名的三名董事。黄光裕当时被羁押已一年多，一周后被判刑十四年；董事局主席陈晓前一年引入贝恩，向高管发了期权。当天晚上，董事会以投票结果未能真正反映大部分股东意愿为由，把三个人重新委任了回去，股东大会上刚被否掉的人，第二天照常上班。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-022",
+          "index": 22,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "黄光裕手里还有一张牌。董事会握着股东大会早先给的一项“一般授权”，可以增发不超过两成的新股而不必再问股东，只要连发几次，他三成多的持股就会被摊薄到说不上话。9 月 28 日的特别股东大会，他提出五项动议，撤换陈晓、换董事都没有通过，通过的只有一项：撤销那项一般授权。董事会从此发不了新股，他的持股比例守住了，加上家族手里还有三百多家没有装进上市公司的门店，半年后陈晓辞任。一家公司上市以后，谁能发新股，比谁持股多更要紧。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-023",
+          "index": 23,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "退回去的路",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-024",
+          "index": 24,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "罗斯柴尔德家族的控股实体 2023 年 10 月以每股四十八欧元完成收购，把罗斯柴尔德公司从巴黎证券交易所摘牌，交易估值约三十七亿欧元，这家公司的股票在巴黎公开交易了一个半世纪有余。退市公告给的理由是：集团的业务不再需要靠公开市场融资，私有化更利于专注长期，不必应付资本市场对短期业绩的催逼。",
+          "related_node_ids": [
+            "company:rothschild-and-co",
+            "family:rothschild-family"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-025",
+          "index": 25,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "迈克尔·戴尔 2013 年联合私募基金，以每股十三点六五美元、总值二百四十多亿美元把自己创办的公司私有化，公告里的说法是，作为一家私人企业，公司才能继续执行需要时间和耐心的长期战略。五年后，戴尔重返纽约交易所，首日市值约三百四十亿美元，高于私有化时的价钱。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-026",
+          "index": 26,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "退不成的例子也有。2008 年底，李嘉诚的次子、电讯盈科主席李泽楷一方联手网通提出私有化电盈，收购价提到每股四港元五角，仍有老股东不肯接受。股东大会召开前，香港的独立股评人大卫·韦伯收到匿名消息，说有人向保险代理人送电盈股票，请他们投票支持私有化。原讼庭批准了方案，证监会上诉，2009 年 4 月，上诉庭三名法官一致推翻原判：这样的投票过程，不能使法院相信表决是公平的。私有化没有办成，电盈继续上市。",
+          "related_node_ids": [
+            "person:richard-li",
+            "person:li-ka-shing",
+            "company:pccw"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-027",
+          "index": 27,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "这几年退回去的人多了起来。2025 年，香港有二十九家上市公司完成私有化，恒生银行上市五十三年后被汇丰以溢价三成的价格私有化，今年 1 月摘牌。估值低、成交清淡、维持上市的成本，是这一轮退市潮里最常见的三个理由。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-028",
+          "index": 28,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "这些家族的共同线",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-029",
+          "index": 29,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "玛氏、李锦记、乐高、宜家选择不上市，各自用一个结构解决了不上市带来的流动性和资金问题，塔塔之子至今还在抵抗上市。福特、爱马仕、李嘉诚、周大福选择上市，上的时候在招股书之前先把控制权的载体定好，边界守住了，家族才还是大股东。罗斯柴尔德和戴尔上过又退回去，退的理由是同一个，公开市场不再给他们要做的事定价。",
+          "related_node_ids": [
+            "person:li-ka-shing",
+            "company:tata-sons",
+            "company:ikea",
+            "company:lee-kum-kee",
+            "company:hermes",
+            "company:chow-tai-fook"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-030",
+          "index": 30,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "三种做法里，出事的都出在同一个地方：股份分散了，却没有把分散的股份重新拧成一个声音。爱马仕的两百多位后代，达斯勒家落进银行手里的股份，龟甲万稀释到个位数的八家，都是这一条。",
+          "related_node_ids": [
+            "company:kikkoman",
+            "company:hermes"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-031",
+          "index": 31,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "另有两件事要说清楚。一是上市不等于变现。A 股去年施行的减持新规写明，公司股价跌破发行价、跌破每股净资产，或者最近三年分红不到年均净利润的三成，控股股东和实际控制人不得在市场上减持。上市之后的套现，并不自动可得。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-032",
+          "index": 32,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "二是港交所和科创板版本的同股不同权救不了家族。同股不同权就是一股多票，港交所和科创板前几年先后引入，受益人都必须是在任董事本人，权利不能继承、不能转让，人一卸任或去世就失效，只能保创始人一代。福特那种可以由后代和家族信托持有的 B 类股，在这两套规则里不存在。家族要跨代握住一家上市公司，靠的还是控股比例、家族控股平台、一致行动协议，和信托或基金会持股。一致行动协议，就是家族成员之间约定投票时站在一起、转让股份时家族优先。",
+          "related_node_ids": [
+            "tool:foundation-ownership-structure",
+            "tool:family-trust",
+            "concept:family-trust"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-033",
+          "index": 33,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "香港中文大学的范博宏教授跟踪过港台新加坡二百余家上市家族企业，从创始人交棒前五年到交棒后三年，市值平均蒸发约六成。他的解释是家族内斗、二代没有准备好、创始人的人脉和信誉传不过去。这三件事在不上市的家族里同样会发生，区别是上市公司有一块公开的计分板，每一次内斗都会被市场当天定价。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-034",
+          "index": 34,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "上市怎么用",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-035",
+          "index": 35,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第一，先核定资金需求，再选融资方式。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-036",
+          "index": 36,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "上市融资毕竟只是筹钱的一种办法，先算清楚要做的事需要多少钱、从哪里来。塔塔的做法是子公司上市、母公司不上，募来的钱用来增持；玛氏和乐高靠留存利润和控股公司的投资组合，几十年没有向公开市场要过一分钱。钱不是必需的时候，上市换来的只有股东名册上的陌生人。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-037",
+          "index": 37,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第二，上市前确定控制权载体。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-038",
+          "index": 38,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "可选的载体有四种：",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-039",
+          "index": 39,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 控股比例，最直接，也最贵；",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-040",
+          "index": 40,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 家族控股平台，把分散在各房的股份先合到一家公司或一个信托里，对外只有一个股东；",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-041",
+          "index": 41,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 一致行动协议，家族成员之间约定投票时站在一起，转让股份时家族优先；",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-042",
+          "index": 42,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 双层股权，福特家族 1956 年上市时把可由后代持有的 B 类股写进公司章程、印在招股书里，传了五代；港交所和科创板的同股不同权只保创始人本人。",
+          "related_node_ids": [
+            "family:ford-family"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-043",
+          "index": 43,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "无论选哪一种，都要在招股书定稿之前完成，上市之后再想收拢股份，价格由市场定。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-044",
+          "index": 44,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第三，上市前签订家族股东协议。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-045",
+          "index": 45,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "协议写明三件事：",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-046",
+          "index": 46,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 家族成员持股的转让限制与减持节奏；",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-047",
+          "index": 47,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 配偶与子女的股权安排，用婚前协议或信托隔离；",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-048",
+          "index": 48,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 家族内部分歧的处理程序。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-049",
+          "index": 49,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "土豆网 2010 年 11 月停在申请递交后的第二天，停的就是第二条。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-050",
+          "index": 50,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第四，恪守上市公司边界。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-051",
+          "index": 51,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "家族持股、家族成员任主席，不改变一件事：公司的钱是全体股东的钱。关联交易要按规则披露和审议，家族成员的任职和薪酬要经得起年报公开，家里谈妥的事不能替其他股东作主。边界一模糊，市场看的就不只是一家公司，是整个家族。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-052",
+          "index": 52,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "第五，预设退市路径。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-053",
+          "index": 53,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "港股私有化通行的办法是协议安排，即由法院批准、对全体股东有约束力的方案。它的门槛是：出席投票的无利害关系股东（不包括提出私有化的一方）四分之三以上赞成，且反对票不超过全部无利害关系股份的一成。美国同类交易通行的做法是设特别委员会，并取得少数股东多数同意。电盈那次的失败说明，退市的决定权在小股东和法院手里。上市之前把这笔账算清，上市之后才不会把公司困在一个自己已经不需要的地方。",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-054",
+          "index": 54,
+          "source_index": 1,
+          "kind": "heading",
+          "level": 2,
+          "text": "写在最后",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-055",
+          "index": 55,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "1986 年那次挂牌过去四十年。2026 年 1 月，中国的安踏宣布拟以约十五亿欧元收购彪马百分之二十九的股份，交易若完成，安踏将成为彪马最大的单一股东。整场交易里，创立它的达斯勒家族，连一个名字都不在场。",
+          "related_node_ids": [
+            "company:puma",
+            "family:dassler-family"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-056",
+          "index": 56,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "---",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-057",
+          "index": 57,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "案例来源： 《低头看鞋的小镇：阿迪达斯、彪马与达斯勒家族的散场》《八个家族，一碗酱油：龟甲万的360年共治奇迹》《爱马仕家族故事：一门手艺的六代传承》《不上市的“甜蜜”帝国：揭秘玛氏家族掌控百年的隐秘之道》《一锅蚝汁熬出的百年家业：李锦记家族的传承之道》《乐高家族：从一场大火到积木帝国的四代传奇》《把宜家留给世界：坎普拉德家族的传奇故事》《一杯牛奶与一座帝国：塔塔家族的一百五十八年》《长江流向何处：李嘉诚家族的创业与传承》《周大福的金，新世界的债》《绿盾之屋与五支箭：罗斯柴尔德家族的两百年》《福特家族：一只怀表、一个姓氏与五代传承的故事》",
+          "related_node_ids": [
+            "story:kikkoman",
+            "story:rothschild",
+            "story:lego",
+            "story:ikea",
+            "story:mars",
+            "story:lee-kum-kee",
+            "story:li-ka-shing",
+            "story:tata",
+            "story:hermes",
+            "story:zhou-dafu",
+            "story:ford-family",
+            "story:dassler",
+            "person:li-ka-shing",
+            "company:kikkoman",
+            "company:puma",
+            "company:ikea",
+            "company:lee-kum-kee",
+            "company:hermes",
+            "company:adidas",
+            "company:chow-tai-fook",
+            "family:rothschild-family",
+            "family:hermes-family",
+            "family:tata-family",
+            "family:dassler-family",
+            "family:kamprad-family",
+            "family:mars-family",
+            "family:li-ka-shing-family",
+            "family:ford-family"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-058",
+          "index": 58,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "其他来源： 国美 2010 年控制权之争（中国新闻网 2010 年 9 月 21 日等公开报道；黄光裕案一审判决，北京市第二中级人民法院，2010 年 5 月 18 日）；土豆网上市延误（第一财经、经济观察网 2010 至 2011 年报道）；老干妈陶华碧访谈（贵州广播电视台《动静贵州》，界面新闻转载）；方太茅忠群访谈（冯仑风马牛，2018 年 4 月，新浪财经转载）；玛氏主席斯蒂芬·巴杰访谈（Business Insider，2018 年 6 月）；玛氏收购箭牌的融资安排（箭牌公司新闻稿，美国证监会存档，2008 年 4 月 28 日）；戴尔私有化（美国证监会 8-K 文件，2013 年 2 月 5 日）；塔塔之子与印度央行（Business Standard，2026 年 9 月）；港交所《上市规则》第 8A 章；上海证券交易所科创板股票上市规则（2019）；中国证监会《上市公司股东减持股份管理暂行办法》（2024）",
+          "related_node_ids": [
+            "person:stephen-badger",
+            "company:tata-sons"
+          ]
+        },
+        {
+          "id": "listing-is-a-tool-p-059",
+          "index": 59,
+          "source_index": 1,
+          "kind": "paragraph",
+          "level": null,
+          "text": "学术参考：",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-060",
+          "index": 60,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- 范博宏《关键世代：走出华人家族企业传承之困》，东方出版社，2012",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-061",
+          "index": 61,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Joseph P. H. Fan, Ming Jian & Yin-Hua Yeh, Succession: The Roles of Specialized Assets and Transfer Costs, SSRN Working Paper 1101405",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-062",
+          "index": 62,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- Ronald C. Anderson & David M. Reeb (2003) Founding-Family Ownership and Firm Performance: Evidence from the S&P 500, Journal of Finance 58(3)",
+          "related_node_ids": []
+        },
+        {
+          "id": "listing-is-a-tool-p-063",
+          "index": 63,
+          "source_index": 1,
+          "kind": "list",
+          "level": null,
+          "text": "- K. J. Martijn Cremers, Beni Lauterbach & Anete Pajuste (2024) The Life Cycle of Dual-Class Firm Valuation, Review of Corporate Finance Studies 13(2)",
           "related_node_ids": []
         }
       ]

@@ -1,6 +1,91 @@
 window.KNOWLEDGE_DATA = {
-  "generated_at": "2026-08-30",
+  "generated_at": "2026-09-25",
   "nodes": [
+    {
+      "id": "story:li-ka-shing",
+      "type": "story",
+      "title": "长江流向何处：李嘉诚家族的创业与传承",
+      "summary": "“叫他同 Richard 换啰。”2012 年 5 月，八十三岁的李嘉诚在记者会上用一句玩笑回答长子会不会吃亏。 长子接长实和黄，次子在集团外发展、由父亲出资，基金会是第三个儿子。这不是一张分产表， 是顺着两个儿子二十多年各自的去向说清往后的安排：一个从斯坦福回港后在集团做了三十三年， 一个十三岁独自赴美、二十六岁把卫星电视卖给默多克、三十三岁买下香港电讯。 从潮州逃难少年到长江集团中心，钱、职位和决定权是分开交出去的。父亲退下以后，新的文件送到儿子面前，由他们来签。",
+      "path": "knowledge/stories/li-ka-shing.md",
+      "frontmatter": {
+        "id": "story:li-ka-shing",
+        "type": "story",
+        "title": "长江流向何处：李嘉诚家族的创业与传承",
+        "series_no": 39,
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "regions": [
+          "香港",
+          "潮州",
+          "温哥华"
+        ],
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
+        ],
+        "core_questions": [
+          "一个接公司、一个拿资金，两份看似不对称的继承，怎样顺着两兄弟此前二十多年的去向分得清楚？",
+          "家里能谈妥的事和上市公司必须走的程序，边界在哪里，越界一次会发生什么？",
+          "父亲不再坐在主席台上以后，想合作、想退出、想改捐助方式的家人，靠什么坐下来商量？"
+        ],
+        "concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance",
+          "concept:enterprise-independence",
+          "concept:funding-boundary",
+          "concept:credit-capital"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "family_governance_signature": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+        "risk_profile": "长期共事的代价是同事分不清哪些事儿子可以定夺；家里的安排一旦越过上市公司的程序， 父亲的一笔借款就能让儿子在自家公司的表决中回避；分开的事业消除不了父子分歧， 公益上的共同参与也不等于后辈认同长辈的全部想法。",
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
     {
       "id": "story:vanderbilt",
       "type": "story",
@@ -4783,6 +4868,84 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "family:li-ka-shing-family",
+      "type": "family",
+      "title": "李嘉诚家族",
+      "summary": "1940 年十二岁的李嘉诚随家人从潮州逃难到香港，三年后父亲病逝葬于义冢，他辍学养活母亲和弟妹。 1950 年五万港元办起长江工业，塑胶花、厂房出租、中环地铁站上盖、1979 年入主和记黄埔， 一家华资公司买下老牌英资洋行最大的一份股份。两个儿子从小坐在董事会角落的小椅子上旁听， 长大后走了两条路：长子在集团里做了三十三年才接任主席，次子办卫星电视、买香港电讯、 十二年养出富卫。父亲把基金会叫作第三个儿子，家人没有份。2012 年公布分法，2018 年退休做顾问， 不再以董事身份表决；2026 年，孙女已在公司，巴拿马两港被接管，新的文件由儿子来签。",
+      "path": "knowledge/families/li-ka-shing-family.md",
+      "frontmatter": {
+        "id": "family:li-ka-shing-family",
+        "type": "family",
+        "title": "李嘉诚家族",
+        "regions": [
+          "香港",
+          "潮州",
+          "温哥华"
+        ],
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance",
+          "concept:enterprise-independence",
+          "concept:funding-boundary",
+          "concept:credit-capital"
+        ],
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_signature": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+        "risk_profile": "长期共事的代价是同事分不清哪些事儿子可以定夺；家里的安排一旦越过上市公司的程序， 父亲的一笔借款就能让儿子在自家公司的表决中回避；分开的事业消除不了父子分歧， 公益上的共同参与也不等于后辈认同长辈的全部想法。",
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "family:lee-kum-kee-family",
       "type": "family",
       "title": "李锦记李氏家族",
@@ -6948,6 +7111,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:solina-chau",
+      "type": "person",
+      "title": "周凯旋",
+      "summary": "与李嘉诚合作多年，李嘉诚基金会董事。2002 年与生意伙伴张培薇创办维港投资，寻找值得投资的年轻科技公司； 2004 年起李嘉诚通过基金会参与这些投资，把所得收益用于公益，团队参与过 Facebook 等公司的早期投资。 寻找投资、考察项目、同学校沟通，基金会的许多日常事务由家族以外的这支团队处理。",
+      "path": "knowledge/people/solina-chau.md",
+      "frontmatter": {
+        "id": "person:solina-chau",
+        "type": "person",
+        "title": "周凯旋",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:tang-wanchuan",
       "type": "person",
       "title": "唐万川",
@@ -7546,6 +7735,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:chong-yuet-ming",
+      "type": "person",
+      "title": "庄月明",
+      "summary": "李嘉诚之妻，也是他的表妹，庄静庵之女。英华女校辩论队员，暑假为贫困学生义务教课， 留学日本后 1961 年取得港大文学士，英文好过还在补课的丈夫。1963 年结婚， 深水湾道七十九号以她名义购入；她协助公司财务，长实筹备上市时与丈夫一起商量方案。 1990 年元旦病逝，不到六十岁。港大有以她命名的物理楼、化学楼和文娱中心， 2012 年李泽楷以她的名字在英华设立学生发展基金。",
+      "path": "knowledge/people/chong-yuet-ming.md",
+      "frontmatter": {
+        "id": "person:chong-yuet-ming",
+        "type": "person",
+        "title": "庄月明",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:consuelo-vanderbilt",
       "type": "person",
       "title": "康苏埃洛·范德比尔特",
@@ -8000,6 +8215,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:li-yun-jing",
+      "type": "person",
+      "title": "李云经",
+      "summary": "李嘉诚之父，教过书、当过校长。1939 年日军轰炸潮汕后失业，次年携家赴港投奔妻弟庄静庵。 香港沦陷后不愿长久依靠亲戚，把妻子和幼子女送回潮州，只留长子在身边。 患肺病无钱求医，1943 年病重时给家乡兄弟写信托付妻儿，临终仍惦记儿子的学业。 去世后葬于义冢，没有多少东西可以留给家人。儿子从他的病榻边决定学做生意。",
+      "path": "knowledge/people/li-yun-jing.md",
+      "frontmatter": {
+        "id": "person:li-yun-jing",
+        "type": "person",
+        "title": "李云经",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:lee-kun-hee",
       "type": "person",
       "title": "李健熙",
@@ -8045,6 +8286,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-constitution",
           "concept:institutionalized-trust",
           "concept:non-listing-control"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:li-ka-shing",
+      "type": "person",
+      "title": "李嘉诚",
+      "summary": "长江集团创办人（1928 年生于潮州）。1940 年随家逃难到香港，1943 年父亲病逝葬于义冢， 他辍学做钟表店学徒和塑胶厂推销员养活全家，不到二十岁升总经理。1950 年凑五万港元办长江工业， 取名长江是提醒自己大江容得下细流。塑胶花做到美国订单，厂房出租、长实上市坚持每股三港元， 1979 年不留笔记买下和记黄埔，1985 年九小时谈成港灯。把基金会当第三个儿子，2012 年公布分法， 2018 年退休做顾问，反问记者：如果什么都要顾问决定，自己为什么还要辞职。",
+      "path": "knowledge/people/li-ka-shing.md",
+      "frontmatter": {
+        "id": "person:li-ka-shing",
+        "type": "person",
+        "title": "李嘉诚",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -8123,6 +8390,32 @@ window.KNOWLEDGE_DATA = {
           "concept:separation-of-rights",
           "concept:succession-training",
           "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:michelle-li",
+      "type": "person",
+      "title": "李思德",
+      "summary": "李泽钜之女，2016 年加入长江集团，那时父亲还没有接任主席，祖父仍在公司。 后来负责业务管理和投资者关系，也是基金会董事。家族成员不必在同一家企业任职， 仍可以一起讨论学校、捐款和长期承诺，她是第三代里最早进入公司的人。 将来会不会由她接掌集团，尚无定论。",
+      "path": "knowledge/people/michelle-li.md",
+      "frontmatter": {
+        "id": "person:michelle-li",
+        "type": "person",
+        "title": "李思德",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -8279,6 +8572,58 @@ window.KNOWLEDGE_DATA = {
           "concept:separation-of-rights",
           "concept:succession-training",
           "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:richard-li",
+      "type": "person",
+      "title": "李泽楷",
+      "summary": "李嘉诚次子（1966 年生），十三岁独自赴美，多年后用像地狱形容最初的日子。斯坦福没有读完， 在多伦多投行做到合伙人，1990 年回港薪水只剩十分之一。二十三岁接手卫星电视， 二十六岁在科西嘉的游艇上把它以五亿二千五百万美元卖给默多克，同年创立盈科； 三十三岁买下香港电讯，股价随科技股退潮大跌。2006 年想卖股又不愿父亲的基金会接手， 2009 年私有化被上诉庭推翻。2013 年创立富卫，经营十二年后 2025 年上市， 父亲退休后接下支持汕头大学的工作。",
+      "path": "knowledge/people/richard-li.md",
+      "frontmatter": {
+        "id": "person:richard-li",
+        "type": "person",
+        "title": "李泽楷",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:victor-li",
+      "type": "person",
+      "title": "李泽钜",
+      "summary": "李嘉诚长子（1964 年生），斯坦福土木工程本科、结构工程硕士，1985 年回港加入长实。 1987 年赫斯基能源入股时个人持百分之九，父亲出钱、儿子投票。二十出头出任温哥华世博会旧址开发总裁， 为售楼风波当众认错，亲自开车去省长的花园谈合同；纽约百老街六十号的合伙人破产要父亲出面收拾。 1996 年被张子强绑架，家人付出十亿三千八百万港元赎金。2018 年接任长和及长实主席， 距加入集团三十三年。2026 年，巴拿马两港被政府接管，他要带着律师处理仲裁。",
+      "path": "knowledge/people/victor-li.md",
+      "frontmatter": {
+        "id": "person:victor-li",
+        "type": "person",
+        "title": "李泽钜",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -8597,6 +8942,32 @@ window.KNOWLEDGE_DATA = {
           "concept:professionalization"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:michael-sandberg",
+      "type": "person",
+      "title": "沈弼",
+      "summary": "汇丰主席。1979 年李嘉诚几次提出收购和黄他都没有答应，八月底经银行旗下企业融资公司再提才愿意往下谈。 9 月 19 日晚在中国大厦顶层套间与李嘉诚单独吃饭，第一次明确表示原则同意出售，价钱却仍交给财务顾问磋商。 他同样担心泄密，银行内部用代号称呼公司，草稿用完便销毁，提前知会了港督， 和黄自己的董事会却未被征询。银行给出的解释是要找一个愿意长期持有的股东。",
+      "path": "knowledge/people/michael-sandberg.md",
+      "frontmatter": {
+        "id": "person:michael-sandberg",
+        "type": "person",
+        "title": "沈弼",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -10424,6 +10795,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "person:canning-fok",
+      "type": "person",
+      "title": "霍建宁",
+      "summary": "和黄与长和系多年共事的职业经理人。卫星电视还没拿到牌照时，他设计了筹资办法： 请广告客户预付二百万港元买下未来两年的时段，再给他们日后认购少量股份的机会， 电视台没开播客户先付钱。李泽钜 2018 年接任主席后，他与陆法兰、黎启明等继续同新主席处理财务、 投资和各地业务，家族商定接班人，公司的日常经营不必从头安排。",
+      "path": "knowledge/people/canning-fok.md",
+      "frontmatter": {
+        "id": "person:canning-fok",
+        "type": "person",
+        "title": "霍建宁",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "person:horst-dassler",
       "type": "person",
       "title": "霍斯特·达斯勒",
@@ -10443,6 +10840,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-conflict-as-innovation",
           "concept:succession-planning-gap",
           "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "person:bill-wyllie",
+      "type": "person",
+      "title": "韦理",
+      "summary": "和记黄埔行政总裁，澳大利亚人，开过赛车，以整顿经营不善的企业闻名。1975 年汇丰注资救和记后请他来， 他砍掉空壳和亏损业务，推动和记与黄埔船坞合并，1978 年公司恢复盈利。 1979 年 9 月 25 日傍晚他才接到沈弼电话，得知汇丰把股份卖给了李嘉诚，此前谈判没有问过他。 他最不服的是银行连让他出价的机会都没有给。到 1984 年，和黄行政总裁、副手和财务主管先后离开。",
+      "path": "knowledge/people/bill-wyllie.md",
+      "frontmatter": {
+        "id": "person:bill-wyllie",
+        "type": "person",
+        "title": "韦理",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -11434,6 +11857,38 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:star-tv",
+      "type": "company",
+      "title": "卫星电视",
+      "summary": "李泽楷二十三岁接手的项目。所用的亚洲一号卫星曾入轨失败、被航天飞机回收， 1990 年 4 月由长征火箭重新送入轨道。同年 12 月拿到牌照，初期不能播粤语也不能收费， 靠霍建宁设计的广告预付办法筹钱，1991 年 8 月转播美国网球公开赛开播。观众增加了， 广告收入仍不够开支，1993 年新闻集团以五亿二千五百万美元取得百分之六十三点六权益， 1995 年买下余下股份。电视台尚未摆脱亏损，李家已经通过出售取得回报。",
+      "path": "knowledge/companies/star-tv.md",
+      "frontmatter": {
+        "id": "company:star-tv",
+        "type": "company",
+        "title": "卫星电视",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
+        ]
+      }
+    },
+    {
       "id": "company:air-india",
       "type": "company",
       "title": "印度航空",
@@ -11614,6 +12069,38 @@ window.KNOWLEDGE_DATA = {
           "story:zhou-dafu"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "company:hutchison-whampoa",
+      "type": "company",
+      "title": "和记黄埔",
+      "summary": "前身可追溯到十九世纪的英资洋行，祈德尊举债把航运、快餐、羊毛装进几百家公司，几近倒闭， 汇丰注资并请韦理整顿。1979 年汇丰以六亿三千九百万港元把两成二股份卖给长实：先付两成， 余款两年内付清，首期也是以股份抵押向汇丰借的。它有货柜码头、百佳、屈臣氏和黄埔船坞的土地， 1985 年买下港灯，1999 年出售 Orange 获利约一千一百八十亿港元。2015 年并入长和。",
+      "path": "knowledge/companies/hutchison-whampoa.md",
+      "frontmatter": {
+        "id": "company:hutchison-whampoa",
+        "type": "company",
+        "title": "和记黄埔",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
+        ]
       }
     },
     {
@@ -12292,6 +12779,38 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:li-ka-shing-foundation",
+      "type": "company",
+      "title": "李嘉诚基金会",
+      "summary": "1980 年成立。李嘉诚在饭桌上告诉家人自己还有一个孩子，说的就是它：这个儿子的财产家人没有份， 约占个人资产三分之一，两个儿子没有反对。只接受他本人的捐款，不向社会募捐，收益不分给家族或董事； 项目先由同事调查、各部门讨论，他保留最后否决权。通过维港投资参与科技投资为公益增收。 2018 年他把支持汕头大学的工作交托李泽楷和基金会同仁，2026 年对汕大投入二亿六千万元人民币。",
+      "path": "knowledge/companies/li-ka-shing-foundation.md",
+      "frontmatter": {
+        "id": "company:li-ka-shing-foundation",
+        "type": "company",
+        "title": "李嘉诚基金会",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
+        ]
+      }
+    },
+    {
       "id": "company:lee-kum-kee",
       "type": "company",
       "title": "李锦记",
@@ -12442,6 +12961,38 @@ window.KNOWLEDGE_DATA = {
           "洋务",
           "实业",
           "金融"
+        ]
+      }
+    },
+    {
+      "id": "company:shantou-university",
+      "type": "company",
+      "title": "汕头大学",
+      "summary": "1979 年李嘉诚阔别近四十年回乡提出捐资办学，筹办图纸上连校名都没有，只写着 XX 大学。 1980 年首笔三千万港元，1981 年获准成立，1983 年首届本科生入学时校舍还在修建。 1986 年礼堂落成有人提议叫嘉诚堂，他没有同意。办校头十年他常在学校忙到凌晨两三点， 儿子认为他花在大学上的时间比钱更值得重视。2012 年三方共建协议上他重申承诺不以自己的生命为止， 2023 年起约一成新生获全额学费奖励。",
+      "path": "knowledge/companies/shantou-university.md",
+      "frontmatter": {
+        "id": "company:shantou-university",
+        "type": "company",
+        "title": "汕头大学",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
         ]
       }
     },
@@ -12725,6 +13276,38 @@ window.KNOWLEDGE_DATA = {
         "curation_stage": "first_pass",
         "reviewed": false,
         "draft": false
+      }
+    },
+    {
+      "id": "company:pccw",
+      "type": "company",
+      "title": "电讯盈科",
+      "summary": "2000 年三十三岁的李泽楷用新股加现金从大东电报局手里买下香港电讯，两家银行各给四十八小时决定贷款。 科技股热潮退去后股价大跌，约一百二十亿美元短期贷款要靠出售业务和长期借款置换， 员工从一万六千减到一万二千。2006 年售股风波里父亲的一笔借款让李泽楷在自家公司回避表决， 小股东四分之三反对；2009 年私有化因把股票拆到几百名保险代理人名下被上诉庭推翻。 公司继续上市，李泽楷继续经营。",
+      "path": "knowledge/companies/pccw.md",
+      "frontmatter": {
+        "id": "company:pccw",
+        "type": "company",
+        "title": "电讯盈科",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
+        ]
       }
     },
     {
@@ -13241,6 +13824,38 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "company:cheung-kong",
+      "type": "company",
+      "title": "长江实业",
+      "summary": "1950 年的长江工业塑胶厂是起点，1958 年北角长江工业大厦让厂主成了房东，1972 年长实上市， 李嘉诚顶住包销商坚持每股三港元。此后以新股换商厦、与地主合作开发楼花，1977 年击败置地拿下 中环和金钟地铁站上盖，环球大厦八小时售完。2015 年重组：非地产业务归长江和记（长和）， 地产留在长实。2018 年李泽钜接任两家公司主席，父亲改任资深顾问。",
+      "path": "knowledge/companies/cheung-kong.md",
+      "frontmatter": {
+        "id": "company:cheung-kong",
+        "type": "company",
+        "title": "长江实业",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false,
+        "industries": [
+          "地产",
+          "港口",
+          "电讯",
+          "零售"
+        ]
+      }
+    },
+    {
       "id": "company:fukang-bank",
       "type": "company",
       "title": "阜康钱庄",
@@ -13650,6 +14265,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:long-overlap-succession",
+      "type": "tool",
+      "title": "交班前的长期共事",
+      "summary": "解决的问题：接班人有没有能力、同事认不认，不能等交棒那天才知道。 机制：儿子先在集团做实际工作，温哥华和纽约的项目既有自己的决定也有需要父亲出面的困难， 两代人有时间一起处理；2012 年持股先调，2018 年主席职务再交，父亲改任顾问后可以给意见 却不再以董事身份表决，职务上的界限才说清。前提：父亲的健康、儿子的耐心、公司有足够的岗位和项目。 代价：儿子承担工作而最终决定仍由父亲作出时，同事很难判断哪些事可以交给儿子定夺； 三十三年不是标准答案。案例：李嘉诚（第 39 期）。",
+      "path": "knowledge/tools/long-overlap-succession.md",
+      "frontmatter": {
+        "id": "tool:long-overlap-succession",
+        "type": "tool",
+        "title": "交班前的长期共事",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:low-profile-family-governance",
       "type": "tool",
       "title": "低调治理",
@@ -13909,6 +14550,32 @@ window.KNOWLEDGE_DATA = {
           "concept:separation-of-rights",
           "concept:succession-training",
           "concept:family-control-unity"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:split-accounts-allowance",
+      "type": "tool",
+      "title": "分账户的零用钱",
+      "summary": "解决的问题：富家子弟在海外求学，钱要给够，又不能让他们随手花。 机制：学费和生活费存入不同账户，学费备足不许动用；取生活费前要写信说明用途， 父亲承诺二十四小时内回复。规矩可以调整：功课重了改打电话，买车但兄弟共用， 取钱前说明用途这一条保留。局限：父亲认为有益的锻炼，孩子未必有同样的感受， 十三岁独自赴美的次子多年后仍用像地狱形容那段日子。案例：李嘉诚（第 39 期）。",
+      "path": "knowledge/tools/split-accounts-allowance.md",
+      "frontmatter": {
+        "id": "tool:split-accounts-allowance",
+        "type": "tool",
+        "title": "分账户的零用钱",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -14571,6 +15238,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "tool:family-deal-vs-corporate-procedure",
+      "type": "tool",
+      "title": "家事与公司程序分开",
+      "summary": "解决的问题：家族持股、儿子任主席，容易被当成公司的钱可以按家里的意思使用。 机制：父亲可以用自己的钱帮儿子，上市公司资产怎样处置须遵守公司程序；家族商定接班人， 正式任职仍要经过董事会和股东；把两件事分清既保护其他股东，也避免把经营上的反对理解成对家人的不信任。 实证：2006 年李嘉诚借给梁伯韬的一笔钱，让李泽楷在盈科亚洲拓展的表决中回避，能否售股由其他股东决定。 案例：李嘉诚（第 39 期）。",
+      "path": "knowledge/tools/family-deal-vs-corporate-procedure.md",
+      "frontmatter": {
+        "id": "tool:family-deal-vs-corporate-procedure",
+        "type": "tool",
+        "title": "家事与公司程序分开",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "tool:family-trust",
       "type": "tool",
       "title": "家族信托",
@@ -14979,6 +15672,32 @@ window.KNOWLEDGE_DATA = {
           "concept:institutionalized-trust"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:foundation-as-third-child",
+      "type": "tool",
+      "title": "把基金会当第三个儿子",
+      "summary": "解决的问题：创办人不在以后，公益事业怎样还有稳定的资源和有人接手。 机制：在饭桌上宣布基金会是自己的孩子，家人对它的财产没有份；拨入约个人资产三分之一， 只接受本人捐款，收益不分给家族或董事，项目由同事调查、本人保留否决权； 通过维港投资做科技投资为公益增收，退休时把对汕大的承诺交托儿子与基金会同仁。 边界：公司股份怎样传给孩子与公益财产怎样继续支持学校要分别安排；后辈参与不等于认同长辈全部想法， 要让他们有机会参与决定而不只是执行。案例：李嘉诚（第 39 期）。",
+      "path": "knowledge/tools/foundation-as-third-child.md",
+      "frontmatter": {
+        "id": "tool:foundation-as-third-child",
+        "type": "tool",
+        "title": "把基金会当第三个儿子",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -15517,6 +16236,32 @@ window.KNOWLEDGE_DATA = {
           "concept:family-conflict-as-innovation",
           "concept:succession-planning-gap",
           "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "tool:company-to-one-son-cash-to-other",
+      "type": "tool",
+      "title": "长子接公司，次子拿现金",
+      "summary": "解决的问题：两个儿子性情去向不同，硬要共掌一个集团，兄弟会在同一屋檐下争职位和决定权。 机制：顺着此前二十多年各自的经历分，已在集团承担经营责任的接公司股权，已在外有事业的拿资金继续经营， 基金会作为第三份不供分配。前提：分法要在两人都已成年、去向已定之后公布，而不是一张预先画好的对称表。 失败模式：事业分开不会自动消除分歧，2006 年电盈售股时一个要退出一个要买入，家人事先并不知道对方的意思。 案例：李嘉诚（第 39 期）。",
+      "path": "knowledge/tools/company-to-one-son-cash-to-other.md",
+      "frontmatter": {
+        "id": "tool:company-to-one-son-cash-to-other",
+        "type": "tool",
+        "title": "长子接公司，次子拿现金",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -16215,6 +16960,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:hongkong-electric-purchase-1985",
+      "type": "event",
+      "title": "买下港灯（1985）",
+      "summary": "1982 年置地以高价从长实手里抢走中环地皮，几个月后中英开始商谈香港前途，楼市急跌， 置地债务压身，开始出售资产。三年后它要卖港灯，李嘉诚早已研究过这家供电公司， 通过和黄以二十九亿港元买下，前后十七个小时，扣掉睡觉的八小时实际九小时。 新楼可以卖不动，居民和商户仍要缴电费；和黄从此有了几门不必等房子卖出去也有收入的生意。",
+      "path": "knowledge/events/hongkong-electric-purchase-1985.md",
+      "frontmatter": {
+        "id": "event:hongkong-electric-purchase-1985",
+        "type": "event",
+        "title": "买下港灯（1985）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:five-houses-expansion",
       "type": "event",
       "title": "五地分行成形",
@@ -16338,6 +17109,58 @@ window.KNOWLEDGE_DATA = {
           "concept:family-conflict-as-innovation",
           "concept:succession-planning-gap",
           "concept:founder-shadow"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:hutchison-acquisition-1979",
+      "type": "event",
+      "title": "入主和记黄埔（1979）",
+      "summary": "9 月 19 日晚沈弼在中国大厦顶层套间单独吃饭时原则同意出售，价钱两天后才谈妥： 六亿三千九百万港元买两成二股份，先付两成，余款两年内付清，连首期也是以股份抵押向汇丰借的。 李嘉诚没有告诉董事和妻子，不留谈判记录，不让秘书经手，每股涨一角就要多付九百万。 25 日下午才叫来律师夏佳理，傍晚汇丰董事会批准即签约，和黄行政总裁韦理最后才知道。 晚上十一点半伦敦收市后公布：一家从塑胶厂做起来的华资公司买下老牌英资洋行最大的一份股份。",
+      "path": "knowledge/events/hutchison-acquisition-1979.md",
+      "frontmatter": {
+        "id": "event:hutchison-acquisition-1979",
+        "type": "event",
+        "title": "入主和记黄埔（1979）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:succession-plan-announced-2012",
+      "type": "event",
+      "title": "分家方案公布（2012）",
+      "summary": "5 月 25 日股东会后，八十三岁的李嘉诚公布外界猜测多年的分法：长子接掌家族所持长实、和黄和赫斯基权益， 次子在集团外发展，父亲提供数倍于其资产的资金支持，金额不公开。记者问长子会不会吃亏， 他说叫他同 Richard 换啰。七个星期后家族信托架构中的两家公司调整股权，李泽楷退出股东名单 但仍是信托受益人之一。股权开始调整，父亲却没有退休，此后六年继续担任主席。",
+      "path": "knowledge/events/succession-plan-announced-2012.md",
+      "frontmatter": {
+        "id": "event:succession-plan-announced-2012",
+        "type": "event",
+        "title": "分家方案公布（2012）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
         ],
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -16636,6 +17459,32 @@ window.KNOWLEDGE_DATA = {
           "segment:bosch-004"
         ],
         "reviewed": false
+      }
+    },
+    {
+      "id": "event:star-tv-sale-1993",
+      "type": "event",
+      "title": "卫星电视售予默多克（1993）",
+      "summary": "7 月，二十六岁的李泽楷登上默多克停在科西嘉附近的游艇。默多克此前报过四亿二千五百万美元被拒， 转头接触无线电视不成又回来谈。父子起初只想卖一部分股份保留经营，默多克要的是控制权。 最后新闻集团以五亿二千五百万美元取得百分之六十三点六，李家交出控制权保留余股。 父亲看过协议，清晨打电话说这笔生意可以做。同年李泽楷成立盈科拓展，一批旧同事跟着过去。",
+      "path": "knowledge/events/star-tv-sale-1993.md",
+      "frontmatter": {
+        "id": "event:star-tv-sale-1993",
+        "type": "event",
+        "title": "卫星电视售予默多克（1993）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -17285,6 +18134,32 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:panama-ports-seizure-2026",
+      "type": "event",
+      "title": "巴拿马港口被接管（2026）",
+      "summary": "2 月 23 日巴拿马政府人员进入巴尔博亚港和克里斯托瓦尔港接管运营，起重机、车辆和软件都在接管范围内。 不到一年前长和拟把大部分海外港口权益售予贝莱德等财团，美国总统把中国影响力与运河联系起来， 内地舆论和监管部门也介入，交割未完成争议已接踵而来。巴拿马最高法院裁定合同违宪， 长和提出投资条约仲裁。同年集团把经营十六年的 UK Power Networks 售予 ENGIE，父亲任内买入，儿子任内卖出。",
+      "path": "knowledge/events/panama-ports-seizure-2026.md",
+      "frontmatter": {
+        "id": "event:panama-ports-seizure-2026",
+        "type": "event",
+        "title": "巴拿马港口被接管（2026）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:barings-collapse-1995",
       "type": "event",
       "title": "巴林银行倒闭",
@@ -17653,6 +18528,58 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "event:li-ka-shing-retirement-2018",
+      "type": "event",
+      "title": "李嘉诚退休（2018）",
+      "summary": "3 月 16 日业绩会上宣布退休改任资深顾问，李泽钜接任长和及长实主席。记者追问做了顾问会不会继续决定公司的事， 他反问如果什么都要顾问决定自己为什么还要辞职。5 月 10 日正式交接，父亲仍可到办公室对重大事项提意见， 却不再以董事身份表决；从加入长实算起，儿子已在集团工作三十三年。6 月他最后一次以校董会名誉主席身份 出席汕头大学毕业典礼，把教育改革的工作交托李泽楷和基金会同仁。",
+      "path": "knowledge/events/li-ka-shing-retirement-2018.md",
+      "frontmatter": {
+        "id": "event:li-ka-shing-retirement-2018",
+        "type": "event",
+        "title": "李嘉诚退休（2018）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:victor-li-kidnapping-1996",
+      "type": "event",
+      "title": "李泽钜绑架案（1996）",
+      "summary": "5 月 23 日傍晚，张子强一伙在深水湾道劫走李泽钜和司机，随后亲自到李家开口二十亿港元。 李嘉诚当场答应筹钱，说手头现金只有十亿。张子强问他为何这么冷静，他答：因为这次是我错了， 全家这样出名，自己却还清早独自开车去新界打球。赎金十亿三千八百万港元，李家没有报案。 他劝张子强拿着钱离开重新做人；后来对方又来电说钱输光了想请教投资，他拒绝出主意。",
+      "path": "knowledge/events/victor-li-kidnapping-1996.md",
+      "frontmatter": {
+        "id": "event:victor-li-kidnapping-1996",
+        "type": "event",
+        "title": "李泽钜绑架案（1996）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "event:berlin-olympics-1936",
       "type": "event",
       "title": "柏林奥运欧文斯穿达斯勒钉鞋（1936）",
@@ -17778,6 +18705,32 @@ window.KNOWLEDGE_DATA = {
           "concept:related-diversification"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:cheung-kong-ipo-1972",
+      "type": "event",
+      "title": "每股三港元上市（1972）",
+      "summary": "长实上市定价，包销商认为至少十一元，退到八元，李嘉诚仍坚持三元。他的理由是投资者更信任英资， 对华资公司抱有戒心，第一次向公众募资定得太高，往后业绩跟不上，新股东先吃亏。 最后三港元发行，大幅超额认购，当年利润高于预计。有了上市公司的股票， 他 1973 年起用新股换入中环商厦，卖方收下股份成了股东，此后十年这类以股换物业的交易一再发生。",
+      "path": "knowledge/events/cheung-kong-ipo-1972.md",
+      "frontmatter": {
+        "id": "event:cheung-kong-ipo-1972",
+        "type": "event",
+        "title": "每股三港元上市（1972）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -18202,6 +19155,32 @@ window.KNOWLEDGE_DATA = {
         ],
         "date": "1958",
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:pccw-privatisation-2009",
+      "type": "event",
+      "title": "电盈私有化被推翻（2009）",
+      "summary": "2006 年李泽楷想卖电盈股份，梁伯韬付的五亿订金用了李嘉诚的借款，交易所要求李泽楷回避表决， 他控制四分之三股份却不能投票，小股东四分之三反对，父亲的两家基金会没能买入。 2009 年私有化表决前，保险经理把五十万股拆成每份一千股送给代理人，四百九十四名受赠者投了赞成。 韦伯到合和中心查股东名册发现几百个新名字同一天登记，证监会上诉，上诉庭三名法官一致推翻。",
+      "path": "knowledge/events/pccw-privatisation-2009.md",
+      "frontmatter": {
+        "id": "event:pccw-privatisation-2009",
+        "type": "event",
+        "title": "电盈私有化被推翻（2009）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -19332,6 +20311,32 @@ window.KNOWLEDGE_DATA = {
           "concept:enterprise-before-family"
         ],
         "curation_stage": "first_pass",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "event:cheung-kong-founded-1950",
+      "type": "event",
+      "title": "长江工业创办（1950）",
+      "summary": "二十二岁的李嘉诚凑齐约五万港元，十几个工人，几台机器，做塑胶日用品。 取名长江是提醒自己大江能容细流，改掉表面客气心里自负的毛病。他睡在厂房阁楼上， 租的货仓两个月就被雨水淹了机器，供应商货款到期差一点，把随手搁进包装盒的硬币凑起来才补足。 1955 年搬进士美菲路厂房，原厂员工劝他趁年轻别把积蓄赔进去，他说订单已接机器已订，失信于客户不行。",
+      "path": "knowledge/events/cheung-kong-founded-1950.md",
+      "frontmatter": {
+        "id": "event:cheung-kong-founded-1950",
+        "type": "event",
+        "title": "长江工业创办（1950）",
+        "source_stories": [
+          "story:li-ka-shing"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "related_concepts": [
+          "concept:gradual-succession",
+          "concept:succession-training",
+          "concept:philanthropy-as-governance"
+        ],
+        "curation_stage": "story_spec_v1",
         "reviewed": false,
         "draft": false
       }
@@ -24439,6 +25444,109 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:li-ka-shing-003",
+      "type": "segment",
+      "title": "不留笔记的谈判 / 主席的椅子",
+      "summary": "这场谈判，李嘉诚没有告诉长实的董事，也没有告诉妻子庄月明。 他与汇丰已经打了近十年交道，银行熟悉他的生意，也清楚他的财务状况。但他报出的价钱，沈弼没有接受，双方还得通过财务顾问继续磋商。 消息一旦传出去，和黄的股价就可能上涨，还可能有人赶来竞买。李嘉诚算过，每股只涨一角，他就得多付九百万港元。谈了这么久的买卖，也可能就此落空。 沈弼同样担心泄密。在他看来，消息若从银行漏出去，毁掉的是客户对汇丰的信任，整笔交易都可能得中止。 保密一直延伸到谈判的纸张上。汇丰内部用代号称呼公司，草稿用完通常便销毁。李嘉诚不留下谈判记录，也不让秘书经手。沈弼提前知会了港督，和黄自己的董事会却仍未被征询意见。 9 月 19 日晚上，沈弼来到李嘉诚在中国大厦的顶层套间，两个人单独吃饭。这顿饭上，他第一次明确表示，银行原则上同意出售。 不过，李嘉诚还没能把价钱谈下来。沈弼没有在饭桌上接着议价，细节仍交给财务顾问。又过了两天，双方才谈妥。 总价六亿三千九百万港元，长实先付两成，便能取得这批股份，余款可以在两年内付清。连首期的钱，李嘉诚也是以股份作抵押，向汇丰取得个人贷款，再借给长实。卖股票的银行，还借给他钱来完成这笔收购。 那批和黄股票，在款项付清以前仍...",
+      "path": "knowledge/segments/li-ka-shing-003.md",
+      "frontmatter": {
+        "id": "segment:li-ka-shing-003",
+        "type": "segment",
+        "story": "story:li-ka-shing",
+        "title": "不留笔记的谈判 / 主席的椅子",
+        "order": 3,
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "source_heading": "不留笔记的谈判 / 主席的椅子",
+        "entities": [
+          "family:li-ka-shing-family",
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li",
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university",
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026",
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "concepts": [
+          "concept:family-constitution",
+          "concept:institutionalized-trust",
+          "concept:family-consensus",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_insight": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:delong-005",
       "type": "segment",
       "title": "两万五千账户与三赢叙事",
@@ -27224,6 +28332,109 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:li-ka-shing-001",
+      "type": "segment",
+      "title": "序章 父亲的分法 / 少年当家",
+      "summary": "“叫他同 Richard 换啰。” 2012 年 5 月 25 日下午，长实和和黄的股东周年大会散会后，李嘉诚留在长江集团中心见记者。这样的场合，他每年都来，谈楼价，谈利率，也谈集团在海外的生意。这一次，记者追问起两个儿子的将来：按他刚公布的安排，长子会不会觉得吃亏？ 八十三岁的父亲开玩笑说，让他同 Richard 换好了。Richard 是次子李泽楷的英文名。 在这场记者会上，李嘉诚先说出了外界猜测多年的分法。长子李泽钜将来接掌家族所持的长实、和黄权益，以及赫斯基能源的权益；次子李泽楷在集团以外发展，由父亲提供资金支持。给多少？他没有给出金额，只说资助会是次子当时所拥有资产的数倍，帮助他收购公司、拓展新业务。 一个将接掌父亲经营了大半辈子的公司，一个将得到资金，继续做自己的生意。记者喜欢追问哪一份更值钱，但这却不容易比较。上市公司的股价实时可查，李嘉诚准备给次子的资金却没有公开。长子接到手的也不只是一批股票，还有往后每年要交的业绩，以及许多不能由他一个人决定的事。 这一年，李家旗下的企业已遍及五十多个国家。若只看股价，仿佛一笔巨产正在等父亲点头，随即转到儿子名下。可四十七岁的李泽钜已经在集团工作二十七年，同一批执行董事共同...",
+      "path": "knowledge/segments/li-ka-shing-001.md",
+      "frontmatter": {
+        "id": "segment:li-ka-shing-001",
+        "type": "segment",
+        "story": "story:li-ka-shing",
+        "title": "序章 父亲的分法 / 少年当家",
+        "order": 1,
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "source_heading": "序章 父亲的分法 / 少年当家",
+        "entities": [
+          "family:li-ka-shing-family",
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li",
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university",
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026",
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "concepts": [
+          "concept:family-trust",
+          "concept:foundation-ownership",
+          "concept:steward-ownership",
+          "concept:non-listing-control"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_insight": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:lee-kum-kee-001",
       "type": "segment",
       "title": "序章 空着的那把椅子 / 第一章 忘掉的一锅火，熬出的百年味道",
@@ -28051,6 +29262,109 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:li-ka-shing-004",
+      "type": "segment",
+      "title": "李泽楷回港 / 温哥华的售楼风波",
+      "summary": "1990 年 1 月，李泽楷从多伦多回香港，到父亲的公司工作。李嘉诚在电话里提醒过他，离职前最后一笔薪水最好多领一些，因为回港后的薪水只相当于原来的十分之一。 他进入和黄的企业基金管理部门，接手约二十三亿港元投资。他很快与旧东家合作，尝试收购美国一家储蓄贷款机构持有的大批高收益债券：买方拟投入三亿美元资本，取得三十亿美元资产，其余由卖方提供长期融资。 这类债券收益高，借款人无法还款的风险也高，常被称为“垃圾债券”。买方只投入三亿美元，其余依靠融资，资产价值一旦下降，偿还融资的压力也会增大。当时美国正经历储蓄贷款机构危机，香港有分析师质疑，两家买方虽然出色，究竟有多了解这类债券？ 1990 年 9 月，美国监管部门否决了这项交易，收购未能完成。 父亲交给他的另一项业务是卫星电视。项目使用的卫星曾经入轨失败，后来被航天飞机回收。李嘉诚、中信、大东电报局等组成的财团买下它，重新整备，命名为“亚洲一号”，于 1990 年 4 月 7 日由中国长征火箭送入轨道。 卫星升空，电视台却还没有办起来。二十三岁的李泽楷开始负责电视业务，可以借助和黄的资金与人手，但申请牌照、寻找节目和销售广告，都是新的工作。原有的电讯部门无法直接承担这些工作，...",
+      "path": "knowledge/segments/li-ka-shing-004.md",
+      "frontmatter": {
+        "id": "segment:li-ka-shing-004",
+        "type": "segment",
+        "story": "story:li-ka-shing",
+        "title": "李泽楷回港 / 温哥华的售楼风波",
+        "order": 4,
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "source_heading": "李泽楷回港 / 温哥华的售楼风波",
+        "entities": [
+          "family:li-ka-shing-family",
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li",
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university",
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026",
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "concepts": [
+          "concept:debt-pressure",
+          "concept:capital-chain-risk",
+          "concept:funding-boundary",
+          "concept:family-conflict-as-innovation"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_insight": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:delong-003",
       "type": "segment",
       "title": "杠杆、信用与第一桶金",
@@ -28179,6 +29493,109 @@ window.KNOWLEDGE_DATA = {
           "tool:craft-standard-governance"
         ],
         "curation_stage": "first_pass"
+      }
+    },
+    {
+      "id": "segment:li-ka-shing-006",
+      "type": "segment",
+      "title": "校园里的名字 / 留给公益的那一份",
+      "summary": "李嘉诚并不总在捐赠上留下自己的名字。1991 年，他向中国残疾人福利基金会捐出一亿港元，不愿张扬，这笔捐款过了两年才公开。汕大的大礼堂没有冠名，也留下了类似的选择。 但在香港大学，他的名字引起过争论。2005 年 5 月，李嘉诚捐赠十亿港元，校方宣布将医学院改名为香港大学李嘉诚医学院，翌年生效。三十名医学院校友联署反对，认为旧名承载着学院的百年历史，改名前应充分听取校友意见。有人提议向全球校友募款，把旧名“赎回来”。 港大以李嘉诚家人命名的建筑，则出现得更早。1994 年 12 月 13 日，校方为庄月明物理楼、化学楼及文娱中心举行揭幕仪式。李嘉诚在典礼上说，妻子为自己受过的教育自豪，也一直盼着回馈母校。她从文学院毕业三十三年以后，名字留在母校几座供学生使用的建筑上。 李嘉诚讲过这样一段往事。有一次吃饭时，他告诉家人，自己还有一个孩子。 家人起先没听明白。他说的是基金会。 基金会早在 1980 年就已成立。那顿饭的前一晚，李嘉诚一直在想：如果自己不在了，这项事业怎样还有稳定的资源？想了很久，他有了一个办法：把基金会也当作自己的孩子，为它安排往后的生活。 在饭桌上，他还告诉家人，这个“儿子”的财产，家人没有份。 2006 年在...",
+      "path": "knowledge/segments/li-ka-shing-006.md",
+      "frontmatter": {
+        "id": "segment:li-ka-shing-006",
+        "type": "segment",
+        "story": "story:li-ka-shing",
+        "title": "校园里的名字 / 留给公益的那一份",
+        "order": 6,
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "source_heading": "校园里的名字 / 留给公益的那一份",
+        "entities": [
+          "family:li-ka-shing-family",
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li",
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university",
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026",
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-constitution"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_insight": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
       }
     },
     {
@@ -33127,6 +34544,212 @@ window.KNOWLEDGE_DATA = {
       }
     },
     {
+      "id": "segment:li-ka-shing-005",
+      "type": "segment",
+      "title": "生意还要继续 / 买下香港电讯",
+      "summary": "1998 年 5 月，一批地产代理来到长实售楼处门口抢客，李泽钜为此出面交涉。 金融风暴以后，香港楼市下跌，发展商都在减价争客。青衣的晓峰园刚推出，长实便以更低价格发售盈翠半岛。长实开售当天卖完一千三百个单位，新鸿基那边只卖出约八十个，于是再降价，请地产代理大规模促销。 一批代理聚到中区和记大厦门外，拦下前来买盈翠半岛的客人，向他们推销晓峰园。李泽钜给新鸿基副主席郭炳江打电话投诉，郭炳江下令让代理撤走。 父亲在欧洲经营的电讯业务，则等来了愿意出高价的买家。和黄早年在英国做过 Rabbit 通信业务，后来关停，继续发展新的流动电话网络，1994 年推出 Orange。 Orange 创办前，和黄也考虑过出售这项英国电讯投资。李嘉诚讲起早年的洽谈时，提到对方管理人员待自己的同事傲慢，他得知后很反感，把办公室锁上，独自待了十五分钟。他重新考虑这个行业有没有前途，和黄有没有足够的资金和人手做下去。想过之后，他决定继续投入。 到了 1999 年，科技、电讯股受到追捧，Orange 的身价大涨。德国曼内斯曼提出收购，和黄这一次同意出售。和黄当年分两次售出所持的 Orange 股份，合计获利约一千一百八十亿港元。曼内斯曼用现金、票据和自家...",
+      "path": "knowledge/segments/li-ka-shing-005.md",
+      "frontmatter": {
+        "id": "segment:li-ka-shing-005",
+        "type": "segment",
+        "story": "story:li-ka-shing",
+        "title": "生意还要继续 / 买下香港电讯",
+        "order": 5,
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "source_heading": "生意还要继续 / 买下香港电讯",
+        "entities": [
+          "family:li-ka-shing-family",
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li",
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university",
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026",
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_insight": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:li-ka-shing-002",
+      "type": "segment",
+      "title": "留下来买地 / 与庄月明成家",
+      "summary": "1965 年，香港发生银行挤提风潮。明德银号因资金周转困难而倒闭，其他华资银行的存户也担心自己的积蓄取不出来，纷纷赶去提款。恐慌蔓延，越来越多的银行门外排起了长队。 银行收到的存款，有一部分已经作为贷款借了出去，无法随时收回。其中借给地产商买地建楼的钱，往往要等楼售出后才能偿还。平日陆续有人提款，银行尚能应付，大批存户突然同时来取钱，手头的现金就可能不够了。 两年后的 1967 年，香港又陷入社会动荡。5 月以后，示威、警民冲突和土制炸弹袭击接连发生，局势持续数月未能平息。 报纸上出现了移民广告，一些急于离港的业主开始降价出售工厂、商铺和住宅。 李嘉诚选择留下，买入别人急于出售的土地。他认为，动荡会过去，香港作为港口和商业城市的条件仍在。不过，买下土地以后，还得有钱等到市场恢复。贷款要付利息，工厂也有日常开支，土地却未必能马上带来收入。长江早年的负债较低，这时还有余力买地。 买地的同时，塑胶厂仍在生产。1967 年，长江接到一种玩具的订单，所需的新机器只能从欧洲空运，等机器运到又怕赶不上交货。李嘉诚着手改装厂里现有的机器。二十四小时后，产量提高了一倍，再继续改进，一部机器的产量最后达到原来的四倍。 到 1973 年，长江已有...",
+      "path": "knowledge/segments/li-ka-shing-002.md",
+      "frontmatter": {
+        "id": "segment:li-ka-shing-002",
+        "type": "segment",
+        "story": "story:li-ka-shing",
+        "title": "留下来买地 / 与庄月明成家",
+        "order": 2,
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "source_heading": "留下来买地 / 与庄月明成家",
+        "entities": [
+          "family:li-ka-shing-family",
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li",
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university",
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026",
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "concepts": [
+          "concept:non-listing-control",
+          "concept:private-ownership-freedom",
+          "concept:professionalization",
+          "concept:separation-of-rights"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_insight": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
       "id": "segment:sheng-xuanhuai-005",
       "type": "segment",
       "title": "盛宣怀在世时，是盛家绝对的权威核心",
@@ -33441,6 +35064,109 @@ window.KNOWLEDGE_DATA = {
           "tool:si-li-ji-ren-motto"
         ],
         "governance_insight": "这个片段服务于“两次分家买断教会李文达一件事：钱能了断恩怨，了断不了下一次。李锦记把血亲之间最容易翻脸的事 提前写成规矩：家族宪法、季度”这条主线，可与本篇核心治理概念交叉阅读。",
+        "confidence": 0.62,
+        "curation_stage": "story_spec_v1",
+        "reviewed": false,
+        "draft": false
+      }
+    },
+    {
+      "id": "segment:li-ka-shing-007",
+      "type": "segment",
+      "title": "第十章 家业与家事之间 / 关系：一家人怎样商量",
+      "summary": "李嘉诚没有让两个儿子共同接掌同一个集团。长子留在公司，经过多年历练接任主席，次子在外经营，父亲继续给予支持。兄弟的事业分开了，公益事务仍有共同参与的地方。这份安排照顾了两个人的差异，也留下了一个问题：父亲能够替他们协调的事情，往后由谁来商量、怎样作决定？ 治理：家里的安排，公司的规矩 李家的治理，需要分清家人之间的安排与公司里的权力。父亲可以决定怎样支持儿子，却不能因为一家人谈妥了，就替上市公司的其他股东作决定。家族持有股份、儿子担任主席，也不意味着公司里的钱都可以按家里的意思使用。 2006 年的电盈售股风波，已经把这种区别摆到了父子面前。李泽楷控制盈科亚洲拓展，却不能独自决定卖出这家公司持有的电盈股份。李嘉诚曾借钱给梁伯韬，后来两家基金会又成为拟议买家，由于梁伯韬付订金时用了父亲提供的借款，交易所要求李泽楷回避表决。能否出售，由其他股东决定，结果交易被否决。 李嘉诚能用自己的钱帮助儿子，上市公司的资产怎样处置，则须遵守公司的程序。把这两件事分清，既是保护其他股东，也能避免把经营上的反对都理解成对家人的不信任。 基金会又有不同的用途。李嘉诚把它称为“第三个儿子”，明确说这份财产不供家人分配。儿孙可以参与管理，款项却要继续用...",
+      "path": "knowledge/segments/li-ka-shing-007.md",
+      "frontmatter": {
+        "id": "segment:li-ka-shing-007",
+        "type": "segment",
+        "story": "story:li-ka-shing",
+        "title": "第十章 家业与家事之间 / 关系：一家人怎样商量",
+        "order": 7,
+        "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+        "source_heading": "第十章 家业与家事之间 / 关系：一家人怎样商量",
+        "entities": [
+          "family:li-ka-shing-family",
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li",
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university",
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026",
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "families": [
+          "family:li-ka-shing-family"
+        ],
+        "concepts": [
+          "concept:succession-training",
+          "concept:gradual-succession",
+          "concept:third-generation-risk",
+          "concept:family-trust"
+        ],
+        "key_people": [
+          "person:li-ka-shing",
+          "person:li-yun-jing",
+          "person:chong-yuet-ming",
+          "person:victor-li",
+          "person:richard-li",
+          "person:canning-fok",
+          "person:michael-sandberg",
+          "person:bill-wyllie",
+          "person:solina-chau",
+          "person:michelle-li"
+        ],
+        "key_companies": [
+          "company:cheung-kong",
+          "company:hutchison-whampoa",
+          "company:star-tv",
+          "company:pccw",
+          "company:li-ka-shing-foundation",
+          "company:shantou-university"
+        ],
+        "key_events": [
+          "event:cheung-kong-founded-1950",
+          "event:cheung-kong-ipo-1972",
+          "event:hutchison-acquisition-1979",
+          "event:hongkong-electric-purchase-1985",
+          "event:star-tv-sale-1993",
+          "event:victor-li-kidnapping-1996",
+          "event:pccw-privatisation-2009",
+          "event:succession-plan-announced-2012",
+          "event:li-ka-shing-retirement-2018",
+          "event:panama-ports-seizure-2026"
+        ],
+        "tools": [
+          "tool:company-to-one-son-cash-to-other",
+          "tool:foundation-as-third-child",
+          "tool:split-accounts-allowance",
+          "tool:long-overlap-succession",
+          "tool:family-deal-vs-corporate-procedure"
+        ],
+        "governance_insight": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
         "confidence": 0.62,
         "curation_stage": "story_spec_v1",
         "reviewed": false,
@@ -77971,6 +79697,2095 @@ window.KNOWLEDGE_DATA = {
       "reviewed": false,
       "curation_stage": "story_spec_v1",
       "source_story": "story:vanderbilt"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "concept:foundation-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "concept:steward-ownership",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "concept:non-listing-control",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-001",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "concept:non-listing-control",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "concept:private-ownership-freedom",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "concept:professionalization",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "concept:separation-of-rights",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-002",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "concept:institutionalized-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "concept:family-consensus",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-003",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "concept:debt-pressure",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "concept:capital-chain-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "concept:funding-boundary",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "concept:family-conflict-as-innovation",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-004",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-005",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "concept:family-constitution",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-006",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "concept:third-generation-risk",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "concept:family-trust",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "segment:li-ka-shing-007",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "mentions",
+      "label": "片段提及",
+      "evidence": "这个片段服务于“李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当”这条主线，可与本篇核心治理概念交叉阅读。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.68,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "family:li-ka-shing-family",
+      "type": "mentions",
+      "label": "讲述家族",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "concept:philanthropy-as-governance",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "concept:enterprise-independence",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "concept:funding-boundary",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "concept:credit-capital",
+      "type": "illustrates",
+      "label": "体现",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.78,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:li-ka-shing",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:li-yun-jing",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:li-yun-jing",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:chong-yuet-ming",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:chong-yuet-ming",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:victor-li",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:victor-li",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:richard-li",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:richard-li",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:canning-fok",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:canning-fok",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:michael-sandberg",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:michael-sandberg",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:bill-wyllie",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:bill-wyllie",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:solina-chau",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:solina-chau",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "person:michelle-li",
+      "type": "mentions",
+      "label": "关键人物",
+      "evidence": "该人物参与或代表本篇家族治理主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:michelle-li",
+      "target": "family:li-ka-shing-family",
+      "type": "belongs_to",
+      "label": "属于家族",
+      "evidence": "人物节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "company:cheung-kong",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:cheung-kong",
+      "target": "family:li-ka-shing-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "company:hutchison-whampoa",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:hutchison-whampoa",
+      "target": "family:li-ka-shing-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "company:star-tv",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:star-tv",
+      "target": "family:li-ka-shing-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "company:pccw",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:pccw",
+      "target": "family:li-ka-shing-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "company:li-ka-shing-foundation",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:li-ka-shing-foundation",
+      "target": "family:li-ka-shing-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "company:shantou-university",
+      "type": "mentions",
+      "label": "关键机构",
+      "evidence": "该机构承载本篇家族治理或资产主线。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:shantou-university",
+      "target": "family:li-ka-shing-family",
+      "type": "associated_with",
+      "label": "关联家族",
+      "evidence": "机构节点与本篇家族案例相关。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:cheung-kong-founded-1950",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:cheung-kong-ipo-1972",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:hutchison-acquisition-1979",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:hongkong-electric-purchase-1985",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:star-tv-sale-1993",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:victor-li-kidnapping-1996",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:pccw-privatisation-2009",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:succession-plan-announced-2012",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:li-ka-shing-retirement-2018",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "event:panama-ports-seizure-2026",
+      "type": "mentions",
+      "label": "关键事件",
+      "evidence": "该事件可作为理解本篇治理变化的时间锚点。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.72,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "tool:company-to-one-son-cash-to-other",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "tool:foundation-as-third-child",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "tool:split-accounts-allowance",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "tool:long-overlap-succession",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "story:li-ka-shing",
+      "target": "tool:family-deal-vs-corporate-procedure",
+      "type": "uses",
+      "label": "治理工具",
+      "evidence": "该制度工具解释本篇案例中的治理安排。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.74,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:li-yun-jing",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:li-yun-jing",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:chong-yuet-ming",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:chong-yuet-ming",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:victor-li",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:victor-li",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:richard-li",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:richard-li",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:canning-fok",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:canning-fok",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:michael-sandberg",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:michael-sandberg",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:bill-wyllie",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:bill-wyllie",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:solina-chau",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:solina-chau",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:michelle-li",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:michelle-li",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:cheung-kong",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:cheung-kong",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:hutchison-whampoa",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:hutchison-whampoa",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:star-tv",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:star-tv",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:pccw",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:pccw",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:li-ka-shing-foundation",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:li-ka-shing-foundation",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:shantou-university",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "company:shantou-university",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:cheung-kong-founded-1950",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:cheung-kong-founded-1950",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:cheung-kong-ipo-1972",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:cheung-kong-ipo-1972",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:hutchison-acquisition-1979",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:hutchison-acquisition-1979",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:hongkong-electric-purchase-1985",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:hongkong-electric-purchase-1985",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:star-tv-sale-1993",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:star-tv-sale-1993",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:victor-li-kidnapping-1996",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:victor-li-kidnapping-1996",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:pccw-privatisation-2009",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:pccw-privatisation-2009",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:succession-plan-announced-2012",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:succession-plan-announced-2012",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:li-ka-shing-retirement-2018",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:li-ka-shing-retirement-2018",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:panama-ports-seizure-2026",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "event:panama-ports-seizure-2026",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:company-to-one-son-cash-to-other",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:company-to-one-son-cash-to-other",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:foundation-as-third-child",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:foundation-as-third-child",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:split-accounts-allowance",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:split-accounts-allowance",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:long-overlap-succession",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:long-overlap-succession",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:family-deal-vs-corporate-procedure",
+      "target": "concept:gradual-succession",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "tool:family-deal-vs-corporate-procedure",
+      "target": "concept:succession-training",
+      "type": "illustrates",
+      "label": "关联概念",
+      "evidence": "李嘉诚没有让两个儿子共同接掌一个集团：长子在公司里共事三十三年后接任主席，次子在集团外经营， 由父亲出资支持；基金会被当作第三个儿子，财产不供家人分配。持股、职位和日常工作分开交接， 父亲退休后只给意见不再表决。这份安排照顾了两个人的差异，也留下一个问题： 父亲不再居中协调时，一家人怎样商量、怎样作决定。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.7,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1"
+    },
+    {
+      "source": "person:li-yun-jing",
+      "target": "person:li-ka-shing",
+      "type": "parent_child",
+      "label": "少年当家",
+      "evidence": "父亲肺病无钱求医，1943 年病重写信托付妻儿，儿子辍学照料并决定学做生意养家，父亲身后葬于义冢。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "person:chong-yuet-ming",
+      "type": "spouse",
+      "label": "表妹与合伙人",
+      "evidence": "1963 年结婚，深水湾道住宅以她名义购入，她协助财务并参与长实上市方案，1990 年元旦病逝。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "person:victor-li",
+      "type": "successor",
+      "label": "三十三年共事",
+      "evidence": "长子 1985 年加入长实，2012 年持股调整，2018 年接任主席，父亲改任顾问不再以董事身份表决。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.92,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "person:richard-li",
+      "type": "parent_child",
+      "label": "集团外发展",
+      "evidence": "2012 年公布次子在集团外发展、由父亲提供数倍于其资产的资金支持；2006 年电盈售股父子期待不同。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.9,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:victor-li",
+      "target": "person:richard-li",
+      "type": "sibling",
+      "label": "两条路",
+      "evidence": "兄弟从小坐在董事会角落旁听，留学共用一辆车，长大后一个留在集团，一个另立门户，公益事务仍共同参与。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.88,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "person:canning-fok",
+      "type": "professional_delegate",
+      "label": "多年共事的经理人",
+      "evidence": "他设计了卫星电视的广告预付筹资办法，李泽钜接任后继续与他处理财务、投资和各地业务。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "person:michael-sandberg",
+      "type": "partner",
+      "label": "汇丰的十年往来",
+      "evidence": "1970 年浦伟士到北角厂房拜访起与汇丰往来，1979 年沈弼在单独晚饭上原则同意把和黄股份卖给他。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.85,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:bill-wyllie",
+      "target": "person:li-ka-shing",
+      "type": "conflict",
+      "label": "主席的椅子",
+      "evidence": "韦理最后才知道股份卖给了李嘉诚，不服连出价机会都没有；到 1984 年和黄行政总裁、副手和财务主管先后离开。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.82,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:li-ka-shing",
+      "target": "person:solina-chau",
+      "type": "partner",
+      "label": "基金会的投资搭档",
+      "evidence": "她 2002 年创办维港投资，2004 年起基金会参与其科技投资，所得收益用于公益，她也是基金会董事。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.84,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
+    },
+    {
+      "source": "person:victor-li",
+      "target": "person:michelle-li",
+      "type": "parent_child",
+      "label": "第三代入局",
+      "evidence": "女儿 2016 年加入长江集团，负责业务管理与投资者关系，也是基金会董事，是否接掌尚无定论。",
+      "source_file": "文章/长江流向何处：李嘉诚家族的创业与传承（执允“家族·故事”系列第 39 期）.md",
+      "confidence": 0.86,
+      "reviewed": false,
+      "curation_stage": "story_spec_v1",
+      "source_story": "story:li-ka-shing"
     }
   ]
 };
